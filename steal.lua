@@ -1,13 +1,25 @@
--- Emerald Hub (Mobile + ESP + Steal + Ragdoll fix) – por sunav7
 local Players = game:GetService("Players")
-local UIS     = game:GetService("UserInputService")
+local UIS = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
-local player  = Players.LocalPlayer
 
--------------------------------------------------- GUI -------
+local player = Players.LocalPlayer or Players.PlayerAdded:Wait()
+local PlayerGui = player:WaitForChild("PlayerGui")
+
+-- Espera o personagem e HumanoidRootPart carregarem
+local function waitForCharacter()
+    local char = player.Character or player.CharacterAdded:Wait()
+    local hrp = char:WaitForChild("HumanoidRootPart")
+    return char, hrp
+end
+
+wait(1) -- espera extra para estabilidade
+
+--------------------------------------------------
+-- GUI --
+--------------------------------------------------
 local main = Instance.new("ScreenGui")
 main.Name = "main"
-main.Parent = player:WaitForChild("PlayerGui")
+main.Parent = PlayerGui
 main.ResetOnSpawn = false
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -16,24 +28,26 @@ Fundo.Name = "Fundo"
 Fundo.Parent = main
 Fundo.ZIndex = 1
 Fundo.BackgroundColor3 = Color3.fromRGB(52,52,52)
-Fundo.BorderSizePixel  = 0
-Fundo.Position         = UDim2.fromScale(.2937,.3035)
-Fundo.Size             = UDim2.new(0,370,0,205)
+Fundo.BorderSizePixel = 0
+Fundo.Position = UDim2.fromScale(.2937,.3035)
+Fundo.Size = UDim2.new(0,370,0,205)
 Instance.new("UICorner",Fundo).CornerRadius = UDim.new(0,16)
 
 local Shadow = Instance.new("Frame")
 Shadow.Name = "Shadow"
 Shadow.Parent = Fundo
 Shadow.AnchorPoint = Vector2.new(.5,.5)
-Shadow.Position    = UDim2.fromScale(.5,.5)
-Shadow.Size        = UDim2.new(1,8,1,8)
-Shadow.BackgroundColor3      = Color3.new()
+Shadow.Position = UDim2.fromScale(.5,.5)
+Shadow.Size = UDim2.new(1,8,1,8)
+Shadow.BackgroundColor3 = Color3.new()
 Shadow.BackgroundTransparency = .7
-Shadow.BorderSizePixel        = 0
-Shadow.ZIndex                = 0
+Shadow.BorderSizePixel = 0
+Shadow.ZIndex = 0
 Instance.new("UICorner",Shadow).CornerRadius = UDim.new(0,16)
 
--------------------------------------------------- Drag ------
+--------------------------------------------------
+-- Drag --
+--------------------------------------------------
 local bar = Instance.new("Frame")
 bar.Name = "bar"
 bar.Parent = Fundo
@@ -67,7 +81,9 @@ UIS.InputChanged:Connect(function(input)
     end
 end)
 
--------------------------------------------------- Título ----
+--------------------------------------------------
+-- Título --
+--------------------------------------------------
 local TitleFrame = Instance.new("Frame",bar)
 TitleFrame.BackgroundTransparency = 1
 TitleFrame.Size = UDim2.new(1,0,0,28)
@@ -95,7 +111,9 @@ txt.TextScaled = true
 txt.TextWrapped = true
 txt.ZIndex = 4
 
--------------------------------------------------- Minimizar -
+--------------------------------------------------
+-- Minimizar --
+--------------------------------------------------
 local function imgBtn(parent,name,pos,id,z)
     local b = Instance.new("ImageButton",parent)
     b.Name = name
@@ -111,10 +129,18 @@ local OpenBtn = imgBtn(main,"OpenBtn", UDim2.new(0,16,1,-52),117483443949036,10)
 OpenBtn.Size = UDim2.fromOffset(36,36)
 OpenBtn.Visible = false
 
-MinBtn.MouseButton1Click:Connect(function() Fundo.Visible,OpenBtn.Visible=false,true end)
-OpenBtn.MouseButton1Click:Connect(function() Fundo.Visible,OpenBtn.Visible=true,false end)
+MinBtn.MouseButton1Click:Connect(function()
+    Fundo.Visible = false
+    OpenBtn.Visible = true
+end)
+OpenBtn.MouseButton1Click:Connect(function()
+    Fundo.Visible = true
+    OpenBtn.Visible = false
+end)
 
--------------------------------------------------- Função Btn -
+--------------------------------------------------
+-- Função Btn --
+--------------------------------------------------
 local function mkBtn(text, yPos)
     local b = Instance.new("TextButton")
     b.Size = UDim2.new(0,230,0,39)
@@ -134,7 +160,9 @@ local function mkBtn(text, yPos)
     return b
 end
 
--------------------------------------------------- STEAL GUI --
+--------------------------------------------------
+-- STEAL GUI --
+--------------------------------------------------
 local stealBtn = mkBtn("STEAL", .61)
 stealBtn.Parent = bar
 local savedCFrame = nil
@@ -142,7 +170,7 @@ local savedCFrame = nil
 stealBtn.MouseButton1Click:Connect(function()
     local hubGui = Instance.new("ScreenGui")
     hubGui.Name = "StealGui"
-    hubGui.Parent = player:WaitForChild("PlayerGui")
+    hubGui.Parent = PlayerGui
     hubGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
     local frame = Fundo:Clone()
@@ -156,17 +184,16 @@ stealBtn.MouseButton1Click:Connect(function()
     tpBtn.Parent = frame
 
     setBtn.MouseButton1Click:Connect(function()
-        local char = player.Character
-        if char and char:FindFirstChild("HumanoidRootPart") then
-            savedCFrame = char.HumanoidRootPart.CFrame
+        local char, hrp = waitForCharacter()
+        if hrp then
+            savedCFrame = hrp.CFrame
             setBtn.Text = "PLOT SALVO"
         end
     end)
 
     tpBtn.MouseButton1Click:Connect(function()
-        local char = player.Character
-        if char and char:FindFirstChild("HumanoidRootPart") and savedCFrame then
-            local hrp = char.HumanoidRootPart
+        local char, hrp = waitForCharacter()
+        if hrp and savedCFrame then
             local tween1 = TweenService:Create(hrp, TweenInfo.new(1), {CFrame = hrp.CFrame + Vector3.new(0, 200, 0)})
             local tween2 = TweenService:Create(hrp, TweenInfo.new(1), {CFrame = savedCFrame})
             tween1:Play()
@@ -176,7 +203,9 @@ stealBtn.MouseButton1Click:Connect(function()
     end)
 end)
 
--------------------------------------------------- Créditos ---
+--------------------------------------------------
+-- Créditos --
+--------------------------------------------------
 local cred=Instance.new("TextLabel",bar)
 cred.BackgroundTransparency=1
 cred.Position=UDim2.new(.42,0,.8976,0)
