@@ -1,22 +1,64 @@
 -- Emerald Hub GUI - Otimizado para Executores
 -- By: sunav7
 
--- Serviços
-local Players = game:GetService("Players")
-local UserInputService = game:GetService("UserInputService")
-local RunService = game:GetService("RunService")
+-- Proteção e verificações de segurança
+local success, Players = pcall(function()
+    return game:GetService("Players")
+end)
+
+if not success or not Players then
+    warn("Erro ao obter Players service")
+    return
+end
+
+local success2, UserInputService = pcall(function()
+    return game:GetService("UserInputService")
+end)
+
+if not success2 or not UserInputService then
+    warn("Erro ao obter UserInputService")
+    return
+end
+
+local success3, RunService = pcall(function()
+    return game:GetService("RunService")
+end)
+
+if not success3 or not RunService then
+    warn("Erro ao obter RunService")
+    return
+end
+
+-- Aguardar o player carregar
+local player = Players.LocalPlayer
+if not player then
+    player = Players:GetPropertyChangedSignal("LocalPlayer"):Wait()
+    player = Players.LocalPlayer
+end
+
+if not player then
+    warn("Erro: LocalPlayer não encontrado")
+    return
+end
 
 -- Variáveis
-local player = Players.LocalPlayer
 local espEnabled = false
 local espPlayers = {}
 
--- ScreenGui
-local main = Instance.new("ScreenGui")
-main.Name = "EmeraldHub"
-main.Parent = player:WaitForChild("PlayerGui")
-main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-main.ResetOnSpawn = false
+-- ScreenGui com proteção
+local success4, main = pcall(function()
+    local gui = Instance.new("ScreenGui")
+    gui.Name = "EmeraldHub"
+    gui.Parent = player:WaitForChild("PlayerGui", 10)
+    gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    gui.ResetOnSpawn = false
+    return gui
+end)
+
+if not success4 or not main then
+    warn("Erro ao criar ScreenGui")
+    return
+end
 
 -- Fundo principal
 local Fundo = Instance.new("Frame")
@@ -71,7 +113,7 @@ local dragStart = nil
 local startPos = nil
 
 local function updateDrag(input)
-    if dragging and dragStart and startPos then
+    if dragging and dragStart and startPos and Fundo then
         local delta = input.Position - dragStart
         Fundo.Position = UDim2.new(
             startPos.X.Scale,
@@ -162,18 +204,18 @@ OpenBtn.AutoButtonColor = true
 
 -- Funções de minimizar/maximizar
 MinBtn.MouseButton1Click:Connect(function()
-    Fundo.Visible = false
-    OpenBtn.Visible = true
+    if Fundo then Fundo.Visible = false end
+    if OpenBtn then OpenBtn.Visible = true end
 end)
 
 OpenBtn.MouseButton1Click:Connect(function()
-    Fundo.Visible = true
-    OpenBtn.Visible = false
+    if Fundo then Fundo.Visible = true end
+    if OpenBtn then OpenBtn.Visible = false end
 end)
 
 -- ESP Player com Highlight e Chams
 local function createESP(plr)
-    if espPlayers[plr] then return end
+    if not plr or espPlayers[plr] then return end
     
     local highlight = Instance.new("Highlight")
     highlight.Name = "PlayerESP"
