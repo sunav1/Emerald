@@ -1,1 +1,6830 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _DdggWkZBrTPf = a; end)); wgJYSgwcjvzDDCxF=_ENV;jeofTgIsrsTLJdM='_046>IrAfu,2=tc%r,tr=0,=uAf2rtIf>64=c=%=c=tf2:,fffAIA0r6>A640t}r=9=t=024fcfrAIr2>26r40H,=ft0=2uIu4f,AuIA6=4u4I4>%2crt02,Auf2AuI2IA6A4004c,ch,82rucfAAur6>r6,420f.tcctu=>,trur4>,4A>I4%0,QJc,tttI26ucfuA464>44%0%Ou=6t62A,%u6A=rrrI>c6u4>K%%,cI04%2,rufA=rAI462%6{8%=t=t>,c,,,=fGr2Ir6%%f/4c%c4=u2%,AufA=It6f>00206a6c2=A=6,0uIAIArIcIu6>0%1,%6,2=,2>u,IfArrM>26002t2%4t,=f2r,Iu,A2rrI06,XIp0%%cr,u,uuIf6AIr=II>F420r 0f=>gQ4,t,>f6rcIu>4&400%hc0=,u42ou,fIr2II>f6%0cOu%>tt,f,>,4fuIAIt6A600=%=crc6tI2u,>f%Af64>u600%-t2ucAtA2t,fu6A=>06%6r0u0I/2c2tr=0,,AIA0r%Ir4U02S>%,tc=f=A2nu2frA0I=>ArcItb,%6tc=u2>u%,,c=,&>2>640?=%Ac.,c,6urf=>uIt>2LA0A-6%0t>t0=r,Au4Atrr6?424IG6ccc4,r2%ucurfAr=IA>442%At0c0tKfK,%,,fIA;I2>>%t0Io6c(===>usu0ftr66u6t6AB%S0%rcA==2A,4f2>2I,6u4,06.%%%cItB22,>rPA>rr>u6%u2c,0 t20Ifcf>t>f4Ir=u%r>004=t2%0A=62Iuuf>r%If0=4606t4c%t>=A2,utffA6I=444cOcY4=0tc=62r,=f=AAr4>2;>4rt4,6c0=c24uZuV6=rrIA6=4A04A^I=>I4A0A%2A%A,II> 420>%6cf,I=If{fcfr>=6,4IT>LAtIt42>=r2,u=fAA4I24A?rc234%#tA2u20,KuAArr0>=6I%0B>cAt%2u,%u46u>=r>6=6t=^ffuffu%IAru>t4Acr%I>6%4,06%,tr=u2t,uuuI4>4,c4%Itt>=24ct==I28u2frA0I=u0A40tv=%6tc=u0r0f%ct,rUI,6r40-=%I2==6,6,rAtAI>{6c600c0Fcctc=42c,Au4AtrfI6AcAuI>%%%6tI=8,2u>I%I2Iu>Rs,h2:Atttu=t,%u,fIrc6I6%4c.%TIcItr=-2IucfuA>I%>,6I>f>2%rcu==2A,4f2I4>c6=4A0A#Ac2cIt=22,ru0A,>0>f4f42w4%,2>=4,tuuf6f;A0Ir>04=0It4cu=62,utuuf%r%I,>I4cct%%ct=%=2,2uIfrIcI>>26>0%S,%Ic-=2ctc0f=frr4>t6f40c2%4c6=2,Au>rtrrIc>c}f4(wfc2cft,2c,uu>At>c4f6f0udI?6cctA=4,tuff6rcAtf>600,-I%(t2=r202e=AA>It>f660c1u%>2%+u2A,.f2Arr0>=6A>4>t%,c6=c2u,>f%A,rIuh626>00%=cAts,rArf0r%I,6I6>Gcc0%==u2<20,=u=f4rtIf2Af%A2AJI>t2=I24u2frA0I=>A64>u>f%6Fr=u2>u%ffI6I46c66=2%=c,tf2=r4,>AuArjc>u6r0cZcc,t6=%,2uI6=AcI2I069t6c2%fc6=tutu,f642>=0>>>u6AcruI>6%4,uItufIA2I2>r600,c>c0t62A,{u=A>rWII6u6A4Lb2%rc0==6AT6=tAfr2>c6u4>&tt,tf=t,cu4fAr2rAr66t4f06%==ft0,c,rrfAfrIII6%5uRr%cct=22Futuuf%r%I,>I4cc,c6=2fr,0ffrfr2>46,>u620%D,%Itc,I,0utA2r%rS>%6c,>,66=r%62ftc>u7frrrI06=4I%s%Vcr=u,tAuu/r,r0>>>.6r0r:0c=tIuI,>f6A>It4%4%029u%2%Mc =r20u=fII042624,0c0r%>t%=,26rtf>A4Iu6266%c%fcrtr=t2r,>u6A,rII96u04%=%fcut42t,fu6Ac>u=6A%4,0tY7c2tr2%AuuXA,rI>A6x4=02 >c%t,=I2Vu2fc20I=r>640tnf%0t,2I2rf,fAA4>%>u4uL%ta2zu2ffA6r>>=6240}t%fc4t62u,uf2AurAu4f=rfI66c4A%ft4c4=6,%,tr4AxIc>4>44J00%%ccc:=>,%u,c2t%=t,2u4A%r%%4c,=f26ucfAIU>c>A4>0cc>cc2c=r,4,6fIAfrc>c6u4>attft>t42uA6f,A4r?>c%,4f02%ccut>2tfAffr=r0>u6u0t0A&,cttf=6,=A6A,I,It6>4=0f<f%0t==A24utffA6Ic>26>0%/,%IcQ=2%>r0fcAAr4>t6f46Lc4u4>=%==,IuQA2r>4f6I4ri%c=2>t42=,AftAA4I446r0c{6%rcttf=42fuff6rcIA0A4A0>:>cc,A2I,4fAA%A4r0>f660cFAc==c=22I,If2Arr0>,!A02 I%rc6t=2u,>f%Af6I>6600=t%c%c6=0,,,rfrAAr0Ir6%4,0IFPc2trt0c=uAf%rtIf>64=%ftA=I=t=4,cA0A0A>II>r6U0t06%6tc=u24AXAuA66,>0404>%2%6t%=t=4,6fcAur44u610E06c,c4,422u,u4f4rfI66c4A%4ccc=t6=b20urf0r=II044=0*%0cAtu=t,%u,fIrcIu6%4c0,56cItI2u2IucfuA>I%>,6I6f>2%rcr==2A,4f2ru>c>I4f4>0A%,cItY2ufrferurI>26uc>060Ccut>2%,fAIr%rAI>6>0u#4%f2f=c2ru%u0A2IcI4>66402ar%0t==A24cA>fA6rt>u6>0%Iu>t4r4ca0%fc6=2t22uf0u=I4r2>==%=r,Iu?A2r>0=6>0>M>%rc>,t2Au=f=Atr,r0>N420r%%=4=4=I,ruAf0>AII640c0rNIv,t2=r20u,Icr2Ir>X0jst%rtt2==f20u6f6rAIc0c4,0+%2cAt2uu2A,4f2A,rfIo624rf>A0>ut>2t,fu6AcruI>4%ru0IC%c2tr=0,,r>A>IfI>4c020A%6c2,I26ucf,A>A0r4>A640t.rctt,2=,=utf,A,rZ>26r0%cuc,cr2=2f,tfcAur>>t0A0cO=%u2%=t,,urfcAtr=I66c4uAArA>2>A=E2Aurf0r=II0f4r3Iccc>262,u,utA>r=It>r600=9A%4tt2fA4ucu,A>I%>,66c=%rc6tr2t26u2f=ADI002640,Kf%r,4tB=A,ru0A=rI446u06&,ct=r=r,,uffcf0r2Ic>04=0AQCttt>2=,IAIII62I,>u6K02KrrIII6A0Au%44e=%Ac4=t2f,66>cWtN2r,0f=AIIu6f42020v%uc>=%2,,Iu/20,rI0II4A04%tcr=%,,,2A%A=rA>>6c0ci>=I,IuYAtrAIu>j4=02wAcct,=f24t2tW20u=fAAo4f>>4rhu%%=*tf=E,6u>f=Arr0Icfc44xt%f>t=c2u,>uIu4rIIn624,00%tcAt62t,=>cAcruI>>64,0rhVc%u0=0,=uA24rtIu>64c>%U>c%t,=I2xu2frA0Yr>A660tNf%6tc=u2>,=f,AIrm>26r44F=0A>2=t2f,6fcAut6>%>=2t0R%=cr4r2=,Au4f%r=I6>54uAc%%c,tI=r=,urf>r=r6>44c0f8>cctum6,%u,fIA0I2>r600=6=%4t%=f2Iucf,A>A0>%6I44G2AOc0==2A2>,,Afrr>cIf4>b%%,7Ic022,uu0A%rA=o6t6,4A%cctt>%u,,uIfpf2rI>06k0Ahrct4f=6=P26f>A>I,r>6.02;r00>I=A2AutftA6t4>u>rf01,%2ckc,2r,0f=uAA>>t6c460>%uM2=%2,26uLf4rrI06=4A04q%%>t6=r,ucuA%r,III46g0r^,c=44=4,tufuIA=Iu>c4%fulI%pt2=,=Iu=f%A4Ac>f6>0cku04t%tr2I,If2Arr0>=tr440,%fcc=c2u,>f%f0rII=624f00%ccAt42c,fu,AcA>I>>24,0Ivuc2tt=02fuAftrtI=2I4c40J>B,t,=r2pu24,A0r>>A6,0tjf%6c>cf2>,Af,Acr8>=6r4AW=%A40=t2f,6u5Aur>>%6,r>0w%2crtI2=,Au4At,AI66c4u0=%%c,tI=}c,urf0r=I,>44t0f+64ttu=>,%,0fIAqI2>rAq0=ZA%4tc=f26ucfuf%I%I66I4fD2%rc0==t>,4uAAfr6>c6u4>7%ercItu22,fu0AcrAI4I44f06%c%4t>2%,,uIfur2Ir>04c0A84cttftB,cuuf>r%I,>I6k0%44%0t==A,IucfuA6Aq2c6>0%-,0Ica=22r=00>AAr4>t6f46At%u%rcf2,,IuNt%rrI06=6u46%tcft6tc,uu>A%f,IA>Y420re0c=?%=42%u,f6rcIu2I4%0,pI%a%A=r20u=ffA4It>f>I60vu%>t%6A2I,Xf2fftr>=6A44>r%fc6=ct%>%f%A,rIf=624A006ucAtrAf,fu6Ac,II>>(4,0IA*c2tr=0,tuAf4rtr,2f4c0uo>IIt,=I2g220=A0I=>A640t<2%6%Zt>2>,0f,=ur->26r404r%Ac4=t2,,6u.Auf>I26,4r0w%2cr>r2=2u,0Atr,I66%4u0>%%&,c%=k,turf6r=24>46%4=Q6%0tutu,%u,fIA8A6>r660=pu%4t%=fc66%fuArI%I,6Iu=#20rc4==2,,4fcAfAA>c>26,w%%%cI6022,ru0A=r%I4>94f0f%cc2t>=%,2uIf4r2u,>04%0A0>#4tf=r,c24f>r%I,rI6A025u%0t%=Ay0ut,ft=Ic>=6>44B,>fcOt2%6,0fcAA20>t62466c;cc>t02,%ruw2rrrr6Iu4A0I%tcut62c,u2>u0r,If>Y4c0rI=c=cut0,tu=f6utIu>>4%0,dt% tc=r26u=fuA4ftII6640Nuw>t%4t2I2xt0Arr>>=A244h%%f%I0c2u,ff%furII?62>r0c%=c2t4=0,f^=AcA2ru6%4%0I4rc2tr=02c,=f4A6Ifru4c0uj>:0t2=I2Au2,=A0I=>A646Ajf%Atct<2>,0f,fIAf>26u40f6%Acr=tcfcAfcA=r>rr6,A,0mCt%%t0=W,A,fAtrfI6Ic4%0>g6c,tu=eFruru6A%IA>A4t66W6cctutr=Au,f2A}2Y>r600=0uh%tt=%26c6fuA>I%I=>t4L06%r6r==2A,4ftt0r6I46u4=J%%=cIc3r2,ru>A=u4I4>04f4IXrcutf2%=guIfgr2Ar>=4=02l4%0tf0c,c,2fcr%I%>IfI02.r%0cct024,6fffrIc>u6>600=%IcA=2v2,0f=AAA>ru6f42}c7Ic>=%2,,IcuA2r,I0>>4A0>%t%f422c,=u>%0r,Iu>+I20,C0c%tA%I,tZAf6firt>>660,)r%^t2=rt0,tfAArIt>=66AuJuYrcr=,2,,S,=Arr0>=6A4=(t%=c6tj2u,rf%f=f0IV>p4rIu%=cAt4tt00u6f6ruIu6%fI0I04,4tr=A,=c=f4rtIfII>20uB2c%60=I2hu2frf0I=>=644>Df%Itctu==u%fcAI,u>262400=}Ac4t02fcAfcA=r>r0Ir4I0I%2cAt02=,A24AcrfIf6c4c0>I,c,cAAt,2u=f0u2IA>44t0f0Acctc=>20u,fAAGf2>=6040}AH4tt>j26,cuIA>r>>,Au415c%r%6tc2A,fftt%r6>c6u>>04%,c2tT=0,rc=A=Auru6t4%066>cut>2%2=,cfiA6IrAA4=0Aq4ct60=62>uuf=r%I=>I>Cr0;r%rt=6424,6fffI,c>u6,0%0u%IcU=2tr,>f=Atr4I66fu=Hcd2%4=%=0,IcIA2rrI0>c4u04SIcf4f2c,uu>u0fIII>u42r2x0c=tA=4=0uffurcr4>>600,0I%2t2=22006fAAfItAf=,0c*c%>cf=,%6,F222,r0I06A6u1t>tc6c!==,>uIA,A2Iq624r60s>cAtf2t,cu6tururrIu4,0=/)40tr=0,=,uf2rtrW>6f60u(>c%c==22Q,>fr,AI=>A644%0u%6cf=uzuu%f,AIr-,>6r4A(=.0c4=%2f266cAuru>%rI4I0r%2%ftI2=,tu4u6rfI66c>u44%%%1tI=r,2%0f0Acr=>46>0fA4cctu=>=02rfIAfI2At600=ZAz>%u=f2=uc%fA>I%>,>A6=n2Rxc0(62A,4ftAf2=>c6%4>0u%,cAt+=2%cu0f0rA=>6t4c064c%It>=>,,=ffSc0IrI66l0A fcttu=6,cuu,>ffI,>26!40wr>=t=tu=cutf%A6A%>u6>0%G,%,c;t02r,6f=Aur4I%>6460I%u4==%2,,I28c>rrIf6=4c04IfcfcIAI,uu=A%2%II>H424f0Ac=cF=4n>uff6rcIu>=4%40zI%ut2=f20,=ufA4r6>fA=0c0q%>c%c02I,rf22,r0I06A6>00%fc,=c2,,>f%A,fIII624t00h6cA4t2t2,I)AcA0I>rc4,0I&zc2c,=026uAf>rtI,>6Ic429>%rt,tI2McIfrf0A/>A6u0t>=%6c0=u=r2of,AtrZI,6r40i=0A%c=t=a,6urAutt>%>=6A0gN>cr%A2=,Au4f%A:I6>f4u6,%%c,tIt4rfurf=r=At>44t0f)64ftu==,%,IfIA4I2Ir>>0=dc%4I>=f22uc2uf6I%I06I6A}2>2c0tc=0,4uIAfAu>c6u4>4%prcItf22,cu0tArAr>>I4f0=%c6ct>2%,,,Au1r2r7>0f00A/4ctc,n>,c,>f>=>I,>I6H4t02%0cf=AqAutffA6IcIt6>4AP,N0cd=t2r20uEAAru>tr6460r%u%rcA2,,tu^u0rrI06=>A44%t%/t6=r,uc%A%A=r4>B6>0rAOc=tA=42%IIf6AfIuuu4%0,LI-4uf=r2=u=%rA4It>f>II^+uO8t%0%2I,nf2ArA6>=6%440u%fcI=c=u,ff%f0rI=4624c004=%tt4=>,fu2Ac=4I>r%660IFAc20I=03IuA24A=If>,4c>=D>4At,tA=4u2fcA0It>A640t4fI=tct02>,Af,t r7ItAf400I%AB6=t2f,6fcfcr>IA6,4A0P%tcrc6=Q,Au2At2DI66c4u6>y>c,tc=+2>urt=r=ru>>4t44C6>6tu=>,%,=u%AWrr>rff0=bA%4tt=t26,AfuA%I%>=6I6dI0%rcu==s-,4urAfA6s66u4=B%6ccItA222f,=A=A+I4,64f06%cbuc,2%26uIfur2Iu>06c40Y4%ftfmI,cuuf>r%rc>I6u0200%0tc=A24,IffAtIcIr6>0%m,0I%>=2=>,0u6AA2=>tIft=/cRAc>tt2,%0u&f0fII0>=4A0%%tcut6=4,uu>2cr,II>N6I0r-0c=tAl0,tuff6A,Iu>>4%0,>>%8t2=r2cu=fAA4ItfA660c!u%At%=,2I,(,2Arr%>=>A44/c%fQ6cr2u24f%f0rIIr62>r0c%=%It4=2,ft%Acr%A66%6,0I52c2tA=0,tuAf4,=If>64c4>l>c%t,=Itmu2u>A0r=>A660t4fPrtctA2>,ff,A2rQr2>,400,%A%1=tx>,6u>ufr>I%6,4=0Z%=crtr2=,At0AtrfI6>u4u0>%%c,0>=a,2urf2r=IA>44tIA 6cctuti,%u,fIAsu,>r600=y,%4tt=f26ttfuA>I%IA6I4dH2%rA,===I,4utAfr>>c>24A#%OfcIt022,ru0u=r2I4>24f40%c>>t>t0=0uIf%r2fI>04=0A&4%Itft0,cu2f>A0I,AI>I020>%0c==A%futufAuIcIA6>r6d,%=c1%2%,,0u,AAr2>t,A464ySfc>tc2,22uhA2rrA0IA4A40%t%At60u,u,rffr,rI>pu,0rD0c=cu=%,t,uf6=6Iu>>4%4=}r%+ct=rLru=fAA4r%r46660Wu9rt%=,2I,5c>ArA(>=>,44F%%f%6Ac2u24f%c=rII%626f40%=%rt4t6,fu6AcfuI%6%6u0I:%c260=02cu%f4AtIfuf4c0uh>90c,=I=0u2t2A0I=>A>>4U!faItc>>2>u%f,fAr6>2>u40r0%Ac4=t2f%=fcffr>r46,4A0^524=t0=,,A2tAtAAI6rct/0>9tc,Qf=X%furu6ffIAI04t0ui6cctuc>2uu,u>AXr,>rf=0=0uRstttf26%tfuA>I%>,>r4d0,%rc6==2u,4utu0r6It6urfJ%:fcIc4=2,r,0A=fHI46t4f66rAcuc>2%2,uIttr2Ar,c4=4A/4%ttf%6,c,uf,r%ru>Ift020r%0cct>24,tfff=Ic>u6>6%dc%I%Q=2=r,0u:AAf4rl6f66{cOuc>t02,2Iu,A2AII0>j4A44%t%,c42c2uu>ufr,II>+>2A%j0%=tAt4,tk:f6fc=r>>6%0,0I%ztt=r=02ffAf0It2V664cpu5r%u=,=I,O,>Arr0>=IA6R?tOfc6tc2u0Af%u,AcIO>24r40%=I6t4=t=:u6ftru=A6%6,0I04%%trt0,=t%f4rtIfr6uA0u0>c%c,=Iz2u2uf24I=If64A4Kf%6tct2=Au%u=AI=I>26r40)=PTc4tt2f2IfcA2r>I%>64I0%%206t0==,A,>uIrfr66c4,0>%%c,%I=A,2,rf0A=IAut4t4,jfccc,=>%ru,fIAvI2Ic604=gA%>tt=,26,cc6A>r%>,Au4i0u%r00t=2A24ftf0r62t6u6r4,%,%rtLt0,ru0A=fAr66t6u068%cu4%2%2=,rfdAtIrur4=0A^4%%%4=6=0uu2Ir%I,>I>444Vr(It=0=24utfffI02>u>u0%62%Ice=22rI4f=ffr4r46f4Isc)u%f=%=,,I+4A2AAI0r=4t04Jtcfc22c%Au>,%ArIIIg42>uG0>,tAt>24ufu>rcI,>>4%0,4I%4t2tA20,tfA=tItI,>t0c02%>c,=,2I,-f2fcr0It6A4>Et%,c6tc06,>,bA,,uIT>u4r>00>cAc62t20u6ctrurrI44,4AUW^0tr=0,=2AfIrtr,>6>(0uI%c%c=t>2&,cfr=rI=>A644%02%6%4=u%>u%f,AIA4>c6r6rT=>=c4=t2f2I>2AuA,>%r24I09%2cr>f2=2uu4u6rfII6c6u4c%%%2tI64,2,ff0Acr>>46%0f0=cctu=>=%,%fIf4I2If60Af)A04c,=f=Iucu2A>tc>,>I6.)2wAc04f2A2>ft,frf>c>,4>A0%,VAtT=t%ru0fcrAr06t4f060cc2t>t0,,,Afsc>IrI66%0A0Ict46=6,cuuurAuI,Iu6*rrLr%0t=tu=AututA6,u>u6>0%9,%rcVtt2r2rf=Aur4It>,460%%u6r=%==,I=}f6rrr46=6f04Ircf76tA,u,IA%AfIIuu42>r04c=cf=4c#ufc0rcr2I,4%4=UI%0t2=r202=f2A4r%>f>I0cr>%>%0c02I26f2f6r0>=6A440c%f%I=c22,>u0A,uIcA626f00l=cAcc2t2f>6AcA2I>f64,0=ni%tc>=02%uAufrtIf>6>c44}>B4t,tf2<%rfrf6A>>A>r0tIt%6tc=u=r2,f,f,rN=f6r40M=Cu%>=t=c,6c6Aur>>%>=620W04cr>c2=,Au4At=0I6I04u42%%c=tItoI2uru6r==u>4>10f0I%>tutA,%2?fIA<I2rr>u0=0,%4%Y=fzcucu2A,I%Ic6If%N2%rc0tc2=,4,4Af2u>c6u4>40DfcIcr22%2u0A=rAr>Il4f4,%c>ct>2%,,uItur2ru>0>60A#>ctcfMu,c,2f>u,I,If6 >2ut%0cc=A22ut%AA6fcI06>601,GtcQ>u2rt0u4AAA>>tr246>6%u0>t>2,2AuPfIrr,,6=6u06%t%2t62%,uu>A%f,r2>C6c0r0>c=64=42%,uf6f4IuI04%0,NI%O%p=r=>u=fuA4I%>fr62IKuaAt%t,2I2tf2fr00>=>,44I0%fcI=c=22tf%fcrIrr624r000=%=t4t0,f,AAc=>I>I04%0I0Ic242=0,=uAu>A,IfIu4c4K >c%t,tA=4u2utA020>A640t0,%,tcc02>,rf,AIrk>2f%404W%A%,=t2,,6uc4ur>r46,uA0C#%crc6tA,A,rAtAcI66c4u6>0=c,cu=?2%urt=r=ruIf4t4ty6>6tu=>,%,=fAAyA0>rff0=jA%4c%t4262Ifuc6I%>,6I6400%r%u==4o,4ftAfr6,A6u6fB%04cIt4222r,rA=A,I4rf4f4A%c0ucr2%2tuIfur2=I>0I=4%L4RLtft2,ccAf>u%A4>I>6026u%00.=Ac42IfffrIcf,6>I,7,4IcI=2=u,0urAA22>tIf60^c;tc>c02,%tudu20%I0I-4A4r%t6>t6=>=fu>uIr,IA> 4=0r!6c=tAk0,tuff6A0Iu>>4%0,>>%nt2=r=>u=fAA4Itrf6664HuO,t%=22I=luuArAI>=>,44rI%fd6t>2u2ff%fcrIu=624=6 %=%tt4=6,fu>Acr2I>6%ru0IjOc2tu=0,=uAf4,=If>64c4=->c%t,=I6%u2u,A0A4>A660t-f%ctctt2>u%f,AIrT>2>I4040%Ac4=t2f,6u>ufr>rI6,4f0?%=crt42=,At0AtrfI6I64u0>%%%N%>=8=4urf2r=If>44c0fS64ttu=>,%,%fIA&I2>=I-0=0%%4c4=f2>ucf,A>I%fu6I47+2%tc0==2A,4=>AfA=>cI04>O%%,%Ac>22=(u0f0rAI46t6,46%cz>t>84,,uIf.AtIA>0>f0A4Acttf=6,c,,f>ffI,r06;0tMr00tc=A==ut,0A62r>uI>6CM,l%cscI2rctf=Atf0>tI>46R%%ucI=%=K,Iuh2,rrI06=6204%tcft6%t,uu>A%r,II>1420r>5c=tA=4,cuff6rcIuf64%0,wIWrt2=r20u==rA4It>f>=0cJu%>t%*u2I,if2ftr0>=6A444t%f%t=ctI,>u1A,fIrA62>X00%=cA(X2t=fufAcf6I>Iu4,r0;+%0%I=0=fuAf4rtIu>66j0u;>4ct,=I2i,%frA0I=>AA00tpf%6%>=u2>u%f,urrQrI6r6t&=%fc4t%=4,6,fAuff>%6,4I6kgAcrc=2=,Au4ttrfI6>=4u4%%%nrtI=7,2urf>r=A0>44t0f0%cctt=2,%u,fI4%I=>A6044A%%4%2=fA0u%f,A>rO>,6ut2J2%rc0f,2f,6ftAcu4>c>t4>=t%2crtk22,ruI6ArAI46tcr0>%%cu%>4f,,2>fLfuIr204=6A22ct%A=6=tuutzr%rOr>6z6=Gr%It==f24u%ffA6ut>u6>0%4E%Ic#=22rcOf=AAr4r26f46Nc%ur,=%tu,I20A2rAI06=uf040,cft62c,uu>fI%cIII,42=,34cttA=>,tu=6crcIu>>c602Pr%m%24%202rfAA4ItAz666c=4%>%u=,=%,ptAArrAr26A6cStOoc6=%2u,If%A,,>IU624r4f%=cAt42t66u6ufruAW6%420I04c%trt2,=uff4rtIfr6>r0u0cc%%>=I:2u2ufA,I=r4644fpf%6tc=u2ru%,>AIr4>26f400=Orc4cA2fcAfcfVr>r0>I4I42%2%It02=,A244urfrc6c>>0>Afc,cA=A,224f0u4IA>44t4,0>cc%r=>tIu,fIAHrt>u606,3A0ftt=f26ucuAA>A,>,I64*Zt%r%0t=2A2=ftc%r6ru6uI>46%,%%tvt4,rcrA=AuAc6t>6060>cut>2%=,,=f;frIrI=4=A4S4%%%>=6=,uuucr%I,>I>44, rDct=0=24utfffIrc>uI40%4t%Ic-=2=f2rf=urr4,46f46vc%u%c=%tI,I,%A2rfI0>=tA040Acf%c2c=>u>u0A%III2424=v0c=tAc42=ufucrcA>>>f,0,0A%ct2c420%0fAA4ItI,>(0c4r%>Of=,2I,butf6r0r,6AAAgt%fc6cj=8,>,cA,u0Ia624r00A6cAct2t=Au6fPrur>>24,4%.SIttrt=,=,uf=rtA6>6>A0u+>c%%,=f2q2rfrf=I=,6646t0D%6%u=u=%u%2=AIAHI06r62!=I6c4cf2ft6ufAuAc>%u=4I4c%2%f402==4u4f=rfI66c>u6k%%HItIt2,2q%f0AcrG>4>u0fIfcctu=>=02AfIftI2u2600=3A5>%6=ft0uctcA>I%>,6I4,S200c0c,2A,>ftffrt>cI64>r0%,#atNc26tu0urrAA=6tr>064cf+t>tu,,,6fH=>IrA0=60A0=ctP2=6%2uuf>c9I,>I6502{r%0t==A44utffA6I%>u6>0%L,:6c)=22r,6f=AAr4>t>+46 c%uc4u=26utffr,I6>%6=6r04%tcft0f2u2A%A2II>46c0,04==t,=I20u2,4f6rcIu>>2>0,/r%ht2=r20u=ft,0It>u664Apu%It%=,2I,>>rArr0>=>}44}c%f 66A2u,If%A,rII462>r=,%=cft42c,fu>Acr%A66%4t0IM<c2tA=0,cuAf4c%If>64c0,j>c%t,=Ic%u2frA0I=>A640t^fAutc=,2>,4f,Arr3>2,r40!=%Ac6=t2f,6f%A,r>>%6,4I0j%2crtI2=,Au4AtctI66%4u0>%%c,tI=E6Eurf6r=If>44t0fL6rttu=I,%u=fIA0I2>r,00=dA%4tc=f26ucf,A>I%>,6I4=x2%rc0==2t,4ftAfr0>f4>0Az2%AcIt222,ru0A,6r4%0At4ctt>2>2AfcfruIu0r2Ir>04,c6ctt,=t2>,,u4f6rA>f044u00%%ctuu=A2uutffA6I=0r4t0Ik6%0ut=222,0f=AArG424A4I7=%u%>=%2,,Ifc>,>642crL0cf=f=2,4u,I6>rIf>4Rf>4420rU0c=tA=4,tuffIrcIu>>4%0,^I>u02=f20u=fAA4It4f,4IcE2%>t%=,2I,#=2=2,0>=>444Mt%fc0u%,f,4ruAdIeI64,44^c%=c%t42t,fu0rcrI>t6r+rcr==44tr=0,=uAcurtIf>64c0u!>c%t,==2mu2frA0I=>A640t0,%6tc=u2>u%f,AIrvI06r40{=%Ac4=t2f,u,rAur>>%>04I00%2cAt0=Vr4u4AtrfI,6c4,0>e6,ItI=5,22Af0rtIAI>,40f}6cct,=>,%u,fI2;I2>A600t9A%4ttcf=Iucf,A>r<>,>^4/a200c0=t2A,>ftAfr6>c6c4>X%%,cItF2t,ruIA%rAI46t6=06%%cut>>>,,u,fnrtIr>04=0tg4ctt==62%uufIr%I%>I6>trZr%0t=tf24ucffAA0u>u6>0%0c%Ic0=22r4rf=A=r4IL6f46Gc%uW4=%=!,Iu>A2rrI06=,r04B4cftI2c,,u>fI%cII>M4246W0cttA=>,tu=6crcIu>>6=0,er%Ht2>220u=fAArIt>f66>c,A%>t%=,2,,&u0Arr0r>6A44kt%=c6=c2u2rufA,rrI.6%4r00%=XAch2t,uu6A%rur;6%6=4uY7cttr=,,=uAf4A%r6>6600uq=c%t,=I=420frAII=>%640tDf%66A=u2Iu%fcAIr4>2>rrAG=%Ac4tl2f,>fcAt0%>%6,4I>r%2cAt0=c0=u4AtrfI>6c4u0>%%4,tI=0,2uAf0r=IAr4600fd>cct,=>2,u,fIAtI2>A600cxA%4tt=f=%ucfuA>I%>,6A4F;%F2c0==2A==ftAur6>c2c4>0>%,c,tC22,ru0u,rAIf6t4=06%ccut>6c,,u,fCrtIr>44=0turcttf=6tIuufIr%I=>I6>trYr%0t=cc24ucffA6c6>u6>0%^c%Icz=2cr6%f=AAr4I46f4Ibc%u%>=%2,,Iu>A2rrI0>c>>04%ccftA2c,uu>u%A0II>0420A30%ftAt>2cuffIrcr6>>4%0,0AUIt2=u20,IfAA4ItI,>r0cht%>cr=,2I,lf2=%r0>t6A4rvt%,c6tc%%,>f%A,rfID6=4r00r=cAt42t,uu6AcruI>6%4,0ISocctr=0,=uAf,rtIf>64=%u%Ac==t20,rf,fAA4It>A6A0tsf%6tcc 2>u%f,AIrY>26rI006%Ac4=t2u,6u0Aur>I>6,4I09%=crt02=tAuIAtrfI66%4u0r%%c,c,=^,2urf4r=IA>44t0fe6cctutu,%u,fIAsI%>r600=LIc,===u26,IfuA>I%>f)40u/0c%ttfu2A,AftAfr6>=00D%PrcucAt!22,ru0A=>A=0At4f0t%ccut>2tA=ffA0It>=6>0tXuRdctt%=6,cuuf4>u>I>00%06d>%0ct=A24utfr>6I06%4,%t/rc^tf=f2qf=ffrrI,6,62460,%uc>=%2fA8frA=I0I>6u?Z+,t2c0=t=O,uu>A%r,IIf)f<Iro0%rtA=4,turItr>>>>A0c0rt>=t2I=f20u=fAA4It>f660c1u^At%=,2IucItruI46c4t0I%cc,c0u=,fucftr=6=>u4u0I064%0,eI%Et2=rI0,fI>>u4,0ITRcu,>2z,ruIA>>>I0600t0ulcc%t,=I,crfAfI=If640%02%Ac%tctr2>u%f,A66u>,6>0A%%c%t0u,20uufAAIr>Iu6,4I0&%u2r=>24utI%ArIc>=6,4u4f%%c,tI2cf>uIA%r4>,6,0=%r%%tut0=0,ufIf0I%I6666>0=h=%4tt=f20rtf0A6Ir>,6c4/-2%rt%u%,%u%f2r6I2624f4>0A%,cItx2uurftAIIc4cyc%>6,%ccut>2%4%uIf0r2Ir>04=0A/4,0tf=>,cu,f>r%I,>2I%02ZA%0c0=A26utffA6r4o>6>0%+,%,cF==2r,0%=AAr4>t6u46bc%u%r>>2,,ru7f%rrI06=>A4c%tcut62%,uuIA%A=r0>;4t0r<rc=tA=4,t,>f6r%Iu>r4%0=LI4(c,=r24u=f,A4rA>f>I4rKu%rt%==2I,wf2urr%>=6u44K%%f%f=c=22=f%AtrIIu624r00bc4ft4=0,fuAAcruI>I0>I0ICIc2c0=0,=uAf4fIIf>I4c0cG>%0t,tI==u2fAA0rt>A6>0t0,<0tc=22>,0f,AIrpr2>e40Lc%Ac>=t=t,6,9u0r>I46,4u0B%2crc6Au,AurAtr=I66c4u4r2=c,t,=p,%urf0r=IAf=4t0,86%6tu=r,%,,uzAbI=>r>00=hu%4Ttt>26u%fuA2I%IA6II304%rc4===u,4ufAfAIIf6u4r1%#tcIt^22=r,4A=ruI46%4f0%%c#uct2%,=uIf4r2Ic>06=It#4cctft0,cu2f>f%=6>I6402 r%0c2=A2f6AffAIIcr26>4SB,%rch=%A0,0f=AAf>>t6u46042>c>=%2,=uuGA=rrA0,I4A0>%tcft6=t,u,>=Ir,Ir>w600r36c=tA>A,tu,f6rcIu>>4%0,>f%(tt=r20u=ffA4It2f660cFu%It%=,2I,0f2Arr0>=6A44Gt%fcA=c2u,>f%%%rII0624r00%=cAt4>4,fuIAcr,I>6%4,0IA%c2tA=0,cuAf6rtIf264c0u{>%vt,=I2!u=frA0I=>Ar)0tyf%6tc=t2>u%f,A6If6,6A46Z=%Ac4=t2fr6%22urr>%6,4I0*%2rr0>%=,AuAAtrfI66=Cfc4%4c0tA=k,2urf0r=IA>44t0fDucctu=>,trIf0r6>r6=604=?A%4tt=rA%uAfIr4>c>r0406.%cI222%2uu0f6A,I%rr,=%240c=,c;%2220u0A=rAIM020A0I%=2r=t2I,6u06tr2I%>04=0Aa =At0=/,0uAAArfI4>I6A02Lr%0t,u>,2u6f0r%02>u>00%#,%Itcuf,%utf>rrIc4u4600L0%fc0t02,,Iu#A2rr60,2rA0>%tcft62c,u0>tI4,IA>^420rl0c=uA4Ictu,f6rcIu>>4%t,rr6Dt2=220u=fAAb6I664,5t}u%tt%=,2IucrurIr6>,0>0I00cAc6t,2u,>f%Af>66%6t4>%4%ft4==2AuAf0AcA0I>6%4,06%BcA=%2fffrf>cr%If>64c0uF>,%>r1I24u2frA0I=>AA4A4>f%6c6=u2>u%ffI4I6>%4I400,%Ac4=t2rAPfAr%It>20A0>h2%,tI=u,uuru4frrfI66c4A%6t42A=c2=,6fIAtr=It>44t0fq0=t,A2A,rIrfIAuI2>r600,c6c2t22620u0f4r=I%I06I4Fi2%>222A26u0fIArr>>%6u42;%%,cI=cu%Aufur,IrI>6t6c06%ccut4f=,6f2AurA666F4A0r%0cI=I24f6fffAruI66f4f0umr%At==A24u2IIr=I>>46x40n,%Ice=22r,02c2Ar4I46f46hc%A26=A2uu=u4A2rrI06=4A044I4ft6=%,uu>A%rf40420fJ2%4cftz=0,IfrIorA>%6t42tA7I%2t2=r20u,rr>I4c>>0cX=%=c6tA=f2A,:f2Arr0>=uAu.>t%,c6=c2u,>f%t,=,uF624%00%=cAtsuO,#u9A=I>>=4=0u0IX2c2tr=0,,AIA0r%Iry%4t0Ai4cft4=I2Iu2frA0I,0A420Iyr%Itc=u2>u%f,2I=cf26f40O=%Ac4=t2f,2=cAuru>%6,4IqctutIt62,,uu4AtrfI66c4u!>6c>ItI=p,2,f%>r=I,>4II0f96cc%u=%,%utfIA6I2>A604cl=%4c0=ft=ucfuA>I%I46I46w2%fc0=c2A24,OAfrr>c>,4>)%%,cIc=22,,u0A=rAI46t6f0f%cc=t>t2,,uufnAt,r>06H0Aztcttf=6=cu%f>A6I,>u6Q4%Rrl6%A=A2AutucA6Ic>u>r4fK,%2cQtf2r,0f=fuAI>t6%4606%uc>=%2,,tuVA%rrIf6=4u04ktc2t6=0,u2fA%rcIIA}=40rR>c=tc=424ufuIc6Iu>f4%6>zI%mt2cr6cu=f2A4r0>f6>0c02%ut%=%2I,ff2Arr0IcI04406%fcf=c2u,>f%frrIIA624f00%=cAc>=A,fu2AcrcI>6%4,0I#%c2t,=02>uAf>rtrfI!4c0=1>%ut,=u2N,t24A0r1>A>=0txf%6%ct%2>,6f,Aur3>=6r660r%AcA=t2t,6fcAuArIu6,420<03crt02=2uurAtr%I6>64u0>%%%=cf=(26urf>r=IA>44t4uT6%4tu==,%u=fIf},0>r6>0=0c%4c0=f=I06fuAfI%r=6I4hD20rc6==22,4u0Afft>cIu6I.%%ccIt>22,=u0f=A%I4>i4f6t%cctt>=%=0uIf6r2f6>04t0A0>n,tf=A,c,>f>r%I,rI6,02l,%0cX=A=rutu,AAIc>c6>4>l,%IcsttA6,0u4AArA>t6f464Q42c>tr2,,,uSA2rrI0If4A0r%tc%t6=k,u,>ffr,If>)6>0raIc=mAt2,tu2f6fCIurI4%>,0=%;tc=r=>u=,>A4ft>t6640<u04t%%r2I24f%ArrI>=I%44dt%fB66A2u,ff%AcrII0626fI6%=c=t4tr,fu6Acrurp6%4c0IB4c2tf=02c,=f4A4If>A4c0u(>E%tc=I2Iu2f2A0It>A>>409f%utc=c2>u%f,fAr4>26t404%%Ac4=t2f2UfcAcr>Ir6,4A0qp24=t0=(,AucAtrtI6>c6,0>R6c,%0=K,curu6fIIA>A4t>U<6cctuc>=Iu,f,AKr:>r640=0u%Itt=c26=6fuA>I%>,624#0T%rc6==2u,4u%A,r6I>6u6=L%%,cI%)=0,ruAA=rtI46c4f066>cut22%,2uIfVr2rf2c4=0%+4e=tf=6,c2uu=r%r4>I6f02wA%0cc=224,rffAfIc>u6>604A%Ic,=2=0,0f=AAf4If6f4tLce6c>c62,2Au>A2A0I0>=4A04%t%,c,2c2Iu>fcr,II>&6tt6-0%utAcu,tuff6rcu4>>6u0,04%Bt2=r20,.fAA,It>f664v:uqrcf=,2c,H,,Arr0>=IA42!tB0c6tA2u,If%f=r,IL>I4r6%%=cAt4=%2Iu6furuI%6%4,0I4^%>tr==,=,4f4f0IfIIc20u0Lc%t==I29u2uft*I=I>64>fqf%6tct22Iu%ufAIfr>26r40U=buc4tf2f20fcAur>>%>)4I0u%2crt02=,Au4ffrfI,6c4u0>)yc,tItf,2u=f0rcIA>>4t4fI4cctc=>=%u,f2Adf2>f6040zAvttttr26,cf,A>r>>,I04Tjc%rc0t42A,IftA,r6>c6u4>0I%,cItT2=,ru0A=r,I46t4f06q0cut>2%,,utfHr2Ir6%{=8,%%cF=>2uutu,f>AzI2>,6a02sr%0%6=A24utffA6Ic>ur>4tD,%Icm==2r,>f=AAru>t6f46h%%uc>=%c,24uOA2rrI46=4u04%t%0t62c,uuIA%r,II>Y420rT0c=tc=4,tuff6A#Iu>>4%0fcA%pc>=r20u=fI>=Ir>I4r0=%=cttA=,2=,)f2ArI%4I4A04R,cAc0=c22,>f%A,r666624=00%=cAtyu=ArfrAI4II>>64,0I<Rcu=c2:,tuAffrtIf>64=%r%0t,tG2>tau2frA0I===640c!f%6tc=u2>,Id4AIrC>26,40;t%Ac6=t2=IcfcAur>I66,4r0L%%,0t02=,A20AtruI66c,c0>Jnc,tr=U,2urfAu2IA>64t6Ae6c%tu=>,%uc>OA1I2>rI 0=)f%4%t6026u%fuA>I%>=6I4Sf=%rc6==2u,4ftAfr6r66u4I#%%2cIt422,ru4A=ruI4>Y4f06%c%2tA2%,tuIfIr2Ir>0>=4=j4%&tf=r,cu%f>r%Ad>I6>02N,%0t==At42rffAAIc>t6>4h-,0I>u=22,,0unAAru>t6ffrQc%cc>t62,,Iuju2A>I0>04A0A%tcut6tc=Iu>f>r,I,>94c0r40%ctA=f,tuuf6r%Iu>>6u0,T,%{cz=r2Au=fAf,It>c6644su%>t%c,t1,eu0ArrA>=62444tr0c6t>2u,,f%f0rII I%4r0f%=c2t42t,f26ufruI26%600ID>c2%r=%,=ucf4A>If>r4c6uaAc%c4=I20u2f,A0I=I2644>vf%,tct02>u%uIAIr6>26t40Zc%A%4c>2f,IfcA2r>I46,4Ifz%2crt02t,Au4AtruI66c4u0>%%c,tI=?,%urf0r=IA=A4t0u86cctu=>,%u,,6A3It>r600=!A%4tt>A26u%fuArI%>26I4nA2%rc0==2f,4ftAfr>>c6u4>:%T0cIt<22,fu0A=rAI46t4f066ccutI2%,,uIAcr2I2>04=0AAr>c6,4%06u2f>r%I,>I6v02%r6kt==A24utffAIIc>u6>0%P,%IICB22r,Af=AAr4=Z,=uIAArA>2V42,,Iu*A2c2I06t4A04%tcft62c=Au>f0r,II>8420r{0{>tA=6,tu,f6AsIur,t,0,!r%Tc0=r24u=f,A4r0q6660cTu%,t%=22I,>>rArr0>=>>44oc%fc6I62u,If%A2rII(624r4%%=cut42t,fu6Acr%A66%4t0IO*c2tA=0,cuAf4,=If>64c0u >c%t,=I64u2frA0Ic>A640thfAutc=,2>,4f,Arrx>%%040G=%A06=t2u,6fc%cr>I(6,4I0#%2crt0t,,Au>AtrfI66c4u0>0Ac,tr=7,turf6r=Atu64t0uk60%tu=I,%,0fIA>0r>r600=6f%4tc=f266cfuAII%>,6I4VU2U>I===22,42cAfr>>c6,4>062IcItQ22tAu0AtrAI4=44f0>%cc=t>2%,,uI=cr2If>04=0A<4ctc,t0,cu=f>A6I,>I6a4t0f%0cM=A2rutffA6Ic>,6>4hQ,%ucS=t2r=Au4AAr6>tru46H%%ucr=%2crbuEA2rrf46=4f04e%,It62%,uuuA%r,III4cf0rK6c=tf=4,tuff6QcIu>A4%0,RI%bt2tfrcu=f2A4r0>f660cJtI,t%==2Itsf2AAr0>=II4406%fc>=c2u,>f%0rrIIA624,00%=cAt4=f,fu2AcrtI>6%4,0I:tc2t%=0,%uAf4rtIfI24c46J>c%t,=I2Gu2,LA0rA>A6A0tYf%6tct%2>,2f,A,rG>26r4006%Ac2=t=>,6u<Aur>w66,4t0}#6crt,2=,A,0AtA0I6>64u0>%%c,t%=)26urfur=r+>4>t42F6%rtu==,%,UfIAprr>r6f0=Hc%4cI=f262AfuAII%IW6I4AO2%,I6==2u,4,cAfr>>c6u6cv%%2cIt422,ru0A=f0I46t4f0I%ccut>2%0,uIfYr2IA>04=0AM6cctf=6,cuuf>r%I,>26-028r%0I==A2>utffA6Ic>u6>4AK,%fcd==2r,0f=AAA=>t6=46y%%uc>=%2,=0uRAcrrI66=4u04%t*4t6=V,uu>A%rtII><6,0ri0c=tf=4,tuffIrcIu>>4%0=YI%nt2=u20,>fAA4It>r!0hter%4t2=62f,=f2Arr0>=2=44{c%fc6=c2u,>f%4crII0624A00%=cAtfIA,fu>AcrcI>>.4,0r#bc%u0=0,=uAfArtIu>664t>b>c%t,tS2bu=frA0c0>A660tYf%6tc=u2>ttf,Arr+>=6r40+=0AcI=t2u,6f%Aurr>%6,6A0!%=crt62=,fu4AtA2I66%4u0>%%c,tIc.22urf4r=IA>44c0f<6Ictu=>,%u2fIA:I2>A600=;A%4c<=f26ucfuAuI%>,6I0ct,ccc3=62A29ftAfr6>=0J0twc%At>,A2>,rfUA6Ir>,624f40%ccut>2tfuu4r%rA4u6u4r0r7d=2t22tut,0f>r%I,rI,u02xA%0t==A2Iutu,f6Ic>26>4y8,%IcEc2=f,0fcAAr>>t62464c06c>t02,,Au:AtrrIA>u4A06%tc%t62%,uurA%rc0^>m420rEfc=tf=4,t,ff6rcIu>>4%0,(I%g>2=r20u=ffA4It>f6>0c8u%>t%=,2I,Cf2Afr0>=6A440t%fc6=c2u,>f%A,rI=T624r00%tcAt42t,uu6AcruI>>I4,0IG;c2c>=0,=uAfw>=II644,c=%=cutu=6fcucfwrOI=I>640tFf%02I=426u=Au>0I%>u6>0,?>24c4tI2f,6fcAA60>f640t%%cfc>t0=0,Au4Atrr446r4fY2%%%4tI=m,2u>>cIc>46,0cOA%0ccc4=>,%u,f6>,I>>64>0,%,c2tItt26ucfuu>%>>,6r4.N2%rc4===u,,ftA,r6I46u4>.%0,c=tk2t,ru6A=rfI4It6006Tscutr2%,=uIfrA2Ir>44=0ck4cctf=I,cut6%r%I,>I6A02yA%0cSf424utfffAIc>,6>0%0f%Ic0=22A,0f=AAr4ff6f4>-c%uc>=%2,=I,=A2rAI06=4A0f%tcfcu2c,,u>fVr,II>F420=j0cttA=I,tuff6fcrI>>6a0,lr%Qc0=r20,ufAA6It>,660cBu0>%2=,2r,Wf2Arrr>=IAt2nt%uc6=%2u,Af%f<f>IV6c4r00%=cft42%,fu62truI>6%4,0I*ac2tr>6,=uAf4rtIf>64c0uf,c%t2=I26u2fAA0I=2A640tLf%>tc=u2>,bf2AIr5>26u40;=%Ac4t42f,6fcAA66>A6u0=0TF,crt02=,IA0A,IA>%0040}c%ccf242curu>Aar=I2>44t0f+02tt0242,u,fIA<I2fc600=SA%4tt=f262cuAA>I%>,6I4wBt%r%6t>2A,6ftAur6>c6u>>0>%,crt12=,ru6A=fAII6t4u06%%cutA2%2J,tf#r2Ir>u4=0fy4cctf=Aruuuf>r%r4>I6002D,,=t==A24,AffA>Ic>u>40%w,%IcE=22r,0f=fAr4>t6f4>/c%uc>=%4,,Iu^A2rAI06=4A04%tcft62c';VATLfgvzKipKYIbwI='UGEt_)Q}HBL>RZq&7>B}t&ZBQ&/_)}EqZQQH&QL9EqRZQ)>HB)qqHBEE>>_&E>R})_q>H&ZRRHEB&tH&GR>t)}L_BE&G>>)}q_}>G&QR_H>BHtG&LR_tq}t_GtHG_>q}}_o>L&&Rq}_BGtL&tRZt}}R_LGGGZ>}}0_B>t&HRQLZ>QBg_LEttZ(Q&tBZ)QE&BBZqLZGtBR)QBttR&)R&tB}q_ZGttYLL)&RZG)>&)BGEt}})qR))Qq&H)fZqLHqZH>&E}&G_}qQHB)qqHHEGq>K _q>)EZ&RrGtZq_BRRLQ_RZ>t*?qQ}2>qRt&ZB}tG^LZtLG>QZTQR&t>RVBZ_GH>}EZLL_&LBBEG&&}V&_RLEHRqQE&LH>E(RHQQ&&BGtG>GBQtE>&)Q&L_}EHBQQ*>QHBZZ>&))>9HQZ&HtQ_>QHtGRHHGERX)Hq_R)_R>Q_RZG>q_>qGHtRqLRGZLG}}ZH}_))LH_}ZBQL&&LtH_Zq}}tHL_EBGBLttZZBQ>>&LQCZBL}>RZQqn_H}QG.}BQq>RBEERQL}EZB}ELR&)RtZB)ELR*_BEQRLG_&>QtEZHtEELLHH&B}Z)t>E)_qLH)G_LB_&qLH_GH>BtLG&>>_HZ&HtZ=L&G&qBt&GEQQ_HZqtB?&QHdRqZ_EZLL_:>B>_}Z_>)sHLpQZZL)L_}Z_QL^R)}t)LQEL1;)&&ZZqQE&q)Lq&Bt}_RQQGE>BQGB&qBLE}>qQEL&HZ&qHZEQ>&)Zqq}})Bq&_EEBRtQGLQBtGt>Q_}&}H_GL>Ri}&_}_G}LHEGLZHqq3QH_)>}HQE->}_}q)}}q_L}_BZHEZO>L>_>ZQ}t#B)RtLBttBGq}QiEH>}H;)B>tZHHQQZ})>tGBEEqI&QEEZR}E_>B)ZtqBGthR}HqqtRHQ_&GHHER}B)}RH)H&tHHEQ>&_GEt>BMR&tHZE>}n)ZZZH<GGRG_qq_HQZG>qtqqG}Eq>}})HLLtEwqHG)H&t_LAZL&tqBt}GGG>GtRB1QqZ&QttBBHtQG}QL!EBqERRGQ)_QB>Q_RBQBq>ZEtLC_)L&BHGQQ*EH&EQRLG}&)QQ&HH&EBRQ)RZ&RG)}LLBGE>RBlq&>}>GqL&)&qRHEE_Q&)RZR}&GcHBG)&Q_HZ9>qG&BZ}XqGLEG}Z__EZ>}BtHLQt&ZHBRhLLtt>8nQq6}LQQ_ZEQLeRRHtqZQBtsGBBtt&}Q)&qBL)>ZGQHEQB_ERRLHL&&Bt))RB)REuHqEQ>&H_&HBt_&R_)}GLH&EGq))EG}HL_B>})?qZLZG>>_)EGG}&GH>_})qt}>GBZB_}qz}HtZL>_tZ&LGGEZt_BqEBq-RL__G!E}H%&RZt>Z_}NtGLQtq&R}Aw}R}tLZtBE+JBBtH&QQ_&RBB)LRHQ#&L>qtER)HB&}BJtGqZ)LG&BE)G>&)H&)>)Et>R)LGBH}Ed>R}Zq>HtEGqG_&qHH,_)>t_>q}LBGBZ>_BqE}&t&LZ_Qq)LtGB>GQqqG}ZtBLR_)0_}BGGR&_tZHBL1qLEQ)ZLQZtNL)tZ&>Q&yGRQtt&HQ>ELBHtGRqHq&RB)tt&EQN&BB))QR_)R&L>LEHRG)BGqHRE_RJHE&t>_ELRE}&qZH}G&qt)GqLHH_}>)_Zq}L>GB>G)tk&HEGLZL_HqG}>tq>E_LWB}ZG Z__BqGB&fZL)_Q{t}BGhRqt><<}EtELztBZ}BQnRLtQGZ}Q&ERBLtEZtBM&qBQt-&_Q}EQBRt)&G)&&HBG))Rt)R&_>BE&RHH_&LBG_&>Z)Q&_>tEHR!}q&_H__B>&)_G_HEGL>>}HqQ}qGZZR)GqEL}GL>_}EqQ}qtZLLQ&qGLG+&LH_Q#)}>GEZ-_QZqB>VBLG_E&&QZ7)B&QtZQB)ctB>tB&BQ}0*BH)ZR>Q_:GRGE&R}QGE)BtERRHHB&}B6EqqZQG&L>HEQR:)HGRHLEE>>HXqqHQEHq_)H&tL&GZ>Q_&GtHHG&Zq_Rq_}Z_E>_tLqRL&)Gq5t)Gt>)__BB}}GBLH&ZZ>}>G>LQ_tZBERrLQtXBqq_QZE)>_HZ)Q>kZ)HtQL}E>xG)&&qZ&tt&ZBH&_HBEZkqQt&BBQtt>tLtEZR}Qt&)_BtsB}E_P))B&t>>GGq>BGE6}))tLR)NtGH))G>)H!&E}&Q3>EH;q>>Gb)qEHQZ*>}G&qBt&ZqQQ__>)tB%&QZGEL)_QZpQ)CRL)_tZZ}t&QZ>}}3_B>t&HRQ>Z>L)&>RqEEM_BL&)R>E_RHLBERBBt_>qQL9_B%}GR}HZ&H}ZQL&}HZE&}L)HRB_ZEtHGEv5G))GZHZGQL>_&tjHHE#q}_qZ)>L)Qqt}LGqQ>_B>L_>q}}LGG>EttG)L>&qq)}&GZQE_&R&}Ejt>t_rZQ}HRt>=tDZtQ_ZZQB_LBRE_Gy}t_tZ}Q&Y&LgEqRL}lZEB)t}RQG>&BBBtBR_QG&}_LEHHGE}NRQ_&D}BQQ&tHBE>}Q)_R)_BG&HDGR&ZHTq7})GB&L}RG}H_GRB&H_E6LZ__qHt)GtH_Gt>G_>qe}Q&ZZ&})RHL&_Bq}ERGBBBtRRZ}Z^LL3_EHZ}L&LBZEqL}ttG_QQqqRRQq&Z)Et2Z=}{&>_&EZBqEE&H)B&)ZQEH&tQoq>HoE_F))HEG>>EELLBG&BRtGB>H_?E)RG_qq)HBZQ>_E)>Q)EqQ}ZG}BqHyGQQB)#qLHHRZ>LtLZZQqGqL>_GqtEqG>B>tqR&_HZ_>)d}H&QZ/&Bq&tZG}t-E)}t)Z}QQ>>BBtBZBQ_>HBQD}H>QG>&)qt&BG)>R})_qBHZQqRQHZ&BHqGt&LQEERHEEGLBBBEt>Z)Bq>t&EQHZGL&>_ZGQHQ6}qGH}GQQ>_BLE_QE}}L_)Z&_}qH}))QLH_Qs&}_&>ZH}RRQLZG)Z&t)Z_)RtLL>E&s)Qt7LB>t>RQ)>6GBHtQR&QBqRZGQZ&LBGt)HE}YZGB>&GR_GH&LB.q>RGGL>qB&&G>ZE>qR_Z&BHQQ}qZH_Gq}tQ{qZHtE)}r_q>&_tGB}}GQ&})vq}}t+HLRHZZ&LZGH>ptEG}>t_(Z}}>RHLQG}L}_GZ>}}o>Bj}EwH)>_EZR}L>&LRERR&QKG{BZttZ)E:6ZHZt!RGtLRQL}&BHGQKZr)_ttRZQ>>4H&q>>RQE&G_QGqBZt&qX_tE>R}XqqZ)>GqRv_&L_HEEERE_ZqLHAZt>GNL>=B)qZ}BVEq&}RGE>_&&ZZ_qZELHbBL)HQZH}_SRB>tFZ_>)p}ZGtBRGLQ_ER&QQlL)}t)LQttRZQL&&BBG&zGB}qLZGQ>0B_qt>>>)qq&B&ERREQ_L&BRGR>&)PRB))tQHHGi&>)&EGRB)>qBBtEGR*)HL>HqZq>L)Qqt}LGqQ>_B>L_QE}}HGEBL}&G>LHt&qtt*J&>}_BZ}HG4&Lq_QBG}qR>LL&qZt__D)Q__xH>}Q ELL__ZLQ&>LL)gQZH}t&B)HEqH&QBRKBE&tH&}JRG)>qRRGQt&E_}t}RG)>&}HBZZRLQG&ZHQZL>})>L)HLEQ>t_Lqqt>EEHL)LL}_HEB}LG_L)}qG_Q&_q>Q_&RZL1GEBHtHGRLBt&qGERa}>MtRZG}_REL6_EZGEQ2>L}t_R>Q&>RBL#>R>Eq&>L>t&RBE)hL)}&HZBELR_))qqRLQQ&tHLEq}>)BRLBLq}>ZGL&tHBZRRtE>R__EG)H_VZ&HH)G>>ZvHqQ)}GQ}L_Qq}QL&}LZtGRZQ)Z)L>AHZZ}ZGZLH_)Z>EqG)}ZGQB_Q}Z})&_LZ}QZ*&)LtHLBQLGR}_&ER)tE>ZBBtBZBQ_iGB}qLZGtBZE)3EtBQG>nQBtEBR>GQ&)HtEQ>}t &EBLER>LQ_&EBGEB}R)>>EH_qGRt_&&}BGE}>R9}qR_GqL}})EqQHEZ>>_SZZ&t&GLQq_tq)}_RBL}_}q}}EP&L)&HZ&_}q;)qtGLEEBG_LGt}ZBE_{E}tt)RtQQ&}BHtHZHQtw1BQqBZXtHZG_&EEH&GL6)BEEHRLG)&tQ_EQ>_)}qH}&tG}q)t>QHtttR})GLZBEZ&HiQG>E_RZZ}Qe&ZR)tGQ>H_}BRHGGZLL_Gq)tEGBHG)GBqt&EY}GGEBRQ&ISLRt_LZQqRELC_EZGEQf_LQt)HLQH=LBBqqRRQR3RB}q>RBtL>qB_&EBG}ERQQVE}H}GRRbLGEtHqEB&t_QEZB))&>))_ZRRG)ZqLHGE)}E);RG)_qBHQG>>BtLGR>Ed)qRHQE_QB)QZQ}BFL>L_}ZZ}&RL>}t}ZLQ>q_}V)GLtE>,L}LtZZ_}RO}B&_GqEE)&&L)t_HBQB:fLHttR>QZVq)B&tBqQG0tBEq}R)Q}&Q_>EBR>)LL&HZE&>qGt&GBtEE}}))RQ_LE/}qG&>Z)HqG}QEE>R)EqLQq_Rqq}ZZE>ZzR&Et&qL>_)FZZ}_GHQ)_t>_H>EQ}Z_Gqt}&RQLZG)LGHEZtQH.)qQQZ Q)BtQZLE_=BL)tERBQZ>LL}0BRHERqq}>v>Z}Qt&B}_tZH}QQ>LQ)EH>}Qtq>Q_t_B_)}qQBHGLBt)ZRtHQEH>}vR&GHZGL>G))LEHGEB>>_B&tHGEP>Hdtq_tZGR}j)EZqHQET>Q_>BQ}_.tL&t}Lq}GGtLE&}ZR}HT)BR_dHZQqZRQXt}Z&}G&&LBt}ZQQqRGBq&}RHEQ0EBqE>REQQ>tLG&GZEt_R6LG&EHRE/>ZBq&/HHGG&QBEG&>Q)LL}Hq&QRZQQTG_BtGRRG_&RB}tJ>H)_qG}HGRQB_H>H_GZZ>qW&LBtGGQ>Et&ZQ}LR}L)GQLEHtZ_Qq&QZ>}}D_B>t&HR}}Z>Lt&Yq.QLF_LxtEHQ}t.LLQE&HtQ%g__qt)>>EBAL)>&}>L)G&E)QlQBR_LZ)QZG/LqtQ>GHQq}>BGBLqH)EZ>&_Z&}H)E_>RO&LB}qq&RKO&qEtQEGLZ))q&H)GLQ)_tL__%EG}EXRB_}EG_Lt#GBBttRRBBGEBQQZG)L}t)Z&QZzRL_&}BGQ}Z}BB&}B)}QR}QGqBZ_QmdHLEtHRZGH&}_LEHRL)B>}_&qBRE)HL>HL&LBtG}>HBBqL>BG)&BHQGR>qeBqH)HZQQ&)L>R_HEB}LGtLRt)Gb>B_)ZL}ZR>LB_>ZLE&cZL&tqBt}HG_LGtHZREB7H}H&}ZGEQGQLdtLZQQH>RBLkLRZE>RBLL&>B)GZ&LBqqHR&))RtL_&)BO)_q>BZG&BH)}>>Q>-GL&tLZE})GtB>GQq>_RGq}qGtqLBEE_>E)RqLHBEG}_Yqqt)_E)}__}B>HQGE>L)_qL}&RLLH{BL)HQZ}}G&BZ}}BmHQQ&qBHtGG)}}_}B}t)GQQ}iGHBQ>#G)__GH>E&G;QG&RLxtBR)LQ&}B3GBiQBtEBR>GQKtQ)&GZEEt>R_)EGH)tZTEHQEHLt)RZRHtqS>&_)>tB_q)}&__LR_GGL}tpRL)tqGZLtGG&E_tZ&LEtBq)Q>ZB>LC>LQQL1GQ&)VLGtLs<BB__q%E}Z->GfEB>EZR}QQ_}BBtGRt)q&_Zt)BR}LH&BB))Hq&B>EGH&}yRG)REx>}E)gQ)}&G>Q_&&LBQZZHQQ}>H)Gqt}q)qLq_tq}RHGL>E_>ZZ}Qe&>LHLqq>Qcqqq)2Gt>)__BB}}GBLH&ZqH}_GR>Q_RqGERuHQREqRLQHcqL)E_>K)ER}LQERBL}>RRQQE>BfQ)-}BQ&_B&Q&>qB}&5BtERRQ)Hq}R&EZZ_QHt>}R)t&&HRqLZt_BR>)EEGHEtERQBBGH}Z_tZR}Rq)>_G)qQBtEq>qQkLB__E>}H_}ZB_tEQ}ttq>}tEZ}}BGEL>QZZZHGGZ>tQt&Z}tvRRqtqRRLRe&R>E>RBQZ&GLL}_ZR})&RRLEqZ}Q3EBRHQqZ_B_<>H&)G>&QRt}>)t}KGHZqRBBGqLZHLE_HZG&&>QqZRHGEER)}qZBH}r>L_HEG_H&QE&EBEZZLL_B&HHWZPHR)RB>_EZ}}>G&LQ)G5qQ&)_>G}EqLHz)GBE_qZB>)&QBB_>&H>E!GZGtG&)QR_GZLEEiR)qE_>Zt&&ZB)ALR}ELRL}Gw)ZHEq>BQB!EREE>4BQQrGH_)}RLQtEE}}GqLB)IExL>G>Lq)&GZ}&_GRGtRqt>E_qZZtBEL>RE}L}tQq&QHGQZ&tqZQQ))QB})tGLHEtEqqH}Z_L_E&q>tHq}}GiLBL}&Z)LLEBB)EqZZL}&>qEEZA>QHqRRtQt>}Hq7}R}G>Z_L}_OB&}E&))Q&H>gtH&EH)GqZtE+>B__&ZH_)tqZ)QZLBGER&Q)t&LRGQG&R_)GHL_Q-LZBEZZLGEGLLHQ&^>H)BZ;}n{ELBM>>Qt>qQ}&_>B&ERZLL&t)Z)QqZcBEtGZG}tsQQQ%QLLQGZ)LQtEBG)qGtLLT>Zq}}ZBQ&_:BQ}_ZGBGq)HH)R^L)}EQH}t_REQB&Z}HQB&tHH&&>LGL&&_RELB+E>REHGG>LG)BR_)ZE>HL)&qt)}R&}}tBqHtqqtL>G_R&Q&MHLGtL>t}Ej)Bjtp>%tBqEQBt_q}tQRG}L&ZHR)RZR>GE}LB}tZA}}6EB_Qtq&BH&HHtEL&LQR_GRHE)WLQk&EZ)Q}L&)_G&R>GZLRQ)tH>>Gk>tH}GERq)&ZZ)ZqZRB_q&Z)RE&L)E}Rt_)qwHoE}>>}_R&}E_QZGH>RRLt_&RqHGZ}L2.}BqEZ&&BZtZB>Q&qt}GStR)ttqxQ)t}qt}RRB}Br_HH)&&GBHtGZ&Q&Z}LL&)RQ}t>_L)&{>ZEE&Q)GtZBGEt&E)ttHBB_}q&QE&>H>=&l4BEq_}Z_t>tHEG>}qGGZBt>qBR)Q%LB__Z>HHGGLQ}LGEBq)QRHHLqq>)))Ly}_ZZQ>tHLG}G1B}RCtqLtqZd)>tBR>tEZZH&&GBH}ZZR})&LBtt:>B)ZtRBBQE&LB_tBZ>E_&}LQaq}qERcGHZE}L)QqLZ)EtwL&Q>RH_&EZ}RERR)QrtG}q;>LqHqE}}BQlq)}HZZQRtRLHt&bqHRGo&tH)Gq}>__ZR)GZ_}HGL>ZtLG&>G)GL}}7qEQ}:GqBtE=Q>E_ZZZtG>qQR_GL}}R>>QvE_qb}BR_)ZEGBHEHZH)RE)>q)}R}B(EB}ZtBTPLD?G>&)}LRQLEtR&QLqqQ)t)RRQ}>>_>qZ>)_H>HB_EZ>&GtLR)Rq}>RtEL}}_cQRE,ZBL_HGGHttRqHt51}HEtEqqt>EyQZE&q>_LqtQLGH>G}&R<QtXVL>EqNGQ)&Z>&tQZHQHELRt}Q&RH};}R}G>Z_L}YQB&)R>Z}R&)HLtt&LHR&)>lQtqE)BqBHFG>{=Q_ZLBQGLL)H&&LRGQG&R_)GBHZEtqt_Z&EHZltZt}tX)RGE_&tQ)fE}6jBZ>)EZZ}&*&B&ERZLL&t)Z_QqGR>)E>ZG)ZZZH^G_BHEtG_Bt_QBG)qR}B}E&Z)}}ZBQ&+>BQGL/>LQtQ>)_qXL)}P}>&GqR))>&_BQt_RLHQqLBHGRqR))GM}R_&RE)L&BH_)B>&_HGGRQ)&BqQqEH>L_}L)}BGGRc&&>QHEZ&LH&Rq&QREG>GGBZ}_0G)Hq_}Zt_QqH}H&tZG)R!t}}_GRZQ}&&}_mEB>G&GrH&b_RHEHJZBEE)R_tBML}kEEZ))>RZL,tEH_Q_RRQ)GQLqty>}}BGE}qG>ZZQEW&RBGQ&_)GnRL)Gt>)}ZEt>qt>BZ_mlZQH)E&EHZGjLttRZRHGZ}L}<}q)H);L>}GHqE_LGZ>Q_&ZEttRLBZ&qLBE_RB}BW_LQ)&>LBHqRRB)RR)B_GBB}t5&BH>_ }&tH&QB>qZReQQ&E)GqRH)E)R^)RG>BQ)_>_B>G&RZ)WR)_RG}BxE}&t)qGH}HQlREQ&EE}H!Z>R}B:}LHGqLqtqEt>)t>LS}_ZEHG)ELGtHR&BREqBL}Z9}}q_)q)_QGz)Z&>RGtG>RQLqqLL)qZRQ}q>BB)>R>)B&Z>&}E&HBZ&t}qEt>v)qE}BBQq&qQ_tBB>G&qG_&t_HGER>RBHZBLH)R&))>&BQ&EQ&>H>&tQRGZBq)LZRQB)Rqb)QZ}>})BZQ})ZHH_)_RR}EZ)QRGRBqE>R_Q}GBRQEHR&Q&mHZZQ)&))}XqZLQQ,RQE_)qi)Zq&HHEqR}tGZtQRE)B))}>qL)t)>_EER&HZqZ>&tQLR)tGRHtQG%GHQGB}q__qLHtEB>)_HRG)LEZQq)&q)}qELR)GEZ>)BG_H>5&L_)GXtHHtRZ)tRGL>R))ZHQ_G}Q>GH>_HEqtQLtBZE}&Z)B}&Eq)_E*GLqF>BRtQG_}GEtZZtR#H)R&tZRG>>qBq_4B&EQ&)HGqtZ_G)Rt_}E_HtGq>BB)qBR}E_qQQ_&L>}rRqE}RZ}B-)LLR)>EqHZQJRE)QEB}&2tZtHQZL}GKqZ-)EGR>R&qBqt}qE>E/GZLttZB}GhEBGH)qBHqGq>q}qqLQtJ_B__QPB)}ERH>}_>>})&)L})>ZZ)BqLLR_>qQL_tBL&Q_>>}PqQLRE}qA}TqtZf)qZZ_qt_LQQEZtBHEQL)EqL&QHuBBBt>&HQ_&q}BtHq>QEEEBc_mB&HRGLHBGERB)>&ZHLtLBBtEqLHLE_BR))Z}>GGZ>EtEq>H_t>>t_&qBL:EtH>_RR)H}GH>B_&&Q)tG>HZEQqJ}Bt&ZH_*R)HBtHBW_B&>)>G&HZt_?0Ht%GBL_tZ_QRI)L}QG&qB}GQH_)qZ_}L2HBGm>RLHQ=)}qE}&)Qj&QH>DtRG)QE_>ZtRRL)}RZ}tEQR))}&BHL)nR_)_Z>}Q_EBE)LGH>GGZ>Et}RGH6&GH&t_qZH_G}LREE&)}t&RL)_QZqH6G}Ht_>>tBqJZRZEQqG}GDL}ZQQLZ)}&%Rt_oqQ}_r)>G_L&EQGqEB}ttL_QEGGL>t7>EQB&RQqt_q_)B/G>_/BLttREtQQE_R%_ERL>BGZBZQ&GZ>QEL>LEZRQLHG&BHtG&*Ht{}B_E)(BQHt>>E)GqtLLq&>wG&RB)LGEL>_>J1_q&HR>GBqG)_E&LRt&Z_QBGZ>Q_E>Z)QatLQt&Rq}HZ>>&G)L&QHqJBBNLZkBEZ)B}GMq>H&xtBRttq&tqR&BBEQBLt)ZZBQEtBB)&G_BBE_Z&))R&Q&geRZt>q_HGE_>Q}L4>L>&_H>_ZRq}}GHBGQR>LQ_&)Z4GqRHQGGHHL_ R)_&&}RLtZZLHQGEL_G}&BBEq6HLtLZtBQ1E}HG}Z}QL&G}>t)&>HBYH}H)>ZGHQZ_}Q_ERqtHEH>R_qR>_QZQBQCHRL)}qtHRtBB&tHGLB8&LBttZRZHt&}>BtG&t>GGR>q)}GGHBGEHLt_qGH_m&LR_)&)LHtQLR}tRQ}_E_HBGLZR)ZqZZnQZ&>}LqE}ZQQ&H_&q}LB_3>t}_q_R{QY>H}RE&HtttZtH&EGL>_HRB_>ZBB)EZLQHBZBL)tGLtQ)G&Qqt;R}Ht&BQtEGLQ}BGZ}GGqBLE>osQ)G>BH)9qBBQ&GLZ}^4B)&GGqG}H>L)L&tBq_>qZ}_ELL>)DqB}&tZRBt&-HQRttREte&EBLER>LQ_&EBGEB}R)EL&H_qS}BG}qQ_LGHR.)ZqtHq&LB__>LHtqG)>Z_&ZZH}G)>__RB&tBG)>GtqZ)}BRQ>t1_ZQ_}7QQL_)RQ}_oG}R_>>t)RRBBB&Z>HQPfBHQ?ZZq}}&qQ>&GRH}C!EBctLRHQ}&&)EEHH))L>QHRqH>qG>>_HBE>>LGH>OH}E&RG_&&BH}EQ>qGG&?__GZ>toQ&t)QG_}H)6&Q)BG}LLEQR&H>R>>H_)Z>}ZRH>tt&q}HGG}LR&}ZqEB6}LBtHHZ}LZRLR&RRZtGqRB_tZ>L_GGEL>tEH_QEZt)}EZH>)ZRG}EGqZE_>qB}>GGLEGZ>EHBqZR}_t&ZHEGqB}t_Rq_jEE>HGtqB_EGB}Z)EqBQG9}R_t_>&BGZBH)_)LB)HEtHR_&R)Q}GZHH&RqB}QCRLq&BZ}_HRRLEaGZEtQqqH_ELZ)_LqxL>GGBEE}&qQEGQZ)})q)}HGZ>RQB>)L+ERZ_Qql_BBq_R>Gq&Z)5E&HtGR&GBGtG>RG2&>H}E&RB)&&_t&EQ}G_&&GH9Z)Ri_R&_HqE_>BP_q>tQG_>Q_)LtH)GG>B)tqB}qRBL}GQZB}>TLQHA^BLttRRLG_tZE_EnHL>GQq__Z0BL&Et>&)Hq)BQGE>Z_ZZ_L>ERBx)LqBBGtGL>QEZRQRq&>&Et8GHRtGLH_HZqQBG}ZtEL&_B;GZ>_)HL)Ht&_}HGQq)_B;Q>GEBq}QG&ZHR_HL}tZG_>R_qZRHQG_>t_>BqtHG_>^tZZ_}HR)LR,tZ)_Qf)QB__R)}ta+}>_L>E)>RHBH&R>})&VHH)DRZZ}Q&ZQL&gR}Q&+GH&tBR}QQ&q)GEHH})B>BBLq>RQGLq&_>EG}ZQE>tHqq)>}M>q)H>GLQ&)RLZHqZtLZ)tqEt}G)}EwqqBtRGtQQ_kqQ})RLLH=HqBtLSZQR_}BEQRGELG&QZZtGRZB&&>ZGtGGEQtt)B)QHR_Qa_GHqQZR_B&&QZGEH&>)}&oR)Q}&Q)_qRRtQ>&ZH>t)RtQE&L_ZE_HtQE>)BQq}>HGQq&H)ZH>&EHqQ_L&ZLEEBq)}>v>BGE&BZHLG}LZ_&BLH)GG>B)tqB}qRB>_&>ZB}>aL)&_QLq}HRqB&st>qQQ-&HRGtq_}Z;_)Qt_L)EB&&Q;E&Bt_t1&L)ttRq)G >B(q&H_)>>&BqEqRGQ}ZqQBERL_GE&_HLq)>>G_q>_&EQLZ)q&_Q_&H>>tqL>)}G}}>_RqZH&G&B&_)&EH)Rq>>_HZqH5R>>Q_EqLH_GLL&&LZBt_#>QQtZBR}>RqLZjcZGE&R>Bq&BZwE&Fl))E&Z)Q_>BLQ&}ZHEB7L)H&_ZtEE&B)Ht}HLQB>RBZq>H}QH>)HRq>RLGZ&R_&tg})_&&)H_ZBRQG_LZHEEERE_ZLGHRGHRf)L&+H)ZjL&JEqVHEGGQQ)GZZH)G&>)_LB)HER}L)_}ZQt}eL>E__ZE}R,LLB_GB_Q>RLL>&RZ>Eq&&)ZtQRRG&kQQ&EZBGQZq_}tEQ>t_&qLB_q_ZG)q&_BQqGRR)Hh;BLt,R)GM&>_EE-RE)GLQHZ&)>&G)qQ_Lk)LZ)QZt)LE>R__>BZ}>qR}I_QL)}QZLLZtZq)HQGH>GE)qBtQR>LE1Q>B}H&_HRG>>_QB&})Bt>ZGERFE)>tEBQ)>qE}HtQL}}_q2Bq&ELltH&})>GQLt)Zq Q& L>Z_RLqB>EH>qQ?L>BQEERLQ_&LH&ZL>BG_qB_QE>}R)>LqH&q,>tT&qhHQG)QL))L_HBZL>>{RZ&tqx&QZyBqLt}eqQZ_eB&HbZG>E3,BRQZRLL&W=ZttE6)Q_t)BtE&Sq)Zt_Bt}_>BBttBRHGZ&R)>ERHZQR>RHZttREG}M_)GtQH}QQ>BHLq>RLGL>tHHEHRH)tL}BEGqRQQi&QH>ZQ>)cHqQHHG}QR)}qtH>E)>>)PB>HHRZL>_ZZRtZGX>H_LZHHEG0L&_}BL}ZZ5LtlEZtt_G)QttRZEE):R})ttB}}_%ZLEGtLZQQ&BHtqLZ}Q_&LBRq}ZE)qsQLktQR>GQ&t_HEQRH)}LRBt&>R)G>qR)%7>>t)RZBQdtGRL)GLtHG&E}Q_RLZ}Rqk>}t>qR}}&BH&E_qqtRZGLH8RRQHH&RLRGqZH)Zqq)&_GZ}tEPHQGtHBR}BqQLL_QRR}Z&zH&&HLQtq&ZQGEGZGQ>qlLHG)>>QQ>_LGEqR_QQ>GBREHZ QLVjB)q:RZGL&G_RtGHE)t>_H}qQ>BG)>GBEZ&>_G)&__}GL}B)HLH__E)}E)}LHHBRqLH_qZZtEGZ}^)GLE})ZGQZtqB>H7ZG>=.tZQt) H)>t)Z>QL>&LR&LBtQHoHLHttH}}E&qLQ_0ZQQ>>QLtqHRQQH&}_Rt}RtQ>r)B>t{}>QQLZH>EZ>RGZ&kBHEL>HQE&zH&E}}L)G>FHGqERtG_&t_tGR>EC)qR))Gt}}t)ZhQQGZHR)EqLQtRL>}__ZL}RR}>EtqqQH GQL>&QZ)EHXQLHt}HR}tZ>L)&>RRtCq>BttR>B_IGGLLtGHtQGZE)QERHL)RRTBLtqRZ_T&9Q>tGZaGR>GHHqR>>QBZ>B>4q>}t}ZBt&EG>}GEqH_GGH}R)}Z&HR/_B>_RqZ})ZHHQGqZZ_G&&>RtGZr)H<E>R_tB_HGaqL__QBG}R7H>K_Lq6})R.B&&LZZERGGQEt)B_}tRQL)&)BGQ_>&LE&)ZQE}vQ_ZE}RZ)R>GBqq&RlGq>LH>qHRZGq&G__GqR_)tLHB)qQ>BGHq>tqGH>q_ZLEH&ZZ}B)LL}HRZGL>)GqSt)G_}t)_L)H_Z}LLbQB&}_G_>_t&Bt}q/L>E_RqE}}REB&&_ZE}_5t)H_tR&}}GGL}tRH}Q_>BB}tBRHEQ5HB_tRZQQR2G_RELBB)R&qHZq>HtGZ>QBEEq>>)E&Q_tE>BE)G>)B,EHBBtF&EHBGRRHnH& HRZtL&Gt&EHLGLBq__q)HBEGHG_>q}}_x>L&&Rq}}tq_QH_WZ}}&ALLE__q)tGG:LR&>ZE}L9RBL__ZE}G#B)R&QZHQ_VRLQtRZGGR&_}tG)>QGB&}BBEHHQtG&>B}E_>>)&LRB}&>>LGqZN}Btm>q_&Z&QB&LHR)Q&E}&GQ>Ly}q)}qq&LqGERZ})GqB>EE&tHRGtHe_LqQ}tPLLq&>qB_LNBQZEtR))RqBH}ERZ&QQZ>L)_GRqQ)jB)Qt)L)Q_RHLZ_tR&QHqG}L_GLBtQX0BREBRJQ_>GB8tHRL)HcEB6E&R}GE&GHBq)RGG>>Q_&qH}R)H&_HGGH>R:BqL)HGR})_>L>_=ER}HGGLLBEZ}LEGGZQtLZEQ>8QB&_LG_>:tZZ_}HR)LRG_Ztt}GEBt_GRq_BGHHiEBL)QQRLH)t&Z&Qt&HBQGqL)E)&RL_tQR_Qq&RB>ttHQEW&qQQt#HQ)}>>}QGqR}__R>BRt)>RKqqRHqGZ}>)}&tHAG}>>JHq}H&EGL&)Bq}HQGqQB_}Lt}BZB>L{HqG}}RL>}&RqB}Q3RLq&Bq_}9GH>E_HZZEH;&)LtHZLQBZBL)PZRqEZeBQ&tEZ_Qt>HBZtBRQ)ZuG_qt>HRQ}>qHR+GRBGq&E)QtG>EQmqZQHt}B&_H>)Hqq}>BGBqq_>G>}&)}R_HRzGB)tqqR}LZ>HQ)-qR}BGF>_?GqlHHGLLH)EqC}&G}QEt&BRtQGELqt>ZE}QRtLL.GqE__etQ}t&LR}_qB}ZEQZ_QEREB>&HRLEQ&L)qGBRGQLq}Qqt&ZH)&>ZHZ&GLt_RwtBGEE>EtRRZ_ZqB>>G}q>_&Eq>)_qRLQ}EELQ_ZLq}qqEL_)qRE}&&L>QELRGtqZBLL4q&tHBG)LqE}RnH}q&QLG)ZHt_#HQR)Gq}}tTRH)Gqq)_ZRH}t_tR&}}GGL}tRH&}_RtB)&BRt}GZ&}>_GR)_R&q))&TRRtE&)B}EQBQQT&RHBEwR_GGqRQktYR}QtqR)>E)RG_qq)HBZQ>GE)q__HEtL_)EZ&)LEBBGtLB>HcGRLB_nq_tGGi>H_LZHHEGhL&_}BE}>RRQQ_EZqQ>3ELQ&tZG_E8R)&&BL_QqKLB}EqZEG&wQQqtHH>E)Z1BLtQRt)L&q_>tQBL)B>Z}HEJRB_QRZBqt}>qE>&)BGGq>))BLQH)&)}B)qL>HLqG>GG)Zw}HEGBqE)&QH&GQ}___LH}Bq&B}tZ>B}RqLLH9_Bqt)nBQZ)EqH}_iZHQG&qQ_q&qBR8NZZ_ZqH}}_GL>_qZZ)R&)BPQtZEBRtHR))Rni_ZE>BRQR>BBHq&>&Et&LB)EQL_t>&EB)P_HE)E>Q})GvL___Zq}QEB>RGE>ZH}Et>2_}q>tHG&H}4>L__EGG})tdZHHG&qH))Qq&}QZGB&_qB>}LZGLG=)qE)EqZ}R_Q>7)tqEQG&LL)QR?E)ZttL_tZ&RQ5t>>RQL&}}E_GLB)E>RLsEZRtQ)>IBEEHHt)LRLQtEGHGQ)&EHHEL})Q qRB_EqR_)BL_H>qC>EGQ&G}EE2LZEH&})&MHH__}q}H}GEQQ__>)}_ZHBtt>q_QGqH>B)EZB_QGQ}LtBBZ}H&BL}t_L&}qqQH&?>Rq}P&&Q&tEZE}E&ZBLteH>QGZEQ>ELHqtLqRL_EZLd_HZM}HqLRq)>&GBtZqRB))&ZB}EZREG)qR)R&)>_GH&t}_EEL&EL&BQG1L}__)q>}LZ}>QJ>LE}QZLB)tZqQQtqL>>)_Z>tRpBQZ_HRB}}6_}&_q>Q)&RBQE_GZZER^>Q2&}R>E&CLH>tBRQ_GG=}HEGBG)qREBZGqRR)BZ_Ltd>>_Gq>}QEE)R})QRQBQEERLQ_&LH&ZL>QGLq&BQEGLr_HZHQ)EG}))_L>}ZZqLZGGR}QqG&>,E}R3}_GtQZk}BqHGZtQB_PLEt_=HQR)Gq}}tmRH)Gqq)_Z&ZB>&&>>)Zs8BqEZ>_}taE)>&_HZtH&>BZERBRQQyEH&EQRLG}jBQQt3BQQu&RHBEJR_GG&2BHEL>HQE&#H&E}}E_LLRH>Z&>>)}q_}>G&QR)B>BH7GQ}G)zqLHHRZ>_MHqR}BS&>G&Rqt_>E,QHsELZ}_=LQ)__LR_)v_QH_tR_}E&&}L_B>G)LR_LHt)R>QZ>HLtE&Z}}GD}BRqqH}t_&}BBEHBH)>&ZHR&RRqtgq&)tftBB_}ZEQLlZL>ttLqH}q_>QGEqQ_L2)LZ)QZt)LE>R__>LB}BZZH&tHq&}ZAqBqEH>BtBZ)L} tZ}t>GLLGtL>Q)t!qBEtBBLQLRqBP_LLqQ>qQLEGQLZELR)LG&BRHERq}H&tH>)tR8ZLQEZHHtt&Q)EtGH)QG&ZHLEGR)GE&gQGZ&}H))&}BtZLRGEBLZHGq)Lp_H&GQq&)RQ)&qQ_tGt}tx&B&HBRqL>_&BB}}qHLB(>L_}EZQHQGRRL))qZBOEq>QtGGQQ}_EBB}_RHBZt&RqEtsqBL_EZR}EF})EtyB&QE:_Bt3tRZQB&QHZtG}q)&RZ_RE)HB)tqEHLELL_)>Z)Q)q_RHGQLq}RqZH>GBqX)Gqq}QGGLLBH&/L&GtRq}QG&BREt&_HZG_QQ_>q}}_ >L&&RZL_>G)}>_)qGQqu)LB&QZ)}Zr&BZ_}Z)}_XR)}tQRqELRBQE&>H&}G&ZL)t&Z)QLGD)R&)Hq}Q>qHq&E>RQZZEQ&:B>__Lqq_Zq)}LG}>))yqBHEGQq>HZGR}G)Q&E}&GQ>Lz}qQHqE/Lq)HqQH)GZQH_&Z&t>Z)>G_ZZL}GG)QE_q>GHHEt}L__q7QZJ_LH&)q}__G>>QAZZ}}tpWB}t>HHQQZ}Lq_BLiQLgQBtELRqG>&QQL_GZHE_b_)QtGR)QG>LHRtZB_)q&LH}GqREa&qZ)qEH}>G)&GHZGL>G))LEH}&GRHQtq)H}EtQL_B>B}HZRB}t&qHQ)qR>Z)QZZt>vZQGtqqEERGGLZtLZG})REL&GGRqEqRH}ttZZBQQ&ZLGqqZ)t>MEBH&tZHtLZtBE&Q>G)B<E}&{QZ}}d&})EtQRt)B&>_QEZB)GBq>_>q)ZtE>LLB>tQ}>EQqBHBEB>_)Gq}_EE}HBEEqG_)ELRF_Rq))q&}>qEQLGH)GELH_LB)}LGQLttLZqE>4B}L_QB}tGZRLttBHRQZ>qBHtqRZEE&qQE_tZ>}Gq}BLEG>__E>ZBG&)>&_q&QBQGIR}_GZG)2EQHtG&>t)tqQ>tE_RG_Zq_}HG_L&BtE7>Q)HLtHG&E>GG)qBQR&&>b_Bq)Q)Gt};_QLt_qGG>t_EB}}qqQL}GQZB}BGBL__GZ}tEG}}BGEZGt)GhBGt&RR_}GQ}qE}BG})eEBHtLH)QRZ_H&&GH>tQ&BB>ELBLQ_qRBDEDBBQtRBHREq>ZEZ&GBtE&}QQER)H_qHLt_>&_}G&HRBQEqB_}EE})7&qtH}ZG>Q)EZ&}QGLQ}_)>Q}tZtQZGHZ&})Zw>)KEZHtHxHQRE}R&}H&)}R_ZqQQZR>B>&&>LQEV>HH+&qd}B!1)>MHLGQKR_B&EwRq)>ZQL)gZ>QEf2_BGE}RBG_&BB)EE>B)ZLLH>&BRBGQqR_RGRHeQ)&>H}E%BBtE&BQGZ&L&GtR)QqE)>t__Z_)qq&Q&GLq_HYgZL__HB)}Zq_>_?GZ}t}.}Q>EGRt)Lq}H)ELZZQ_RLBL&qRD}LZqB>GQZE_QZZ)LJ)R&Q>&HH&ttH7)qR&LQEHH)G&>>HRqBHtG&&LHqELHt)q&EHqtHH&)QqR_}E8HqE}qQ_LE)LQ)_qG)RE>BttRLQHLG}LZ_&BL}HK}>}t>>_}_ZGQ>GQZBQHG>BRG)Z)tERR}}tLZL}L=)LEtHBtQRZL}t&EqtQ_RHHtE>Z_)GZHLB_ERB}H>ZLGEqR_QQ>GH&GqRq)ER>B)qHHEEZ&?BxtW>>)Hqq_BEEB,EB&:}BGL}qQt&BH)GqB}t1&})&wq}t)}q_}LGRQ}_)Z_H_dHHG_>BqtHZ)QBtZLGHQGRLH_G>L)tGLHEtEZDt_&GHRE<Zq_L?LLZE_BKQ)5)L)t;RZQt>qB}#)BqQ)qqH&&tL)_qw)BtE_>_tqR&HtqHRR)Bq&BGZR>L_B&B}Z&QR^GtLZ_LZq>EGQ&>BGGZ>QE&RHH&&}L}_)LBQQbGB))t>&}&EEBBM)ZLQBGRBZGQZQttRZ}Ht>ZZQRZRLttBB_}BRQLQ&RRRtuq>BttR>B_ GGLLtGH&)&Rt}qEQR&_RZtL_tZR_G&RRQ)E_HH_tq>B_GGBHQB,EHBq_RH))q>HZZH>Q_)qB}B&E>L_Eq)}_GHLH_GqEH_GtQH_LqSt>EbQZ_ZLt}tZ}>R)EZq}}& HB)x>HtQVQQL_&q)}G0LHtGRqt_>RQ}tWRR>E&qLBEt>>Ht&G2LBtnH>Q&&RBEt_}&)ZqRBRE/BBQGqBHRG>R>_&qHHBE>>L-&&GH}qER}G_&__LGL}qt3ZBB,GqL&t&RB)LZZLZGGRtQREt>G_EZE)RqZQZGL>t}EZQBGtBqE)&qQ>})pZ}tEGQLttBZ>EQ4_Bt_QR}_!OHB0ttRE})&QH&t;ZEQG>QLHEtZ_)}ZVBG8xRtQ)&__BE}RB)HRHHHGL>>G&ZG}LtG>&)iqvQL&>L&EHq)_)Z&HL_q&dHRZt>GEEqG_)=^LH)GRq))EQ>&_QL_}&ZEQR_-q_EqGLB>tqB&ttR}>HtBBZ)H9aLBEQLZ}qG}Bq_ZBE)&ZHLEtEHqEHZtBQtHR}t}#}Btt>Z)Q>J#_>EQBH)>&ZHR&RRQQEq&HQEL}})Q&qB6GqRH)Q&)HZZHR)_&L>B,qG>RGtq)_EGq>L_}ZqHER&LqGqqH_qGH>__GZH}RRBLHGHZB_HGHL__RqQ}RGG)R_HBQQLRqL&_}ZZ)tTQHZEYLqEB&ZQG_EZL}pqQBBE1>t_G>R))_GREEQqGB>t>>&)_&E}LSGHGQQ>_LGqQ>G)E>QB>tG>Z)QR&QHE&B}_QLqHBZZ}B_>LH_GGQ>H_}BRHGGZLL_Gq)tEGG>B_>ZBHtGG>h_HBt}tRZL>etqtt)7LQ__{ZRQBY9L_&GZN}H(LBH_EZaQ&u})Et&RBE)R_)Z&QHLQQbEH&EQRLG}&_))tRH}Q_>BB_E_H_)R>QBGqH>QGL&G_RGH}qQ_>!}&qERtEtqZHBGQLZ)GBq}RqZLRGTq>QRGLL}EE&G)B-E}q)tZZ}}GtL)YQZ)tB&_BR_)RE_BGL>ttLLHQL>qB>t&HBQ>cG)_tEL_tR&>)&GG>L}G&&B1EDLLt>>EB&ERREQ_L&BGE}}L)Q>L}PGELBtQZ_}BER>tE>RtH_ZHR))EqHHLZ)>}_ZLZ}Rq.B>_tqRQB&wRG)LqGBGqBLL&qq>}Hsq>A&>ZL}RGH)&_QLqQZZGLt_BR&}&O&ButHZZt:: Q_t)ZQ_ZGEBRG}R>QR>}B_tHHEQ_&L_ZEBHZt&qHB&EZ>q_qZHQB&R>qGE&&HREER_?&IG)qGZHG_>&RQG&qBH_tZB}ZZR}_WBLQ__Z&}HGGL)_EGG})tIZHHG&qH))Qq&}QqtLtG}qqHBqdLX_BZ)QLIZ}QtBZ>QLZLLE1qq)HYZ}B_C>qEEqR}Qj_HB&)&DHB_EBRRt)&HBLEBBB)R&RBRE}}>QZRLHBqZ>}QHRZQL0_L&_)qB_Hqa})GE>S_>q_}ZGGLq}ZqGBR__qZQL&GRE)>qE_&X&Ht)L&)_RD&>G_zB)}tGt>ttqBE}_ML)ZtBBZ)t&)HRGB>})Rs&BQARLQQ}>>LHt)R>QZ>HLtE&ZtQG&QLEq}RB)&>EHq&EZG)H&GQZ.LR)_B&*QGEt}}Q_&GH}EB}_)ERt_RG>}&Q_&LHQG&BHtG&HQ:qZLZ)QqE}}GLHt_QqH}}q}>BG>qttHgR}-)t>Q}}&LLQE}q_H_RR}}_LZR}>lBL)&EZ&}QGEB>SLRZQZFZBHqRZBt>{t)HERB<}tZQB}GLRQ_}O_L_qRB})L&RH>qw>qQ;q&__EEREQEqZ_GEt>BjRqL)RGL}q)BZLHHG)B*)&R}}AZG>q_>qGHtRq>7_QBB})ZB>q)_q5}B&EH>)E>L_L:L)q_>ZHQqG=)>__LL}ER}B>&&RG}>Z&BRG}Zt_}Zq)qEqBE}G&HBG0ZLLQ)qBBM&GRGE)Z}HNt}R))QqQ}0PGH_)_>H}}tIR_)Qq&Q&Et>QG}&G_Q&G>LE)q}}&Zt>L_L>>}LZq>BtLqH})&W>&E}ZV_R2&L&_&ZLEqG)}ZwQZ)tBGZBEG}ZmHKGHL&tZL}QQZ>Q_ttB})E&LLtEhL}}HGGBH3)RHQL&B_qERRRQR&}_>EHBLQE>}H>q&>GQ>R&HR-}Rtt}Rq_qGqHE)PRHBBE&RG)Z&tHLqG}&Gt>Q_)G&}_G&&})tG>}eG}LQ__ZH}}XLLq_HZ)L&5_L&}EG_Lt&HZQ}H1})RtLL>QRR>QL<ZZ8}EJG}Gt)Z}}t>LBH8BB)ELGw)AEZZGG>&ZBtqqR_tQRqBLqRZV)Z&tB)qWRt_Z& )GEZ>tERq}}RG&}qGZqE)BGR>R)Rq}t>EHLH_>ZR))GPL)_HL}_QI>HE_)q}}QqQLB_>ZL_LG_>ctZZ_}HR)L>G_qBtQGEQQ*)HZ}EsqB>tEZQEt<G}itLZQQt&LBqq>Z*tHzEBqE>REQQ>tBEtLRR)L+_BEtGRBG_sQ_qqZHQG&>tBLE_>q)LqR_PEZR_QFqBtZGL>qbHqQHHG}QR_LqR}>ZxRf_Lq_HpGEQQ)tqLHQ6&Qt_8q_EqGMLQ&BqV_}ZG}G QH&}R1BB&_GHR}tZ>L)&>BZt_>>BBt>RLG&&ZQqEq>qQL&EQBttBZ)qqZB3EB>LtG&HHqqGRQE&RB)q&E}}Q_&GH}EB}_)QqRt&E_HZGq>LtREB>Q_RqqtBG>>G2_L&_BqZ>_NGqq}>GG>t&qqz}QRBLqG}L)tqRQ>t_FZQ}HRtL)t>Hq}tZq}QO}H>}Hd)B>tZHHQL-2)ttHLtt)>}L_tGR}QB>_BQER}&tTR&Q}E&}RQB&QHREq}B)q&LH}GqRE9&q>)REmRE)qL)HL&_HNG)>Ht>GH>RJQqH}qZG>QG&L&t)EEL&_)q}tEG_LL&ZL}_>q)LZ&Lq}}_iLLR&}ZBQ&REL}GGLLt}>&LRtBR&}G>RLBEBRR)>&&H&EH>&QE&GLGE)>qt}&HH}tL>>tE&qQQtaHQE)RHH>&R>R_R&HH(&}>L)L&LH)ZBRQ_QqB}HGRLR_)ZR}&;q>q_EZ>)_G)L_)}ZH_&G>Ht_ZLt_Eq)LHGBZBQBG)BZG_Z}}BrH)Zt>Z>}>aQ)L_}R}QL&BBZEZRQ)ZjWH&t&Rt)RZ)BQE)ZH)BZxBRn_RqE_RtQQEBBL)LqLBQGqB))H&LHBZq>R)R&RH}Z>>Z)tLQ)t&QHq)QLtBNGZ>t))LlHEGHQ>)*>>_HR&>R_BZ&HGRR>}_tq}})4L>Q&>ZZ}tRQL>GQL_ELG}L_tLZRE}G_B_t}RQQL&LBtYRZR)R&&HqtqRE)>&EB)E_Z})H&GQHt_BRQQ>R)>&qRGtE&EHEEq>QEZqZBQEE>})LRtHQEH>}E}&B}BGRL>_&Z&}H&G>)_Gq_}tEtL}_;>}Htq>>)+>LL_ZG HG_GZG}ZI)}R_&qGHmaqLL&}q_}>G}Lw:&ZE}EGEBZ&GZq)qhGBAt_R_)ZZQLQEQRB)HYHHRE)>R)&qqLGEE>>tE&qQQtYHQE)RHH>&R>R_R&HH?&}>L)Rq>_-Gq>q)qqBtZG&>)vHqZ)HqHQR)BqQ}RGqQB_)>H}B8HLRtRqRQR?ZL%GBqBQB7LBZ-GqQQQp}QH9}RRtGOQLQ_QZGE)GE)&t)R_QH&HQgtERG}G&))LC)ZGtBYt)B&HB>)qR&H&G&R>)tRLHZE&>qGt&GBtEE}}))&}HQZ>>B)>qLt&GZ>Z)ZqHtRGq>_S}>)))GqQ>)Hq)}>GZQH_}qBH)RR>tG>L>_PZ)}HGtB_}GG))&_GZ}EL0&>LGEB&t}R8LZtLZM}E>ZLEtqR>QEWQ)ttLLEQt&EBQEQZQ)Q/EHL{tZt)t&&H}q>R>GZoE)tEqH_Et>}HBGHRH_R>G_LGRR))GqQHB&E>))}qQ)QET>R_BqKH_ZG>Z0&q__GGZ}t__L)}qZ}L)gBZB_LG_>vtZZ_}HR)LRG_Lp__GBLttZZBQ>>&LQ5&B}t_>RBBtZH}QB&&)EtBLrtb>QLttSRQQH>tB)E>}qQ)Rq)BqER&)R&EB_Z&RG)}LLBG&LBEGqL}B_EG>})BL_HtE)RGDH&))}q)HvGG>}_&Z4LZ)GB>}ZGtQQGG>Q}&RL>}__ZL}RR}L_GQZ}_QjQL&t>ZN}tZRB&_GZ#_w1L}_t_R_QL&HQ&E&ZHQ_&BBR%)RHQL&BQBERRRQR&}_>tzBL)LqLBcGqB))H&LHBZq>R)R&RH}Z>R}ELqR)LEnHq)R>qH>&ERtEEq)H}GQQ>_BqBHBG_QH_LqhttGLHGGtB}H_GGL}_BB_}Q1R)&=RLq_}GG)R_BZQQR/q)Bt)LH}H&HLEERLtQ}wBL)qRRLt>RH)>t)Hq)&q&BREtRtQ}>GHZ(P>&Et>RB>G>>q_&RQHBE>>LELqZHZEZ>HwRqQ)>G>L>)RZ&)QGB>>_LB&}ZGZ>Z_HBR}qG_Q}G_&}_&GBQ_)GZq}_GQQG_RZH}RNLB&_>BS}ETH)>_Eq>_tZ_)H_)ZEQHdL))tRL_EZR>QZEZZQQE&}BL=tRQQH&}Q}tB>B)HqZQQE)BQQB&>BLEHR_GG&qB)tG>LEBqRHRER>}8>&E)LqtHGEtqQHHG}QR_LqR}>ZxLq)sZ&t_G>Ht_ZLt_ERLLH_LZBEq-B>EtqZt}QZ&LE__Zt_t^QLQ_QZGE)5LLQttRLQq>>B)&BRqE>X>)ZEqH&QHRGBZ&tRtt_&qBLE}>qQEL&BQ&qHLEq<tHZE}Rt))LBBV&BHGGqLQHtE}}G)tqBtREtHLGLLoHZGL>n)EBZ}&G)QH_&>H_tRR>B_QZR}qRBL>_GB_}>q_}RfHBG}q=>LG_tHqQZ6&L>&EZ&_GR&QL&>LGtB>LB}t>H)Q}&Z):&>LNQB>_LGEqR_QQ>GHqVxRGtb&^BBE)>L)ZRQHBE>>LEL&_)qGqLq)_qE)BGBRE_qqtHQq&>E)_qt)tGQ>Q)QqGt)GLH___Z_}LyH}&_Eq_}tRHLQ_QqQ}GR)B&G_ZQ__PL}H_QLH}BZRLZwRR&}GTj))ttZt}t&q)Et_RLGZx_Q>&ZHGQq&>BGtt}qQW&Q_B&QBHtG&>_QttR1)Q&H_tG&BEQEqEHRGQHZ)G&tH&ZQ>_E)>E_)G&}H_BZBHL?ZLZ)GB>}}qLLB ZLQH)8)LHtB>6}tG)L_G_Z}}}G}LE&QZq_)u)B)t_RB_rhtL)t_HBQ}I}L}tEHQQH&q)G&qqGtBjt_qt>RH)qoN_>tQREQQ&_HBt)}L)R&E_)ERZ)EZ>q_EE&>R)E&_t&EQHqG}>))}G}RM_RqGH_qZ>T)EqG)GEtLt)^Z})4O&HT)tq)H_GELq&>qH}&G>L_GtZQ}QGQLG&)ZR__RZQ>:ZZ3}E*G)Qt_ZQQ)>LBHtLRBGq-)QZt}HZER>_BEt_RtGH&QBHE}}R)L&RH>qv>q)q&qHBZZ>&))LHHZ&HBjEEL)BEG&>))}LEH_GLQZGB>>H_ZG>q_>qGHtRqLZ_&q>tErqHG?&LHt>Zq}L&LZ}}>R)L}tZBw_kE:}H_#HZ}L5}BZt&HLQ>&}BLEBZB)Z&QQ&t&>&QE&GB)E)>qt)&)BqEL>&QER>Hqtv>&E&&BB)EE>B)ZLLHQ&}>>)Z&B_kE)H&G>>3)tZQ>t)}LGHtGBQRGH>L)_GRQB)Qqt}BG>QQ_HZqtGZqHGGBqGEqG>LHtqq.E><ZLt&QB&__PZ)L_}Z_QLwR)}_ERq}EpeB)_GHQQH&q)GtQqGtBRH_qt>RH)qIO_>E}BL)>qLHqGqRq_qq&HE&>R>_>qR}&qtRtG)&L_>G>}RG>L&HGGXRm__LB_EE HH)ELH_}qLLZGqZqQqGLLEGBZBHECqLt_QL&}EG_LtGtq)tE,HB}t>R>tt )B___RHEZZHL_8RZQERR>QqtGLEQE&EBqEQBZ}1SELGE&R>GHO)BRtHRGto&tBttt>qGEqqQGEE>G))q)B)G)>Q_BREBEGE>t_QLLHLZRRGGEqE_tqE}Q_HZ}H}I>}DPBq}_&GBQ&bq>G}_q)L)t)qGQBq%Lt_)Z_EBs}L}_}ZEEQ,HBq&GZQ_GR&))_ER&Q)<})EtZRBQZ&>ButRHGQt&B_RtGBLEZ>zBZELRnQELZBLGL>Z_R&-H,GB>A)tqEBEGQL&EH&H}HG>LL)ZZq}}qq>LEEqR_EqGH__}>H}H%H>_tR>t}tGRLHtZqK_ByRLqtZLZ}&&&LEtGZ)Q)&q}}t>R}QL&BLBEZRQtZG<LE_GR&Q>>HL)tRZHQGZjBtttZt)q>EB&G&RE)G&)H)GqB})>q}HLGBRB_ZqQ)ZEfRE)GLQH_EQ>)xLqHHHEH>tW}qB}&ZE}>EE>LHER&>R_BZ&HGRR>ByQZRQ>a&B&b}ZBQHGHBRFGLR}HqiLL?1B&_Ep)}QtQRQ}E&L}Gt_Z_}_&&)tt)R>E>RHQRt)HEQ&&RBEt_}&QL&QBLEH>ZQBLqBgEQ}B)qdBQGqq}QQt&(HQEH}tQ{LZHtGE>Q_QLqHSn&>&_tLH)tG&H})GL}_QqBLRGZZZQZGBLGGHZHHGnZLE_)Lq}GGtLEGEq_tG8}BQtLRLtEu_Bt_tR}ERZ}Lty>Z)E>RLQZtgLGQG&GBZE)BRQ&,GLwEqRLG}5_B>t}R%E&&EBEtE>ZGG&q_>EG>Y)_q__RGqLZ)ZqG_Q&G>ZE)q&_)q_H}_L>>}>g>>}t&>Q}BG>LL&&ZZ}&{qQt_Gqt}ER}L)_}ZQE>sQL&t>Z%}tZRB&_GZu_NjtLt_tRqEE9tH&tERG}G&)Hq?}Z})}&LHBEZ>Z)QRZBftERGGQ&_B_t_>&Gt&HB_EG>H)RLBH)&Q>L)R&Ht&E_HqGLL&)EZ)>E)QLpHEGHQ>)8>>)tqEQH))qE}HGLQ)_}ZZt(Zq}qGHqPEZGLL}tZZ&ELDRLE&)LE_tZZL)&EZ&QR<EL_q&Rq}A{R)t_GLEtERB)R&&B}G>&HBRqQRH)q>GQ3DGRHG):EH&E)R}GE&&_REE>G))q)_ZG&Lq)qqE_}&E>qEQ&h_Qq)HH_>>R}RrR>H_g>}}}EnLR_Gq__ZG >E_G>G}Eq)LQt)ZBQBGBBBtLRZ_QGQBQt}RLEqNqQ:_)BQQQR}QQ&LRR)>a>H&&_HZ)&lHB_EBRRt)&HBLEBBB)R&RBRE}}>)}RLH>GL>q_q&q}qG&>EE>&>}>GRL&Gt&t_)EL}>_>LR_>Z&>G_x&z}_ZB}E_}qB}HRZL>_>q>}QRLLR_EB)_Gq_}Z_)BE}&=RLE__H&}RRBB&EqZEQERLBRE>Z>)&R_Q&t>LtQZRtQE9)RHtB&BHBt)>Zt_&}B}t}REGQNt)-EQ>))BqB)GEt>EQEqQ_>&QREEL&__LqBHR_&R,H%GY>R__>>}qE1L&u_qEH_GtQH_QqQHQGGQ)_}ZZt6ZBHOGHqaEZGLL}tZZ&ELG}B}tLRBQZ&ZBQd&Zt)&DEBG_GR))qZ)LGIBZtEBRHQ>EqB&)&q&B>EtBL)Z&ZBZEH}R)q&__}ERB}E&>>__tG>q)_&Q_GER>H)RqL}&E>}P)EqHt>ElR>Et>GtHE)>E_HqLt)EELE_)Z_}HAHLGGLqLQL4ZBR_RZ6QBb=LttEq)QQ&&}Q_ELL}_RLQBiRR&_9P{B%tRR_t>&>L_tmR)QHZGB_tQR)t)!})_EL>B)ZqZ))E}>QQQqL_&&LRQEq&H_qqZB#)tR_H_G_R*_H>&BEE_Rt)GqZtLE}>q)Lqt)EG)>)))qgt_EGLG__Zt}},}LxGBqBQB;RB>_>R&QH&&LEtGq_Q)&q})_GLB}tRBQH8>Rqt&&&H&t>RttL&ZB&EqHtQGVtBEq}R)Q}&Q_>EBR>)LL&HZE&>qGt&GBtEE}}))&)B)EC}_)QqRt&E_H&G>LtB8GZ>t))L9HEGHQ>G}>B)tG>QH))qE}HGLQ)_}ZZtZZLR-GHq=EZGLL}tZZ&ELG)LG_)ZtQHG_)Bt>ZGE_ZI>_xRZ_EG<qB>tGZtGq(>H>Eq>ZQG&GHLCtZE)t&QH)t)>B)ERBB)&ZR}GZ>R)&EEBt)tqtH&G}HqQ.qxHtGE>Q_QZ&}QGBLH)HZR})qqL&tq&G}EqB>)GZq}tZZR}&_E>t}tvtL&t}LqHjhrLttEZQQQ&&}H_}RHQ>&LLLEqR}tq:L}EtRBEtGZ_B}IHRH)HD_HR0tZ)))&HH}E>>>)_q>HqGZRZ)GqLQtE_>tQQq})qELBE)R>E)G&_>}EHqH}HE_LREtq)HBZt>q_L&EHREE>}wEq:HEGGHG_GqL}Q9>LqG}ZL}Rg>}>_ZRZ}^&&LtttRRQtG)B)tHR}}}&>B_EZLQ}Q&QBBEHZ>)R&)QRt&ZG}7&qBLq}Z_Q>g}B^&&REQEJEHZqGRq_q&GH;E_>__ZRQB)GQ>B_H&H}RG)HR)HRaHLqT}&EEq))QGQLQ)EZL)GEtLt_QZ)}B(BLEtBZRQ>G>B&tH>G}E{G>_t)LR}HqwLLYuB&_Eo)}QtQRQ}E&L}G_tRtQQ&)BBEBREt>#LH>Eq>ZQZ&GHLvGRZt)&&))&_B})LR>H>G>R}_&RQBHGH>>_Lqq}qG}Lq)GqjBhG_LZEQq}}QEBLLEGqZ))G&})G_>}}Lq>L>t>q}Q&qQLH_RBQHG*Z>)_&q)}LR)Lt_)Z___:}LBtHHZQ>a>L>tQHLQB3>L}qqZttZRB)qbGH_QGK)_&tGR}GL&&QLVEBGG}d_BGE}RBG_&QHRZ&R_E&>q_ttz>Z)t&)_^EE>H;>>QB>&t>>:H&)HEGH>LM)&I}RE+Lq_tq&t_GQLR&&q_H&q}}B&RqB}QdRLq&BqQQQ?BBHtRRRQ)ZqLqEqZGQYG!B_EZR_Q}&QLBELRttL%QQqtHHqEZZ.Btv_R_)_e6HH&&>&QH&_HBERB))H&LHB&BR>GHqq}ZEG>GGBq>}LELLqGt>qBGEtRE)YqRtBEQ>Z)BqE)GG_>_)_Z&ttEkQZ_tZE}Q!QQq_7R&}&.tQHGtZQ}H3})RtLZL}L7))Bt>ZGE_Rq}EgRZ_EGCqB>tGZtGq&ZB&t>HE)qZGQG&QH>tlR)_LE}R>G)&}HZq0R)}?RH)}ZZRL)}qZH&ZLR}_}qL}BGZLZ_Q>&Htk&>E_G&G})hqH))G>BHtZB}HG>Zq_&T&B&_>Zt_LFL>tt&Z_}}qxLt_)Z___GQBQtBRHQR&RB)ERR&)quqBEE>L_}_&_B}EQZB)L&tQLtQBqQH>q)ZyxRtt_&_H_tO>HE&q&BHE_>B)RR)HHEL>BEBqRHRER>}6>&H}HG>LL_qZq}}&f>__sqt}EEELQt&>QHEqL>_rLLB_Rn&HN_9ZD}Rd_}>tqq-Q&R_LE__ZtEHNQLQ_QZGE)*}BZ&-Z)tqZHQ_qZZLQ}&ZB&qLZ})}&LHBEZ>Z)QR&B&G&RE)G!GH)Gq>))Hq}BLG>>_E>&})&EB}&GqRGH_&)>)_)&G}B&V>t)t&t}qZE>__LBZHEEZH)GEBLH}G_LL_RB}H_m_L}tQZLQL^tBLtZRR}RhkBBGEqEQEb)B__}RHQGZHL_kRZQERR>QqtGLEQE&EBqEQBZQCM+LTE>}&QRqRH&GqRE)Eq>Q_t_>_)}qQBQGL>t_LqZ}RE&>3_BRiHR&_>qG_>t)QGBHL_LZLHQ#qH)_HqL}BRqLR_qZZtEGd>E_GBQ}_GQL)&LZH}LJB)qtRZR}RM})>tZZtEQ2>>QFqB}tQ>RLBtQRRQq>BL_t Z_QE&}LtqHRLQr>t)R<GRLG}K_BGE}RBG_&BB)EE>B)ZLLHH&B>L_BqZ}Z&_>tEHqB_HEt}RGB>RHSEE>qi)qR)_G)})_tB>}HGRQQ_>q}}_#>L&&RZL_>GGB>_}B&}n:G}H_LRL}Q&q}}tHL}QL/RB>O>R>}_8{B)tHLGQ_TQB)F)RRQE>ZLEEER))_&HHHEGBLtt2tHtEQ>)QHqBHEq}R>)HqqB=Z>REEL&__LqBHR_&q&H&GLQq))>Z}q7Z>Z_G>H}>GZLRGRq&HGE<Lq_LB}H_G>>}_?L&}EGE>EtZBG}t8BQ__BRBQR&>B&E&RH_GZLLLELRZ)R-&BdEBHq}E&&B)t}HEQBZGB>&GBItt&QBQtQRGG)&RQ_E)>_Q_qH)&EER_)tRtHQEH>}=RqLHRG>}9_q&o}&Z_>E)E&E}ZZG>t_BBRHGqRH_GG>/tEG&LR_Eq_E&GGL}&LL)tRqtLL&}q_}G+}LB&_ZQQR>&QB2BLHQ&>RLBtQRRQq>BBqtLR})qFE_&t}HZ)R>&HZ&GZGEt&>))EqH})}RHHREqRLGG&QQ(qRHGE_L}H_EH}E)_qLtZEEHZGLLGHqG>>G)tBqH7GQQBG}>BH*RZ>L_}ZZ}&RLLR_EB)}LE)}ZX>BE}&(RLE__H&}L7QLLtHRZ}B>qL=tQHBQqGB}GOGHQ}tz/BQtHHtQHZE)qmEZ}QG&>B}EB}ZQERZ))&E}L)}&>_)E}>ZGb>>Q9&HRJ#Z&LH}GZ>& LqRHEZ)}&E)qRtBEQ>t_Bq>tQGqH)_Q>)}HGH>H_tB}}Bc&QEy>>3_LGE)&_RZBQ&GG)Rt>ZZ}BRpBqX&B&tBRBQZ )HHQ)<B)tt)R>GqRBQqt)HEQ&&RBEt_}&)LRqB!&q>qQ}&tHHE>B_)}&BHH&H>}ER&L)RGRR))GqQHB&E>))}qQ)QGB>B)Bq_tHGEH}))>}}LGRL>SDZqH4b&Q__EqEHEzZQG_tZBERZB}RG_ZREBGQLttBZ>EQzHBq&GB>t&ZBLGqqZ>QH&qL8q>RLQRcH_&EZBqERR_)H&LBGG}&_BHqER_)LLZ)B&>R_GG&qH>EGRtfq&E)ZEHLZ_ZqG)HGHRG_ZqEH)qq>G)tqE)EEtHQ)GZQ}) LHG_GqL}Qv>LqG}ZL}Rp>}>tqZq}quB)Z_BLR}}&RB>tXL}QLWRB>&rRqQqjqBBqZR&Q)>HQtVQL7QH>)LEE&R)Q}>EBZEBRZ)>&lBRqGRt)BLRBGtRB_EQLBBQEt>B)>LQBtqA>RGQ&Q_)&N>!)Bq)}LGZHQ_Bq>}LqL>_GqL}_)q}>L_Rq>}BG)QE_&qQHES>}LtZZZ}Z=H)R_GL>t_ZE}_t}ZBQH>ZB>tZRREG&&LGtVH)QLZ_BR&_BtG>&BB>EL}&QQRqBHqqHZt3&tQ_E_>_Q!qH)&G&RH)_qBHR&)>H)LqB)BGLHZ_qZZHGGGRG_GqE})qq>qtqZ&}EZQ>>t>ZRtZZRLGYQq__RGQQRd>Lq}GqELEtEZqQQZZ>D_EqGQ&<>)H_)ZR}HdG}ottZt}t&q)EEqLGQE&GB)E)Z)))&QHB2EZE)E&tHQqLR&_&&^)G&A>)GL&HQbELHwG&REH)&Q>Q_Q&E}L&G>_)Qq)tLGH>H)Hqtt}GBL&lE>a)9GBQQ)tqb}QGHQt)VZd}tCELQtQR&_HGHBHt>RL}L&qB}EqZGQhGtB_EZL_Q}.}L}tEHQ}t&tBQE)RB)B&EQ>E&>>)qqZBZEG>LtG&ZQ)E&H)E_R}HL&>>>_>&}}&&Q>B)>qLt&GZ>&_qLtHGEGRG_RL0HEGHQ>)?>>_QR&>R_BZ&HGRRLq__B}}Rq}Q&IRB_HGPqL__QBG}RNHLRtLR&}>RpLEtHH>tQZ>LEq&ZRQB&&LGqRZB)B&RH>E&>&)HZGB)EGR_)t2tH}E{B}QtR>B)q>HLEZ& QGEG>G)Zq))RGRR))GqQHB&E>))}qQ)QEHLH_>ZL}quqL}E!&f}DGtLE)EZQQ&KQLBtHq>QR5)}R_H>N}LZ5Q&GEZ)_Q6QBQ_ERL_GG_LQ_)ZtQ&>RLB_1ZRQ)Z_B}t}Z}QE>QLtEtRQ))&BHBEEB>Q>q>HqGZRZ)GqLHGE_>tQQq}He&}RtE>&)_>qLHZ)#RGHGGG>Z_)>R}&EG>=M)qtHtEtLqwEq&Q&GELG_)Z)Qqv)LHt}q}Q>N_}Z_ZRZ}9&&>EttRR_tu&}}_GB}tQZBBR1ZRZ)ZzBBG,HR>QZ&R)GE&ZGQY>)Btt)R_GB&}B}t}REGQ&HHqqGRQtG>Z)RZqR>)HqqB!Z>>L)R&Ht&G>HqGZ>}_HqRHt3}q_HHZE>__LBZHEEZH)GE>tttE1LZ_tq)t +&>G_ZB_}BqtQ&#_L}ELX}L>&)Z}QZRhL)dqLHtQ>ZLLt}RZQ&>LBRtEH)QLZ)Q3qBZQQt&BB>qQRH)q>GBQ&&HqG)OEH&E)R}GE&&}&EE>G))q)}qG)>H_}&}}>G_HZ)ZZZH{8&RE_tZR)tG&H})GL}_QqBLRGZZZQZGBLGGHZ>}>G>LQ&Lq}Q}TLBBtZRZQQZ&LtE&ZEQGGGB)EqL)}GZBLt&BBHt>&qQ&E&>&Q>&tQLEZR&)q>tBGtGZG)R>XBZGZRh_&&tHtGRB)Q)q)HHG}R}_>q_}>GqLZQcqG}L&G>ZE)q&_)q_H}_L>>}>a>>}t&>Q}BG>LL&&ZZ}ZGZLH&RZq}_R}}_G}L&}}R_>GtqZ_}QRGLttBHR}GZRQL&JZZQLgYLEqZZL)L&ZHRtxR5)BZELEEER))_k_HHEG>H)>qLBZGq>}Eq&LQEERHEEGR_H}&H>H_H&_}R&t>Q)Q&QHGZ)RE_Eq)}_GHLH_G>LHLJLLZtRqR}7=BLK_tZEH)3QB&GQqE_LG_QL1BLRQ&qmL3tXZRQ_Z>Bq_ R&E_kELE_ERZEGFtBBqRZGtRZ_Q_qBZQQt&BB>qQZG)ZJGH&E_ZkG)&}HZq%Hq}xRHB^ZZRL)}qZH&ZLR}_}qL}BGZLZ_Q>&HtX&>E_G&G})8qH)_)qq}Ld&>EG>ZqH,F&}&)GZG}_DtL}t}Z!Q}xLBB_BRZQQZ&L&E&ZEQGG_B)EqL)}GZBLt&BBHt>&qQ&E&>&Q>&tQLtZR&Qq&RBHq)ZEQBV)Hq&ZR/Qx5xH>Z&RR_Rq&}qEE>E_>qEH)G_R__HqG)LELLL_ZZRH&G8LBEXqR)_Gq}_Gt>Q}BqLLLtLqQQqq)LH_LZBEq^RLqtZBE}cGELG&QZ_}Q*))Lt)ZqQL&&LE.>Rq}g&&Q&tBZ)QE&BBZqLR&t}DB)QER>>)&q&)}EB>HQHqR)G&RRHtj&L)*q&BE))RQHQGQRE_LRGBtq0>Q_)qB}BqG>t_E&E}QZ>HQ)E>LH_ZL}BGRZ&)*G{L(_RZ__>GZQL_#R&}t5tQ>tZRR}R1FQ)G:ZR__/qQ_AtLQQBZLBLELZQ)qZ)B&xBRL)B&ZHZtZ>ZQ}&GQLtL>LQ_qq)EtEH_QB>LBtq>HLGq&3}&E&>tGH>GH&&}RGG}>Q)BGRHZ_ZZZHBGGHH)LZL}Z9R>A_:ZB}dGtLE)EZQQ&qH>HtHZ>QLGZBqt}Lq}LqELRvELG__*}}HtHRH}_&R}t_)R)QH&}B>E>R_)>&qHZtZRG)LZtB_EtZQ)}RqBLiERREERGQ_E}BH)HqHB_GRBtQ)q)HHG}>>_>q_)ZEGLZ)JZ&H&GtLREtqtHRGHLZ)z>B}RGqLZGZqDHIEhL>&&ZqHTGRQt_H>EtqZt}Q&BZQ}LR_LQtRH&}_ZZ}}y)HR}BMQBRtqHBQ>dG)_tBL_E&>HL)tERHQL>)B}EZHmQ)Rq)Zq_ZG)q&_BQqGRq_q&GH+E_>__Zq_H}GQRQ_Lqt)RERLR_&ZqBGGEL>EEqq)QEm}QG)>H}>qRLRtRqH}%q}LL_LqL})RB>QtQZBQH7RBRt)Lq}E&qLGtmq3Q_&Z}__+LH}ERHQ}MLRZtq&qHqtLREtB&RBqEZHEQCz6L-E>}&QRqRH&GqRE)Eq>Q_t_>_)}qQBQGL>t_LqZ}RE&>J_BRcHR&_>qG_>t)QGBHL_LZLHQ0qH)_HqL}BRqLR_RqR}}R>LZ_tBQ_tqQ}q_QBtH5IZLt_)B7}EnH)>_YL>tB>&LRtBR&}G>RLBEBRR)>&&H&EHLG}G&GB_EtZt)}&mH}EL>BQRqZHQ&ZRBtG&>)G&vBt)QR}H}G}Rt_>REH)E)R))zL_BGGG>__tq}}}GCHB)BZB}Rn>>>t&ZHQ&GELG)_Z)Qqq)>GGBqttBZH}>tqL&Q&&&L>ttLLQZa&Bq&tZG}GGGBR&gZEQH>>LKh>Lttt>HL)tERHQL>)LNERZd)q&tB&q_RQ)RL&)Zt&B})&LRBBEQ>R)qLBBQGQ>B_HqR}RG)Hq)EZqHGGAR9__ZZ)_G_>Z_BZqHGqLLZ_&Zq_qErLg_tZE}Q=QB&tQZBQHGHBRt)Lq}q&qLGtjqtQ_&Z}__OLH}ERHQ}5LRZtq&qHqtLREtB*RBqtZR>Q}>_LGtHZ_)ZRRH&E&R&)LLqB>G>>q_Z&GHGGL>G)_qtBtG}>iEB&B}BGRL>)qZ&}Hq&>>EtqZ_tqEH)_H>B}BAB>)tZ>_}}GBLH&ZZ>}Z3RQGt&qG}+R)Lt_)Z_EBd}LBtHHZQ>0ZBR&GR&Q&;&BLqqZFQQ>BBqn}LGE&RQ_&tRRB)&!G_RtGRZ)L&GB)qERQEz&N)EtEH_Qy>QH_qH>}GL&t)>G&RG)ZL_HB&t}&G_>}tLG}>>-)q}}ZZ2}RGq>HHaRZ>L_}ZZ}&RLLR_EB)}Lqt}Z%ZBE}&fRLE__H&}GM})Lt&qL_EZG)}__ZGQ}eB)__GRGQ_&tB}E}RntBnBHBER>>Q>q&HHG&RE)G1_H)GqB)QGRBBtqBHHE>qq)&G&L&)>qt)LGZ>Z)ZqHtREBLB_RZ>}&f&LHEGq)}GG_Lt)tZ}}Mq}>tG>q)t>ZL}Z_,>G}GCGLZt)LRQ&GGLl&)Zt}tGtBq&EZ_QL>ZQ}_ZL)QZ>LL}t_RLQR>}LEEqZEQP&)LGqQRH)q>GBQ&&BEG)NEH&E)R}GE&}QGqZBGQQ&YHLEQ>HnR&G)Rq_HGiBqQHLZ_>Q_RB&H_qZ}Zot&-}ZGt>)vSqE}HR>>2G>>t_XRH>)_EZH}LR)L}tZBW})Z&}H!)HZ}L=}BZt&HL}QZBB>/BRRQR<RB}q>ZttL HQLEZR&)q>tBGtGZG)R>wHR&&R+E&&EB_Et}H)Q&QBQEG}))}qZ_7qZHq)}L_BGGq>_)QLGHtGBQR)G&R)_qQQB)Qqt}BG>QQ)tL+}tZQL_Y)>T}tGt>ttqBE}}qGQLOHLLQZa&Bq&tZG}GGGBR&JZEQH>>Lx_>LttG>HL)tERHQL>)LyERZg)q&tB&q_RQ)RL&B_&ZHqGth=HZEtR)GXqL)&GqL&)Rqt)LGLRt_&q_H}&?>t))q_)_G_HH_}ZHHBzRHt)QqHH}G)>G&qq>HEGqL}GQZB}BGBL_&HZE_}#QB}__R>_E.)L}tQH>QBj>BLq&RZQ&&q)ttHLEQLREQGqBR}QB&H_Zt_BRQQ>R)>&qRGtE&EHEEq>QEZqZBQEE>})LRtHQEH>}E}&G)>q}H>QeqLH_En>EgQq>)QZq}>ctqaH_Rq>f_QBB_)q}HG_BBQHtG8LQ_HBt})(>)q_tLRtqREL&tRZE}_>&LGt}HLQ&ZLQ}qqZ>QH&qL;q>RLQRhH_&EZBqERRB)H&qBtG}&_BHqER_)LLZ)L&ZR_GG&qH>EGRtAqqH)ZGRLZ)LqG)HGHRG_ZqEH)qq>G)tqE)EGEHQ_)ZQH}OLHG_GqL}Q2>LqG}ZL}Rr>}>tqZq}q.B)Zt}LRQ>&RLBt=L}QL{RB>&MRqQq4qBBqZR&Q)>HBZw}L9tE>)LEE&R)Q}>EB}*GHLEHRLHZEZRZ)HLRBBqQ>BGRqL_>&Q>B)>qLt&GZ>&_qLtHGEGRG_RL/HEGHQ>)3>B)tZ&QH))qE}HGLQ)_G>_})q_L}_}q}}ERQLHtqBG}QqG}BI)Hq}>8HBq_%H>}QsELQt_RB})>LBRtEH)QLG)QZ&LHEQ&&RBEt_}&Q}RqBR&q>qQ}&tHHE>B_)}&BHH&HRBERqq)RE&RGQ.qqHLZ}R_)>&}H6q&>E)E&E}ZZG>BE=qq)#Gt>)__BB}}GBLH&ZZ>}ZYRQG_Q>?}HZTQ&&}Z)}}(Q)>_BZ>}LsHL_&GZq})GGBLNBRRQRvRB}q>ZxtLRQQLt&RBQt&&BGq)RLt)>Z)LqE>&QtLZH&E)}HE_RQQXEH})QEq&H)E}}E)_qLtZEEH>GZLGHqG>>G)tBqHKGQQB_q>B_QRZ>L_}ZZ}&RLLB_>q}Eq4R}Z,>LHt}ZZ}E&QZt}}RGLttBHRtBZRLt&-ZZQLwwLEqZR}tR&>HRtBRat}&}L0ERRGQ_RZB+tERGtG&GQ)E_>)QQqBQ1EfRB))qLHZ&Q>B)>qL)LGZ>Z)ZqHtRGQH>_LZ>HH!&HQ_Bq>}LR&LZ_ZqZ}HRRLq__B}}RqQ}&GGB_HG%qL__QBG}QqcQBd}LBQRcRLRt}H>}HR)BH&>RBELZ)BHtLRBGq&RBqEZHEQ+jKL;E>}&QG&}_LE&BHtE>q_}t_RG)}&B__EyBt)_RtHQEQRQ)GL)H}GZ}?))R8)Hq_QZ)Lq}}ZG&QL))qGH)GtLH)_BB}>GGQ__B&__RZBQG_qZ>}GGt)q_QLZ}>ZZBZ_QZEQ}zL}ttQZHQ}Z}LH9>RZt>/qLYt&RZQB>QLttLZQ)&RqBGtGZG)R>dBH&&RZE&&EB_Et}H)Q&HH}ZR>L)Rq>_OE)H&)}L&_qZQ>_)Qq)tLGH>L_BBq}RGqLZ9EqbHgEaL>&&qG}}RL}tGHqGEqG>LHtqqOE>4ZLt&QL.__:Z)L_}Z_QL{R)}__R_Q}&QBLELRt)L&ZHRtRRz)BZELEEER))_?}HHEGBHQ_RRBQqRH>Eq&GQEEE>E)qqQ)ZE%RPQ<q>t&ERLR_&ZqHEGEL>_Eq)}_E_LH_G>L}>!L>Ztq>)HGqB>t6BLH_>7q}&t&R&}>6t}LtZZ&QqRtLG_GqGQRRaL_5&Z2)&5tBt_tRtQR&}}8_bRiQB&_)HtZ>ZQQ>&)qEtHHQQRqBHqqHZt.&tQ_E_>_QnqH)&EER_)tLHHQEH>}XRqLHRG>}%_qqqHqGBQZ_&q)tHqEHtG&>BHGRq>>_HZqH3R>LL_RqHE&D>}q+ZLRtHZ>})&}Z_}HREL_tLHZ}EZ>QL/tHL}}-_BLtRH}}_&_B}EQRL)L&tHLEZ>RQR&fHBVEZE)E&)H_t}>H)GRHB_&RRQGR>>)qEGBE)EqEHqGQHZ)&Z&HEGG>)_)Zq})GHL})}Z>}_qZLqtZ&,}GqH>_GRqQtRZ>}q_G>E}EuELqtQLZ}&&&LEtGZ)Q)&qB)tHR}}}&>B_MZRq)ZGWBGzHZ_tRYQ)R&>BqQGZEBEEERq)QRZB&G&RE)G&)H)Gq>))Hq}B}G>>_EZqq}Ztz>GEH&_)REQ}RG>>qHG&E>E_Eqq}QqZ>&t&qE}GG)L)tqZ)}HO}>}t>Z__Z+qBZ)xZG_HG_}R_QBRt>ZqLGGEZEQEkqBQ ZZ&)&1EBGt)R))q&)BHE}Z})>&_QZEq>Z}j&GQHt_BRQQ>R)>&qRGtE&EHEEq>QEZ&&}&EE>G))q)}q&}R}_}qL}BEBLZ_QZZH2c&RE_tZR)tGt>R_HZZHvqBLR_qZZ_ZG}>t_hZ}}>RHL}G}ZHQ}m>B>GEZR}H0)BR_ HZ}_ZRLRERR&)q6qBEE>LE}_&_BH&QB))LZtBZbtZ)))&BHB5ERR)E&)H_t}>H)GRHHHtG>Z)E&))qEGRt)EREH)E)R))zL_BGGG>__tq}}}G8L}_LZBHB<ZLQG&q&Q&GELG)_Z)Qqq)>GGBqttBZH}>tqL&Q&&&L>ttLL}R&RB&EqZEQE&>BEt)R_}_&HBGlLR>)LJZHq<)ZGtB.t)B&HB>)qR&H&G&R>)tRLBRGR>&_q&EHEG>>E))q_B_GH>GELq>}LEZLqE)&G)BEt}BGH>>}qq&L&t&q>}tqL>RtRZ&QqGELEt>ZE})o_>_tHZG_Lu>BL_ZRq_)GG}B_tBBtHZ>Bq%&R&)&{>BtsLZR)R&&HqtERE)>&EB)E_Z_)H&GQLE>>LQZqqQ)tGBBQt>B)H&>>qE&q&}&E>>tEL&R}RG&Lq)EqE}>GE>)__&_}HGGHL_>ZLHZJqH))G>BHtZB}HG>Zq_& &B&_>Zt_LGRBRt&Rq}EIEB>G_q_Q_S}BQ_QRLQt&LBZERZ&QT&B}gttZ)Q_>BB}tBRHGZ&>BZERHG)&&&B&EL}qQ3&Q_BEqB}tG>q)BZ&RR)Bq&BGZR>q)_L}HR&}H&GR>QtZEL>}_Zq&tLGR>E.)L&_HEqHQ_qB>HHG)L>_ZBH}}GB>)&RZH_>Z>}G,)LHtqR_LG_)H&}Gv})Lt&qL_ER&QL&sZZQL^FLEqZR&Q)>HL)E)RH)}&>H>E_Z_QG&}BBq_R>tt&Z)t&EB))H&HBHEt}})qRQH}GQRQ_LRGH_EQ>)E)q)HqGLL&)E>>}qErL&G&&G}GG_Lt_}Z}}ng}LLtBqBQZ=Q}&_fR&HEJt}L_QLq}HRqQZGWZt__8_B__fRHt&GGBGt_RtQ}&}BsnBZH)B&RH>t>>&)HR&B>ltRZEtREQ)EHBB)BqBB)GZB_QQqQHBGH>R_Rq))qEELq)Gq%BDG_LZE_&=)HEE}HG}>L}ZqqLqtqqL}EqB>>t>ZqQZGGLGtL>tHtetLQt)q)QB4EBBtRR>}q&&BHr&Z>_t9ZQt<EL)QHZBBBEBZ))ZZ_LQ&tRB)H&RHR&_RQ))c)HBqqBBQ)RZB}qZHRE&&EQtEt>t)&q})qtc}Z)tqEHQGQ}q)#Z&H&Gt}HEtq&)}EG}}GQ>B}RqZLZtZqB}GqH>LX}ZZQRG:LX.HZLQBGBBZeELZQZGQLEt}ZL_tWQLHt}L}QLDLLLt)HB}Q&QBBEHRR)R&)HRE&>qQq&EH>1_R))_d}HH&&R>tt&Z)t&EB))HRBHBGBR)_ZR_BQGQ>B_HqR}RG)Hq)ZZqHGGjR6__ZZ)_E8HH)ELH_}qLLZGqZqQqGLLEGBq>Q>KqBZ_GZGQLqtL}ttZQQ)G)BBtELB})ZZL}&ZBRt&5E}tttRtQ&&}Qq_{RFQt&EBQEQ>&tHjHHHE>>LQLqqH}GqRG)^2tH_GZB_QoRHBEqHH}ELqZ)qGqLq)LqE)BE>}H_qZZHGGG}B_>ZLHLTq}tGqqL)EGR}EGG>_}}qHLHtHq_QRqt>)kEZHQ}=>B>{tZ)Q_G_BH&ZLH}_ZRLQ&RB>tqmG}EtEREQq&QQZt&HRQE&GB)E)HZ)&qqBqEEH}tE&)B}EQ}>)B&BBBE_}HQ)q)HHG}>>_>q_)ZqGR{)L&HtZELLL_ZZRHRG*LB!q>B}RGqLZhEqbHfEyL>&&qG}}RLL&GL>Et&ZRQk_ZZL}+GE)Zt&Z)EHZE}s)GLB}G>qL>tHRq}e>>LxtRRBQv0_)GtEH&)&ZmB_tQZEGB&qQH&_HBELL&HRth}L)R&E_)q&B)EZ&)_EE&>R)E&_t&EG>}1Lq&)LqEHrr}&_HGG}>BX_qtH)EGQH__>}_)qG}GGtL>t2^Z>G&>ZZ}tRQQ&)QLq}QRt>ltZZt})RvLZEZZ{)&stBtERL)})&)BHE}Z})>&_)>tZ>ZQ*q&LEEt>Rtt&&Q}tGH}EQRBHR&Z>Z_Z&BHG&H>HQGqZHEE)Hq)G&tHE&ER___q}}QGLLL_t>RH>yRL&tqqq}E#>HE_q>QHDZQ})GHZ>_R(RBR_HZ5_}y}>3tRZG}_ZZLk_EZG_G?_L___R&EtGgBOttREQQ&QH&0HZ})H&>HLtL>q)}RqBL7ERREERGQ_E}BH)HqHB_GRBt)Q&HH}ZR>L)L&LH)ZB>>)GL_HB&_HG%H&)HEGH>Lg)q}}ZZi>)G&>H_}RZ>L_}ZZ}&RL>}t}ZLQB#ZBZtQL&}&&&LEtGqGQ)&qB)_}R}QL&BLREZRQ)&ZQLEmLZ_ELRBQRE&LrQj&kBRE_B>)q&qBqEB}Z)qRRHZGRRR)MR}HH&>R>_>&G}&EGRt)&LQH_&)>BG)>__HGLLB)RZZ}ZEGQ>_}>L}BZZ}Q))Z)}HuBHf_tq)}_q_>QtQZBQH6RBRt)LqQZZqLG_tZEE}e)L)_)Z=E_GGBGt_RtQ}&}BVFBZB)B&RH>t>>&)H>BBEEGZ_))RRBHv*RLE,>&QEE)BQ)QqQBEGLBG)_&QH)ZL>H)LqBtqGR>q_ZLEHKEwRk_>B&H>ARL&tqqq}E:>H_)_Z_}}kQLLtLZt_L:ZL&tqBt}GGG>GtRBs}Z&ZLwE&ZtQt&R})&BR&)qpqBE_RL_twREQZt!ZEQG>QB_tQR)GL&HBLEB}q)R&qHZqER1Q5sfH>Z&RG)}LLH&&HBEEG>>_/EZ>L)-&EtZG&>)+H>t)tq&HB)GBqH>GHLq)pB>}ZGtQQ_>>Q__Z>Qt)KZZ}tG)Q5_EZHE>Z}Q&G_LR}_RGLqt>ZG}t>qLtt&RRQtw})_tBBEQEZtB}tBZ)GR&ZQ>&}HRE>>EH&tt}Z)&&)_HEBBHt;>Z_)tE>&))&}_EE_>LPZqq)Z&)}qGZLtBYGZ>t))LAH>G}>>_BZqHLR&>G_}BL}>ELHEGiB}H_GGL}_BB_HGmGL_ttZ}Q}c=}B_BRBQR&>L>E&RH)&*EBG__R))qZ)LGaBZtEBRHQ>EqB&)&q&B>EtBL)L;tH&E_R}t=&tB)E_B_)qRHHBGH>R_RRtH_&}R}_}qL}BEBLZ_Q>ZH&/&>BGG>w})qqLZGq&s}.GLL_GZZRQZG,B&)EZtQRqt>Q_Hq}})GG)q_>qE}q7}}QtBZB}B1_)HtZL}QH&}B>E>LEQtZQLQEQRB)H2HHRE)BRQqqqBH&8H&)_RZHR&ZR&_&&BHt&R>>_Rq&}qtG>E_>REH)E}>Q:>qBHBEB>_yHqZ)}GHL}_>Z>H>l>>)t&LtHtZ)>LN>q_tRZ>Q&_GZ(H2=_QB(Eqr_HGEQHk}LLQZZqBqEqZLQEZBBRtqRZEE-vLEtGHQQ_e_L_E&HtQ)&>_qttZqtQR))Rq_ZG)q&_BQqGRNQE&q_)EGB_EE>q_q&_H}8ZqLHqZH>L)jLtHHttH>GL>ttBEQ>t_Bq>tQG>>}__Z>}&RR>tG>ZRQ>4&B&_&R&}>mtQ}_}BB}qR&LL.hB&tta)B___RHEZRQBH_GRZQE^)QqtGZtQEZEBRtHR))R^e_ZtEH>}G>ZBZq&RREG&G)tEEB_)H&LBQZZRBER>H_Zq&}t)p&_tqEu>Q;B&))}&G}&*Q&tH<GQ>HXtq)}>Rq>LGq>Q_tR>>H_)Z>}ZRHLL_iBttZqE}>_LBO}Z,LLr_EHZ}L&LBZERZ+Qh&B}EtQREQ)&_L_EHRGtH%_QRtQHRE>RqBG(ERE)E&qHQ&ZRyQSJAH>Z&R_Eqq&}qEE>EEBJT)ZEZLZ)IZ&H&GtLREt&)})G&}}GQZ>)_EBH_)QZQHX7LHt)HZt}Q2)>HtBZE_BG)}Z_}BZtRZ&LEGtZtQt4&B}*qZG}tnE)}t)Z)})rN)_tBLtQ_&tB}E}Z})}AGH>q&R&EGdQ)}tyHHE}>>HZGRRR)1>)_qERB_)q>_)t&Q>BELqL}LEQLqE)qHHLGBQq_RqRHRG}Q>_ZqttQqEHQGqqZttE0LZ_tq)tTG)}&_=R&}twtLG._qG_}wqQ__BRB}t&ZQG_QRQ},RHQ}ERBGEL&>}MtRB<QLR_QGqBR)tHR_QHERRqQL>GH&paRHEGq&_}E_RHGEqqQGEzHGEgRtB)G)>H_BREHbGE>t_Q>ZH-EE>GEGqZ))G&})G_>}}Lq>L>t>q}Q&qQLB_BqB}_RHLL_(Bt}&Et}>fHBS}Z+LLl_EHZ}Ho_LHtQR>}}>RBqt_H}t)Z}L)q>ZHQ)&>BZqHRZt}&HH}E>>>)BRZL_tQ>QQWqL_qEqHwQ)>QH&q}HQGLqH_BqER&EQq})LqQHL_q&rHRZt>GEEqL_tG)L_)}ZH}HGRQQ_E>)}_Z)}_G}qBQB#RBZGQZ_QQ0}BLGGZ_}Qb))L_GLB}tRBQHW>Rqt&&&H&t>RttL&LLtE&R_Q}ZTBtt)R_t_{JQHEB>HQHqRQttQRHQ}&)BGZqR>QE&qH}&Q>B)B&BH_ZH>ZE}qH}}G>L>_B>ZB_EQLQ) ZLtqGq}^))LQ}&Z}}QjLZHtBZE>&GQZ}_LZQ}Ltqqj}RRtLGGEZLtt;)B__}RHQH3R)QtEL)Q_R)Q_V}ZB)B&RHZvQR_)Q&}HLNGR_QQ&)_LtGBBQt>B)H&>>qE&q&}&E>>tELqZH&Gq}t)G&tHEZ}>))}qQt>GB>>_LB&}LEtL&__q})-Gt>)__>_}}G}>}_EBQ}>G}L_t>Z&ERGGQL)KBR}RRqL>kjZVtENG}tt}ZB})>RLHJ>B}ERRq)EE&ZtGZ&&B)qHZ_tQZ0)qq)ZE)&&)B}qER_)LLZBB&ZB)EELLB}E_>L)RL}HBG&}EGRRG)LEBQ&)RqB}&EGQR)BZB}RD>L&t&ZH)GG)LG__ZtHt(}L4G}qt_>G)Q>*LLZ}5qGLGtGZZQ)ZRB&t&Z&QL>qLt,ZRq)ZYGBG-HZ&tRgRHRE&>qQq&EH>,EZ_)_&q)Q&)>Ltt9HQtt)>))&qBQEt}>E))q_B}GH>GEH&_)REQ}RG>>qHG&E>E_Eqq}QqZ>m)EqGtQG_>_)_Z&ttGHHE_tZE}QAQ>QtQqvQLRqLq(gq)tQl&Q}FQBLQR&>L>E&B_EZ7>}ttZBttEZ)BH1BRB)Bm)HZ/_R}QB&H_ZE>R>Q>&Q_LERREG)RGQ)&ZRRGE&&HREER_9&&_)qG&Lq)EqEH#qtR.EQqZ_tEHLH)EZR_<E)L)_&L}_QX>},yBZL_&G>Q&_BLt_vRHL_G}Lt_}n>LZ_BBjQqZ&L}0/RqEQAtL}&GRZ_v&&Q1&&LE}_&_B}EHLG)&&GBEE)BR)&TGB2pvRRt_&q)_&tBQ)BRLHLGLRQ_qR)HHEHRH)tL}HBG&}E)q:E)Lq}Q&)RqB}&EGQR)}qtH}G)LL)QB>}ZGtQQG_>QH_RL>}__ZL}RR}LRGQZ}QQ2LBLtHLRHtG)B)t&RBEZ#Z)&__B)QqRQQ)&BR}EHRGLqu)RQtBR)QBEZR&Q>>EB^lGRBEE&_HttQ>})}&>_)EGB_)t>_)t&QRH_Hq>}R&)>t_)qQ}B&2>t))q_tBElHH)ELH_}qLLZGqZqQqGLLEGBZBHE1qLt_QL&}EG_LtGtZ&_}CHB}_}R>_EG)L}_QZ_}J>ZLL_GZZQQZ)BHtHZHQt>}BRCQR})Q&LHLEHBR}t8)H)E&>BGZ&Z_&t_H))q>Q))qB>}GH>GBq&)>QEB>))BGZ>&)>LEHy&G>BGEq_}tEQL}_}q>t)GGH__tL__tqQ>HtHZ>QRq)Ltt)ZQQBqmLt_)Z_EBG.}H_EBHt}ZLBZ9qRq)q,LBEzBRRQq&Z)Et ZEQG>QB_tQR)GL&HBLEB}q)R&qHZqERgQE&G_QE_R_Q_q&_tE)>>xq&t)q&QH)G>L_BGGq>_)QLGHtGBQRGHL&)_qZ>)-Eq&}RGE>_&&q_HS9ZL__HB)Q&q_>Lt_Z}QQGQBLttLL}_GABZt_ZHE) Z}EtRZHQ)&RL qZZEtRGtLq/)ZEtB&H)RGtRRQZ&q}>ttR)_>>}LttqHQQqq>H_E}R))_qqBL&H>LQE&_HEER>L)B&G__Et}L_RLBH)EGLq_)qBtQG_H)_ZZ)}H%BHi)dZRH_Gq>__BB_}EAG}3t)RRQ&&qQqtER>_Eb)L}tQB}Qt&RL_t_Z&QL#HB}tGZZt>&ZL)t}R)Q&&ZBRt_H}QR>ZH&q&RLGq&LBQEt>L)qL>HB&LRE_LqZ}qG&LqGZqE}BGRL>G>Z&}H&G>>EGq_HQG)H)Q.L))8G_>Q)EBB}HqH})ABZ>QLGZBqtqqEERGt}>_)B>tLZZL}_tZ*Q}x>)HtQL}Q}&}LtE>LEQB&&)Et.>&QE&>HRT)Bqt=RQ_RtBRQ)R&q_BEq>Q)L>L)}GRB)QR&q_&EG>^Qrq_BZ&_>})}&}HEZQ>>_tq}_}q_LBEE&BHLZRLqtZqZ}GELHG__qQ})q)L)t}BH}%ZE}GtQL&}}Z&LE__Zt_tG)B)tHR}Q>&>B_fZZMEL&RQhtRBEQ}RGQRE&R&Q&&L_qttR&)R&tB}q_RGEE4_)_t7HQ)>>HHHqLRtE>&)BGGq>))BLQHZ&)HGE)&LH_Gq>L_RL2H}&<}HG)BZ}LGqQH_Lq2ttGLHtGGB}H_GGL}_BB_}Q7R)&_QLZ_aRt>^tZZt})RILEtHH>t_G>}ttZHH})^EBHtLH)}k&RLiEqRtQ&>_BQER}&EZR&BHqtZn)Z&tB)q+>RE&&t}&EG>G)qq)}q&)>))qqL}&EEH>_q&g}&q&>BEtqt}tEQL}Gq&GHtEE>,_RBBHQGZ>B_E>G}_G_>_t&Bt}HqELEtEq)QQZZLD_EZGEQX_L___R&Etk)B>qqZ)tRZO)Et&RRQE%__&tR>RQQ&nQBEHBB)R&RBRE}}>QERL)t&GBt)Q&HH}ZR>L)Rq>_5Gq>q)qqBtZG&>) Hq&)H&3}q%)&E}&G)>}OEq_}LRZ>_)Z>)__RL>}__ZL}RR}L&GQq__Q5BLB_BZ_EHnB}}_}L}QLgRB>&gRqQqlqBBqZR&Q)>HQGXQZGGR?BBQERRqGBC}QHELBH)>&>B>EQ}L)}RBHL&B>R)qqZ_EEyRE)GLQH_EQ>)cL&G)BEt}BGHLF}qE,L&5_qEH_GtQH_QqQHQGGQ)_LqQ}t8LLq&>qBtBaBQ>tRBZ}QR&L_GfZL}QatBLtqH>}EZLQQALZ&QB,tB&tGH)QRZ))Z&LHE)&wt_ZE&R)GHRtQHy#RLG)wEH&E)R}GE&_HLZZHQE>&Q_GEq>>)G&ttqET>QGQ>t)}EEQZ)Lq}}ZG&QL_Bq>H}RqLRGZLL_BZ}}ZGGBQ}tG}QG_tZBERZQ>RG_ZqEBGQLttBZ>EQYt})_tL)Q)+qBLE&ZEt>&qL.E&B&Q=ZtB) tRtQR&HHZt8BB)R&qHZ&ZR;Q8n1H>Z&>REq&R)qEGRt)EL}H)E)R))#L_BE&t>_EtqQHHG}QR_LqLHLG)QB_>qGt_qEHEGRqQtGGqL>_GqtEqGbLQ&BqiHBqG}T&Qqt}JnQLH&tZE}_G^)}t)LQt_RqQK{_BLG&&RLgqLRRQE>)QtCtRqGBKQBtEBR>GQ&ZQ)qqHREqqqB}Et>H)>R_H}EB>HEH&L_}Ee}Z)QLR)}G}Rr_RqGH_qZ>b)EqG)GG_>_)_Z&ttGLHE6>LB_>xq>3t&B_}EGE>EtZBG}t#B)R_tqR__RZQL&EZ&QRFEL_q&ZLQQALBHEZZBGq.:BQqBZ%tBR}_ZtLR})Z&&_LE>BBQLqBHLGZB_)_&ZHBGqRGELqZH&GqHq)HREBtGE>__Q>ZBYEERG_&q>tHE)>R)HqG)gGt>t)tZqtEG}HG)EZG}t()}Rt&qG}!R)Lt_)Z_EBP}LBtHHZ}_ZRLQ&RB>EtuGLttEH}Q)h}BQq>RBQ>&L_&EZRZQZ&H_REqR_G}RE)&9<R}G_eGHqE_RQGG&tHBZRH}EERt)ZE)}E)&qRHEE_Q&)Gq}tLG&HLG}Lqt}E_>G_}qBt_Gt>))GBH}&q}}QGXLG_}Z>QwtZqGE>/ZLt&QZ>_QZtQq&tq^QZrtL)&eZZ)ZOjH&ttRt)RZ)L)E)RH)}P}H>E_>>QZqZBnG&ZE)tqRH)&R>RQ)&GHQEBBE))&}HQ&QR<)RqBHdE_}G_&RFHGGn>___&_}_G}LHEG&G}GG_L)!BqqQqGG}P4&Z_tB5>>__WZ)}HqGL__QZ)_)/HLH_HZtE}6RLHt)RR}.>ZB>ARRZ)RVyB^_NRyQt&_QZtZ>ZQa&G))tL>L)Z>R)>EPH))L&RH>qr>q)q&qHBZZRL_LqZ}RE!>c_BREBGGE>)__&_}HGGHH)_>RHQZR}>GqqG)EGELE_qZQ_ZG&B&_EZG})W)Bqt)ZHQ}G}B>t_LZQq&Z>1tGLH}_ZRLQ&RB>tqDG}EtEREQq&QQZt&>&QE&GB)E)>qt}hQH}EL>BQBqZHQ&ZRBtG&>)G&iBt)QR}H}G}Rt_>REB_G_>}_QqL}LGtLL_ZZRHRG*LBEEqt}EE)LQGZqB)GG>}GGf>t}Qq}L}t}qtQ>qEL__HBE}ZhB>G_>qG}QRGB&_GZ5_n3tL)t_HBQ}v}L}tEHQQH&q)G&RBBtLZEBLq}Z_QG&}BBq_RGQ)L&BLEQRqQH&qBtZqR>_>qq}ZEG>G_Lq>HZGR}G_&q&H&GLQq)<qQtBq_}&QE>LHER&>R_BZ&HGRRL>_ZqBt-5R}&rRLHtBZqQ&&HZ)}BRtL)t>Hq}tGq}QW_LtE_GGBqt_ZQEG8QLEE&RQQL>}BR&)R)E}%t)BEqH>Q>>ZB)q&ZGEGq&)tELH))B>}BZqB>)G>&H)RE&BgGRR(B)G&>B))q}t>EBH>Gt>itHG)>B0tq)}>Rq}>GR>QH}R>>H_)Z>}ZRHLL_bBt_GqG>t&}q_}GD}LB&_ZQQR>&Qq_&L}}H>RLBtQRRQq>BL}0HBGE&ZGB_t_Z_)&>tLnE;RB)_RZBR&ZRrQE&G_QE_R_Q_q&_tE)>>Nq&R)Z&QHQz>&HH)G>>ZVH&_)}G>L})GZBHQWZLQGZq-HKE(L>&&qt_qGQBqt&ZE_BvRLqtZBE}dGELG&QZ_}_G_B&&tZ)Q>>qQByqZqEE?&BRtEZ_G&rGB}&}B}tHZELtq}Z_QG&}BBq_R&)>&&HZEERqGt&)H>ZqHHQqRQB}Z>RH))q>HZZH>ZE}qH)}G}RM_RqGH_qZ>F)EqG)GGEH)_}>)HHGL>B_}qtt{GZ>_)uZB_H^>L>_>ZQELfQ}Bt>LBQRCqBZ&EZI}CGlB>q&ZGQ}>LQt^HZLGq->BHEqZ<G>yQBEtQR_)Bm)_LERREG)PtQ)&E}BQQ&tHBE>}Q)}R)B)&)>))qqL}&EEH>_q&0}&q&>REt&G)tEQ>H)}q)HGRq>>)Eqq}}qQLB_BqB}_RH>hG}q)_}!LLRt>B#QqGeB&&_ZE}_Jt)H_QL}}HR}QQqqRRQq&Z)EtBLGQ>RGQC!tRQt}&}H}tt>>tEI)QQ&EBQQ>&)H&E>>ZGG&&QGqBHQPqq>H&ZB>>)GL_BE&_HEgH&)HEGH>L1)q}}ZZD}qGq&/t_EGLq__qQtGGtLB&RqLHRq_})&BqQ}thBL>&QqGQZGGB&t_qsE)F}BZ&KLu_fG+)__GRqQ_XQ)Gtq>qQ}&EQ>tLB>)>j_BhE)RHtG&_BQE)B)QHRB)E&.BEQ)&}BQE_Rk<Z&LBGEZ>QE)qHHHEH>t,}&))QZ&}ZG&qEH_GtQH_QqQHQGGQ)_}ZZtIGqR+GHLHEZGLL}tZZ&ELhq}B_GRBQL&Z}_t}Z}}}aE)Q_EL)QB&)B&E}Z_)>&_Q>EqZ1)&>_BEt_RtGH&QBQtQRGG)&}HZq(Rqt9>R__tG>q)_&Q_GEt>BGB>Q)LER}J)ZqLHkEEQZ)Hq_HHGQL>)}BR}qG_Q}Gt>}H}R>>H_)Z>}ZRH>KG}q)_}K}>3tRZG}_ZZL-_EZG_Gf}})_)L)}HSLLBt}ZtEbhZL__4RBtH&>B>t>RQGL&>QBtBBB)R&qHZqERNQs{wH>Z&RG)}LLBH&LHEEEL}B_EG>})BL_H&G>>&_ZqEHqZt>)_>BqHRqR}LlEq&}RGE>_&&q__qN&}qtqq}}t=HL>G_Z}}BCH}HtBLRQqZRL&_Gq{QqNL)}__Z>}} (Q&tEZE}E&Z)GEZLDQEZoBtt)R_GB&}BBEH}Z)>&ZHRqGR&tSwG);q&}}))&}HQZ>REEL&__LqBHR_&RoHyGj>R__>>}Lq&>rt&qt}tEtLt_EZ})WEiL2t&Z_tHGZBZtRB&tq+tQH_QLq}HRqQZG2Zt__Y_B__dRHt&GE}t&&Lt}H EBRtHRLGqwRQq&QBtG>&HBRqQRH)q>GB&&&BBEHLqB>EH>qQiL>HZEt}QE;RQ)qE&}tQpqZHtE)}u)EqHt>EBH>Gt>GtHE)>E_HqLt)G_>Q)EBBH#qH})GtLE_HZ>QGtqqEER1qL_&}LGH}Z&>%&_qGQql_LQ&GZQ_4bG}Ct9ZBQ)&LBZ8QRBQ>&LQLE>BqQ9RqHqt}Rt)H&>Q_E}RB)HRHH>E>R>)QLLH&&B>LEBqRHqGZ}E)^&ABfG>Q&)Gq}tLEHRLEELqt}E_>G_}qBt_Gt>))GBH}Qq}}_G)LG_}ZqQ,tZqGE>#ZLt&Qq__QZt)L_}Z_QL*R)}tHLQ}QZQBQt&R>Q6vtQRE&ZGQwZ8BZO_ZEt_&_BZEB>qQGRLHZE&>qEq&GBGtG>RGm&G)&E&H&)E&_HtZH>Q)Hq}tRGL>L)Lq)tBG>>Gf_&E)EqR}Z6Gqq}>GG>t&qq7}QRB>})B>G_GRQ>t_?ZQ}HRtL}GEZLQEdtBQ-ZZI}AGMB>q&Z>tq?EHqtHRFQZ&_HZN_R}QB&H_ZE>R>Q>&Q_LERREG)itL)&ZH>GE&&HREER_=&qqB{ER}t)GRE)#q>}RE+>Lt>GH>RTQqH}qZGHGQG>BHLRq>>_HZqHeR>>HtHqGQRq)>_G)Z)}q4LB&_EL>QqGdB&b&qE_tRRQLsRRR})vGBQtBLEQ)6}BQFQRBQBnBB_qHZQt}R{)qN5RtQ)&__BE}RB)HLZH>EZ>RGG&&Q=tGHCG&L}H)E}>QN>&E)LE_}LGB>R}&&O>._CqR}_q>LZ)GB>HQGE>L)_qL}&RL>}t}ZLQBTZBZtQZ}}BNH)Z__LR}QRRQ>KqZG_EwEBEtqRQtZ&R}GtERGQ)&)QRt_Lm}}GEQBEZR&Q>>EBazGHqEE>EHLqG>qQELRHR&>>B_>qq}&&Q>L)R&Ht&GZHqGLL&t&GRQq_>q&tBE>HH_>ZH}>wRHt_.>}HR8}}Qt>>EH6qQ>>tQLQQLqGLHtqBGQBq1}B_BHqQH;qBZ&EZ>_EZLB}q&ZRQB&&LGqRR&)Bh}HZ.QRG)Q _HL4GZH)tREH}u2RQt;&tB)E_B_)}&BHH&H>>)ZqR)REHBA)L>1_&&E>)EQqQ}QEELLEGqZ))GQL)))ZB)8G{>B_)ZL}ZqQLB_>ZL_LG_>;tZZ_}HR)LG/tZGt)G)Q}tQBB})R>L_&ZZ)tqGPB{ttREQQ&QH&4HZH)H&>HLtL>q)}qqBGE{Zt)_qZQ_twBHQE>H)}&L>ZEqqq}qEL>EEB&t)ZqBHZQEqRHQEE>_jHqZ)Hqw}Zs)qEHQZy>E_HB>HuqBHtGGBHH)GELH_LB)}}dZQCXLLq_HG:)Z_LZ}QZj&)LtRZEE)cL})gGHB}Q tBBt>HQ}EZ)LtJ)RHQHmHBtq}RGtQ&HQQEBR>)LL&HZEZRZ)HLRHH&>>RE>qqBKG&}_)E&EBEGZ}G)tqBtREGHRG>L+HZGL>6)EBZ}&G)QH_Z>Q_BRR>B_QZR}qRB>Q+tqttBnHQHGtZQ}QGQLG&)ZL__RZQ>CZZK}EkG)Qt_Z_}_&&)tt)R>GqAtLqzQB_G>/HB)E>RZGHFtH&ttRG)QgE_}EB>&GE&}LE&LHB#&&RHBG&RGWR&_)>GLL>_LZ&)QGQ>&_>qgHtqRL&)Gql)+G(H__tZ_H).H}&)Eq_HtGGLZ&Lq}}qGLLtGEZ)})G)LA&_ZR_t+EBttER}tq7GLttEH}Q)P}BQq>RBQ>&L_&t_BqQQ>q)Zq)RtQ)&__BtjBHQE>H)}&L>ZEqqq}qEL>EEB&E)ZGqLZ)GqGBGGG>L_)>qHqaq>}_ELQH>o>>_?ZLR}GZQ>_GRqQtRZ>}q_G>E}EIELqtQLZ}&&&LEtGZ)Q)&qB)tHR}}}&>B_gZRq)ZG2BGYHZ_tRxQ)R&>BqQGZEBEEERq)QRZB&G&RE)G&)H)GqB})>q}HLGBRB_ZqQ)ZEBBG)>>G)a&t>QE}q}}}EtL>EE&_}_G}LQ_LZL}tqR>RtRZ&QqGqLEt>ZE})2_>}tHZG_HG_}R_QBRt>ZqLGGEZEQEmqBQ6ZZ}_GRZ}G_QZKQLuQBHqRZGtRR_QGqBRQQL>_BQER}&ELRZBQqtZP)Z&tB)q0RE)HL>)B&BBt)>LHB)EE>H)LL)H}GZ}WGq>&)HE;QZ)Lq}}ZG&QL)}L_H_ZLLBaB>_}}G}>}_EBQ}>q)QqKRLq}GGtLE&}Z)})G)L2&_ZQQR>&L__&L}tt>RLBtQRRQq>BL_t^Z_QE&}LtqHRLQr>tBHDGBEG}1_BGE}RBG_q&QtEE>tQ_q})qGqR})tqHH>&_>})BqH)HE)HR_>ZR}>GSH})LqRH>GB>)mEq&HQEEL>GLZZ}ZGZLH&Rq__>3LB>tLR&_Q.BL>tLH&QZV&Bq&tZG}GGGBR&mZEQH>>Li+>Lttz>HL)tERHQL>)B}EZHZELGiQHt.}ZQL&}HZE&}L)B&>B}Zq>REZ>>)Qq}H>GqLQHtE}}G)tqBtRqQRRE_qRtBEQ>t_Bq>tQEEH))t>)})GqLLt&qE_>2q>,t&L&QqqtL)GtZt}RDHBZ_*LBQRxqBZiZZk}xGzB>q&Z>tq?RQqtGZtQE>}B)t)Z)Q4>_Bu/tR_tt&QBHE}}R)L&RH>qvR)E&&}_&qq}Q)_&QH)ZL>))qqL}&EEH>_q&C}&q&>E)E&E}ZZG>Q)EZ&}QGLQ}_RL)})Z}>txBZqt>TBQZ_ZB&HGZGLBYtR&t)YBQ}__BB}uR>>GFRZ&_NRR}#_)R&QB()B}q>ZBt>RtQ;qHR)QB>tB)E>}qE>RRQQt}}>QH&)H>EZ}H)L&K_t&GBGQtL}B_EG>})BL_HQGRQ&Gq&&)}EHQR)BqQ}RGqQB)}>H_GZ&HG__q_H_V&Qt)#Z/HGV_}ZtLLZ}VGELG&QZ_}_G_B&&tZ)Q>>qLRdZLQtQ>>LHt)R>QZ>HBEl}R>)}YGHBtQ>Z)QRZB4t-Z6)>L&B>&qRQ_qq&HE&B>R)qqZ_EE:RE)GLQH_E_R__&LtH)G>QqGB>qHqZE>&_RqEH_R&>G_}L}_}qHHE)tB}H_GGL}_BB_}&d>L&tZZE}qRtL)t>HqtHGq}Q_}H>}H?)B>tZHHQZZ}BHs}R}}^&RBGt_BZQ*:EBGvGREt)&}Q)tHRLQB&}BtqXRZQ_JpHB&H>>)>&>HQZL>QEBq>)BGR>q_ZLEHjE:RC_>B&HGG}QLGt>HHLRq>>_HZqHlR>>Q_EqQ}_yB>)&LZR}ER)>tG)LEEBGQLttBZ>EQF}})_)L)Q)iqBLE&ZEt>&qL9E&B&QRZtLG7tZQQHA}B)tG}qQ>kEBqE}BQ)B&BBBE_}HQVR}B)&}>L)Rq>_gGqRn_&L_HEE_>tNH&Q)}EH}}GQBq}RGqLZVEqB)GG>}GGz>t}Qq}L}t}qtQ>qE>)GQLE_QG>L)t&Z>QZRGL&GGBBtQ>qB>t&HBQ>+G)__EL_tE>HL)tERHQL>)B}EZHXEqRqL?q_ZG)q&_BQqGRt)BLRBLtRB_E)LBBQEt>B)>LQBGGZRG_&q_BKZ)>}_ZLK)v&wR+w_&G}qG_>QcGqqQqG&LEG>ZH_>M>>__?Z)}HqGL__QZ)_)GH}BbELe_EG)L}_QZ_}s>ZLL_GZZQQZ)BHtHZHQt>}L)gQH&EZR&BEt_RtGH&QBQtQRGG)&}HZqxRq},RH)HZZRL)}qZH&ZLRQEB&G}BGLLZE_q}H}E}>E9Qqc))GBL)_&Z}H_W>L_G>ZqH?2&Q__Eq_}tRHLQ_QqQ}GR)L}tZBa}qq:QR&_qGQqy_LQ&GZtQBRBQQ/LZREl2ZBLtkZEGZAHB_tHRQ)>5}_REqR_G}RtQ}t}}>QH&)H>EZ}HQmR}B)&}>}QrqRHGE_HZ)!&EHG&G>}E)&)))EH>L)Bq}HtZ<>Z)_&1}BqHL>_>q>}QRLL>GBqB_BXRLqtZBE}=G%>#t>H&}G7})L_HLLtEZE)}__ZGQ}!B)_t&R>Q&&ZBEtqHtQ)&>_qtRBREL>EB&ERREQ_L&B_&q>&EqqqB}Et>H)>R_H}EB>HEHqB)RGqHR)&&GB*Gq>Lm}&_H>E}>XG&qEHEEELZ.GZZ)jGEH:_tq)}_RBL}_BZHEZj>LZtRBG}&qs>GfkB&E}y)L}tQH>}EZLL_&LBBtR&&}At!RjQR&_Q>t_B&Q+q&BtEtZt)t&RH}a^Zr)8&BH_qHRZ_Z&Q_&qq>tGH&Q)qEH}qGZRWHt&_>___&W}Hq&REEtL&)tEH>E_RqH}LRq>RGqLQ_tR>LH_RBQ}HdqQG_&L&_BZH)q_>ZHQqGp)>tZZtEQZO}QVqZ&EtGpBZttZ)EfAEBHq>ZBt>RtQGqHZ)QE&HBLq)R_QQOE_Bt9BHE)Rt)E&HH>GGqqBEZR>q)_L})Gt}H&QiL_BGGq>_)QLGHQ&g>GEMq-HBG)LL_Z>Q}BG>LLGLZ>_qGO}qtqq}}tVHL>G_Z}}B1H}Ht>Z>}>#Q)Lt&LBQLZBBRtqRZEE-:LA_.R>G&sGB}qLZH}LZE)qq}Z_QG&}BBq_RtQ)*G_HEQB}E_R))G&}HqG(qZBGZ>>Z)tLQB_&QHtcL&}H_GL>Rn}qH)QEQHQ_Qq&}>G8>tGRZ&HGGSH#_Z>_HEq_L__ZZBQqGG}LtZZ&QqZqLG_GqGQRRXLGX&Z&t&zEL_ttHHQQFHB}qRRLQLxLB)qBR>QG>_LEDEBREZ>GBqE>RGQtLqB<EQ}BQ};BQG&G}QQt&CHQEH}t)&REHLGE>t_Q>ZH,EjRM_>B&}Bqq>EtqqH}iGZL_tZ>_}}GBLH&ZZ>}>G>LQ&LZR}ER)>t))LZt>REL&tRZE}_>&Bq_7ZREt:G}Eb+B>ERZyQLq>RHQR>QBHEqHGtGGGQBtL}qQ>&HHqtK}>QHqHBBGRB))ER)H)Eq>L_&&E)>GqR^_&>&BE&t}RGL>R}RE)>G_QqB)EG)>}_Q>Q}BGB>B__BHHQq}}n#q>u}tG)L_&BZ}}BbH)Zt>ZZQRRGL&GOqGt8R&)}t)Z}QQ>>LEmLZ_ELRBQRE&LcQ9&oBRE_B>)Z8G_>tQREQLV_BLE&}LQ}q}HLGB>Z_ZqQH}EB>H!Z&_)REQ}RG>>qHG&E>E_Eqq}QqZ>QEGqE}GG)L)GRZB){E}REGBZZ}&G>QE_b>GtqZEQEtLBGQqGE)RtRL>QB&>BqE&LQQL/RLHq&RZtqRL)&q&RRGq&>B&qBZEtH&>HHE>>Rtt&>Q}tt>}EQq>QEtBBQQEqQ)QGLBG)Hqq_GE_BVEB&BtqGH>q_ZLEB_&EHL)GB&HRGBL&)GBR}_gBRotZ>Q}RDQ>ZtL>G}&Mt}Et}>gQ>q:Lt_)Z___O}LBtHLHQ>oZBRcRZH_(xLQx&&LEQ)ZQBQEQZE)LZGBZ2)RQ))i)HB{dRtQ)&__BE}RB)HLZH>EZ>RGGq&BGEe}))t&tBtGq}E)_qLtZEEH>E)>)_LZtR _ZqtH)Zb>E_HB>_}q)HEGRq_tGGqL>_GqtEqGiLQ&BZq_}qG}(mqH&}R<BB&_GHR}GyZBLtGZ)EE^G}GtERGQ)&)QRtQZE)&&QBLq}R_tQMQHQEL>LQE&qH>EERQGtPGQEtE>E)Q>_)_GHH&)QqR_}EZH&GLLRBoGZ>t))LIHEGH}t_H>>HL=LLq^RL>}kZ)>B_QZR}qRB>pGHZBQHGHBRGtZQ}QGQLG&)qEQE8QQ_O)RH_GPG}Gt_ZQQ)>LBHtHZHQt=vBQ&GRQt}WHHHERHLEBqq)tt}R_)L&R_}EqBQ)}qQBQGLBG)_&_B_G&}tQdq;H_qEHt_Q>&}&q&>E)_qttHGQ>Q)QqGt)G}LZ1Mq))NZq}B&ZqL}}4ZL&&LZB}>G})qtLLZtLZLQ}aBL_EQ<tL}&GZtQB>RQHd}LtQR>BLQttRBQ>>QB>t}R_)>&&_REHBB)Z&&B>qER}tG>Z)E&)}H))&B_tE)>>^q&t)qq>}E)&qRHEE_Q&)Gq}tLG&HHEE>Et}E_>G_}qBt_GQLRIRLB_ZGQQt)!ZZ}tG)Qct&qG}ZR_LoGtLGtHRZQ& QHRQBiZ)}tBR&EEz}>E2LBBG&=RBBE&ZGGR BHBER>>)&q&HH!GZG)G&_Httt>})Mq}HLGBRR_ZqQ)ZEBBG)>>G)1&t>QE}q}}}EtL>EEqEH>G}LR_&>H}>GZLRGRqqQqGGLa__Z_QZqQLLtQZBQHGHBRt)LR}HqALLIeB&_Ek)}QtQRQ}E&L}GtGZLQQ&>Bqm}RLQR&>Q>EqRqQq&B_ZtL>L)ZqRBSE2>BtE#EHEE)>_Q_qHHGGH>>_L&Z}qG}Hq)LREHRqEHGE_q})HGHLH)_ZR)tGQ>H_}BR}LGL>L_)BB}>GGQ__B&__RZLQG_qZ>}GGt)qtZZ&}>RE>AGGLStZR>QZmtHLQ}y>))t}RZE7^)Qq-GH_}G&qB_tQHGQq>>BGE/R_)_>RHqGZRZ)G>QQGEZB))&>))_&}>LE>q>}>E}L&EQqQH&G>>-)t>R}&EG>aE%&Et&G)L__HZH_VGELG)GZ)tLq)L)_qZLQ&GE}>tqq^Q&Z&LE_EqEQZRGLq&>ZGQcY_B_&RRq)ZjZBG&QLGQ_2QB)qLRHQL&B_qERRRQR&}_>EZRtGQ&>QQ&G}LQ}&_HLER}})Bq&_EE}BEEL>t)GZHR))EqHHLZ)>_)Q&EtBGLHHGQ>E_Eq)}HMGZqHERRLq__B}_GE}}&_}B_HGTqL__QBG}q&qLGtNZ_Q_&ZB_t}RQ}Q&LBt=RZR)R&&Hq_GRE)>ZEBqCQZ^EQR)QHE>BR)RqRBHEfB})}KsHREGR_EZ&rBEEGBG)ER)HQG)>B_B&B}BGLLZEQ&Q}QG}LLIqqq_^E)}Q_QL}_QZLLRt>q>Q&Z_QZ_>>t}ZZt}EG)ZH_B#BBB_)RZ__l_LZtBRq}GZLBZt&RqtqhGLG_GRRE-&RQ&t*>&Qt&tLtEtR_)}Z8L.E3RG)_>HBHqLR&E*&v)G&IH_)Qq)B)GB}qG}&))ZE}}ZGR>&HE&t>t_tq&}}qq>G)tqEt}G)>)))qit_EGQq__Zt}} }Q&_GZFH:2_QBG_qo_HGEQH:}LLQZZqBqEqZLQEZBBRtqRZEE9pLEtGHQQ_9QB)qLR)Qq&LH&tEB>)qO:H&&&RBQ)&EHBEZ}L)_>HB_qLRLGR&__qGZH.)B>EHE&t>})B&)tREGH>G}LR_&ZEL&)tBZ}&G)QHG_>Q)yGHQ))EZ&})G}QE__ZLEZZL}>__BG}qi>LG_tHq}{hQ)B{_L}_G/B)Q_tZ<QQiH)ttqRLQq&RBGtZHEQ_&L_Z&RZZt)&Z_Lt}R_)L&R_}t_>_)}qQHLGL>t_LqZ}RER>5_BREHtGER)_Q>ZHB&G>>GG><)tGQH}_}Z}HtJ>HE_Eq>}}4RL&GHZ>}Z.R}R_qRq}G/SL_t_RZQ_m}BQ_QRLQtZRLRERR&)qGGBEE>LE})m}LQt_ZxGZKLLGtZRQt)&HBHtHRtG}r_H_E}>Q)LqLHtGL>Z_R&RHjGBBE)tqEB)GQHZ)BRGH>qGHMEtqQ)}G}L})tZ>)EG)>}_QB>}BGB>B__BH}LGoQt_H&t_>Z}QN_ZZL}?GE)Z_HZ_}H6QB>_}HRQqD_)}otq}t&.})__GRqQ_xQ)GEZLiQG&.B_E_Z_)_&)HHfGZG)G&EH)qBRq_qq&)8q&>_GB&})&EB}&GqRGH_&)>)_)&G}B&D> )Bq)}LGZHQ_Bq>}LqL>_GqLL_qEtLZ_}qt})RBLqGBLGtqRQLt_}BG}t/B)R_GLR__Zt)B_QZtQB3>)QtHRqEGR&Q&iBZGGq,>BHEqZiG>&ZBtqQBGt_&Z_Lt}R_)L&R_}tE>qQE&bH)tG}Q)Hqq_G&hZGEB&GtqE>>H_q&at>EH})_HL>HtZLH)_)qq}LO&>EG>ZqH1i&}&_B>ttRZL}R_&qGHJnqLL&}q_}>G}LS(&ZE}EGEBZ&GZQ_ORBQ}sBRRQq&Z)EtXZy}:&>_&tGR}GLRQQBWERLG}9_BGE}RBG_&HQtEu>tQ_q})qEGRGQGqR_pG>H&_RZ&HRGtHL_Zq&}qZt>G)tqEt}G)>)))qKt_GQLR&&LB_&GQQt) ZZ}tG)Q%tLL&}-Z&LE_EqEQZRGLttBHR}GGR}_&ZB>EE &BRtEZ_G&&qLptRHtQGZEQE&BHREqR>_>EHRRGQ&HHqqGH>}GRBBGZqR>)HqqB.Z>R}EL&H)LGLRt_&q_H}&j>t))q_)_EGHH_L>H}HEGLZ_Eq)_qGG>t_E>E})G)>)_/B_}RqtL)GtZQ}H/})RtLZRQ>RvBq_pR&E_nB}tt>BttE>LBHtLRBGqd)QZt}HZERR&BEMtRt)t&&H}&qZGQt EBfER}BQQ&ZBBEEBG)_&_B_G&}t_&REHtGE>Q_Q&Q}QG}LLEt&t}tG_L}C>&C}YGG}EGGZQt>GBHG_>LG_mqtLQG}Z}Q}GtB>GEZ)}}eQ)>tBZ>QL>&BZtZZZQH>RBqt_H}tGZ}Bqq>ZHQ)&>BZqHZ)))&HH}E>>>)_q>HqGZRZ)GqLQtE_>tQQq})qELBE)R>E)G&_>}EHqH}HE_LREtqQHQEQ>GK)q}}ZZ7>)G&>H_)RZ>L_}ZZ}&RL>}t}ZLQB-ZBZtQL&}t&&LEtGqGQ)&q})_GLB}tRBQH=>Rqt&&&H&t>RttL&ZBZtZRHGRpBHBER>>)&q&HHwGZG)G&_Httt>})eq}HLGBRR_ZqQ)ZEBBG)>>G)9&t>QE}q}}}EtL>EEq)H}GQQ>_Bq>}LR&LZ_&ZqttGG>t_EB}}EG>L}tRZ&_H=>LZtRLRQ&J&L&tLHq}t+&BRttZ}E_DRQEt:B_QRRQLQ&HR}ELxt)RERBZQGJtB&qQR>t)RG)Q&B}R)B&Z_}EB>&GE>qQh&LRE9&&RHBG&RGFRqqH_Z}H_E)qqt>EH>)_>qZtHGL>MztLq)Gq>>t^2qZ}LGz>E&ZqH}_GHLQt>q}ERsqL_&}LQH}Z&L}&_qGQqy_LQ&GZq)qSGBCt_R_)Z&_B}EQZQ)L&tQREZ>RQ&&=Q}ttB>Q)>>)L&ZRktG&GHGEZ>)ERqRB)EG>Q)BREH)E}>QEQ&H}HG>LL_qZq}}%q>G_F&N}_6ZHQ)QZQ}B0H>>tRZ)_RG&>G)*Zq}LR}>__>q}},Z&LE_EqEQZRGLqEqZGQ1M_B_EZR_Q}&QLQELRttR&ZHRt&R7t}!tQ>t)H>ELRZBe:GRG)G&ZH)&R>&QG&u_)EtRtQtqq_EE_>LSZ&EBZ&)HGDL&}H_GL>RW}&E}qEE>,_)&GtQGHLq9GLZBGqB>G&qq>}HXq>u&>Z}_L4>BLtqRq}q&qB&tEL>}>&>BRE&Bt}H&HBB&LBB)qRtLG:BZtEBRHQ>EqB&)&q&B>EtBL)L8tH&E_R}tN&tB)E_B_)qRH)_&HRZ)}&GHZG&}t)HRt_>qH}8_Z&Gt>GZ>tyQq>)Qqq}Z?t&X}ZGt>)yOqE}HR>}BGB>t}>RH>)_EZH}LR)L}tZBjt>ZqL}&_qGQq{_LQ&GZRQHgRBLE&Z>Eo{EBHq>BL}>ZtB>qHZ)QE&HBLq)ZEG&&E))t)H_E&q&BHE_>B)RR)HHEL>BEB&t)ZqQH_EQ&BH>EL>H)_LGHqE)RG_L>B}RGR>R_}B>HVqL}tGG>t}QGHL}&RZL}LGLL)&BZ>}GR_}DGtLR}_RGLqt>ZG}t>qLL6ZZH)ZnQBGPHR>Q>K>BQqLR)tB1_HBEH>Zt_&}BBEH}Z)>&ZHRqG>&)&&&HLZqR=)QLB)t&BROcZ&LH}GZ>&OL&E)BGLHB_RqRHRG}Q>_ZqttQG>RQGqL}_)RR>B_QZR}qRBLH_LqQEZz>}R!RLttQZH})&)ZE}QR*LEtHH>t)G>}tt>HH})pEBHtLH)QBZ_LET_R_QZ&BHqtGBL)Z&&Hq&q>ZtE&_QEEER>)}qRH&&H>>)ZqR)RG&>&)&qLtqGHHZ_&>ZH1EE>GDQq_HQG)QL_HqL}BRq>tGZq)tZZRQ__Eq_}tRHL&G}qGt}ZQ}BtRLZQZ&ZLBtGLH}>uZLRtLZQEtG=L}_tRRt>&qBqtqRBGZ&BQREZ>RQW&0L:E/RG)_RZBZGZ>q)G>)BLGL>>GR>>H9q)RtE>&)_>qLHZ)lRGHGGG>Z_)>R}&EG>/e)qtH)G_QB_}q}H}GEQQ_HZqtGZ>HG_HB)HE%&L)_}BE}&&&LEtGZ)Q)&qB)tHR}}}&>B_*ZRq)ZG=BGMHZ_tRgQ)R&>BqQGZEBEEERq)QRZB.t Zz)>L&BGE}}L)&RBQEq&}}Q_&GH}EB}_QGqGH_Gt>}_}qn)BGZLB_RZ>H>O&LHG&q>)tGZ}tGE>)}HqBLBtBq)QZq_L}_}q}}ERQ>tttZQQ)5BBBtEL>}>&>BqEZZZQG&LBGt_Rt}Q&}Byi}Ztt>x))>&LBZQVZGBGEGRZ))RRH&tGRwG)&tB)E_}B)}&BHHZZ>>)ZqR_GG&RG)ML)HtE)>_cBq}H}E}>E*QqH}qZG>QG&L&_>Rq>>_HZqHcR>>X_RZB}IG_QG_H>X}GCmL_t_ZR}H?)BR_*HZQRR>BZMqZ)E>G/B:tRR_EHyH)Lt&B?Q>RGQx&_RQ))u)HBqqH}E;&GQQE}HQQE>L)}Z&R_QNqZH_EH}))tR_)C&_>H)L&QtZE_HR)QLZ}>Zt>i)_Bq}RqZLqbZLR_&EGLG_ZZ)_qG^Bq_GZE_BnRLqtZLZ}^G:>.t>H&}Gc})L;QB&HtZ>Lt&cZZQL+=LEqZRRQqoL)GEZLztpR))L&qB=GB&QBLq_RQ)RL&)>&}ZHtw&H_)tE>&))&}_EE}Rt)Dq}H>ZH>QE}qH}}G>L>)>Z>}q9&HH)HZH}>rR}d))Z)}HZ}}Qt>L }EG>L}tRZ&_Hv>LZtRLR}QGEB&tQZLE}yR}__QRQQB&HBRERR)tqrZHqtGRv}k&_HZ%_ZXtH;E)H&}BL)ZRqHqGqRL)ERBB>G>>q_Z&GHGGLBtQtqtHQG)R)_BqE}BGRL>)qZ&}Hq&>>EtqZ_tqEH)_H>B}BpB>)tZ>_HQVQLBtHZRQR0)}q_qRq}G.l>At_RZQ_x}BQ_BRLQtZLLQSqZHEqRZ}NttL_Q_&_LJEHB&}G&GB_EtR})}&oQBtB>B)Rq>B>G&>H_&&EHGt_>)_qR)BG&BRtGB>H)>GqH&_&Z&H>GtHL)RZR}&Vq>E_EZ>)_E_L__}ZQHQ3LLt,LqRQR2&Bq)GZEQ>qELqGQqWtQZ)}Ht>LRQR&RLHtxL}}GZ>BRE>R&)&V&H&tBRttRdRHRtQRJE_+_)Qt>HRQ)>Z)R&5RE)G+GH)qLHtQGRBBtqBHHE>qq)&G&L&)>qt)LERLR_&ZqHEGEL>_Eq)}_E_LH_G>LHLdLLZtRq&}C^BHp_KqB})1LLZGQZB}>WL}LtZZZ}ZwH)R_GZZQLlGL)&EZ}t&GGBGt_RtQ}&}BbMBZH)B&RH>t>>&)HR&B>MtRZEtREQ)EHBB)BqBB)GZB_QQqQHBGH>R_Rq))qEqLq)Gq+B<G_LZ__q}}QEBLL_t>LHQqq>H:qLZ)MGtH___Z_H=yH}&)GZG}_ctL}t}Z1_BGBBBtRR>}>&&BHE&ZEQGG_B)EqL)}GZBLt&BBHt>&qQ&E&>&Q>&tQLtR>R)&qqBEEE>>t_{_H_E}>QQQqLHtGL>Z_R&&HmGBBh)RR_Hqq_HtEQqB)LGLLL)QZq))E}L}_LZB}Z3ZLQG&q&Q&GELG)GZ)QqZ)>}t}ZLQBGRBZtQLZ}BqGL>xGLV_t!Q}}t}R}}t&>}EtRLQQ}&QBLELZL)L?_Hq<}Z})}yGH>q&R&EG{Q)}t{HHE}>>HZGRRR)n>)_qERB_)q>_)t&Q>BELqL}LEQLqE)&}}}GLLB_ZZZ}QfZ>ht&q&}twRH)))Z)}H0}>Lt>Z__>4q>at&B_}EG_Lt&HZQ}Hw})RtLZL}LO))Bt>ZGE_fB}E+RBRt_>LL}t_RLQR>}BBE&HEE&R)QBtE}&QR&BH&tG}R)q&__}ERZ}E&>q)ZZZRL)}qZH&ZLR))G&)HtGHR_;Bq>HGZ_HGGH&Z))GZQL)}q_}LGRQ}_QqHH_R>LBGLZ>QLhqBqwQZHQ}G}B>t>Z&EBGQBQtBRL_t8ZLGtZL)QHYLBBXBRB}E&qBttQB&QE=_BtwtZ)))&HH}E>>>)_RZBGGZRr_&&&HtGRBtQQ&HB}E)RG!q&>BEEq>}EQqBHBEB>_yHq}HBE)QR_L>>}Rh>L&t&L}}B3H>HtRZRHSRL>}t}ZLQ>q_Lq_EZq_QsBL>tLLLQZO&Bq&tZG}GGGBR&/Z)}G&qB)tBHQQ>R_BB&QR)EHk))LELHR}ERZBGttR&GQ&GQ)&GHQE}LRHBEZ}})Bq&_EGZBEGqLQBtEP>Q)HLtH)G>Qq_B>q)Qq)Q>)Hq)}>GZQH_Lq,ttsqHtG>LHtOGZLL_lqEEZGHL__HZQQ>G})RtqZ_E}Z_>}z&RZE_GGBqt_ZQEGnQ}!tGR:Q_&_LBXQZZQ&q&BBEtH}Q}>BBqq&RHEn>&)tEGHEG>3H)&E-BtG&RtH}EBR)XRqL)>Et}R_qZZB7GG>G))B&}>qqLZWqLZ) EELE_)ZQ_&E_B&_{Zt_LjZL&tqBt}LqELRrELG__5}}HtHRH}_&R}tttZRQH&ZL{^BRRQq&ZQZtBLGQE&GLGE)BRQ&1GL8EqRLG}V_B>t}RwE&&EBEtE>ZGG&HQjEG>XQ+q_)>GqRb_&L_HEEERE_ZLGHQ&p>G_6q_}_EB}))E>H}&Z)>LtLq_QqZE>}t}qGtBZHBZKEB>QRqGLZJGZ>t)ZE)LtQLBt)ZBBZt&Z>EE:i}GtBBEQN>HB)tBHt)&ZEBG&EBGt_<QHQEB>LttCHHtE_>}Eq&GBtEEBE)qRQBdqQH)EHq>)RGRLR)HqP)}GL>R_>L0}qGq>q_BBZ}&G)QH_t&H)aZB}Q&qq>}H7q>h&>qQ}EGQL_tBq)EL5RLE&)Z6H)ZZQB&EZ&QR%EL_q&Z_tq&&HqtEREtB&&QZtZ>ZQ3q&B&Et>Rtt?)H)E&H}EQq>Q_EHB_QQqQB4GLBt)}qtHQG)RH_BqE)BE)HZ)}LZ_Rq&>EEtqt}tG&L}GqZqH}GtLH_>>_}}GBLHGHqLQLsZBR_MZzQBqE>GtEZ)Q_G_BHtGLH}_ZRLQ&RB>tq+G}EtEREQq&QQZ_.ZE}G&&B>qHZ)QRpHBG-7RtQt6tHqqER}tG&EHGE)>)ER&EQ%t;>W)tqEBEGQL&EQ&H}HEE}LGBZq)}G>H})BZBHtxZHQ_LZQ}BaH>>tRZ)_RGHHn_LLpt&qEL)GQZQQQGEBLGGZ_}QV))LtHZLQB>qBRtqRZEE*+LEtGHQQ_4_L_E&HtQ)&>_qttBRtQRQ)&q_ZG)q&_BQqGRQQEq&HQEL}})RR_BQGQ>B_HqR}RG)Hq)EZqHGGuR.__ZZ)_EFHH)ELH_}qLLZGqZqQqGLLEGBq>Q>5qBZ_GZGQLqt>tttZQQ)G)BBtERBQR&>LqE&RHt&T>}ttZBttEZ)BHXBRB)BV)HZ3_ZQEt&BHHER>RE_&QH)t)>BGqRBB)&ZR}GZ>R)&EEBt)tqtH&G}HqQJLZHtGE>Q_QLqHdp&>&_tLH)tG&H})GL}_QqBLRGZZZQZGBLGGHqLt}.ZBR_NZ5tHTLBB_BRZtEZZLBGGZ>tGZC}ttQL}Q}&}LtE>LE}_RGB}EQRL)LREB_EtZt)}>RQ}ttB>Q)>>)L&ZR+tG&GHGEZ>)ER&QQXEG>N)_q_B_G_>q_HRGBGGG>>_)LBHBZ>RsGGqL_EqG})_}ZQHQFLQ&(HZZ}ZGZLH&RZq}_R}LR)}L&t&ZL)Z_LZ}QZ{&)Lt&Z>QH&&Lt&sZ)Eq&qQ&ttZ)}G>HBB4}BtEHR}_qE>R&GB&>BGq_R)tERK_Ht)RE)H&L_)ELB_))q_HHGHRH_H&E}Rq0RDGE&}_HEG}BGHLR}q3Z>Z_GLQt&GZH)_&L)__q}LLG>Z>Q>G}B&GQZB}BGBL_&HZL}sZuQ&GGL>Q&R1LZtLZ }E>ZBRtqZLEGYB}9&ZB}ELR&Q}qBRQQL>_BQER}&Q!A&Q}&)}RQB&QHREq}BQQqQHBGH>R_Rq))qEqLq)Gq{B8G_LZ__q}}QEBLL_t>LHQqq>HiqLZ)yGtH___Z_Hp?H}&t&qH}_=BLRG)ZH}L-B}B_tLZQq&ZLGtGLHQBZRLRERR&)qlqBEE>LE}_&_Bq&QB))LZtBExtZ)))&&HB#ERG)E&)H_t}>H)GRHHHtG>Z)E&))qEGRt)EREH)E)R))CL_BGGG>__tq}}}GCHB)BZB}RK>>>t&ZHQ&GELG)_Z)Qqq)>GGBqttBZH}>tqL&Q&&&L>ttLLQZ &Bq&tZG}tTE)}t)Z}QQ>>BBtBZBQ_>HB}tBZ)GReGQ>&}HRE&>EH&tt}Z)&&)_H&_BH)&LRBBEQ>R)qLBH>EG}_GqR_H>ZHR))EqHHLZ)RE_Eq)}_GHLH_G>LHLoLLZtRqR}gPBLI_tZEH)mQB&GQqE_LG_QLTBLRQ&q2LAtXZRQ_Z>BqtqZqQB>ZB&t)HHttZ}}ztHH)}E&&B)t}HEQ&q&BEEGR)))qqH)EH>}Q}q>H_&Z>q_ZglHG&HR_ER&Q_Rq>Hq)GREHEGE>q_Q>ZHzEKRg_>B&HR-RL&tqqE}E%>LE_)Z_H_AHLGGLqLQLvZBR_&ZTQBq7LRG_Zqt_Zt}QtBLLQL&LLQEqL)QH-LBBqqRRQq&Z)Et Z1}6&>_&tGR}GL&&QL&B}qQ>&HHqtA}>)Z&t_QE>ZQEq>&_ttC>Z)t&)_hEZ}L),Z&HtGt}>_ZZRHRGn})EaqtHtEtLqVEq&tRGELG_)Z)tZ=&Bq_qZEt}qELqGQq?tQZ)}Ht>LRQR&RLHtuL}QLORB>&iRqQqrqBBqZR&Q)>HBZaHBtGR5BBQERRqGBP_BYt_RE)}-t_HELRcGt&HQG&E}}Q_&GH}EB}_QGqGH_Gt>}_}qK)BGZLB_RZ>H>n&LHG&q>)tGZ}tGE>)}HqBLBtBq)QZq_L__ZZBQqGG}LtZZ&QqZq>Ct6ZtQE2QBQE&LH}H&HB>ELZL)q&}HqtGR*}t&_HZ1_Z9tHnE)H&}BL)ZRqHqGqRL)ERBBREqRZ)>&}__tGRHQ_qZ)RG&>&)&qLtqE>L>_qZZHGGGLLEtq}}tGQL)))ZB}EqB>)GZq}tZZR}&_E>t}tztL&t}Lq}GGtLE&}Z)}}hQ)>tBZ>QL>&BZt&RqEtoGLttEH}Q)j}BQq>RBQ>&L_&EZR&)q>tBGttREG}&)B}EQ}>)B&BBBE_}H)L&n_t&tHQER&t_{EZ>L)+&EtZG&>)yHqZ)QqHH)6)&E}&G)>}rEq_}LRZ}>GG>Q_qGQQt)kZZ}tG)QV_EZHE>Gm}>GtL_tHRGLqt>ZG}t>qLTtQHBQqZ}QB&qHQ}tr1BQtHHtQH7_BGEHRRGB&))}EQHBQG>>LGqZRZG&&H)GG&BE)RRQ)E&QR>))q&H>GZ}G)QRG_BqQQq_>q&tBG>>GC_qB)_qR}>cGqq}>GG>t&qqK}QRBLqG}>G_GRQ>t_*ZQ}HRtL)t>Hq}tZq}Q&&BRE_GGBqt_ZQEG RBHtRRL)&p>)vtERHG>xIL>xtBEGHO)BEEHRLG)AGQ_Et>_)_qH)&G&RH)_qBHR&)>H)LqB)BtvHZ_RZZHQGGHH)>qZHRGL>Q.t&gH}EtLRG>Zq}qGqLB&ZqB_R<>BRtRZj_}ILLRt>BTQq#qLqtBHZQ&6))HtZqH_fRZ))_ER&Q)a})EtGZtQ&>QB_r)B)tE>&QE&Q}q)>&&_BE>RGG_REL_&RR_GG&qH>EGRt q&t)ZqQH_EQqQH&G>>a)t>R}&EG>pEe&Et&Et}))>L__&.&>H__ZB}Rq)LH_LZB_B5RLR_RZ}E>Gj}LXtLG_t QLHt}HRQLdRB>&vRqQqcqBBqZR&Q)>HBZlQLnER>)LEE&R)Q}>EHqwGREtG&_B_t_>&Gt&)H>ZqH}ER&)_EE&>R)E&_t&EL>Q)LqH}ZEBQq)*qQtBqtRBEGqBtQEt>(_QqHttG}HE)!>E}EG>L}tRZ&_H4>LZtRLRQRqgLEG9qt})G_LEtqH>}H?&L>t_LtQQwQLQtGH)QBZ_LE=_R}QB&H_ZE>RZ)R>GH&tGRdG)&LQ_ERH_EtL>HBE>>Lz&&Q)qEH}qGZR,Ht&_>___& }Hq&LqEtq_}tG}L})}Z}}Ql>H_)_Z_}t<HQR_RBqHtZ_LE!)L_tHjLBB_BRZtER>LBGGZ>tGZo}ttQL}Q}&}LtE>LE}_&_B}EQRL)L&tHLEZ>RQR&JHBmEZE)E&)H_t}>H)GRHB_&RRQGR>>)qEGBE)EqEHqGQHZ)&Z&HEGG>)_)Zq})GHL})}Z>}_qZLqtZ&?}GqH>_GRqQtRZ>}q_G>E}E6ELqtQLZ}&&&LEtGZ)Q)&qB)tHR}}}&>B_WZRq)ZGgBGoHZ_tRMQ)R&>BqQGZEBEEERq)QRZB&G&RE)G&)H)Gq>))Hq}B}G>>_EZqq}ZtP>GEH&_)REQ}RG>>qHG&E>E_Eqq}QqZ>&t&qE}GG)L)tq>}}>j}LLtBqBQZ Q}Z_Tq4Hv9>)&_GZ}ELZHQRGGZLE}G_LGt}ZBE_A&B>t&RZQEXq)tt)R>GqwtQq&qBtG>2HB)E>RZGH&}BBt)}RQGR>)}qRH&GEq&BtZZ>&))LHHZ&QB0GqL)BEG&>))}LEH_GLQZ)E>Z))qEQL)}q_}LGRQ}_BZ&tEG}HEpLLHE&GRLBt&qGERG}Lt_}Z)QLGQ)>tZZtEQc>>Q(qBREtGYBZttZ)E{!ZHZt >&Qt&tHR5)RB))&HH}t}>>)_R>B}&&RBG&>qQGE_B)))q)BGGBB2)?&BH)GL>ZEQqBH>GLHL)RZR}&iq>E_EZ>)_E_L__}ZQHQ4LLttLZZQRG&LytB>(}Rq_Lq^_Lt_QMB}LtLRL}Q&q})_HZL}B4}Lt&sZZ}_GWBBTHR>Q>g>BQqLZ})}&LHBEZ>Z)QR&B&G&RE)G?GH)Gq>))Hq}BLG>>_E>&})&EB}&GqRGH_&)>)_)&G}B&(>t))q_tBG}>})}qEtQEtLt_QZ)}B!BLEtBZRQ>G>B&tH>GHGSGL_ttqQQ}+<}}_tL>})R>QLpZZk_GgGBGtZR)tR&&LGt7H)Qt{tLtEqHEQ_&L_Z&>BZQ_>GBqE>RGQtLqB?EQ}B)qRBQGq&}QQt&2HQEH}t)qqLHqGR>G)ZLEH_GLQZGL&Z))GZQL)}q_}LGRQ})_LG}}/QLLtLLE}_!t>tt}BR_}Gt}>_)B>tLZZL:GGZGQG=ZB)gRRR})TGBQtBLEQ)p}BQuQZHE)&>HLEq>qEQ&HH}t}>>E;R>B}&&RBG&>qQGE_B)))q)BGGBBdQt&)B_EE>qo>&HH&E>>_EtqQHQEQ>G+)&Et&G)L__HZH_XGELG)GZ)tLq)>GGBqttBZH}>tqL&Q&&&L>ttLLQZj&Bq&tZG}GGGBR&VZEQH>>L5_>LttG>HL)tERHQL>)LjERZe)q&tB&q_RQ)RL&)qt&B})&LRBBEQ>R)qLBBQqt>B_HqR}Rq_>Q_)&)}BZqHB))>ZH}ZZ}RG&qE)tGtLt_&Z}_qSq>}_tZH}>q_L}_BZH_HGLQ}tZRR}NlxQHtLRB}B&ZQEXZqr}EGGB&t>HH})?RLHtGL;QtWtLtEqHEQ&>RBEEGR)))>ZH&GqRq)E>}QEE)R})QL>HBE>>LN&qZH&Gq}t)G&tHEZ}>E)>q}}RG&HH_>qZ}RqR>Q)EZ&}QGLQ}_)>Q}}?QLLtLqE}q<>LE_QBt}EZGLRG_Z>tGGQBQtBRLEq-qQn_)BQQHR}QQ&LRHEBRE)>ERLGQ>RGB_&)BEGL&&B>EH>&Qt>1B}&&H>E&&tB)tG}H)QR}HHqH>Qaqq>H&ZBR4EH&E_Hq}HL)RZR}&G/HB_>ZBH){ZH__}qB}HqH>>_ZqR}LGQQt)Mq}Ht-R}>tqZq}qpB)Z_EZqQ>jELQ&tZG_EftBEtQRQQqaLB}EqZEG&&q)ZtHLJQ}>ZLEEER))Q>LBLqRZGEE&_)t&EHQ)_>)_qq}>HEZ&}_ZE:HGGqLQH>E}>__>q&tREtH>G}>>}&EG>Z:_qE)tG_}__EBL}}G>Q)_R>_}qZ_}tGQqHQHm>BRG)Z}Q)GGBBGuZt})r_}_t}ZBQH>ZB>tZRREG&&B&t&RLGq;eBQqBBQttZEBBqQZtQn&QBHqtR))>LqB>G>>q_Z&GHGGLRL)}qZH&ZLRGEB&t_BqHH>_qqqHqGBQZ)_>R}ZeR>R_m>}}LGRL>G>Zq}qGqLB&ZZ&})RH})GE&G_BGG)q_>ZHQqGD)>_9ZRQBPuL_&GR&_*(GB%t_R_t>W)LGEqR)QB>QBZj)Z)))&HHB8{R_QQuE_BE}BH)B>H)}q>>BGGqqBEZR>HGRZ_BBGZ>&tL&t}tGL}})QLZHqxq>G_EL}}RGqLZGZqFHmE/L>&&qdQRv&Bq_qZEQ>q_>_t_Z}QQ<LBLttLLQZf&Bq&tZG}tsE)}t)Z}QQ>>BBtBZBQ_>HBLt*HtQHZtQ>&RBQGB%QBtEBR>GQ&HHqqGRQtGRG)>ZqR>)HqqBNZ>>Z)tLQH>&QHqG&>}tREB>Q_RqqtBGH>L)QBZ}BqR}>G_LQ_RqtQ)_EqQtiGELH&>qp_BZ>}}&Hq)}E!HLL&)ZL}QgtBLtqH>Q}RBLt&>R&EZM_)&t&BGQKRtLv&)Z>E}&t)BtEBL)qC;BRqtRHtE>q)t&Q}B)Q&L__EQ>Rz&>>)&EQ}tQpqZHtE)}m)EqHt>EJH>Et>0tHE)>E_HqLt)G}LZ{4q))?Z>Q_)GZq}_GQQG_RZH}R0LB&_>Bi}EWH)>_zLBtH>&LRtBR&}G>RBHO>RR)>&&H&t&>&Qd&tQRtR>R)Z&0)_t_HQQ>>RHRqZHREaqq_&qHRQEq&H_qqZB/)tR_H_G_RI_H>&}&EH>__BqR))GH>L_B>BH>o>LqtZqG}G8LHt_}Zt}Q%)>)tBZE_BG)}Z_}BZtRZ&LEGtZtQtJ&B}/qqG}tGELctRHB}QdZLBtELGQ_,_L_E&Ht)&ZEBtEERQ)Q8QHQE}>LttWtHtE_>}G>&>_ZtEHt)t>_)tq}>)GQL&HZ&)>&G)>_)}GLH>_>Z>H}4&HQ_Bq>}LR&LZ_ZqZ}HRRLHG>ZRQ><&B&_HL=}_qtLLc#q)Q)/QBB&ZZZE&G_Q)t)BQt)RBB>ELZL)qRt)R&)RQt>&q)>ERH&ER>_B}etH&tt&}BBt)}R)LR>HLqR>LGEq&BtZZR9ER&E_Rq>HqQ{q/HtG_HZ)QZZH)GGHH_>qZ}RqR>HEbqL_sZ&HE_)>Q}QeQ>EtL>G}_GQL)&LZH}HGHLt&}ZBQ&REL}GfLEEQGtLwtQZHEts)B>qqZttqZQQ_q>ZHQ)&>BZqHZt)&xtBGEQZEG}&BH&qER}twRG_QttR*)Q&H_ttp>a)tqEHQGQL&EH&H}HG>LL)LZq}}Wq>G_r&t}_fZH_)g>HHEZH}}GLZZ_q{qBq_LZE_BaB>EtqZt}QZ&LE__Zt_tPZ}}/tL}}R8QLStRRqEE{}}E&LB}G&&RLaqLRRQE>)Q /tRRGBwQBtEBR>GQ&HHqqGRQE&RB)BZqR>)HqqB+Z>>Z)tLQH>&QHGJL&}H_GL>RP}qQHHE_Q>_B>L_BqQ}_GBLqttGz>_&qqu}QRBLq)B>G_7RQ>t_PZQ}HRtB>GEqGQEdEBQeZRZ}Q4EB}tLLtQQ+HB}S}Zqt>iLH>tB>&tQ&QB&E>RxQtRRH&tGRltm&tBttt>qGEV_QGt?>G)&q))RG&RG)0L)HtEtRt_qLEH_GLQZ)E>Z))q_QL)}q_}LGRQ}_QqHH_R>LBGLL}_{Z_}QGPBt}YG_)q_YZQEBTq>BGGLEEQGtLptQZHEtfH}E&>BBt>&>L_t0R)QHZGB_tQR)t)o})_E_HL}.>BQ_E_RZ)BqqBG&L>Z)&qq)qEGRGQGqR_4E)H&GH>Q)HG>>Z_RLG}&EG>ad)qtHtEtLqyEq_}LRZ>EG>>)_GRL>}__ZL}RR}>tGQZ}_QdBLB_BZ_EH^LL(&tZHHtZ>Q}&!ZZQLA9LEqZZHQ_%HBQE>Z}GR&qB_q}BGt)&q_>tHR))>&Z_HtGB}Q)R}H}tw>R)G&_)ZE0RE)GRGHG&)>}E)&HHLEB>})tLlHZE_RY_B>H}>G>>>_QBL})qBL>GBZR}qpZQE_wqE}GRQL__QZ)ELw&}B_GBBtHROBq_DR&E_,>}ttZBttEZ)BH9BRB)Ba)HZ7_Z}QBpHBQtE}&QRFtB&EHB})L&LBLE)}B)qRH)_&HRZ)}&GHZG&}t)HRt_>qH}l_Z&Gt>GZ>t5Q>G)_GZQL)}q_}LGRQ}_BZ&tEG}HgGLLLE&GRLBt&qGER3qL_&}ZR_}ZE)>_HZ)Q>yZ)Ht}ZB})>RBL*>BLt}R)QL&&H_QGD)_&tGR}GL&&LLjEBGG}+_BGE}RBG_qRQttE>t)tq})qGqR})tqHH>&_>})BqH)HE&HR)>ZRHLGNH}_}&K}RGG>_GZqkHEGGHG__q_H_b&Qt))>EHGPE>WtQLZ}(GELG&QZ_}_G_B&&tZ)Q>>qLtOqLQt)>>LHt)R>QZ>HB}tBZ)GR&LQ>&HBGE)R}QGq_RGQ)L&BGE}}L)&.LQE&t}}Q_&GH}EB}_)BRt_RqLHR_R&)HGGQ>BEEq)H}GQHQ)HL)})Z>RG-L>)})GqLLt&qE_>*q>jt&L&}EGE>EtZBG}Qq QBk}LBQRsqBZ&EZ6}E+G)Qt_Z_}_&&)tt)R>GqatQRjQBEG>+HB)E>RZGHX_Q}EHB})L&LBLE)}B)>&G__EBZ_ER>H_GEq>>)G&ttqEB>))Bq}}REHQZ_&q)tHqEHQ_&BRHBGQLR_qBBHEqH>QGHZHHGkZLE_)Lq}GGtLEGEZE_Q6H}Q_BZ>}LPHL_&GZq})GGBL6BRRQRCRB}q>RQtL&RQLEZR&)q>tBGttREG}&)B}EQ}>QTRLBEqLHBGGq&BGEV}))RR_Hqq_HtEQqB)LGLLL)QZq))GH>L_BBq}RGR>R_}B>}ZGtQQGb>_}ZRL>}__ZL}RR}>EtqqE}lr)>G&QZHQqRG}=)GLB}G>qL>tHRq}i>>LHEHR>)L&qHqE}LIQ_&.BtEEZE)Qq&QQtEBLQ_>L)B&R>&t:&CHPER>_E>q>B_E3>))HRGH_EQ>)E)&}}}GLLB_ZZZ}Qq&>&t&qE}GEGL)tqZ)}H%}>Lt>Z__>Gq>a_&ZZ}BRQ>t_LqQQ&ZqLG_GqGQRRuLZEZZY)&itBtERL)})&)BHE}Z})>&_H>Eq>Z},&GHLDGR_QQ&)_LEHRL)BLqHREq>ZGE& BEEG}Q)G&LHQG>>qE}qLHRG>H>))&G}qG)>BNQq>)tGZH}_HZ}}>i>>>t>q)Q&qH>HtHqEQRZl>/PEq}tHGGQB(HBRQq&ZLZtGBQE&FZ})t&B)t_Z}BLW>R>)>D}H&1QZH)H&>HLEq>q)}qqBGEyZ^)_qZQQtQ>Q)BqHB>GR>)ER&HQ4ELH%G&REH)&Q>Q_Q&E}L&GRt_tqQ})GBLB_EZB}Ra>>>t&ZH)GGELG)_Z)_RGHHj_LL?t&qEL)GQZQQQGEBLGGqtQt0QB)tBRBQEZ>B&E>Rq)ZSZBGELLGQZZ)B&&)B_t}&LQ>E>>>Q}q&QQtH>H)>qLHqGq>}t?3hHCEt>EQEqQ}&GQ>B_H&>}RG)HR)HRTHLq?}&EEq))QGQLQ)EZL)GEt}P_QZ)}B#B}G_tZEHEKQQ>GQqE_LG_QLwBLRQ&q3Lwt,ZRQ_Z>LZ&LZ6)&;tBt&>RZ)RkRBv&)LDQCfBB)ELRZtQ&BB>ELBL)Z&ZBZEH}RQG&ZHLEGR)GE&})&EBBt)_qtH}G}R}_}&G}>&_R___qq}HZR>Roq&t__GZ})G_LH}LMB>BtZLEt>GBHG_>LG_<qtLQG}Z}Q}GtB>GEq_Q_<}BQtLRLQt&LBZERZRQ^&B}E_EREQ)&_L}EHRGtH<_QRtQHRE>RqBGTERE)E&qHQ&ZR&_&&EHGE)>)_qq)HHG}R}_>q_)ZGqLZQoqG)HE_HR)QLR_>qq>GEEqE}EGqLQGZq&Q&GELG_)Z)Qqq}L>t}ZLQBGBBZtQLZ}BqGL>cGL6_tbQ}}t}R}}t&>}E__R_Q}&QBLELRttRYRHRE&>qQq&EH>EER))_K}HHEGBHQ_RRBQqRH>Eq&GQEEE>E)qqQ)ZE&}R)EqGH)G)}Z_&ZqHqGE}}EEqq)QEy}QG)>H}>qRLRtRqH}Pq}>BCQZRQ>1&B&N}ZBQHGHBRTGLRQ&GGLp&)Zt}tGtBq&EZ}}tApB}t>HHQ}Z}BHE}R>)>ntB&ERRtQ}>_B&vtZLQRqRBnE5H_Q_>QB>qR>&GZ>R)6Gq}&GH+))REQRE_&qQHLZ}>qEQ>E)QGL>R)HB&}Zqq>+d&qG}?EtL___qHtEGBHG_>LG_Jqt>)t)ZHQBqE>xtEZqQQZZL!_EZGEQ<_LQt)HLQH/HLHttH}QB&&)E9IBHtBZtB>qHZ)QE&HBLq)R})Z>^)q&}ZBtG&B_QttR0)Q&H_ttW>w)tqEHQGQL&EH&&BL&G>_)_&_}&Zt>H)_qG}HGRQB_qL}}>ZBL)/>&GtZGLQ&_HLG}LZtLt8)Ztt}FRQBtHB>}>RZL)&&ZQ_n,_LQ_EHBQqZHQ_&BBRG&&RLaqLRRQE>)BLx)BEGB,QBtEBR>GQ&HHqqGRQtGRP_)tE>&))&}_EE_>L<Z&E)Z&)H_aL&}H_GL>R2}qQHHE_Q>_}>L_Hq5}_GBL&ttG^>_&qqk}QRBLq)B>G_ERQ>t_bZQ}HRtL}GEZtQE=QBQXZZ)_GGGBGt_Rt}t&}B8M}ZB)B{E)>&L>&tH&qQHtL>LQtqqQ}EZ>})LqBBRGZ>QEZqZBQEE>})LRtHQEH>}E}&B}BGRL>_&Z&}H&GRG_Gq_}tEtL}_XZ}}LWB>RtZZQ_ZGBHG_>LG_3qtLQG}Z}Q}GtB>GEZE}>^}BRt&LHQ>AZBRsRR&Q&c&BLqqZ>)>&qHZtGRG)LZtLtEtRQ))9)HBEE>B)Rq>BqG&>HE&&>QtEZHtEER)HH&B>B_B&)}Z&_>})BqHtZG>>>)>qQtLGR>Ep)qLB)qZ}BNEq&}RGE>_&&qL}QGLLHtZqBEqG1LQ&BZqHBqG}6&Qqt}=9QLH&tZ}_E=tBEtQRQ}Q&QB&ELLt}t&tBRE}H>Q>>ZLE&tR>E_Rt)}EB>HQHqR)GqLRHt;&L)Yq&BE))RQHQGQRE_LRGHGEL>Q_>qq)}GL>R_>>>H)q&}>G&&_}qGH>__QBL}&qL}EV&B}}_GHQE__ZLEZGE}ZG)L_ELG}L_tLZRE}CBB&&EB&_=iB)Q_tZcQQsH)tt)R>GqPtQZgQBHG>;HB)E>RZGH&ZQ}&SHqts&tBttt>qGE&&_RtjHE)G>G)RG&RG)*L)HtEtRt_qLEH_GLQZGQ>>))GZQL)}q_}LGRQ})EZqHEGSL))GBQ}HkqQG_Q&G_BZH)q_>ZHQqGJ)>_}LLQB&LBBEqL)Q)nqBLE&ZEt>&qLgE&B&)&ZtBEEtRB)}RqLGttZEQ4&R_BtQRZQB&EQGE_R_Q_q&_tGqBE)GqEHHGQHZ)(&EHGZQ>_)Qq)tLGH>H)Hqtt}GBL&/EL>)KGBQQ)tq,}QGHQt_)Z>EqGt}qGQLEE>GHL)t>ZZEHl}LB_)HRQLZ>Q>C}B)tHRR)_tGZ)G&-GB}qLB)}LZEBLq}Z_QG&}BBq_>qtt&)QtEtRR)HqZB#&B>R)qqZ)ZEtBG)&RGHGEL>Q_>qq)}GL>R_>>>}qGq>q_BBZ}}qRLqGRZ&HGGkQ)_tqtHtrqQEtq>G}EqGL__QZ)EL,HLLtBHq}tZZL)&ZBRE_.EL_ttHHQ&Z}LG&}BQtB&RQZEZ>ZQB&GQHt>RZQR&LBQqtZjQ}.tHR&>>q)q&qHBZZREER>H)RtG>>))&GHtZ}>RE}L&_RZ_>G))B&HGG}QL_&>L)EqGQ})_qG}}GBQ__QZRE&ZR}Z_QBtH9;ZLt_)Bl}ETH)>_bLL_tZ))H_)ZEQHhL))tLL_EZR>QZt<ZN}%&>_&tRHBQZ>&HqqqBB)R&qHZqER1Q 8lH>Z&RG)}LL)t&HBE)LL}B_EG>})BL_H&G>>&_ZqEHqZt>)_>BqHtEqHQG)B>HHG)L>_ZBHH_q}LQt}ZQQ>qELE_>Z}QRJ&}Ht>ZZQRZRBRGvR&QxDQB_T>Zq}40&BZtBHQ}teLLQE&BqQG,GLGERH?)>R&HqG&R))tRLHZE&>qGt&GBtEE}}))&)B)Ec}_)QqRt&qHHZ)QLtBwGZ>t))LsHEGHQ>)Y>>)tZ&QH))qE}HGLQ)__qQHERBL}GHLH__ZE})6BBGQqGE)RtqZ_E}ZE>}a&Z}E_GGBqt_ZQEG&>}atEL3QfvBB)ELRZtQ&BB>ELBLQwRqBR&q>qQ}&tHHE>B_)}&BHH&H>>)>&>HQZL>_EBq>)BGR>q_ZLEH{EsR!_>B&}>qqL&GqqGHtGEQ}_)q}}QR>>wGLqEtLZBQGt&qG}eR)LRG_Zqt_Zt}QtBLLQL&LLQEqL)QHzLBBqqRRQq&Z)EtfZ2}%&>_&tGR}GL&&QL&)}qQ>&HHqtK}>)Z&t_Q&GBQ)ZLLB}E_>L)RL}HR&QHEEQ&>H)G&>>_ZLGHQ&G}BGQBq}>G&QB_>qGt_GBHEGEBHH)GELH_LB)}}/ZQ _)LqtRR_>GtqZ_}QRGBZG5ZG_cmtLt_tRqEES_BLqZZEtZR)QEqLZ}Q_&LBRq}ZE)qAEB*E)ZGGQ&HHqqGRQ}GRB)}ZqR>)HqqB<Z>>)ELqR)LGLRt_&q_H}&9>t))q_)_GLHH)Q>HH>GZ>R_LqQttE >})tZR_>zqLq_qZBEZO}}RtqLRQ&GGL8&)Zt})w_)Bt}Z}}}<E)QtHRqEGR&}GtHH)}E&&B)t}HEQ_&L)L&}B>Q_>GBqE>RGQtLqBBE)RB)}qRBHZZ>&))LH))tHBi)HL)BEG&>))}LE}Z&G>I_Gq}})qRLR))qG}QGBHE_)q}}QqQ>}GLZBQLfBBqG)qH}LGBL}_tB?}ZG_>XtBLHQ>O>L>tQHLQ)ZBBHEBR&)ZZ_B}tBRHGZ&>B>t>RQGL&RBEq)RL})RZ)ZqER&)R&EB_Z&>qQ;&R_tEGBEEE>>_R&aHQi>qHHRZQ>H_qLGHQ&GHGX)&E}&G)>}lEq})GZL}HGLZLHtn&L__}>8}tG)L_G_qQttG}QBtHBH_tNtLRtHRZ};ZBBRtqRZtZsdL<_cR>G&4_Qq&}B)t}&LBRE>H.)q3vH&q_REQ_&t_HEZB})&>})QZq>R)qqZ_EEBBG)>>G)N&t>QE}q}}}EtL>EEq)H)E)>T9_qB)tZ&Ht)HqE}RGHLL&qqt_qZQ}t&>ZH}RRQLHtqBG}QqGQq&)qEQ&u)L}&EZ_QL>ZLEbZBREG!qB>tGZtGqfpBQqBB_t}Fi_ZtLR})Z&&_Lt)RGQ)&tHHt_}B)>&G__EBBEE)LHB)EE>H)LL)BEZ&RtG)q___q&L&)Hq_}BGRH)_HqL}BqB>tGZLQ__qQ>B_>qL}HG_QG_qq)HG.L}BtRZR}R-})>_0LLttZG}ttQZHQ}>RBLtLZLQ)>BB>tGH_QBZ_QjqHZ)QE&HBLq)R_QQ8E_BE}BHE}>q)E&HH&GGqqBEZR>q)_L}HR&)HQ1>&HH)G>>Z=Hqt)}GQL}_ZZ>)EGE>>_}ZR}&qHL>_ZZR_RGZHFt&Z-Q&?_}>t>q_}ir)LHGGZ_}QI)})tHZH}Hwt)}_tLQQ)&QB)ELLGQ_,QB)qLRHQL&B_qERRRQR&}_>EZRtGQ&>QQ&qH>Gt^DHZEtR)Gn&EHHqHHQEBRtH>ZHR))EqHHLZ)R8_R&3}qGt>&u_qQ}RR&}B)&>}}&RR>B_QZR}qRBLLGHqQ_H*H>GtZZE})ZqLG_tZE_E+G}QtHLQ}B(>LLtHZ_EG(qL)_GRLtB&RBRtRR}G>&RQLtHBL)Z&&HqqtRGQGFGHRqn>RE&&6)&EER_)tLHHQEH>}iR&G)>Et}>GLLEH2EE>G;QqZ))G&})G_>}}Lq>L>t>q}Q&qQLB_>ZLE&3ZLZ_ZZHERGG}>3}L>HYlLL__NZEEQX>}Q&qB>EtogL_qqZ5QQ>BQ)%BLGQB>QLttuRQQH>tB)E>}qEHRRB)qER&)R&EB_Z&RG)}LLH&&LBEG>>B_yEZ>L)(&EtZEH>_)HqQ}>E}QR_qq_t}GRR}G&LZt_EGLq__qQtGEtHp)e>d}yGBL)tLZZ_QcBL>tLLLQ}ZqLR(qqG}tGELktRHB}QuZLBtELGQ_y_L_E&Ht})ZELExER)Q}&Q_>EBRBQB&__HELRfGt&HQtq>HLGw&ZHLE1RErZ&HH_EH>Q_>&}tRGq>_X}qRB}q&}>A_&G}qG_>Q.GqG)DGEHP_*qB})VLLZGQZB}>rL}Lt>LqQ&Zq>G_tqE}AkR)B_QZZ}BvE}Gt_Z_}_&&)tE&LEQtZEB)t}RQG>&BB>EL}&)Z&ZBZEH}R)q&__}ERB}E}L>BHE)>>)ZLHHLEl}t)HRt)>qR}Y)ZqLHjEEQZ_RqqHLZGL&EzL&_}ZLHgG_BB}QGLQ__QZRE&Z&>&G}Z&ERGBLQtRZqEBGQBQ_}RL_t=&}tttZRQH&ZL13BRRQq&ZQZt}LGELRHQLELZt)&&_B}IARtQ)&_Q_E}R}Q}&E_Qtt>tQ_q}QnERBc)t&)H_ZB>})}&}HEZQ>H_qLGHQ&GHBGQBqH>GHLq)2B>}LGR>H&&ZZ_qZR}BpHLL_tR}L__HBE}_.L)Z(LqZ_)^Z)L_}Z_QLDR)}_tLQQ)&QB>ELLGQGVLBQE>Rqt}&LBRE>B>QBR&L_G&Rs)GqqH)GqB)))&qHLG&REE>qqBoG&H&)E&EBEGZ}G)LRIB)G0>G_EZ&}QK&HQ_Bq>}LR&LZ_&ZqttGG>t_EB}}RqQLqzQL)EZb>LZtRBG}HqoLLgmB&_EA)}QtQRQ}E&L}Gt_ZQQ)>LBHtLRBGq&RBqEZHEQK{EBGqQR_Q_<_H&qtRHQ_&GHHER}B))RQHLERRH.&&_)qqL}&EEL)HEEQ}#)EqHt>EIH>Et>EtHE)>E_HqLt)G}LZ{{q))dZ&Q_)GZq}_GQQG_tZBERGG}RzHBj}ZFLLs_EHZ}HV_LHtQR>}}>RBqt_H}QRZ}Q}q>ZHQ)&>BZqHZ)))&HH}E>>>)_RZBGGZRp_&&&HtGRBt)t&RHHGZRDEBqRHqGZHZ)&Z&HEGG>)_)Zq)}E}L}_LZBHBXZLQtZqCQ&EELttR>t}&q}>G?}LQ_B6R}ZtZRZ}B4G}H_>ZZ}RnLLQ&tqj}}GtBR2>RqQq{qBBqZZL)L&ZHRtpR,)BZELEEER))_{_HHEG>H)>qLBZGq>}Eq&LQEERHEEGR_H}&H>H_H&_}R&t>Q)Hq}tRGL>L)Lq)tBG>>G._qBB_qR}B5Gqq}>GG>t&qqB})GBL}tRqHEZT&L)&HL)HHqYLH&)qEQ&z)L}&EZ&)&,EBGt)R))qZ}L}E}RL)B!BHZEQ>ZQOq&LEEt>Rtt&&Q}tGH}EQRBHR&Z>Z_Z&BHG&H>HQGqZHEE)Hq)G&tHE&ER___q}}QGLLL_t>RHW8RL&tqqq}EN>HE_q>QH3ZQ})GHZ>_R,RBR_HZc_}GLLR_>ZB})REL&_QqEQ>ZLBZtZZZQH>RLBEBRR)>&&H&EHLG}G&GB_EtZt)}&oH}EL>BQRqZHQ&ZRBtG&>)G&zBt)QR}H}G}Rt_>REH)E}>Q?>qBH>GLQ&_ZqZHZGHQR_qq_t}GRH}GEB>HHG)L>_ZBH}LG-Qt(q>t}LR}>__GZ}}BR_>GtGZ_Qt?}B}t:LBQZ&BBRE>Z>)&&HQ&t>LtQZRtQEN)RHtB&BHBt)>Zt_&}B}t}REGQ^tHtEQ>))BqBHE&>>&_>qq}ZEZ>G_LRGHZ&)>&G)>_)}GLH>_>Z>H}W&HQ_Bq>}LR&LZ_ZqZ}HRRLHG>ZRQ>i&B&_&R&}xrtQ}_RRRQZRqQZtEB}})ZZL}&ZBRt&jE}tttRtQ&&}QqtGZtQE>}B)t}RQG>&BB>EL}&)Z&&HqqtRGQt&E_}E)R})QL>HBEBRB)_LHHLE=}t)HRG)>qZH_1B&QHtGB>>XQqH}qZGH:G)>LHGRq>>_HZqHSR>LZ_tBQ}>qQ}QGtBtH,%ZLt_)B(}E*H)>#BL)_EX>)H_)ZEQHFL))t_ZQ}E>BB)wHB}tGREQQ!GHG)qWE_REqR_G}RQ)L:DR}G_+GHqE_RQGG&tHBq_RB_BqR}>G&L&_HAE)LG>LL)ZZq_tE}>__LqRt}GqHQ)(LQ_)qHL>_>q>}QRL>GGBZLQBGBBZG_Z}}B5H}HtHqGQZIEL)rqZG}t4E}EtRZHQ)&RLWqZRBtL&qL tRHtQHZE)q&tBQGB&QBLq_RQ)RL&)>&&RQGtreHZEtR)GK&EHHZ>RkE>Rt)7ZHR))EqHHLZ)>}_ZLuH)tAHHGG>#tQEt>Y_QqHttGqLL_qZR}GGZQE__ZLEZZH}Z__BG}q(>LG_tHq}>&>BqEZZGQG&LBGt_Rt}t&}Be4BRL)B7RHZw_ZJtHdE)H&}BL)ZRqHqGqRL)ERBHBtE>q)t&Q)&EER_)tRtB)G)>H_}q>}>G_HZ)GZZHW5&>&_tZR)tG&H})GL}_QqBLRGZZZQZGBLGGHq>}ZGRLL_QBtHpG}>ttRL>QqCqLqtBHZ}L&LBZERZ Qn&BB!ttRE}E&QH&9HRB)HV>HRPtR&t}KG)}&QBB)RRZHZGZRB)GRHH>EZ>RGGq&H&E&>L7q&>}>GqLZ)GqG}LGG>__t&t}}G?HB)BZB}RX>>qt&ZH_&G>Ht_ZLt_Eq)LHGBZBQBG)BZG_Z}}B:H)Zt>Z>}>eQ)LtRZEE)Zt})tRHB}Q;tBBt>HQQH&q)GtQLGEq>)LEE&R)Q}>EBZEBRZ)>&nBRqGRt)BLR)BtRB_)RLBBQEt>B)>LQBtGt>Q_)qB}BGEH>)>Z>}q^Z>Z_GZL}GG_Lt)QZ}}uq}>tG>q)t>ZL}Z_I>G}G!GLZt)LRQRG)LGtQZB_EC)L}tQLQ}HR)B>ELRq)qRQBHE}Z})>R0Q>t}B&QB>&)qVGR_t)&)H)tG>BtF<tB)t_RE)qL>BHE&R>)_RtHQEQRQ)GL)BEGE>)__qH}HGGHL)LZL}ZgR>R_#ZB}TGtLE))ZQQ&qQ>EGLq_tLZB}Rt&>S}4nPLRt_L>QqGbB&&_ZE}EGEBZ&GZtQB>RQQ_RL_QR>BLQttRBQ>>QLGEZZG)&&_L<q)R})Z>a)&TTR}G_xGHqE_RQGGqZQ1EG>{)_q_B_G_>)_HRGBGGG>E_)LBHqNqL&GYL&}_ZB>}G&qBt&ZqHG__>)})7)>GtB>#}iGBL)tLZZ_QPBL>tLLL}R&RB&EqZEQE&>BEt)R_}_&HBGALR>)LyZHqK)ZHQLgBB}ttH,QZ4_LJEBBH)>&>B>EQ}L)QRBHLGB>Z_Z&Z}ZGq>GEL&L}LG>LqGE&}}}GH}BGHZZ_EE%HH)ELH_}qLLZGqZqQqGLLEGBZR}q5ZQE_IqE}GRQL__QZ)EL4HLLtBHqQBGEBqttZQt&4EL_ttLtQQ9QLQtGH)QL=QBtELRqG>&}QHERRqQL>GBQD4HREGR__}E_RHGE&_HLZZHBEZ&__GEq>>)G&ttqEW>Q7Bqq)B&G}qYQ&tHjGQ>H?tq)}>Rq>t)q>Qt&ZqQ_)GZq}_GQQG_RZH}RKLB&_>BA}EbH)>3QL>}E>&LRtBR&}G>RLBEBRR)>&&H&EH>&QE&GLGE)>qt}&HH}tL>>tE&qQQt!HQE)RHH>&R>R_R&HHg&}>}Q/qRHGE_HZ)i&EHG&GRt_tqQ})GBLB_E>>}&K>LqtZqZ}G7LHG_Z>)}&Z)}_G}ZL_>m>B>_}R&_QGBL>_LZH}_RGLq_)qGQLZBBRtRZRQ}>>LHEHR>)L&qHqE}>qQG&3LlE_>ZtQ&}HQtB>LtG&ZQ)E&H)E_R}HL&>>>_>&}}&&Q>B)>qLt&GZ>Z)ZqHtREBLB_RZ>}&8&LHt&qE}GEGL)tq>}H}h}LLtBqRQZyQ}Z_B>G}>ZG}VGtZQ_}0}B}_tR>_E*)L}tQH>QB!BLBt_HHQLaa)thGLtQL>}L_tGR}QB>_BQER}&Q_R&)RqtZv)Z&tB)qsR>)}&>HBGqRLP&&GH}ZLH}QLREHLZ}R_)Gq}HBZ_RG_Gq_}tG}L}_z>BHB/BLRt>q>Q&uHB&_EZGH_c)BqG)qG_BGtQBPHL>QqZ&B&E&Z>QtZLBL_tR&Q_J}}nttZ)Q_Z_LQ&tRB)H&RHR&_RQ)) )HBqqBBQ)RZB}qZHRE&&EQtEt>t)&q})qtGRtQE&0HRZBRQ)Z&BHE&G>_)_&_}&ZtR?_Yqt}EGQLQt&>HHHPHL>tLqLQqD}Bq_GZoHts_BZG_qi_HGEQH:}LLQZZqBqEqZLQEZBBRtqRZEE41L%_1R>G&IGB}qLB_}LZEBLq}Z_QG&}BBq_R&)>&&HZEERqGt&)H>ZqHZEq&)_EE&>R)E&_t&G>Hq_&ZqHEGERE_Eqt}Qq&>&t&qc}tZ}>RtRZZtqZZLEs}q)_ZG}QZWRL&}EqtLtttZ&Q}ZqBq_}ZtQHo>}_t}ZBQHZHLLELRZ)R!<BsEBRlQt&ELEEQ>&tH&BHHt>>RttiQBHt}R)QGLqB>tERq)}RQHBEBRB)_LHH_&}>H_}q>}>E>L>_RZ&)HEHLH_BZR_5E)L)_QL}_Qm>}d_q>QHWZQ})GHZ>_RJRBR_HZ%_}0LLRt>BWQqG0B&&_ZE}_4t)HtQZHQ}>RBLtRR>Ep&qBqtqRBGZ&RBqtLHGQQZs)R&GB_G}&_BHqER_)LLZBE&>H>GG&qH>EGRt^q&DHQZB>qE}RG_ZZQRt)5qQHHZt>&_!qt}EEELQt&>HHHWHL>tLZqQqI}}q_L>E}RZE}GG_Z}_HxHBH__RR_tgQLQ_QZGE)j}BZ&ZBRtqZHLDqZZLQ}&ZB&qLZ)QGd)BtEHZ_GB&>BGq_RB}_RR)BqGRq)>&GBtZqRL_>qq}ZEZ>G_LRtBtGt>Q_)qB}BGEHB))>ZH}ZZ}RG&qE)tGtLt_&Z}_q1q>}_tZH}>q_L}_BZH_HGLBLtZRR}:bNBBGEqEQEy)B___RHQG&HB>ELZZ)q&}QqtLLEQRREQG%_R}tH&HHHt_>RttCQBHt}R)QGLqB>tERq)}RQHBEBRB)_LHB_G)>H_}&}}>G_HZ)ZZZH7N&>t_tZR)tG&H})GL}_QqBLRGZZZQZGBLGGHZ>}Z+RQGt&qG}XR)Lt_tqtQqREL_tLHZtLZ>L_&GZqQ>3GLtqqZuQQ>BQQ8}LGQB>QLttDRQQH>tBqELRq)R&GBZqER_)LLZ)RtZB))ZLLB}E_>L)RL}BtG_>}_Q&Q}LGtHR)RZR}&Pq>E_EZ>)EGqHQ)iLQ_)qHL>GRZRQRGHLnG}Z}H3,RLG__LZ}OGELGGGqtQtSQB)tBRBQEZ>L>E>Rq)Z!ZBGELRGQ_&tLQE}R%t}jLBRt>RBQ)>EB&tQZE)>RLHZEZRZ)HLRBHGB>R_>&>}&GHBGQGqGH_Gt>}_}q?)}EtH>))L>_LqZ>MEGqG}GGZL)GRZ&HGGiQ)_tqtHtWqQE__ZLEZZL}RG)ZZELG}L_tLZRE}G_B_t}RQQL&LBt3RZR)R&&HqtqRE)>&EB)E_Z})H&GQHt_BRQQ>R)>&qRGtE&EHEEq>QEZ&;BJtN>>n&&R}RG&Lq)EqE}>&_Rt__q}}QEQLL_t>LHQqq>HzqLZ)2GtH___Z_H{FH}&_Eq_}tRHLQ_HZ}ERyLLRt>B%QqG#B&&_ZE}_dt)HtQZQ}QnG))t}RZEVM)}c,GBQGZ8LB}EZR&GL&RBEq)B_E}RRQQEq}>QH&)H>EZ}H)}&BB)ZR>HE>>H)_q)HBE_L_HGE)Q&)Gq}tLG&HHG>>Et}E_>G_}qBt_GB>)_EZB}ZRLL}.HZZtLGtQR_qBqQqZhLRGGZ>}},_B>t&HR}tZ>Q}l>qfQL5_LNtEHQQZZQ)q&>HtQpe__qteRQGB;bQ}&H}ZQL&}HZE&}L)R&E_)&PBtEZ&}_EE&>R)E&_t&EG>}G}>))HEtQq)>qH}qEyQ>)QqEHQG_LB))BL}RGEQ)_R&)_ZZRQE_&ZR}EG_)&__Lq}RZqBq_}ZtQH4>}_t}ZBQHZHL>?RZRtRy&LG_,RqQL>}L_t>Z}QPR&BEtEZE)Z>GB&/6Z?t:&tB)E_}B)}&}B}EE}Q)Hqq_qq>H&)LL)BEG&>))}LEHGEt>&1Q&t))q)}qA&>)_}RqL>_&BB}>GGQ__>>_t&RH>)_EZH}LR)LQG_ZQ__w_LZtBRq}GZLBZt&RqtqJ5}EttLEQE,>B}ERR&tH&>BZERBR)&&&B&EL}q)>RZHq&ZR2QE&G_QE_RQ))LLHHEHRH)tL}HBG&}E)BRE)LqRQ&)RqB}&EGQR_qq_t}GqH}G&LZt_EGLq__qQtGGa>E_qB)}tq_}_f>Bq_GZR)ZtLZqEHFLL%&tLtHtZ>L)&<ZZQLO^LEqZZL)LD}HqT}RQt}&}L0ERRGQ_RZButERGtG&ZQ)qqHREqqqB}Et>H)>R_H}EB>HEHq>H>E>>QiL&G)BqEH-EEq)H}GQQ>_BqBHBG_QH_Lq<ttZ&HGG>q)twGZLL_FqEEZGHL__HZQQ>G})RtqZ_E}Z_})_FH>}H()B>tZHH}FZ}B}E}RZ)>ZEBEt>R})R&&QHE>RZ)RRRHZk?ZG)w&EHEER>Q_&RQBBE>RL)H&__GEqR)QGqL)BGR>R)Rq}t>G}HL)>ZL}RFR>Q_=ZB)aGt>)__BB}}GBLH&ZZ>}Z;RQG_H>j}LZkQ&&}Z)}}7Q)>tQZ&Q>? Lt!RR&}Gi+}/tLZQQt&LBqq>ZsEBA&)>tAHZQL>&H&&GRDtE&QBHt_}>)RRL)Qq>HRGGqqBEZR>q)_L}HH&}H&GZL_BGGq>_)QLGHtGBQR_Z>L_LZk>Z_Lq7HERZ>EGRZZQRGXL,tqLG}qq_L>sGqQQQGKBL&qqtQtoZQ)/_RBEqR}BH%ZZBEZx}QG&qHQQEZ)QG3)RBQ>h}_qERBZQ)>qHRq_RGQ)L&H>&q>ZGq>ZQ tE>E))qQ)&GZL&)%qt)LGZ>&_q>qHL&E>RGE>G)_G}HH_HZHH_yRHt_QqQHQGGQ)_}ZZt*GGH!W>B_HGiqL__QBG}R(HLRtLR&}>RDLEtHH>QRZ>QBq&ZRQB&&LGqRZtt>&RH>t>>&tQ&QB&E>RkQtRRH&tGRXt*&LQ_E)>_)HqHHQ&LZGQtqtHZG}}>)>LZBEqt>RG_>t_}G)}QY&&R)tG_H}Gt>}}>GZ>Bo;Zq_&G}}c_EZGH_2)L)_BBtQ&qELGOELG__GQBQtBRL_tmGBtt_R}tq,GLttEH}QqZQL;&QB)tH&>QRER>RQH&OQ}tLRRQ>&BB)qER&QQWEH>&L>Z)Z&ZHHZRRtE>qR}>E>L&EQqBH>GLQ&_Zq&}qZt>G)G&G}RZJ>E_HLH_QqBLq&&qR}B%&>G&Rq}}tG}L)tLqQE>+ZLt&QZ}HQZqQL&tq1QZFtL)&OZ)t&e*H&ttRttLGGQqtq>qQG&iL+E_>Zt_!QHQtrHHE}qRQ)tLB)Q}q}BGG>B_QBq_H}GQRB_Lqt)LEQHq)HLq_Z&P>tE_q_}_EdLHG&Z&HHG_LB_R>)}HGLLBGBq>Q>1qBZ_GZGQLqt>EttZQQ)G)BBtELB})ZZL}&ZBRt&gE}tttRtQ&&}Qq_GZt}E9(BRqBZQQZ2BBEdGR_Q_F_H&qtZo)9&tHEEQ>Q_&RHB}GH>>_L&L}qG}Hq)LREHRqEHGE_q})HGHLH)_ZR)tGQ>H_}BR}LGRL>VzZqHwy&Q_t&qH}_lBLRG)ZH}LgB}BtRZR}Rb})>_5ZRQB!mL_&GRqE&y>QGtLBt})R)B)&}RRtHaEBqE>REQQ>tBL6EHqtE?}BGE>R})BLZB_&ZH)EELLH}E>}))}qZ_{E}HqG&L_BGGq>_)QLGHtGBQRG}>L)_GqQB)Qqt}BG>QQ_HZqtqZR}&_LB)HEA&L)_}BE}ZABLZt>Z?}RRGLttBHR}tGR}_4tHB}Q*tBBt>HQQ>Z)Lt8)R)Qq&LH&tEB>)qdAH&&&ZEttFtQttQRHQ}&)BGZqR>QE&qH}&Q>B)B&BH_ZHRQE}&})}GL>R_>Lz}qGq>q_BBZ}&G)})GE>QHGRR>B_QZR}qRBLH_LqQEZGL}RNRL)tQZRQq&)ZE}QRxLEtHH>}EZ>QQq&ZRQB&&LGqRZ_t>&ZQ>E>Z_QA&)BH#GR_QQ&)Q)E}BB)LRBHBtE>q)t&Q)&EER_)tRtHQEQRQ)GL)HE&_>)E_q}HBGHQZ_>qZ}RZGL&_&q&}LRq>F_QBBH.qBHGGtBQHtGlLQ_HBt})n>)q_)Lq_QZ_)>_HZ)Q>7Z)Ht}ZB})>RBLa>B>tER)QH-tH_QGx)_&tGR}GLRLLLjERRG}=_BGE}RBG_cGHGE}>)EqqZ)qGqR})tqHH>&_>})BqH)HE_HRG)>t))G)>q_LZ&HEq>Lq)9Z&_&GE>E)EZZtGGHH1lBL}_B;RLqtZBE}yGl>kt>H&}Gv})LmQLH_EeR)}__ZGQ}jB)_t&R>Q&&ZBEtqHtQ)&>_q&>BRQ}>EB&ERREQ_L&Bj&q>q_q&>HE&B>BQEqqHtEQH&)E&_Ht&t>_E}&H}}GBLB)tZZ}QqZR?)E&G}&G>QH))qRHHGGH7_tqtHt+qQEtq>GHE2GLtttZZQ}^?}}tLZRQ>RmBq_-R&E_AEL_ttHHQ&Z}LG&}BQGq&RBqEZHEQInEBGqQR_Q_/_H&qtRHQ_&GHHER}B)q>}HR&H>R)q&L_GGZBiGR>G)EZ}>_)HLEH_GLQZG}>>}>ZG>q_>qGHtRq>M_QBB})qB}Q&ZqL}}lZL&&LZR}ER)LG))LZt>REL&tRZE}_>&LLtQZLQH&ZLBqqZVQQ>BB){BB}GZnLB}EZR&GLs}H}EL>B)ZqZHQGZR&_&&EHGtG>)_qq}Q/EG>hQtq_)>G>R_)<q)HH&G>_)Qq)))E}L}_LZB}Z=ZLQG&qqQ&GELG)GZ)Qqq)>GGBqttBZH}>tqL&Q&&&L>ttLL}Z=&LqtRZHE)GELB_)RqtZsnLd_8R>G&lRHRE&>qQE&EH>EEZ_)_&}HQtQ>L)tqRQ)EQ>)QHqBQ<EtR))_LBH}E}R})ELQH>&)>Q_)qB}BEBLB)tZZ_GEQLQ)mLH_}FR}G_&>}HGZ}}QGBZR_ZgZBZ_BZG_Hy>LZtRBGQ&w&L&tLHq}C4QQQFQL}_G7.)Q_tZcQQrH)ttEZ_}*>}B&XQB)EqRuQ_&q}&)R3p_LERREG)>qQtEt}BQQ&tHBE>}Q)>R)HQG)>B_BR<HQ&_R___q}}QEQLL_t>LHROR>QzqLZ}Eq>L&G>qZQZG}LGGLZqQL;ZBR_&Z8QBqfLRG_Zqt_Zt}QtBLLQL&LLQEqL)Q);qBLE&ZEt>&qLsE&B&}G&GB_EtR})}&{QBtB>B)Rq>B>G&>H_&lGHGE_>tQQq}HcGBBO)RR_Hqq_HtEQqB)LGLLL)QZq))G)>q_LZ&HEq>Lq)xZ&_&GE>E)EZZtGGqBq_GZD}_u_BZGQqQQQ,BBH_HRRQ)&RLqEqZGQrGtB_EZRQtZ.B}Gt>BGt9ZtBQD}R})}5tH>3ER)Q}&Q_>EBR>)LL&HZE&>qGt&GBtEE}}))&}HQZ>>B)B&BH_ZH>L)yLt)EqRHL)tL6HZGL>^)EBZ}&G)QHG}>t)GGHQ))EZ&})G}QE_}qt}Y.}L>&HZ_tQGQQHtQBL}QRRB>&qZ}t&GGBGt_RtQ}&}BSE}RL)BvBHZEQB&Qpq&LEEtBLQQRqBHqqHZtS&tQ_E_>_Q%qH)&tG>G)_qtH}G}>7EBqZ}BGRL>)>Z&}Hq&>>EtqZ_tqEH)_H>B}BOB>)tZ>_HQ%QLBtHZRQRM)}q_qRq}Gj%>wt_RZQ_D}BQ_BRLQtZLLQ,qZHEqRZ}jttL_Q_&_L*EHB&QBZt)&ptZHQE&RBHEL}qQtRq)Q&t}>)H&R_QEH>qGG&Q)&&BH}Tq&>HHGqRym>qZHtZQ}&E_qZtLE}>__LqRt}GBL&MELRBEqL>E&&qR}Bm&>G&RZQ_>GB}>tqZq}q0B)Z_BLRQqZRB&_GZ,E)YtLt_tRqEE&q}GtELGQ_PQB)qLRHQH:HBtq}RB)&>E)&uEBLQEL&BREB>&QGLRHqE_}}EGN})&E}}_QGqqH_EQ}G)n&EHqZ)>tE_>__RZqHEGZBZ}LGqQH_LqFttqbRtG>qttrGZLL_CqEEZG)}Rt>RRQ>I8}}t}qpQRnGL_hZZ0}EFG}GtGL)Q_&)LQEBL{Q#9BB)ELRZtQ&BB>ELBL)Z&ZBZEH}RQ_R>HLG>>L_&RQHBE>>L1&qZHZEZ>HjRqqH_Z}HtE)qqt>EH>)_>qZtHG}>B))BR}Lq>}LG_L)_}Z&Q__Gq)E&GGL}&LLBHLqELL&}q_}Gy}LB&_qGEqgGQ__yBttq&qL}ttRHQ>Z_B}tBRHtH+EQR&)Btt)&)BqEL>&QER>HqtC>&E&&EBEtE>ZGG&QQ{qBH}EBqRHqGZ}E)j&EHGZQ>_)Qq)tLG&HB)GLB_HZ+Lq)bZ&t_G>Ht_ZLt_Eq)LHGBZBQBG)BZG_Zq_HZ_}H_ZZ}}GSZB&&tZH_tR>QH&mRZ}G>>BZttHQQ>Z_Q_qLZ}Q_&LBRq}RB)&>E)>N4RBGQ(tB#EQRHGt&)H>ZqRtEqRQ)EZ>RH))q>HZZH>})B&)tRGLH>GH>B_)qH}q(_qGH)R&>G_}BL}&ELHEGfB}H_GGL}_BB_H7qtL)GtZt}R=HBZ_FLBQRbqBZ5ZRR_G/&}GtGZLQQ&>Bq3}RLQR&>Q>EqRqQq&B_ZtBBR)qRRH&tGRxG)&tBttt>qGEqqQGEEBG)_&QH)ZL>H)H&HHtZ}>B_&LE_&&EHL)EB&HRGBL&)GBR}qG_Q}GE>)}qR>>H_)Z>}ZRH>tt&qt}G,Q>E&}ZBQ&REQq)ELL}E>&LRtBR&}G>RB}W>RL)>KRH&KQRQQ&&>B/ttBR)&fGB;SfRZt_&tH_Et>HE&pEB_ttRG)ZLLB}EqRL)tREH)E)R))^L_HR&t>E_tqE}}qq>G)tqEt}G)>)))qxt_GQLR&&q__Zq1Qt)PZZ}tG)Qg_ZBLQZZALR&&LLQZMZLZtHHR}GZ>Q_3EL_Q}3BBHqZR>QZ&R)GE&ZGQx>)BLr_RRE_Rt_>EBR>)LL&BQ&qRHGq>ZQDEtB_)_q_BzGHH&)BRt_&&tRH)EqRHHGLQq)t>q_QqtQ>_HqRtQGHLqeGLZ)GGHQ))EZ&})G}QE__ZLEZGE}>lBBG}q+>LG_tHqQLZZBq4ZZY}PGuB>q&ZGQ}>LB&sHB}Gql>BHEqZ^G>(}QLERBL)Z&ZBZEH}R)QR>BB&>>qQyq&__EER_)tLHHQEQRQ)GL)H}GZ}jGq>q)HENQZ)Lq}}ZG&QL_RqEt)GLR)GZL&tEG&LR_Eq_E&GRQBtRB&}>Rq}BtRZR}R:})>_8LLttZG}ttQZHQ}>RBLtLZLQ)>BB>tGH_QBG_QR&)BEGLX}B_ELRRG}=EHqtERa))%G_QEH>qGG&QQGq&})QEq&H)E}}E_ZRGH4GGRE_)>R}RE)>G_QqB)EG)>}_Q>QHtqLLBtLZBQqq)>H_LqB}}GtQm_Zq_H/!B}Ht>Z>}>+Q)L_ELBQH&BBHEZL_Q}yBBHqZR>QZ&R)GE&ZGQ{>)BLx_RRE_Rt_>EBR>)LL&BQ&qRHGq>ZQ2EtB_)_q_BxGHH&)BRt_&&tRH)EqRHHGLQq)t>q_QqtQ>_HqRtQGHLq-GqQ)GqB}H&qq>}H+q>I&>ZZ}tRQL>G_LQELG}L_tLZRE}gBB&&&BR_h%B)Q_tZ!QQ%H)ttqRLQq&RBGtZHEQ_&L_Z&BB>Q_>GBqE>RGQtLqHB&Z>R_Z&qHG&H>HQGqZHEE)Hq)G&tHE&E>&EQq)}QG)LLEG&_HQE)>t_&BRHBEz>R_)>_}}G}>}_EBQ}Gq)L_t)qQQBqcLt_)Z_EB:}L}_}ZEEQ;HBq&GZQ_GZBQHqqZ>QH&qL q>RLQRPH_&EZBqE>RL)H&>BtG}&_BHqER_)LLZ)RtZB))ZLLB}E_>L)RL}B_qG>_G}&t_Q&G>G)LqQ}>GqH}_LqR}>q>>)G&LH_QqHLH)GZZ}EG)}q_Gqt}EqEL)_)q)}(R_>G&qZGt_GkQtFqZG}tCE)}t)Z}QQ>>BBtBZBQ_>HBLtJHtQHZtQ>&HHsQZ&LButE}Z)&&)))&_BQ)&LRBBEQ>R)qLBB_E1R_)Eq}BtZH>L)aLtHHttH>GHLPHZGL><)EBZ}}qR>LGRZRH)GGLQ_B>E})G}LQGQq}_LdR}L_ZZ&}qTRLH&)qE}BG)Bq ZZ-}DGeB>q&Z>tqr:QqtGZtQE>}B)t)Z)Qx>_B jtR_tt&QBHE}}R)L&RH>q-R)E&&}_&qq}Q)_&QH)ZL>H)H&HHtZ}>B_&LE)GqLHBEtq>tHE)>E_HqLt)E;LR)#Zq}tG&Q__QZRE&G_>&G}LB_)R)>Et&Z)}}REL&E&ZEQGu)B)EqR)QH&}L}E>R_tZhZHZtk>&}E&tHRctRtQR&HHZtxBB)R&qHZ&ZR}Qt&(H}E>}H)QR}HHG}>>_>&>}>GqL&Gt&H}HG>}LGBZq_tEH>L)Bq}HtZ4>Z)_&#}BqHL>_>q>}QRL>}t}ZLQB ZBZtQRZ}n&&L&ttRR_)G)B)tHR}}L&>B_r>Rq}W&&)_tEZ_Qt>HBQtQZQQG>)B}EZHkE&R}QB2GRBGQ(tBaEQRHGt&HB_EG>H)RLBHq&QRHG)q>}LGqLqGQqH}}E}L>Gm>>H}q&>Bu&Lq)GG_H)_)Z)HGDBH;)EB&})%_LHtHL%}E{G>Gt)BL_)GG}B_tBBtHZ>Bqr&R&)&o>BtoLZ_tq&&HqtERE}E&EBREQB&Q&q&BBEtH}Q}>BBqq&RHE >&)tE)>_Q_qH_ZqQR_ER&Q_Rq>Hq)GREHEGE>q_Q>ZH&P&>E_Gq)}) qL)_HZ}H}k>L_GZqZQZG:B&)EZtQRqtL&G}qGt}ZQ}BtRLZQZ&ZLBtGLH}L&LBZERZjQV&B}EtQREQ)&_L_EHRGtHn_QRtQHRE>RqBGjERE)E&qHQ&ZR&_&&EHGE)>)_qR}B}G}>L_B&B}ZGQLZ)6Z&BEGtLREtq&)}EG}}GQ>B}RqZLZtZqB}GqH>L^}ZZQRGJLIWHZLQBGBBZ0ELZ}sG3>/t>H&}Gd})Lt&LL_EZ_QL&dZZQL8dLEqZZHQ_PHBQE>Z}GR&qB_q}BQE&RqB}q_ZG)q&_BQqGRq_q&GH<E_>__Zq_BQGQ>B_H&H}RG)LqE}&}}}GLLB)RZZ}QqZLZ)QqE}}GLHt_QqH}}q}>G_ZZL}GG)QE_}L&}tG)>G&HZ__}ZtQH^>HqQ>A&)Bt>ZGE_Z{}_tEHH})rEBHtLH)Q}&Z)7ERBqER>_LGEqR_QQ>GBqq>RG)h&_H_qR>q_Z&ZHGqQBG)ZR)H&q)H_E}qL)>G>L>)}Z&)QGB>B)Bq_tHGL>92tZ&)tZqQ})_qG}}GBQ__tq)HGRH>QG}L__rZG}QcqBpQZGG)>tZZtEQZG}Qt_HL}}5_BLtRH}QRZQB}EQRL)LDLHLt_>qt}1}H}tG>>G&e_H_EqHQE)qL_&EZB))&>))_&}>LE>q>}>E}L&EQqQH&G>>m)t>R}&EG>2E;&E}EG)L__HZH}GqLLqtLZZQRGRL,tB>3}Rq_Lq^_Lt_Q.B}LtLRL}Q&q})t)ZqQL&&LEN>Rq}F&&Q&tEZE}E&Z)GtQLJQG&?B_E_Z_)_&qHH GZG)G&>H)qBRq_q&H)Yq&>_GB&})&EB}&GqRGH_&)>)_)&G}B&/>t))q_tBG}>B_HBZ}>G>>>_QBL}RGEQ)Gt>)}tRB>Q_tZB}>RQLHtqBGQZEG}B7EB&E}G_LGt}ZBE_{&B>t&RZQEcq)tt)R>Gq&LQR&ZHEQ&&RBEt_}&QRqRH&GqRE)Eq>Q_t_>_)}qQBQGL>t_LqZ}RE&>S_BRiHR&_>qG_>t)QGBHL_LZLHQFqH)_)qq}L4&>EG>ZqH8K&}&)GBq}_etL}t}B&}Ge3>Jt_BB__Gr}H_EBHt}ZLBZjqRq)qcLBEaBZRQqfZB>t}H_}G*HL_EZBR)&&&B&EL}qQ>q>HqGZRG)GqLQttt>t)Qq)B)GB>E_BqR}>EqL&_H>&H>&t>ZGt>E))GHHB_BZBH)fZH__}qB}HRZL>_>q>}QRLLR_EB)_EE)}ZtRBE}&gRLE__H&}LsQLLtHRZ}B>qLrtQHBQ)GB}GhtHQ}t% BQtHHt}4>ZBtEERQ)Q>qB3G&R&)t>HQtE&B}QG>})Q&B>REZqZ}ZEB>GEHqHBGGZ>E))>qHGEt>EEEqR)QG}LQ_LZLHLkL>_tq>}H}c}>Gt>B&}&ZG>Q8}q^tHZ}Q>tZRR}Rh.Q)&qqt})G_LEtqH>}Hk&L>t_LtQQ QLQtGH)QLZ_B)E_RH)HJHHHtE>Rt)-)H)E&>BGZ&Z_&t_H))q>Q))qB>>_L&L}qqt}R)G&tHEZ}>))}qQt>GB>>_LB&}ZG&Lq0t&GHtEE>:_RBBHQGZ>B_E>G}_G_>_t&Bt}HG_LGtHZREB3q}QtLZR}H>&B>{qBLE&ZE))tEZQE-/EBHq>B}t>&B_&tRRB)&{G_REqR_G}&tQ)&t}>QH&)H>EZ}HQ)>EHHG}>>_>>tH)G_R__HLZ)HE_HR)QLR_>qq>GEEqE}EGqLQGZqvHKESL>&&qG}}RLLQGLL)EqG>LHtqqjE>oLLR_HH&}ZZqQ>l}BHtZZ))}t_ZHEE*_BLqZBHtZ&>)GtqR>QGAt_qttBZ)qqZBGEGZG)G&>H)&qRq_q&HHEqQR>_>&)_ZqR>GGQ&_)REQ}RG>>qHG&E>E_Eqq}QqZLZ)QqE}}GLHt_QqH}}q}>BtBZRQ>y&B&tH>G})bGL_ttqtQ}<K}}_tL>})R>QLFZZA_GwGBGtZR)tR&RL)tGRQQBZEB)t}RQtQ&BBBtBR_GH&ZQ}EH>})>q>B>G>R)_&RHBHGHRE_R>PB)G)>&G}>Q}>q^>qEQ&V_Qq)HH_>>R}RnR>H_a>}}LGRL>-7ZqHgr&Q__EqEHECZQG_tZBERZL}RtLBP}ZaLLa_EHZQ&())Ht_qH_vRBQQqqZ>QH&qLnq>ZQQEOQB_EBZ)GL&RBEq)RGttR__BtQRt)B&>_Qtt>t)Qq)HBGB>EE>&>}>GqLZ)ZqG}LGG>__t&Q}}GkH})t>>H)Z>}LGZq-)GGGLG_ZZ)_RuR>)_GZQ}BqEL)_}ZQ_QGHQ)t>RLQq&qQQtHR}}}&>Qd!>Z}t&%B)&&qLGQ_Z)B)E)ZG)BZ1Ltt)Z_QE&q_>tHR&Q>&_QtEQRQQQ&G_)tE>E))q_HHGH>GEL&L}LGZLR)RqI}BGb>t_E&)}QP&HQ)E>LH_ZL}BGRZ&)=G0LV_RZ__>aq>,t&B_}EGE>EtZBG}tVB)RcBqR__rt)B_QZtQBf>)Q_GRZ}G&&B__xH)Q}&Z)mERq,tHRL_ZtLR})Z&&_Lt}H_)LqBHZGZH))}qQBQGL}&EL&Q)qEH}qGZR^Ht&_>___&8}Hq&L&)Hq_}BGRH)_HqL}BqB>tGZZqQZGGLG)GZG}>z)}q_qRq}H,EQQ_QBH}ZRqL}&&BqtEM_Bt_tR}ERR)LLtRZ>QB-))Et&ZQ}E&>QLEZRZQZ&H_RtGB>)Rq>H&G&R&_&&BHt&RRR_R&QH{q_R_GQ&>_RE)}ZGR>3HEGGRG_)LL_tGH>L_BBq}RGqLZuEqMHEGGQQ__qQ})RLLH_LZBEq#RLqtZBE}DGELG&QZ_}QN))LtHZLQB>qBRtRZRQ}>>BZttHQt}R>QZx}R&GRhBBQERRqGB&>BGq_B)EqR>B_qGRq)>&GBtZqRz)QLBHq&BBGEQ>Ht&ER>B_&&GtRGq>_^}>B_RqqHH)!BZHLG}LZ_&BL}RGEQ)G}LB_RG)QE_&ZR}EG_)&_LZQ}LwHBZ_BHq}0%Q)B0>B&HEZLLEq&ZRQB&&LGqRZB)B&RH>E&>&)HZGLGEGR_)t7tH}EFH}QBqBHRG>Rq_&qH)&G&RH)_qBHR&)>H)LqB)BEt>&_RqtH}Z_>BGE&E__GR}Q_>LH}QZLLLG>q)_&G%B&_tZtHt?tLZt}>*H,ymLLt_BH}HRLL&1 ZBtGZJQ_tQR)})&B)q&}Z)tZT})Z&RB&QEZtBtEtR&)}RqL?E%Rt)E&QHQG&>Q)BqHBHGR>)Eq&q}qEG>zQtq_}Z&_R2EH&E_Hq}HL_Z>q}q,q>L_E>BH>9>LqtZqG}GWLLG__ZtHtp}L=GBZLQBGRBZG_q,_HGEQHs}LLQZZqBqEqZLQEZBL>E>Rq)Z;GBGELRGQ_&tLtE}R;tB&LHBtR>Zt_SjQHtEHHE}RLHZ&q>q_q&LHE&BR>_>qq}ZEG>G_LqGH_GtRt_}qA)BGLLB)RZZ)_EcHH)ELH_}qLLZGqZqQqGLLEGBqt_ZyqBZ_GZG_HGB}R)tqq_)xBL>_}HqQRZZQL&qHqQQ>ZBLtqHHQRZ}B)E}RL)>ZEBQtHZ_G>&BQL&QH>G>&R_LE}R>G)&QQ_E>>_)}qH)&GqBt)}qt)EG}Hq_&REHQGEHE_Q>ZH_GLQZ_}>R))E)QL__qL}BRqLLGq>Q}qR>>H_)Z>}ZRH>_t)ZQQBqEB&tEZtQQZZLtE&BqQtZRL>XRR&}G,X}WttZ)Q_Z_B}tBRHtHJ>BZtRRLQQ>tLut}Zt)RR>HqEqRq)BLZBLGL>Z_R&-H#GBBEQEqEH)G_R__HqG_HELLL_ZZRH&GCLBEOqtH)G_QB_}q}H}GEQQ)tZt}Qy)LBtBZEQB?RB>_>R&QHqGLEtGq_Q)ZRB&_GZhE)8tLt_tRqEE;_BLqZB&E&ZQBZqLZ}Q_&LBRq}RRQH&)HRtJ}ZQ_RRHZGRR#)s/FHSER>_EZ&Z}ZEB>GG)&)_}ER}Z)HLq_ZqG>t_E&E}QZ>}__BqBHBG_QH_Lq!ttq_}RGL>_}RRB>Q_tZB}>RQ>GtZqGQ&:_>4&)Z}QZRM}EStqB_G(B)Q_tZ6QQPH)t_jR^Qt&EBQEQ>&)Q&BHHtH>R))RqBqGqRG)kFtH_GZB_QhRHBEqHH}ELqZ)qGqLq)LqE)BE>L>_qZZHGGGLL_Gq_}tEtL}_A>B}L(B>RtZ>_HoqH>EuHL}_LrZ}qtqRq}LeE}B_>R>Qq&ZLGtGRL_t3}BttQR)})&BBEvBZ)tZ,})Z&RB&QEZtBtEtR&)}RqL4E6Rt)E&QHQG&BHQHqHH>GLRL_qq}}qEG>SQtq_}Z&_RpEH&E_Hq}HL_Z>q}q q>L_E>BH>ZHLqtZqG}GZBL>tLqLQqZt}q_L>E}RZE}GG_Z}_HsHBH__RR_tG)QEtHR}Q>&>Qtt)R_}_&H)ZMHZ_tR.Q)R&>BqQGZEBEEERq)QRZB&qRRE)G&)H)qZ>&_q&qHEq}BE)E&>H}GR>&EHq>HZGRHR)qZqHGG(>___ZZ)QEQLQ_BZHHH%RL)OQZ&QqEGLEGBqR}qGZL>_}B_HGGH>_tZLRQ&S&L&tLHq}>&>BqEZZGQG&LBGt_Rt}t&}BN*BZB)B&RH>tq>&)HR&B>,tRZEtREQ)EHBB)BqBB)GZB_QQqQHBGH>R_Rq)}RG&Lq)qqE}>&_>)__&}}Hq&>>EtqZ_tqEH)_H>B}B=B>)tZ>_HQ!QLBtHZRQR7)}q_ERq}GjJ><t_RZ__Gl}H_EBHt}ZLBZPqRq)qvLBESBZ>)>&qHZtGRG)LZtLtEtRQ))k)HBEE>B)Rq>BqG&>HE&&>QtEZHtEER)HH&B>B_B&)}Z&_RQGtqB}HGRLRG_qQ})E)LB?q>BH)qZ>}aZLR_&GEHt_tZt}&M}}q)yBZ}t^ELQtQBq}r&&L&ttBH_tV&}}_GB}tQZBBRVZRZ)Z-BBGcHZLE}&ZHRtmRAEH&LHBtB>ZEERZBbtERGGQ&_BQE)}L)H&LHBZq>R)R&RH}Z>>Z)tLQH>&_HBEsLtBDGZ>t))LnHEGHQ>):>B_qqtQH))qE}HGLQ)_LqQ}tMLLq&>qE_L:>BLtqRq}QGEB&tQZLE}JQQ)t}LHQ&R)LLELZQ)qRELE&_ZBEL^))>&LHqQ{q&B&EtHHEG>LH>abRGE4&R)_&G}B)q&LH}GqRE*&qZ)qqLHq)E&_BvZ}>qEQ&T_}G)QZ_LqqtHGQH}_HL}_QqB>>t>q}Q&qHLLtHZ>QRqtLQ_HZ}_}XLLL_LZ)EBm>LG&_ZB__ZR}A GHL}}:_BLtRH}}E&qLEtpR)}G>QBHEqHGQQZGQ_&B}qQ>&HHqt }>Q &RHBE?R_GGqZ)qEER_Q4L}HR&QHEG}>LtZGL>qDHqLH-Zt}&EG>>HtZ,>Z_Lq=HERZL&_)BH}ZqQ}H&RqB}QbRLq&BZ>}GR_}bGEZ>EHG)LEtHZLE)GE)&t)R_QH&HQytERG}G&))Lj)ZGtB?t)B&HB>)qR&H&G&R>)tRLHZEZRZ)HLRBBqQ>R_>q&}&q}>B_H&H}RqGHR)HRAHLq9}&EEq))QGQLQ)EZL)GG_>Q_)BL}HGH>H_tB}}B:&QE_}>E_LZH)&_RZBQ&GG)R_}Zt}}Y)BL_QH>QZFt)Qt>LQtQ>LL}t_RLQR>}L_E_R})Q&LHLEt>L)ZqRBRE(>BtE-EHEE)>_Q}qHHG&H>HQGqZHEE)Hq)G&tHE&E>tEQq}}QGLLL)LZL}>zqH})}Z}}Hd>Q&_&LGHQZ}L}.HL}t>AZBR_RZht)RqLRG_Zqt_Zt}QtBLLQL&LLQEqL)}HgLLBt}ZtEA1ZL__uRBtH&>B>t>RQGLu}H}EL>B)ZqZHQGZRv_&&&HtGRB)Q)q)HHG}RL_>q_)>GqRT_&L_HEE_>tzHqQHQEQ>Gn)q}}ZZs}BGqq}t_EGLq__qQtGGtLB&RLQ_>q_LR&BqQ}t{BL>&QqttxfQB)tBRBtG*tBE_ERQE>ZQLE0LZ_ELRBQRE&L?Qg&cBRE_B>)q&qBqEB}ZQL>}HZGRRy)w>HHLGBRB_Z>E)ZEBBG)>>G)g&t>QE}q}}}EtL>EEq)H}GQQ>_BqBHBG_QH))Z)}Hi}L>t>Z__ZGZBZ_jR&}&OtBRttZQQ)GHBBtELB})ZZL}&ZBRt&wE}tttRtQ&&}QqtGZtQE>}B)t}RQG>&BB>EL}&)L-tH&E_R}t/&tB)E_B_)q&LH}GqRE8&qq)qG&Lq)EqE)BEt>&_RqtH}Z_REEt&t}tG}})G)ZB)OGL>Q_tZL}qR>LHGLqLQL{qBq3)qH_}GBBBtZRZ_QfQ}QtZZtEqG_}QvGBt}}M_BLtRH}QB&&)LE&L:tL(LHLEqHRE>&M))tBRQ)R&q_BtSBH)BqHBHGRBtQ)q)HBq}HH_>R_H_&_>})BqHtZG>>>)>qQHtGB}__B>R)_E_L__HLQ_)1LQ&)tq,}QGHQt_L>E}t+E>EtQLZ}&&&Lt/GLEQ)ZqBqsqZG}t^E)}_)Z}}QM_LFqZZL}GSZBQF)RHQH6HBtq}RRQH&)HRtI}Z)RRRHZGRR:)eR}BGEZ>L)G&)_Et^BGQGqGH)qtHt_}>qHHE_>G_HqRtBGQHH)HZH}RgR}t)Q>)H}5}L>t>>_}_q_L>_GBRHEq_Q&2Gq)}E6HLL&)Z}QZRHBZ*qLH}H&HBR&LBB)qRtL}t_RLQR>}BqdQR})QaQHLhGZt)t&}))&Q>BtE&EQEE)R})QL>HBEBRB)_&GH}qE>}ELREBEGE>QG_>t}HZZRG_qq_HQZG>HE,qG}WExL_G>qZQZGGQ&G2Zt_RbR}Rt&qG}XR)Lt_)Z_EBs}LBtHHZQ>3>L>tQHLQRlE))tLL)tZZGQBq>ZHQ)&>BZqHRLQ7>tQ_&LBLt_&R_BtQRt)B&>_QE)R}QtLLHQ&BHBEh>t)BqB}E_&&ttZG&>)mHqZ)Qq>H_z)&E}&G)>}gEqGHtG&QQ)_>)_GZQ}_&RZB}ZR}LBt&BEH:EE}LbtLPEHG)LEtHZLE)._LQ_EHBQqZHQ}W_BEtHRB)GEqZEGR&qB_q}Bpt)M}_>tHR))>&Z_HELRKGt&LB_tE}}Q_q_H}GQ>L_LqtBtEJ>Q)HLtHL&E>RGE>G)_G}>})}qEtQGZH)_QZ)H)MBHk_tq)}_q_L__ZZBQqGG}LtZZ&QqZq>0tdZtQEVQBQE&LHQR&HB>ELZL)q&}QqtLLEQRREQG*_R}tH&HHHt_>Rtt&tBREH>ZQ:RBHREq>ZEZ&aBptV>> &&R}RG&Lq)EqE}>&_>H__q}}QEQLL_t>LHQqq>HkqLZ)zGtH___Z_HggH}&_Eq_}tRHLQ_HZ}ER3}>ptRZG}_ZZLJ_EZG_Gf>L}t_R>Q&>RLG;BZ>)>&qHZtGRG)L&GB_EtZt)}&iQBtB>B)Rq>BqG&>HE&&>QtEZHtEER)HH&B>B_B&)}Z&_RQ_QqB}HGRLR_)ZR}&mq>q_EZ>)_G)L_)}ZH_&G>Ht_ZLt_Eq)LHGBZBQBG)BZG_qQQQ!BBHtRRRQ)ZqLEEqZGQvGsB_EZL_}DZHLE&HB}tL&ZQqEq>qQL&EQBt>>>)qqZBGEG>LttbtHtEQ>)Q)qBHEGB>R_>&q}&GHH&)>RtHZqtHEE)qH)BGBLB))ZZ)_EQ}t_BZH}RwR}__QZ)H)sBQqGBq)_ZG}QZ6RL&}EqtLtttZ&Q}ZqLHGEZtQEAQBQ_QRQ}M&L}t_tRtQZ&})>_dR^QLREQGEQH>QBZGB>&GB9tt&QQ}E}>}Qtq>QEt_>_)}qQHLGL>tER&1}RG&Lq)qqE}>&E>E)>q}}RG&HH_>qZ}RqRL&_&q&}LRqLZ_&q>tEE6HG;ZLE_WRHL)_BBt})5>)q_Rqq_QR&QR&_qGQq*_LQ&GZ=}EFq))tLL_ttZW)q8_B)GZ&LBqqHRLQ.>t)RDGZtG}8_BGE}RBG_&QHRZ&RQQT&q_ttC>{)tqEHQGQL&)&qRHEE_Q&)Q>qHHZq}ZE<qtHtEtLq?EqB)GGELG)GZ)_Rd&>G_8>;}(GBL)tLZZ_QSBL>tLLL}R&RB&EqZEQE&>}_tHR_Q}&QLQELRttLNQQqtHHqEZZoBtN_R_)_KjHH&&>&QH&_HBERB))H&LHB&B>R)R&RH}Z>RH_Hq>}LGqLq_}RJH_G;>t_E&E}QD&HQ)E>LH_ZL}BGRZ&)TGlLh_RZ__>iq>4t&B_}EG_Lt&HZQ}H?})RtLZL}LY))BtqZLQ}&qLEq&R>tRb9LEtqH)QLZ_QF&)BHG>&HBRqQRH)q>GBQ&&BBE}LqB>EH>qQ;L>HZEt}Q)>RQ)GZLR})_qLHRZ}>B_&LEH}&EHLGt>StHE)>E_HqLt)ETLR)MZq}tG&Q__QZRE&G_}ZWRBtH,bZLt_)Bm}ZRLLrE&ZtQtR>BZERZRQ#R)}stRL_QqR_QtoQRBtL&LHLtQ>qt)&)BqEL>&QER>Hqt+>&E&hG_qE_>t)}q}_&EG>aQaq__B&_R?EH&E_Hq}HL_Z>q}q^q>L_E>BHRGq>Z_>q}t_EG>H)_ZZ_Rm&L&_&ZLEqG>QHtqRZ}GKGQBt>RL}L&qQtoqZL_EDRQE-GL_Q}ZHBHEHZ_)RZtBQtHR}GR&LBLtLR)GBJQ)tEB>H)RqR)_EQ>)Q)qB_q&BR)EZ&}_ZqRH&)ERtHtGt>&_}>qHGEt>EX}q)H)E)>g#_qQ}RR&>_G&>}_HRR>B_QZR}qRBL>_GB__EE_}R__BG}qv>LG_tHq}>&>BqEZZGQG&L}tt}RtQQ&)L)EBREtB&RBRtRR}G>.HHHE>>L)qqqH}GqRG)dbFH_GZBQQQqQHBGHR>_Rq))REHB?)L>9_&&E>)EQqQ}QEELLEGq_HQG)QL_HqHHHGtQ}_BZ&tEG}HEGLLQE&GRLBt&qGERG}Lt_}Z)QLGQ)>tZZtEQf>>QgqBZEtG#BZttZ)Eu&RQ&tj>&Qt&tLtEtR_)}ZpL7E8RG)_>HBHqLR&EV&F)G&zH_)Qq)B)GB}qG}&))ZE}}ZGR>&HE&t>t_tq&}}qqLq)}qt}HG>H__}qB}HqH>LM}ZZQRG,L.(HZLQBGBBZgELZ}BqGL>:GL3_t-Q}}t}R}}t&>}E_)Z}}Q{_L;qZZL}G8ZBQ2)RHQH=HBtq}RttQ&}HQEL>LQLqLH>GqB}Q}q}HHG>}&)&>GBQq}>}GH>}_>GZLR)Rqx_)Zq>RE_qq__qtHQ_B>L}LJL>Qtq>)}HGLLB&qZR}qWZQE_YqE}GRQL__QZ)EL8HLLtBHqQRNqBZ&EZj}EFG)Qt_Z_}_&&)tt)R>Gq6tQqv;BHG>nHB)E>RZGH&LBeqtB_E)RLQ_ER}BQQ&tHBE>}Q)Hqq_GEQH&EB>Z_qZ}R_)Gq}HBZ_>B))qE}BGZQL_QLH}}ZLRbYRqRtqsR}n_BLE}LqtL}_Bq)ERGG}>I}BRt&REB&_tHZQ&1))HntLQQ&>RLBtQRRQq>BB>tGH_QBZEQR&RHGQq&>BGtt}qQ*&Q_B&QZBtG&B_QttRN)Q&H_tEHBEGqREB}EG>>)}qBtZEEHZG)>EtLG}>>a)q}}ZZ4}>E8>HH:RZ>L_}ZZ}&RLLR_EB)tqq)}Z_)BE}&hRLE__H&Q>ZqB&JqZG}GGGBR&NZEQH>>L^_>LttG>HL)tERHQL>)B1j_RQt_&}B}t}REGQnHQ)ttB))H&LHBZq>R)qqZ_EEmRFQ+q>t&EG>}ML>H)LEGQq)>qH}qE Q>_ZqttQG>RQGqLLttEzLZ_tq)txG>L}_>ZBQqGL)&_GZ}EL &}HhBHq}>kHBq_;H>}}ZLBBELqG)qZ)B)tqRL)&bEQ>EqZX)&R&Hq*tRE)t&tH}&qZGQtvEBXER}BQQ&ZBBEEBG)_&_B_G&}t)&REHGGERB_Q>ZHzEE>GdQq_H_E_L&,tq)}>Rq}>GR>Q}qR>>H_)Z>}ZRHL}_Bq)ERSL}>eBL)t)Z>Q&&_ZG})>&LGt}HLQ&ZLQLqqZ>QH&qL9q>Z1tLRtQGYtRtQR&HHZtsBB)R&qHZ&ZR&GRqq)EtEHGERqRB)EG>Q)BREH)E}>QEQqBHBEB>_OHqZ)}q%}qE8qtH)G_QB_}qB}HRZL>_ZZRtGGQHP_HL(t&R}L)_}ZQE>GE}L__BLtBZRB&G4ZwQW;RB_O>RqQqAqBBqZZEtRRHQR_GR>Q)%GBtq}RRt}>&)Rq_RGQ)L&BGE}}L)&RH)HZqR>)HqqBaZ>>Z)tLQ_&&_>Z4L&}H_GL>R8}qB}&Z&}ZQE>LHER&>R_BZ&HGRR>}_tq}})2L>Q&>ZZ}tRQL>G_LtELG}L_tLZRE}eE}QtHLQQQJ&B>tMZttR&&LGt<Lz}}Z_LEp_Z}QBYHBQtE}&QRStB&EHB})L&LBLE)}B)_RHHL&H>>)ZqR_GG&>&)&qLtqGLHZ_q>ZHyEE>GdQq_H_E_L&(tq)}>Rq>tGRLqtEG&LR_Eq_E&GGL}&LZ&_LZEQ&&}q_}Gs}LB&_Z&Q>9&BZtEZqEtf)B>qqBL}qZQBqq>ZHQ)&>BZqHREt}&QH}E}>>tE&EB>E}>R)&RHH>EZ>RER&ZQnG&>6Q}q_)>EqRc)&qZHBZQRt)L&Q}&qq>G)G&G}RZrLLG&ZqQ&r&LtGLZZ}&kqQt_GqGHG(RQe_EZHE>Go}>9BH&}RnBB&_GHR}}mtL}t)RL}Q>>BZttHQt)GQQqtQHt}7&ZBtt)HuQZ>LHR&SZjG&RLHLtt>&)_&}QgEtR))_R_Hq&HHGG&RGB_EQR))tq&tREBRo)Rq))_G}>})}qEtQEt}#_ELQHQZ)Hm_tq)}_RBL}_BZHEZP>LZtRBG}QqzLH78B&E}8)L}tQH>}EZLL_&LBBtR&&}1teR<QR&_Q>EqZu)&>_BEtEZE)Z>GBtEB}RQG0RQ_&E}BQQ&tHBE>}QQGqZBGG&>_QVL)H}GZ}0))eT)HqLQZ)Lq}}ZG&QL_q>B}LnBLZtZqZQZGQLGGLqLQLGtBqoEqEt_GBQL_EB>tLRqLFE&Z&QtRHQGt&L}}GR}QQyBRRtZ&ZHZtBRGtH&HLGEZREQ)RqBGttREtE^_H_E}>Q)LqLHtGL>Z_R&RHkGBBEQEqEH)G_R}_HqG)HE>>Z)RqLHQZtR*)}&t}Rq>Lq_qqq}BRZ>GGRZZQRG<Lb)lZv}Bk_}Z_ZRZ}Q2GQ)_)B}}RRZL)&qBZtG{tBE_ERQE>R_LEdLZ_ELRBQRE&L*Q8&<BRE_B>)q*PH&q_REQ_&t_HEQRQQQ&G_)E}>ZG,&))q&HH_sZ&LH}GZ>&:L&}}}GLLB_ZZZ}Qq&>tt&qE}GEGL)tq>)HGqB>tjBLH_>wq}&t&R&}>1t}LtZZZ}ZsH)RtqZ_E}DR}}&&BRE_GGBqt_ZQEGeILEtqH)QQZ_QG&qHqt8RL_ZELRqGH&LBhqtRH}tR>)Bq:RZ)L&SBEZZRL_LqZ}RE;>1_BREBEGE>)__&_}HGGLH_>ZLHZ6qL}GqqL)EGR}EGG>_}}qHLHtHq_QRqtLt_RZHQZGI}BtRZqQZZZL}GGBZ_GGQL,tLZQQH>RLG2RB_tG>BBQtLH_QQ&R_&&>B&QQ>tLOEZRtQ)>7BEEH}>Q8R>)QZ&RR)Bq&BGZR>q)_>_)G&)H&)}L_BGGq>_)QLGHRGH>R_LZ&H>ZA>E_HB>H=qB}H&&qR}B5&>G&RZ}_>9Z}>t>q_}/2)LHGGZ_}Q6)})_RLB}}ZBLRtqZZQ>5})__GZH}_&ZQRE&R&Q&&L_qEBBZ)&RZB/tERGGQ&_B_t_>&Gtq&QEEtBE))&}HQZ>>B)B&BH_ZH>L)vLtHH&tH>GRLuHZGL>w)EBZ}&G)QHGt>Q}&RR>B_QZR}qRB>__Wq_}E.}>t&HZL}bRt}GGGZLE}G_LGt}ZBE_rB}t&RBLtR&RL)tGRQQBZEB)t}RQtQzH))E}H>Q>>LQ)tHRLQB&}BtqARZQ_NaHB&H>>)>&>HQZLR}G_qQ_LEL}BE_q}HBGHQZ_>q>H>GQQL_RqEt)qER)GZq)tEG&LR_Eq_E&G>}qtZRqH)gE}BtRZR}R:})>t)LLQB&LBLEqL)QHnLBBqqRRQq&Z)EtDZEQG>QB>4)RZE)R__RELRR)>>-B}&&RBG&>qQGE_B)))q)BGGBBp)g&BH)GL>ZEQqBH>GLHL_ZqZHZGHQR)BZB}Rr>L&t&ZH)GEGLG__ZtHt*}Lgt}ZLQBGRBZtQLZ}BqGL>bGL(_tVQ}}t}R}}t&>}Et)Z}QQ>>BBt>RLG&&ZB&EqHtQG8tBEq}R)Q)u)B1q_RQ)RL&Qu&EZHtg&H_)tE>&))&}_EG&RtYZ&HH_ERRQ)R&GtREBLB_RZ>}&5&LH_Bq>}LR&LZ_ZqZ}HRRLq__B&H_N_L}tQZLQLCt}RG)ZQQ)GHBB&qqEQ&6)L}&EZB_G/>QGw2LtQQOQLQtGH)QRZ_B)E_Z_)HR&BEt_Rttt&QBHE}}R)L&RH>q<>q)q&qHBZZ>&))LHHZ&HHLEtL)BEG&>))}LEH_GLQZ)E>Z))qH}q9t&k}ZGt>)grq>}}G>LBtqqLE&GGL}&LZ&HLqE})^&Bw}ZrLLu_EHZ}L&LBZERZ1Qk&BBOttRE}E&QH&NHZH)H&>HLtZ>q)}RqBL<ERREERGQ_E}BH)HqHB_GRBtQ)q)HHG}>>_>q_}>GqLZ)ZqG}L&t>__t&Q}}qq>LEEqR_EqGH__}>H}HyH>_tR>tH)W)LHt}Z>Q>;_B>tqRZ}ZaGBLGtqtQtvQB)_HRBQEZBL)aZZ}EZRRQ&tELtQt&tB&E}BqQMv__qtBR)QZ:}BZtE}ZQLqLHZGRR5)8qBHLER>>GD&})&EB}&GqRGH_&)>)_)&G}B&A>E)QLSH>G}>&)Bq&H_R&LZ_&Zq_q-q>}_tZH}>q_L}_BZH_HGELqt>ZE}QRtLHGAZ_}QGE)Bt)LHt_RBQLq&RR}m>LBRtEH)QGZtQZ&LHEQ&&RBEt_}&QG&}_LEQBBtE>q_}t_RG)}&B__tG>G)_qtH}G}>1EB&B}BGRL>)>Z&}Hq&>>EtqZ_tqEH)_H>B}BjB>)tZ>_}}G}>}_EBQHtZfLQt)ZBQBZGLttEqEQQR>}Q_ELL}_RLQBrRR&_{I9BCtRR_t>&qLXE&H_QETELEEZHGQt&B_R&HBR)L>#BZELRrQELZBLq}>Z_R&?HSqH>L_B&B}ZqEHZ)BRGH>qGHFEtqQ)}G}L})tZ>)EG)>)))qFt_GQLR&&Z>_&q}})&RqB}Q*RLq&Bq_}iG_LEt}qtEHNLLN&tLsHtZ>BL&!ZZQLh8LEqZZEtR&ZHRt,R4}e&VBLE_BZQZqZB}EGH)Q)>}BRqZRQGq>Z)GEt>EQEqQ_>q_REEL&__LqBHR_&RTH9Gj>R__>>}>E_>Y_)qH)GG_>Q_)>)}RGEQZ)EZE})N_LHtHZG_LqtL_ttqQQ}RR>0tZZt})R;L}i&ZBE&Rq}Gt_Z_}_&&)ttLLEQt&ELEEQBZQY1EBGSGZ_QQd)BtE&}RQBkNBRE)B_)}&}B}EE}Q)>R)HQG)>B_B&B}BEtLZEQ&Q}QE.LLnqqq_IE)}Q_&L}_QZLLRt>q>Q&Z_QZ_>>t}ZZt}EG)ZH_BVBBB_)RZ__h}LBtHHZQ>bZBR&GR&}GW?))ttZ)Q_>BL}tBZHQQcE_&tRZtQ&&HQ}ELRLQL&)_BEqRL)}qqBEZ&R_ER&<BEEq}))GR_)wq)HQk>qHHRZQ>H_qLG}Zq&HBGQBqH>GHLq)NB>}ZGtQQ_E>)_qZLQt)NZZ}tG)Qr_ZRZ}a&&LtttRR_)G)B)tHR}}}&>B_7>Z}t&MB)&&qLGQ_Z)B)E)ZG)BZ=BtttZt)q>EB&qRRE)G&)H)qZ>&_q&qHEq}BE)qRQBDqQH)EHq>)RGRLR)HqO)}GL>R_>La}qGq>q_BBZ}&G)QHG_>H}QRR>B_QZR}qRB>Q;tZBQHrRBRr_ZQQ)G)BB&qLB})ZZL}&ZBRt&!E}tttRtQ&&}QqtGZG}G&R)ctERHG>&}Q>6tBGGHK)BEEHRLG)o*HRtc>q)t&&__EQ>R0&>RB&&}>QvR&BHQGR>qjBqq)HGBLH_RZRHR!R>Q_x>BHBDB>ttZLGHGZt>HFBqEtLZBQZt&Rq}qAEQ},5Zq_QGuQQ9)LHQ>ZRBRERZHQpZ}B}_0RRQGk_QZt+ZEQGZGBHEqHBQqqqBGE(R_)_qZQQ&&Rx_&jEHtqHRR)Bq&BGZRRtE>&)_>qLHZ)%&NBMG>Q&)Q>q}&fq>q_E>B}RGqLZGZ&,HEEGL&_>BHH)GR>H_G>k}tGt>ttqBE}}qGLEtGZ)Q)G)B)t&RB_EGEBEtRRQELsL)R_GBEQ>RtQE&QRH)}.}H>&{HBQ}R&BBq&HqtG&_Q)E)>)QGqBQsEtR))_LBH}EB>H<Zq>HZGR}G_&&GHTZ)>t))q_tBG}>})}qEtQEtLt_QZ)}BOBLEG>B&}qGH>Q&>qHQHm>BL_LRqQ}RR}}tLZRQ>RwBq_=R&E_cELE_ERZEG,tBBqRZGtLRqQ_qBZQQt&BB>qQRH)q>GQG&_BLtE&L_}t_RG)}&B__EBR))EqBHZZL>&GHqH)BGZ>&)>LEHt&G}ZGE>GtHG)>B!tq)}>Rq}HGqqGtEG&LR_Eq_E&G_}qt&Rq}E?E>EtEZRQQRLLL&RqGtEW>Qt4EBQQH&}L}E>B#EBI}Q&tBH&EqZGB_f)R)))oGHBMrRtQt{tHqqER_)L>L)BtZB))BLLB}E_>L)RL}HQEHR_:>&t)Lq}HGG_>L)KZt>X)_BqHjGQQBGt&B)GG)QQ)tqc}QGHQt_H>E}twELQtQLZQqqG>GtGZ_QtGtB}tVL}}B&BLt&>BL)&ZHB}XHZL)Lm_Hq0}RQ)}&LHBtR>Z)QRZHZtQRE)}&LQtEQRH)}R}BBGB>R_>q&}&GHBGQGqGH_GtRt_}qz}}GLLB)RZZ}QqZ>BEGq>_GqmHt_Q>}}}?}>tt>>E}EG>L}tRZ&_Hp>LZtRLRQ&?&L&tLHq}>&>BqEZZGQG&L}t_tRtQQ&)L)EBRE)B&RH>tq>&)HR&B>ctRZEtREQ)EHBB)BqBB)GZB_)}&BHHZZ>>)ZqR_GG&RG)YL)HtEtRt_qLEH_GLQZGR>}BQqq>QNt& }ZGt>)zPq>}}G>LBtqqLE&GGL}&LZ&HLqE})fLB1}Z5LL<_EHZ}L&LBZERZiQ{&B}E_GREQ)&_L_EHRGtHe_QRtQHRE>RqBGzERE)E&qHQ&ZR&_&&EHGE)>)_qR}B}G}>L_B&B}ZGQLZ)6Z&BEGtLREtq&)}EG}}GQ>B}RqZLZtZqB}GqH>LtLZZQRGuL6tB>E}QnEL)t_q_QH:G}H__LR}QRRQ>jqZG_EVEBEtqRQtZF&H&tERGQ)&)Hq5}Z})}&LHBtB>Z)QqZBzG&ZE)tqRQtE&B}QG>})Q&B>REZqZ}ZEB>GEH&L}LGZLR)+qm}B&ERE_Eq)}_E_LH_GZH}>dL>ZtqZ}_qGLHE_RLE_Gq_L}GHZHQHG_BRGtZL}xR>>OtkZtQE0QBQE&qB_GGGBGt_Rt}Q&}Bo&)ZBQQ&RBqqBZgtHnE)H&}BL)Z&ZBZEH}RQtR>HRG>R>_&RQHBE>>LELqLBtG&>_)}R1HtE)>_E_qQHLZ_>&_>&tHZEt>HFtqGHtGEHE))q}HQG_>o&ZqLHGGZLQG)ZH}HGHLt&}q_Q_g}BQtLRLQtZRL>ERR&)qJqBEE>LEQqZQLO&QB)tH&>QRER>RQH&,Q}tB>B)Rq>H&G&>HtGTGHGE_>tQtq}H?G}>L_B&R}ZGQHZ)BRGH>qGH4EtqQ)}G}L})tZ>)EE_L__}ZQ}LILLtGRq QRh&Bq_qZEQ>qELqGQqPtQZ)}Ht>LRQR&RLHtkL}}B&BBRE>R&)&&H}G_GRGQ_&tLtE}R#)}&LHBtR>Z)QRZBB<GR>EGRTQtEQB})}q}BtG>BEQ_q_H}GQ>L_Lqt)RERLR_&ZqHqGEL>_Eq)}_E}LH_G>HH_qR>QvRL>_qGGHE_EZE}qOQ}Z__ZLt)GLBLtZRR}8d9BB)tL>}>&>BqEZq.QG&L)&_tZTQQ3H)ttLLEQRREQGw_R}Q}^}BEqQRZt)&QH)t)>Bt?&tB)E_B_)}&BHHZZ>>)ZqR_GG&>&)&qLtqE5>QXB>B){&E>BcQ&tHwGQ>H^tqHH_GGLH_RBB}qqQ>=GLZ>QL*qBq_qRq}HWE}>_>R>})&&Qt_tB)}LR>L_&RB>E&<GB1_+R_EBREL,OHZEEHR}QLEZBq)qqqBLEEBBQ>q>HqGZRG)GqLHGE_>tQtq}HI&BRB_BqR}>EqL&_H>&H>&t>ZGt>E))GHHB_BZBH)zZH_)QZQ}BmHLRtRZ)QR#&Bq_qZEQ>q_L)t_q}QHZ&L>GtZZttZE})tHLBQB&BL)EZL_}Q&QBBEHRR)R&)HRE&>qQq&EH>4_R))_T}HH&&R>tt&Z)t&EB))HRBHBGBR)_ZR_BQGQ>B_HqR}RG)Hq)EZqHGGDR^__ZZ)_EOHH)ELH_}qLLZGqZqQqGLLEGBq>Q>CqBZ_GZGQLqt>tttZQQ)G)BBtERBQR&>LqE&RHt&u>}ttZBttEZ)BH8BRB)B{)HZC_ZQ)Q&BHHER>R))RqBqGqRG)MkbH_GZ>_)}qQBBGL>tELqZHZEZ>H^RqqH_Z}H}Gqyv)HE4QZ)Lq}}ZG&QL_&q>}He&>t7=ZR_ZGG>t_&BQ}>q)}GYQLBERNBLZ&}ZBQ&REL}GzLLtH>&LRtBR&}G>RBqt_H}tGZ)Q&t}H_}G&qB_tQHGQt&B_RtGBRE_RG_BtQRt)B&>_QE)R}QtLLBH&BHQEG>t)HqL}E_&&ttZG&>)xH>tBH& >Hm)&E}&G)>}AEq&tRGELG_)Z)tZJ&Bq_qZEt}qELqGQqOtQZ)}Ht>LRQR&RLHt%L}Q}GMBRtGZ_tZvJLEtGLG}tR;BQE)RB)BRGBtEEZE)Q>>QQtEBLQ_>L)B&R>&tS&9H:ER>_E>q>B_ET>))HRGH_EQ>)E)qHHHEH>t }&__GG}LQ_LZL_EG_Lt)tZ}tRq}>tG>q)t>ZL}Z_C>G}GjGLZt)LRQ&GGLp&)Zt}tGtBq&EZ&)&6EBGt)R))qZ}L}E}RL)B8BHZEQ>ZQJq&LEEt>Rtt&&Q}tGH}EQRBHR&Z>Z_Z&BHG&H>>)ZqR_GG&>&)&qLtqE2>QwBqq)BqHQZ)Lq}}ZG&QL_RqEt)qER)GZq)tEG&LR_Eq_E&/q>f_RBt}_qE}GG{BR_zZ>)>tHZREQcHBq&GB&HGZBLGqqZ>QH&qLOq>ZH)H&>HLEq>q)}qqBGE:Zy)_qZQQtQ>Q)BqHB>GR>)ERqRB)EG>Q)BREH)E}>QEQq})LG>LL_qZqHqXqL&_E>>H>6>LRt&LtHtZ)>LS>Z>tRZ>Q&_GZkH{6_QBAEqg_HGEQHe}LLQZZqBqEqZLQEZBBB_ERqQtoQQ&tEZ_QtZtBQtQZQQG>)BG9_R))_&HHHtH>H)BqRQ)t)>))QqB_ZEZ}&Q_>)H)qQH)GBq>}LELLqGtLRHL&E>RGE>G)_G}HH_HZHH_jRHt_QqH}}RRLL_LqL})RBL>_GB_}Bq_}R%HBG}qD>LG_tHq}Bo)LBt}RR}H>ZB&t)HHQZZQQ}qRZBQQ&RBqqBZQEt&BHHER>RE_&QH)t)>BGqRBB)&ZR}GZ>R)&EEBt)tqtH&G}Hq_q&}HtGH>>E_q}HBGHHH)LL}}Z<R>5_mLH}L/B>BtZLE_ZGBHG_>LG_KqtLQG}Z}Q}GtB>GEq)}}GQL__cHZ}LGGLZtQL)QHKHLHttH}}_RGB}EQRL)LREB_EtZt)}>RQ}ttB>Q)>>)L&ZR+tG&GHGEZ>)ERq&BGEs}))t&)H_ZB>})BqHtZG>>Z_RLG}&G&>&_LBqH(GQ}G_}ZQ}LXLHE)tZt}Qh)>HtBZEt}G>LHtqqNE>GE}L__BLtBZRB&t&Z&QL>qL)eZRq)ZsZBGeHR>QZ&RQRE&ZGQm>)Btt)R_GB&}BBEH}Z)>&ZHRqG>&QG&z_)EtR))_LBH}EB>HhZq>H>E>>QILqRHEZ)}&G>>G)}q&>}W_&G}qG_>QXGqt}BRR}QF&Lq_RG)QE_&ZR}EG_)&_GZ}ELZ_Q&{)LR}tR2LZtLZ;}E>ZB&t)HHQZZH}5&ZB}tE>}L_tGR}QB>_BQER}&EBRtQ-&&RHG) EH&E)R}GE&_HLZZREE>>B)t&E}tQhqZHtE)}o))&G}qG)>BYQq_))GQL)_BZBHBKBLRtZLGHQcQLB%HL}QRZGLQ_QqQ}GR)L}tZB<tLZ_}t)ELL}E>&LRtBR&}G>RB>tZZBEF:)Q&&>BYtt>QBtt}HGQt&B_RtGBLt_RE_BtQRt)B&>_QEH>qGG&QQG&BHQJq&>HHGqR*M>qZHtZQH%E)>qHQZtRF_ZqtH)ZK>ZtZqsQ&GtLttR>)H)m)LHt}q}Q>,_QZ_ZRZ}0&&>EttRR_t?&}}_GB}tQZBBRMZRZ)Z BBGpHR>Q>8>BQqLZ})}&LHBEZ>Z)QR&BqG&RE)GOGH)GqB)QGRBBtqBHHE>qq)&G&L&)>qt)LGZ>&_qLtHGEGRG_RLhHZrZ>vt&qt}t(RH))_Z)}HW}>}t>Z__>G}}&_BB&tqqGL_G)Z)Q)GGBBGPZt})J_)Bt}Z}}}mE)QtHRqEGR&}GtHH)}E&&B)t}HEQ_&L)L&}ZZt)&Z_Lt}R_)L&R_}tE>qQE&9H)tG}Q)Hqq_GEQBGG&L)BEG&>))}LEH&h&>E_Gq)})5qH})}Z}}L{B>BtZZQQZG<B&)EZtQRqtL&G}qGt}ZQ}BtRLZQZ&ZLBtGLHQHGGBZtEZ)tqpGLttELE}_&_B}EQRL)L&tQRt!>R)&qqBqEE>>tE&qQQtyHQE)RHH>&R>R_R&HH:&}RL)R&>HBE)}E)&&QBEG>HL_ZqZHZGHQR)BZB}R%>L&t&ZH)GEGLG__ZtHtc}L/t}ZLQBGRBZtQLZ}BqGL>VGL4_t2Q}}t}R}}t&>}Et)Z}QQ>>BBtBZBQ_>HBLtYHtQHZtQEq}Z_QG&}BBq_RtQ)IG_HE_B}E)>R)G&QHLG2qZBGZ>>Z)tLQH>&QHQ5L&}H_GL>R7}&_}_G}LQ_LZL}tqR>RtRZ&QqGqLEt>ZE})l_>}tHZG_HgH>GtZZE})ZqLG_tZE_EG_B_t}RQQL&LBt;RZ>)R&&HqtqRE)>ZEBqzQZ1EQR)QHE>BR)RqRBHE8B})}FnHREGR_EZ&+BEEGBG)_&_B_G&}tQbq,HtGE>Q_QZ&)HE}LH_>ZLHL qL}GqqL)EGR}EGG>_}}qHLHtHq_QRqtLQ_HZ}ERzLLRt>BJQqGmB&&_ZE}_Yt)HtQZQ}QCG))tLZQQt&LBqq>ZbtHoLHLEZ>RQy&%HB^EZG)E&)H_t_>H)GRHB_&RRQGR>>)qEGBE)EqEHqGQHZ)&Z&HEGG>)_)Zq)}EQL}_LZBHB<ZLQGZqB)GG>}GGO>t}Qq}L}t}qtQ>qE>_t_Z}QQvLBLttLR}R&RB&EqZqQE&>}EtqLQ}cRQQ)WHR>tR&RHRtHRlt}AGQ>ER>>)&q&B&G&RB)tRRBRGRRQ)#>_BBGBRtG>>L}&q_REEL&__LqBHR_&R+HcGb>R__>>HZfZ>et&qt}twRLt))Z)}H#}>}t>Z_QZqQ>QtQZBQHG>BRt)LR}Hq4LL^jB&_E+)}QtQRQ}E&L}GttZ}EG:RBH_MZL}1%))2EqZi)&R&BEt_RtGH&QBHE}}R)L&LBLE)}B)>&G__EBB_ER>B)tq&}tQuqZHtE)}Y)EqHt>EfH>G}>G_ZZG>q_>qGHtRq>t_&ZR}tG}Q__4>G})G}>t&LZ&_BZ)QLjZB=QZGG)>tZZtEQZE}_lqZQEtGfBZttZ)Ef!EBHq>ZIt>ZtQ_qHZ)QE&HBLq)R})Z>;)>_YBHQ=LZBLE}>Z)&LLHBE>R}:q&R)ZqLHLG}>L)OZQ>t)}LGHtGBQRGL&R)_GRQB)Qqt}BG>QQ_E>)}Q )LBtBqBQB2LBZGQqQQQm}BL&qZqtAG)QQtQB}tQRLBRE>Z>)&R_)ZE&ZHQ_&BBRi)RHQL&BQBt>HH)qqZBGEGHB)>qLBLGqHtEq&LQEERHEEGR_H}&H>H_H&_}R&t>t)RqH}ZEvHB_Rqq}ZqZ>P)n&<}>R&>ReBZ&QqGELEbLZRQ>G>B&i_L&}>qtLZ5tLE_)!H}BtBRB})&Z}_t}ZBQH>ZB>t>Z>QQ>LBRtEH)t8ZtBRqBZQQt&BB>qQR)Q}Yt_LtHBBE}Ru)t&HHZGEq&BtZZ>&))LH)_tHBi)HL)BEG&>))}LEH&ZR>E_Gq)})ZZL&tqqq}EZ}HE_q>QH:ZQ})GHZ>_R.RBR_HZK_}J}>,tRZG}_ZZLw_EZG_GGtQ8tQR)QB&BQGttRE}E&Q)>0QZEtLx_)L&BBR)&ZFB.EYRR)_R>H>t_R.))&HQGE_RQ))R)HHEHRH)tL}B_qG>}_QqL}LqE>__t&t}}ZRH})t>>H)Z>}LGZqg)GGGLG_ZZ)_Ri&>G_;B)}tG)L_&BZ}}}G}LE&QZHQqRGQ>GGZHE)GEB&t)Z}EEC&H&tERGQ)&)HqY}R>)}&LHBtB>Z)QRZBBwGR>EGR%QtEQB})}q}BtG>BE))&)B)E+}_)QqRt&E_H&GLLtBDGZ>t))L4H>G}>>_BZqHLR&>G_}BL__qH>G&qq>}Hcq>#&>qHt)=>BLtqRqtQDHB}_}R>tyZ>L}K&ZBE&Rq}Gt_L)Q)&)LGEBLiQigBB)ELRZtQ&BB>ELBLQRqRH&GqRE)Eq>Q_t_>_)}qQBQGL>t_LqZ}RE&>?_BRPHR&_>qG_>t)QGBHL_LZLHQ<qH))HqLHBG}>ts,qZH_E3LBGHZ>}>G>LQ&Lq}t_*LBBtZRZt)s}BQ_QRLE&ZLLQSqZHEqRZ}/ttL_Q_&_L(EHB&QES_BtqHRQQH&}_RELRR)>>.Hqt;>&G_&EBEtE>ZGG&q}qEG>()_q_}Z&Q>L_QqB}HEHLR_)>RHH&i>LGoL&)EG)HQ_QZQHEaLHG)tZt}Qi)LBtBZE_>G>B>tqRZ}Z:GBLtGZ_QtGQB}tML}}tZ>L)&>BLtZcK}GtGRGQZ&)QRtqH>QG&{B_E_HR)qqZBZEGHQtG&ZQ)E&H)E_R}HL&>>>_>&}}&&QRH_Hq>}LGqLq_}RWH_GC>t_E&E}Q!&HQ)E>LH_ZL}BGRZ&)gG:LI_RZ__>GZBZ_+R&}trtBRG)q)Q)kHB}_}R>Q_&>BqEZqrQG&L}GtZL)Q&R)Q_:}RLt>&>H>t}>&tQ1H))E>>L)qqq)QEH>}Q}q>),&>R}E&&B_&qqBG)_R)H)G)RG_BRlBEZ&>)__qH}Hq.>E_G&G})ZLH)_HqL}BRqLR_RqR}}R>>%_RZB}eG_QGtZLq}EG_>T&}ZR_QZEQ};LHZQL,q)HtLZ EtRq}t9>ZtEv4ZBLtFZEGZ&&B)qHRZtHRt_RtBRQ)R&q_BE>RGG_&BQt&RHLGG&qH>EGRtaq&>}>GqLZ)GqG}LGG>__t&t}}G%HB)BZB}Rd>>qt&ZH_&G>Ht_ZLt_Eq)LHGBZBQBG)BZG_Z}}}G}LE&QZE_)pQB)tBRB}B&BBLEZLQ}Q&QB}ELHqQqRmL)&QRQE}RQ)LER>>Q>q&)_qZR>tt&Z)t&EB))HRBHBGBR)_ZR_H}EB>H#Zq>H>E>>QeL&}__GLLB_ZZZ_)G}LQ)QZLt&qL>QGqqHtqZZHX_t>_}_x_>CtHL&}EG_Lt&HZQ}QGQLG&)Z}QZRyQqMqLH}<>ZLLt}RZQ&>LBRtEH)ttZtBRqBZQQt&BB>qQZtE/&QH)EB>BEG&tHEtE>QG>RQHBEBRB)_LHB)G)>H_}q>}>G_HZ)ZZZH-S&>&_tZR}tGQL))HZB}EqB>)GZq}tZZR}&_E>t}tItL&t}Lq}GGtLE&}Z)})G)Lb&_ZQQR>&L_:&L}t)>RLBtQRRQq>BL_t:Z_QE&}LtqHRLQ{>t)&:GRLG}h_BGE}RBG_PGHGE_>t)}q}H3&B>Z_BqR}>E>L&_H>&H>&t>ZGt>E))GHHB_BZBH)bZH___qZ}B!q>GGLZZ}&nq}q)JZ!}t3ELQtQR&QQDBBH_HRRQ)ZqLqEqZGQ9GtB_EZL_}.ZHLE&HB}tL&ZQqEq>qQL&EQBtRRqQZ&>B}q_ZGQHe_HZ&R>&)&&&HLZqR>_>qq}ZEG>G_LRtH}Gt>Q_)&)}BGEHB))>ZH}ZZ}RG&qE)tGtLt_&Z}_qGG>t_EB}})G}LQ&>ZB}>rL)&tZZ&QqRtLG_tZEE}Y)L}tQH>QBVBLBt_HHQLa1)t&ZB}EqZ)QZt)HEQ&&RBEt_}&QG&}_LE&BHtE>&)H&H}BQQ&tHBE>}QQtqtHQG)>B_BqE}BE>L>_qZZHZGGLL_t>R}ZjR>&_J>}}LGL>L_)BB}>GGQ__B>__RZB}EGpBtH4yZLt_)B{Q&GGLZ&_Zd_tZt}G&ZLAtB>RBBtZH}QB&&)Et}qEtLR}QfzGHGQq&>BGtt}qQt&&HREtR}G_&))EE>H_)_>QBEqHRHGLqH_RG>}q)Q>IBQ&G>>)}q_}>G&QR_B>>_}q>Re_Lq_HmGEQQ_t>QtqZ>Qt_rq_EqGALQ&BL__}4H)Z_LZ}QZi&)LtRZEE)Zt}thZRZEE%&BRtEZ_G&MGB}qLBH}LZEBEq}Z_QG&}BBq_RGtt>R)L&R>&)&&&HLZqR)EZcE)ZEORE)GLQH_E_R__&LtH)G>Qq_>>Z)QqQQ>)Hq)}>GZQH)L>}})qBHE_BB}}GG}LQ&>q#QHs}BR_}qtELZ_Q}tHLBQR4RLRt}H>QQZLBqELZ})qZ)Bq4BRZ)B+LHZ!_R}QB&H_ZE>RZ)R>GH&E&R&)LLqBSEQ}BEtR}QGEG}QQt&gHQEH}t))q>tqG>HqEQ>Et>EH>)_>qZtHG}>B))BRHBq>}HGQL)_LZZQ__Gq)E&GGL}&LZ}HLqE}.&}q_}Ge}LB&_ZB_tc_}tt_L}}GZ}B}_ARRQGs_QZtDZEQGZGBq{)RZ))&BHB7XZGt_&RH_t}>HE&qqQttGBt)t&RHHGZRVEBqRHqGZHZ)%&cB4G>Q&)_>q}&qqL&EEqR)EG)>}_QB>}BGB>B__BH}Bq}>}G}ZL}R3>QKtqqPQ&R_LGGtZtttZE)LtHZLQB>qBB_ERqQtvQQ&tEZ_QtZtBZtBRQ)ZmG_qttB>Q)R&B*G&Rt)t.tHtEZ>}t-M;H,EL>_GH&H_LE&Hn)B>G)zq_>Q_)&)}BZq}}))>ZH}ZZ}RG&qE)tGtLt_&Z}_qEiLy_tZE}Q0QB&tQZBQHGHBRt)Lq}q&qLGtxqtQ_&Z}__9LH}ERHQ}VLRZtq&qHqtLREtBg>H>Eq>ZQG&GHLztR})t&QH)t)>B)ERBB)&ZR}GZ>R)&EEBt)tqtH&G}HqQoq8HtGE>Q_QZ&)HEHLH_>ZLHLTqL}tqqG}7EtL_tZ>_HIqH>E!HL}_L,Z}qtqRq}LIE}B_>R>Qq&ZLGtGRL_tGtBttQR)})&BBEEBRR)>FqH&EHB&Q>ZtBZ&tBEt)&HQBEB>BQ)qZQ_tQ>Q)BqHHRGR>)_Rq&}qEq>E_>R_B_G_>}_Q&B}LGtHL)Q>qHHZq}ZE0qt)_G_L_)jZH_&EGLG__Zt}}d}LWt}ZLQBGBBZtQL&}g&&>EttLLQLGtB&t_Z}_%FtL)t_L_Q}K}L}tEHQQ><}B_E>R&GR/GQBttBZ)qqZBGEGZG)G&>H)&qRq_q&HHEqQRQGH&Z_qE}}&Gq>EH_GtRt_}LR_)EtH>))L>_LqZ>^EGqG}GGZL)GRqqQqGGLK__Z_QZ:_L}tQqQQLut}R_RRRQ&&q>GtER>_E:q}Q_lBQt)ZHB>9RRR)RcHB{V}ZB)B&RH>E&>&)HZGB)EGR_)tItH}E B}QtR>B)q>HLEZ&nQGEG>G)Zq))REqLq)Gq2H_G_LZEQ&Q}QGBLH)HZR})(RL&tq&G}E.>HE_q>QH5ZQ})GHZ>_RbRBR_HZ#_}GBBBtRR>Q&&&BHGGqGQGN_Bt_tR}Q<&}BLEBZR)Z&QQZtBLGQ>RGQaptRQt}&}H}tt>>tEM_H_E}>Q)LqLHtGL>Z_R&RHXGBBEQEqEH)G_R}_HqG)HE_HR)QLR_>qq>GEEqE}EGqLQGZq&Q&GELG_)Z)QqJ)LHt}q}Q>:_}ZtqRZH5xG}Ht>ZZQRRGB&_GZPE)xtLt_tRqEEW_BLqZB}tGRLQ&tQHt}h&ZBtt)H<)&MGBZq_RBtt>&)_&)}L)}&>_)E}>ZGc&))qqZ}_QGqqH_EQ}G)tqBtRq)HL)tL1HZGL>e)EBZHLoLLZtRq:}7*BHE_QZE})p_>_tHZG_HG_}R_QBRt>ZqLGGEZEQE0qBQFZZY}lGYB>q&ZR)R&&HqtERE)>Z_L_E_R})QPQHLEt>L)ZqRB&Eo>Btd&RQ_EqH_EtRQHB&L>L_L&Q}q&)>H)LqBtqGR>R)Rq}t>GZ>tNQq>)QqtQL)}q_}LGRQ}_BZ&tEG}HGGLLLE&GRLBt&qGER-qL_&&q_Q_ }BQtLRLQtZR})_)R)QH&}LLE>R_EBvZBLtYZEGZ-_QRtQHRE>RqBGtGZG)R>jB}&&RF_&&&Ht&L>Z)&qq)qEGRGQGqR_ EZLZ)yZ&HtGtLRE)&)})GHL})}Z>}_M>LqtZ&-}GnLHG_Z>)}&Z)}_G}ZL_>u>B>_}R&_QiBL>tLH&QZ4ZLZtHHR}B&BBRE>R&)&&H}G_GRGQ_&tLtE}RM)}&LHBtR>Z)QRZBBJGR>EGR%QtEQB})}q}BtG>BE))&}HQZ>>B)>qLt&GZ>&_qLtHGEGRG_RL^HEGHQ>)(&>)tqm}LGtBLH}G_LL_RB}}B+&QL_=R&}tXt}>_RRRQ&&q>GtER>taG_LGt}ZBE_D>}ttZBttEZ)BHtHZHQt>}BqyQR})QzQHL5GR_QQ&)Q)EHRHQH&t_}EqBQ)}qQBQGLBG)_&QH)ZL>H)LqBtqGR>q_ZLEHaEE>G(Qq_H_E_L&4tq)}>Rq>tGq>Q_tZq}L&ZqL}}-ZL&&LZR}ER)LLG)LGtRZL)>_HZ)Q>OZ)HtLZWEtRZQB&qLttZ*))Et&RRQEz__&tGR}GLR_)&&ZZRt_&R_BtQRt)B&>_QtG>ZQGq&H_t*}))}qZ_8E)BxGR>H_ZZQRt)eqQHHZt>H)_qG}HGRQB_q>QHH3HL>tLZqQqo}Hp)zZ2}t+E>EtQR&QQOBBH_>RRQ)ZRLHG%ZLtAR&}Et)LQQQ&QLEELLG}tRNBQE)RB)BRGBtEEZE)Q>>QQtEBLQ_>L)B&R>&t+&zH-ER>_E>&Z_LE.L&)tqt_>GZLR)Rq1_)&g>RE_qq__qtHQ_B>L}L3L>Qtq>)H}{}LLtBZZQZAQ}&_&R&}E{G>Gt)Rq_)GG}B_tBBtHZ>BqY&R&)&J>BtsLZREB&&HqtEREEL&RH>t>>&E_R&B>AtRZEtREQ)EHBB)BqBB)GZB_)qRHHBGH>R_R&R}REQ>0EB&B}BEtLZGG&G_tEH}B)ELL_BZZL&tqqq}EZ}}<_q>QHNZQ})GHZ>_RfRBR_HZA_}GBBBtRR>Q&&&BHE&ZEQGGGB)EqL}}}&}BLEBZR)Z&QQZEZZQQE&}BL=tRQQH&}Q}tGRZ)L&GB)qERntG&EHGE)>)Q)q)HHGBBEQEqEH)GQ}L)LLRBGqE>_Gt>E_QG_})zq&tH)E_>E_qB>HHG&>>__>t}QGQ>Q_GB)}LGQLttLZqE>JB}Lt>RLQq&qLqEqZGQEZ>L>E>Rq)&RtLt&)ZLE>&Z)R&>H&)Z>q)}ERRq)Z>EB+toZY)>L&B_tv>Z)_&H_)EGHt)G>)B>q}R}GBqH_>Et}Z)Q>q}&&E>t_EqQ}QEQLQ_}ZLtqGq}D))LQ}QZ}}QJLZRQ>G>B&5_BZ}>qtLZztLE_)MH}BtBRB})&Z}__QRQQB&HBRERR)tqsEHqtGRJ}c&_HZy_Z<tHYE)H&}BL)ZRqHqGqRL)ERBB>G>>q_Z&GHGGLBtQtqtHQG)R)_BqE}BGRL>)qZ&}Hq&>>EtqZ_tqEH)_H>B}BeB>)tZ>_}qqH}_GHqZ}}GGLZt&Bt}HqtQ>(HBWQZGG)>tZZtEQZG}_tZHL}}u_BLtRH}QB&&)Ei*LOtLCE_&tRRB)&KG_REqR_G}R)L}&&R}G_pGHqE_RQGG&QQmqBH}EBqRHRER>}g>&H_)EG}>_LLL))GH>L_BBq}RGR>R_}B>}ZGtQQv&>__qGQQt){ZZ}tG)Q,t&qG}ZR_LEGtLE_rRZ}hrHHRQBFZ)}tBR&EER&}EtBHQ}tDzBQtHHt)qZEH&EEZt)QRZHZtQRE)}&LQtEQRH)}R}BP&>>H_>CE}&&Q>Q)&q>HbEtHR_&&GH/&l>t)t&t}qZELZEGZq}GEEL)GRZ&HGGeQ)_tq)}_RBL}_}q}}ERQLHtqBGtLZ&LH&)qEQ&e)L}&EZ_QL>ZLE0ZB)tt>LL}t_RLQR>}BQtHZ_G>&BQL&}BEE_RB)>qtR.Q_LqBbEQ}B)qRB))ZZRL)}qZH&ZLRQEB&})BGBRE_qqtHQq&>E)_qt)tELH}_B>}}}E5LR_Gq__ZGa>E_G>G}_G_>_t&Bt}&qE>IGEZ)}}TQ)>tBZB}Be_)HtEL}QHZ}BLtRR>ES&qLpE&H_QBZtB>&tBEGL&HBLEB}qQ)RZB}qZHRE&&EQtEt>t)&q})qG&BE)tqEHQGQRQ_Qq}}L&tRt_tq_}}Z>RT_3qG_EqGLQ7>qB)GG>}GGA>t}Qq}L}t}qtQ>qE>_t_Z}QQkLBLttRLQZ&RLRt:RB_EGEBEt)R_}}&HBGhHZ_tRwQ)R&>BqQGZEBEEERq)QRZB&G&RE)G&)H)GqB})>q}HLGBRB_ZqQ)ZEyRE)GLQH_E_R__&LtH)G>QqGH>t)b&I>}3_&G}qG_>QxGq/HEGqQ)_L>__PZ)}H&>ZH}RRQLHtqBGtZqGLH&)qEQ&Y)L}&EZ_QL>ZLE:>BBEGmqB>tGZtGqs>H>Eq>ZQG&GHLCtZt)t&QH)t)>B)EqBHRG>Rq_&qH)&E>Bt)Z>t)E&)>HEBqB}BE)LZE_q}H}E}>E,QqH}qZG>QEGLRt)EEL&_)q}tEGZLB_ZZ>}4GRQG_tZBERGG>RG_LEEBGQLttBZ>EQV}BttQR)})&BBEI>Z>)>&qHZtGRG)LZGBZ?)R&E)R_Q}ELB>)>q>B}G&BQ)Q&&H>E8RtERq&BGErB7QEqEH)G_>H_HqG)LGqLL_ZZRHRG^LBE.qR)_Gq}_Gt>Q}BqLLLtLqQQqq)>H_LqB}}GtQM_Zq_Hh.B}Ht>Z>}>%Q)L_}R}QL&BBZEZRQt&9tH&tERG}G&)HqT)ZGtB;t)B&HB>)qR&H&G&R>)tRLHZE&>qGt&GBtEE}}))&)B)E8}_)QqRt&E_HZG&LtBFGZ>t))LsHEGHQ>)h&>)tqtQH))qE}HGLQ))EZE})F_LHtHZG_LGLBLtZRR}R%FBBt8ZtQEG)BQE&LQ}EZLL_&LBBtR&&}Jt8R{QR&_Q>EqRqQq&B_ZEq>L)ZqRBREI>BtEcEHEE)>_)HqHHG&HR_ER&Q_Rq>Hq)GREHEGE>q_Q>ZH4EE>GwQq_H_E_L&ntq)}>Rq>tGZ>Q_}R>>H_)Z>}ZRH>)t)ZHQ}C>B>t_LZtGr}BQ_QRLH_ZRQH&LL)}GZBLt&BBHt>&qQ&E&>&Q>&tQLEZRZQZ&H_REZ>B)Rq>B>G&>HtG/GHGE_>t)}q}HW&}>L)Rq>_dGqRY_&L_HEE_>t6HqQHHG}QR_LqLHLG)QB_>qGt_Zq}BG)&Q_qGQQt)=ZZ}tG)QI_>Z}}>iBBq_LH&}Gn})Lw_B&tZGR}_tRHB}QJtBBt>HQ}t&tBQE)RB)B&EQ>t>>>)qqZBZEG>LEGotHtEQ>)QHqBHE&B>BQEqqHtEQH&)E&_Ht&tR)_)qH}}G>L>__>ZHZlZ>jt&q&}tJRQZ_QZ)HHzBHf)tq)H_GELq&>qH}&G>L_GtZQ}QGQLG&)qEQE7)B_tHRHQGZLLLELRZ)R3RB4EBHLQt&EL)EQBZQ9bEBGqQR_QQ&)_LEHRL)BLqHRERRR)}L>HZEt}Q)>R_)qq>HQGqL)BEG&>))}LEH_GLQZ)E>>_Bq_}>Kt&.}ZGt>)FoqZQZGDB&_tZtQRq)>_t)ZHQ}G}B>t_L>QqCqLqtBHZQ&V))HtZqH_+RZQHpFH}}_!GB}tBH_QB )BEEBRZGLDE)HtGHL}w>RHLqqRtEv&1)EELH_)t>QBQ&}RG)ZqLHGE)}E_&RG_Z&GRQ)!qLHQGHQR_B>R__qGQB_QqLt_GQLR&&LL_Z(qQt)6ZZ}tG)Qw_EZHE>AH}>0LH&}R*BB&_GHRQqf_)}/_q}t&&&)__GRqQ_jQ)GtRRHQR&LH&t>HwQE&H_>EHB>E>L&BREB>&QGLRHB&>H_EER_H_EZ>B_q&G)LGZ>&_q>qHL&ERGEE&)H}EQ>_)5BZHLEG>Z_Q>)}HGH>H_tB}}_qQQ&:ZL&}EG_Lt&HZQ}QGQLG&)Z}QZR6QR)zLHQH>ZLLt}RZQ&>LLQIBZMt>Z_BEqBRtQB&H_ZtE>L)>qqBBt)}REQ>BLi&>>q)q&qHBZZRGER&}}RG>>OE}q})>EQL>)GZ&)QGB>>_LB&}ZG&Lq?tqGHGEGLRjnqE}HR>LHG>LQE&GRLBt&qGEReqL_(_LG_)vQ)>_HZ)Q>uZ)Ht}ZB})>RLBY>B>tQR)Q}&qH_QG=)_&tGR}GL&}LLpEBDG}w_BGE}RBG_&BQtE_BtQLR}BG&}>}QwqRHGE_HZ)a&EHG&G>PE)qZ})GBLBElqQ)_GRL_)}ZH_&G:Ht)G>t}tGRLHtZq<_BmRLqtZLZ}vGV>Jt>H&QBZqLQEqZEQEZBB&%ZZ))ZG,BGmHRBtRJLQRE&ZGQ?>)BtttZt)q>EBLCGZGtG&_BQE)}L)H&LHBZq>>EZqZ_ZqR}_)E&_HtZH>Q)Q&QHGZ)>L)Qqt}LGqQ>_}LBHBZ>RG=ZZRt&4Z}G_LLt}>q_>QtQZBQH2RBRt)RRQ&&qLqtER>__!)B__}RHt&5>}ttZBttEZ)BHxBRB)Bw)HZO_ZQ)Q&BHHER>R))qRH&GqRq)Eq>Q_t_>_)}qQBBGL>tEL&Q)qEH}qGZRKHt&_>___& }Hq&RG_Gq_}tG}L}_A>B}Z.BLRt>q>Q&8H}&_>>t}ZZt}EG)ZH_BwBBB_)RZ__GQBQtBRHQR&RB)FqZq)qVGBA_9R_)Z&_B}EQZB)L&tQLtQBqQH>q)Z^WRtt_&_H_tC>HE&&BQtq&BtQH&EHREH>L8q&t)qqQHtm>qHHRZQ>H_qLG_Z&G>H4)&E}&G)>}kEq_}LRZ}QGZ>)}ZRL>}__ZL}RR}LtGQZ}_QYBLB_BZ_EH:LL.&tZH_tR>QL&dZZQL PLEqZRRQq5L)GE&L?EZRZ)LdbBHGB&QBLq_RQ)RL&)Bt&B})&LRBBEQ>R)qLBB>&HRQEHqHBGGZ>E))>qHGEt>EEE&t)QGHHQ_Qq&}>G/>tGRZ&HGGWHO_tqtHt?qQE_q>G}tqGL__QZ)EL0HLLtBHqQR/RLRt}H>QZ;t)Ql_LQQZ>LL}t_RLQR>}BBE&HEE&GEQLtE}&QR&BH&tG}R)}R>HLG>ZE_&RQHBEBRB)_LHHE&}>Q_}&H}>&E>))}qQt>GB>B)Bq_tHGL>h;t>E)Eq>>tdkqZ}LG5>E&ZqE_RZ)}tG)ZH}HGHLt&}q_tG{tQ}tQBQ_G9_LQt)HLQH/LBBqqRRQq&Z)Et}LGQBRGQNqHRQQH&}_RttB>Q)>>)L&ZR6tG&GHGEZ>)ER&QQ4qRBOQ)q&HBE)>}s>&0)>qtH?iHq)HBZt>)_>Bq_Lqq>)8Eq&}RGE>_&&qG}}RLL&GHLQEqG>LHtqqnE>+}}Lt>LLQZPZLZtHHRQq1_)}<GL)Qq>>LHt)R>QZ>HLL<}Z)t}&LBLtLR)GBK)QHELBH)>&ZHRqG>&QG&X_)EtRtQtqq_EE_>LfZ>>)>&)>Z8L&}H_GL>Rw}qB}&ZE}ZQE>LHER&>R_BZ&HGRRL>_ZqBt#8q}&,RLRtBZ>}t&HZ)}BRtL)t>Hq}tGq}QYHH>}Hx)B>tZHH})REB_&HR}E}ZEBEt>R})R&&QHE>RZ)RRRBQ/THBE}RBHBtE>q)t&Q)&EER_)tRtHQEQRQ)GL)BEZ&>GG)q___q&>E)_qttHGQ>Q)QqGt)G}LZN LB_qqH>b&ZqL}}4ZL&&LZB}>G})qtRLZt>ZEQ}%RBZEQItL}&GZtQB>RQH_RL_QR>BLQttRBQ>>QBln)R_))1QHBr RbQB&)HLEZBQ)B&>HL&L>LEqqZ}qt)>EEBqBBEGq>t)Q>&HEE_>tEtqQHQEQ>G4)Z&)_GtL_))ZH_&GE>__tBH}QGHL}&RZL}Rk>Qc_)L&}}R&Qq&QZ_}Qk))L_GLB}tRBQHu>Rqt&&&H&t>RttLptQqE&>qQE&ELEEER>)QR&B&G&RH)t>}B}qBRqG&&}):q&Ht))q_B_GH}ZGQq>HZGR}G_&&GHdZ)>t)t&t}qZE>__LBZHEq>H)GELZ_QRR>B_QZR}qRB>QtQZBQHzRBRt)Lq}Z&qLGtzqXQ_&Z}_t}Z}}},E)QtHRqEGR>QQ:Mqtt>it)CtZRLQ!PE_ZtERq)>&EBQqtRHtS?E_&E)>_)HqH)-EE>GQGq)_L&)RGEB&t_BqHH>_q>&}&j&>>_t>LH_qqL&tqqE}EEELE_RZQ_&G&B&_BZtt}GRBR_QBqtZ!EQ}_)LZ}}RZQR^&ZE_t4tBtt&R}tqGABpttREQQ&QH&jHRR)H&>HLtL>q)}RqBLIERREERGQ_E}BH)HqHB_GRBtQ)q)HHG}>>_>q_)ZEZLZ){Z&H&GtLR_tqQ})EHLB_E>BH)qZ>}MZLR_&GEHt_tZt}&J}}q)iBZ}tlELQtQBq}(&&L&ttBH_tN&}}_GB}tQZBBRDZRZ)Z#BBGVHZLE}&ZHRtOR3EH&LHBtB>ZEERZBBcGR>EGR7QtEQB})}q}BtG>BE)RRQH}GQ>L_L&L}LE_LqE}&}}}EGL>2&q&_GEQ}})3LH_}Z>LZtRqR}mZ)Qq_tqtHtgqQE_}qt}P=}L>&HZ&_}WHB}t>R>}>&>L}E&Bt}tR)LL&>ZQERR>)&tGR#}s&_)B&ER}QB&H_ZE>RZ)R>GH&tGRvG)&tB)E_}B)}&BHHZZ>>)>&>HQZL>R)EL)HL&tHGGB>Ht>EH>)_>qZtHGL>8wtqH)Gq>HhGBBBHQGtLB_>BQ}HWqQGGtLL_LGG)q_>ZHQqGs)>tZZtEQZHQZ_&L}Q&>RLBtQRRQq>BBqtLR})qFE_&tQBq)&qqBEEERLQQ&tHLEq}>QQRLLGtt>t)&q}_>E>}ZQE>tHqq_HtG}q)_QZ&RREtqZHBGQLZ)GBq}ZqZ}BGZqGHtG&QQ__>)}&ZQLHt}qLQ>,>L&&BZH_H,LQHx}LL}R&RB&tnLB}}&BBZEZL_Q}ABBHqZR>Q>%>BQqLR&Q>&HH&ttHbQG>qHZ&X>REE&&)_tLHQQH>HBGqLRGGR&8_qEqH0)LRGH)E}RtJL&H)Bq)}LG>L+}ZEGQ>_ZqttQE_HQGEBLH}G_LL_RB}}B4&QE0Z>JHERQ>t_hZQ}HRtL)t>Hq}RGq}Q?QH>}Hl)B>tZHHQZZ}BHE}R>)>VG)RtkB&QQ>RLGEGR>))>BBBq>ZMEG&L)E&GH))t>__ZqQ>}ERq&_REQH5GZL)BG&_HxE_qHHLEQQZ_>>RH_ZZL>+tqSH_Rq>LGZqRtZZR}&)GZG}_T)}q__Rq}&jE}BtRZqQZZZLBGGZ>tGZn}ttQL}Q}&}LtE>LEQ)4)L)t:H_QBZtB_EtR})}RqBBgEZE)E&RHQ&ZRGQt&&_QE_B))Z>))_qH>Qdqq>H&ZB>)GBZGBQGL>Rt}&0},G}}_)ELLH>?>Lqt&L_}BG>LLGLZZ}&wqQt_GqGHGKRQ!_)L&}h&&LtttZBt_PH}}tqB_}B&BLtEZBG}GRtLH&BZEELRB)ZE&>qQq&E)}&sHB)LR&BEq&RBEtRs_Ht_B}EtR}H>EZRBGhqq)&E}H;_qLQHtE}}G)ZR3H&qc}&EE&_}_G}LHEGq}}GEEL)GRZ&HGG{H^_R>_}qZ_}tGQZB_L8LBL_QRq_)aHLLtBHqQR{RLRt}H>QZJt)Q__qQtqR}QQqRZBQQ&RBqqBZ_QiS_BEE}ZtGH&LBYqtHZttIt_}t_RG)}&B__tEBtG&RtBHEE>R)HqLtqERHqGQ>tt>GH>RwQqH}qZG}REG>BHLRq>>_HZqH!R>LZ_tBQ_,q_}q_&BtHsgZLt_)Ba}EVHQH+)q>_tG_)H_)ZEQHAL))t_ZQ}E>BB}KHBQt_REQ}&RHG)q(E_REqR_G}RGQ)t}}>QH&)H>EZ}H)gR}B)&}>}Q=qRHGE_HZ)0&EHG&G>GE)q}))G)>q_LZ&HEq>Lq)IZ&_&GE>E)EZZtGcRHV_E>g}tG)L_&BZ}}}G}LE&QZ}_)#Q})tHZLQB>qBRtRZRQ}>>BZttHQ}_ZQQ)qLZ}Q_&LBRq}RB)&>E)&_EBLQ>L&BREB>&QGLRH>EZRBGcqq)&qqH)GB>>)tZH>))BLtH)G>Qq)R>q_qZE>&_RqEH_R&>ZGqL}_)q}L})7ZR}GG_}Z_dqE}GqG>td!qLtQGtQ)G?Ze}B6)BLtZLQQBr>BLsLRZQZ7ZBHqRZBEQGV)RtBH>tQ&BB>EL}&)Z&ZBZEH}R)q&__}&nB)E&xK__tG>q)_&Q_GEzRE)qL)Ht&_H_G&Lq)Gq}QZ_LqqtHGL>Szt> Btq>>RrXqZ}LGK>E&ZqQ_RGSBRtBZz_}u}>7tRZG}_ZZL2_EZG_GGH})tBR)Q)&B}!tPZBQ)&LBZ,QRBQ>&LQLEZRZQZ&H_RtqB>)&q>H>G&BQ)B&>HLZ&>Z)&qq_tEGRt)EL}B)&QR}GQ>)tZG>>Z_RLGHH&y>LGlL&)EG)HQ_QZQHEgLHG_GqL}Qu>LqG}ZL}Rc>}>_qL&t>Z&>_tqZH}_rQ)L_HLLtER&)}t_ZHEE+_BLqZBBt>Z)LQqLZ}Q_&LBRq}RB)&>E)& EBLQ>L&BREB>&QGLRHqE_}}E_y})&ty}_QGqqH_EQ}G)LRoH_GuLZ__>>}qGq>q_BBZH&qR>ftRZR}Cq}LL_RZ>t,7qLq_qZBEZc&L)&HL__Qq?>G&)qEQ&b)L}&EZG}ts&)Qt_L)tEZE)&9GBZGq&>B&qBR>QG>_Qt__BRQZ>GBqE>RGQtLqB>qHZEGq&>_Z&H>HQGqZHEE)Hq)G&tHE&ER)EQL&_Zq&L&)Hq_}BGRH)_HqL}BqBLR_RqR}}R>>BGLLt_GqtLQ_HZ}ERvLLRt>BTQqAqLqtBHZQ&g))H^GLQ}H>RLBtQRRQq>BB>tGH_}EZ_QVqHZ)QE&HBLq)>Zt_wEQ_E}R}Q}&E_QEGB))}R)HHEL>BpqqRHRER>}N>qR)LG>HL_Zq&}qZt>G)tqEt}E)HQ)}LQ_)RZL>_ZZRtGGHH;_LLJt&qEL)GQZQQQGEBLGGq_}QG)Ltt&HR}BG9LRt)L_Q} }L}tEHQ}_Z)QG6)ZLQ_&qBLERH+QqZW)H&)}Z)L&q_HELR3Gt>&QG&>RRGo&ZHLE+REzZq&H)ZHH)EHRvBGZ)RE_&q)H}ZE>__LBZ_LEZH))QBLH}G_LL_RB}HuqQLLtQZtQLqGL___q_Q&Rt>)GEZQQE!EBQ;ZZg}E#G)Qt_Z_}_&&)tt)R>GqRLQRCQZ}G>jHB)E>RZGH&}BBt)}R)LR>)H&HH)E}Rt__EGR)+&&GH}ZLHBQLREBtZ}R_)Gq}HBZ_RGsq&H__EG}tGqZqH}GtLH_>>_}}GBLHGHq>_RZ)}tG)Z)}qKLB&_EL>QqGzB&c&ZE}EGEBZ&GZ&_TRBQ}XBRRQq&Z)EtJZEQG>QB_t_Z_)&>tB)E>}qE}RRBqqER&)R&EB_Z&RG)}LLBH&LHQ q&>HHGqRvN>qt)LEHHL_ZqZHZGHQR_}>>}Zq>Lq)2Z&t_GE>E)EZZtGGEHI_G>k}tG)L_&BZ}}BiH)Z_>LR}ZRRQ>&tZG}tJE)}tqLQ}6RQQ)uHR>tR&RHRtHRpt}&LBRE>H{)qb4H&q_REQ_&t_HEQRH)}LRHLELRL))LBH>EG}_)BR_)Hq&}G)qq>HGEtQq)yqQtBGqRBEG>Q_>R&>R_BZ&HGRR>}_tq}}),L>Q&>ZZ}tRQ}HG3q&_}<&)R_BZQQR.q)B_QRQQB&HBRERR)tqCZHqtGRI}f&_HZc_Z6tHxE)H&}BL)ZRqHqGqRL)ERBB>G>>q_Z&GHGGLBtQtqtHQG)R)_BqE}BGRL>)qZ&}Hq&>>EtqZ_tqEH)_H>B}BdB>)tZ>_HQ{QLBtHZRQR9)}q_qRq}GPe>Dt_RZQ_g}BQ_BRLQtZLLQmqZHEqRZ}+ttL_Q_&_L4EHB&}G&GB_EtR})}&gQBtB>B)Rq>B>G&>H_&&EHGt_>)_qR)BG&BRtGB>H)>GqH&_&Z&H>GtHL)RZR}&yq>E_EZ>)_E_L__}ZQHQpLLt8LqRQRi&Bq)GZEQ>qELqGQqFtQZ)}Ht>LRQR&RLHtAL}}B&BBRE>R&)&&H}G_!RGQ_&tLtE}R5t}0tQ>t)H>ELRZBioGRG)G&ZH)&RRq_q&GHKE_>__ZRQBQGQ>B_H&H}RG)LR_&ZqBGGEL>EEqEH>G}LR_&>H}>GZLRGRqQHEx&LQ_LB}}tZ)>GY}Z)_HmRLq_LBG}QqWQR(GL_E}8_LH&EZ_QL>ZQBl>L)QZ>LL}t_RLQR>}BBE&HEtPZfQLtE}&QR&BH&tG}R)q&__}&tB))qL>BHE)>>)ZLHH}EBR)hR&L)>qBHXG)>H)EZ_>G))B&HGG}QLGB&L)EGLQ})_qG}}GBQ_)GBq}_StL}t}B&}G9S>vt_BB__Gb}H_EBHt}ZLBZ{qRq)q!LBE7BRB}E&qBttQB&QEz_BtMtR_t}&HH}E>>>tE&&QQtQ>Q)}qLH}&RRR_RqZ_qqq>EEB& HQqG>tEB>__QEL>}_Zq&tLGR>EVZqZ))E_L__)LQ_).LQ&)tqV}QGHQt_L>E}tgE>EtQLZ}1G+>lt>H&}R&RBZ&qB&QEZ>LQx>Rq}-&&)_tEZE}E&ZBLtrH>Q>ZGLEEERtE_RtHHqZZG)q&_BQqGRHt^&GHntF>_E>qqHqEq>B6Z&L}LG>}RGZqA)BE_HB_Rqq}ZZELZ)QqE}}GLHt_QqH}}q}LL_LqL})RB>Q%tZBQHyRBRi_ZQQ)G)BB&qLB})ZZL}&ZBRt&iE}tttRtQ&&}QqtGZtQE>}B)t)Z)QN>_BQER}&ERRqQ}E&}RQB&QHREq}BQQ>tHBGH>R_R>_HQG)R)_BLq)BE)HZ)}LZ_Rq&>EEtqt}tG&L}GqqGHGEGLR0YqZtLGJB&_tZtt>;ZBR_RZPt)qrLRG_Zqt_Zt}QtBLLQL&LLQEqL)QHyLBBqqRRQq&Z)Et-Zh}#&>_&tGR}GL&&QH(EHqG}W_BGE}RBG_KGHGE_>t)}q}HN&B>Z_BqR}>E>L&_H>&H>&t>ZGt>E))GHHB_BZBH)KZH__}q}H}GEQQ_HZqtqZRRGGBqGEqG>LHtqq^E>rLLR_HH&Q>ZqQq%>BHtLZf)}t_ZHEE0_BLqZZE}ZZ)QEqLZ}Q_&LBRq}Z_)_&}HQEL>L)tRRLttqB)QGRBBtqBHHE>qq)&G&L&)>qt)LGLRt_&q_H}&w>t))q_)_EQLQ_BZH}RmRL)GqqqQqGGL9){Z_QZr_L}tQqBQLTt}L_QLq}HRqQZGIZt__^_B__ARHt&&&LHt_RBQRZ)BHtLRBtB&RBRtRR}G>VHHHE>>L)qqqH}Y*ZC)N&tHEtE>Q_&qQHBGHR>_Rq))REHBn)L>6_&&E>)EQqQ}QEELLEGq_HQG)QL_HqL}BRqLR_qZZtEG,>E_GBQH_GQ>)_tZ&ERGB>8_RZ)__w}L}_}ZEEQGtBttQR)QB&BBE/>ZL)>&qHZtZRG)LZGBZ<)R&E)R_Q}ELB>)>q>B}G&BQQHqHH>GL>q_qq}Q,tT>1)tqEBEGQL&_QqB}HE>LR_)>RHH&C>LGrL&)EG)HQ_QZQHE!LHG)tZt}Q1)LBtBZE_>G>B>tqRZ}ZhGBLtGZ_QtGQB}tmL}}tZ>L)&>BLtZ =}GtGRGQZ&)QRtq>qQG&iB_E_>ZtQ4QHQEB>HQHqRH)GR>&_qiGHEG>BE)qRQB*qQH)EHq>)RGRLR)HqD)}EBLB_RZ>}&c&LHEG&G}GG_Lt)tZ}}bZ}>BtBZRQ>GqB&tHL&}>qtLZ2tLE_)zH}BtBRB})&Z}__QRQQB&HBRERR)tqIZHqtGRe}+&_HZ1_ZwtH^E)H&}BL)ZRqHqGqRL)ERBB>G>>q_Z&GHGGLBtQtqtHQG)R)_BqE}BGRL>)qZ&}Hq&>E)_qttHGQ>Q)QqGt)GL>Q_tZL}qR>LHGLZ>QL8qBqG)Z&}>FHB&_tBD}>Z&>Q)GLHQRAqLL&GR&_2RZQG&GRBE;&ZLGq>ZxQR&BB4t_HG)&ZSHqEbRt)_R>H&tGRZG_&>Qtq&H_G_q&_tEbR_Nq&tH&GR>t)}L_HE&t>__tq&}}qq>H)_qG}HGRQB_H>H}BxH}}tR>t}ZGBLQtZqGEqG)}ZtqRZtZWG}Ht&Z)EHo}}}GkqAE)&&L)t_HB}=ZB}GtGHQ}th/BQtHHtQq&bBRE_BZ)&qZBBEGBH)>qL)BGqB}Q)R}HLER>>E>qqB=G&H&)E&_Ht&t>Q)Hq}tRGL>R_>L(}qGq>q_BBZ}&G)QHGELL_)qLHE_LB}H_GGL}_BB_}QXR)&__L&t>ZtQR&)qEQ&m)L}&EZ_QL>ZLE6ZBBtGR>)t_?RZQtk))!t)ZG)q&)BBqQR)t)&QH)EB>Bte&LBQEt>L)qL>HH&LRL_Lqq}qEQRE_&qQHLZ}R)EQ&Q}QGL}HGHZR)tGL>m*>&G)tZq}#)_qG}}GBQ__QZRt}4R}&_qRq}EZ9Q&t_BB}ZzLLA_EHZ}_ZRBZERZRQbZ}BLtLZLQ)>BLQEQRLEHRBHR1)R)t)&HBLEB}q)R&RBRE}R_)L>)HL&>RR_R&v_qqZ>EG}&>HHGqRex>&E)LG>LL)LZq))GH>H)Hqtt}E_L__HLQ_}!LHt_t>t}QGHL}&RZL}LGLL)&BqQQQcBBHtRRRQ)ZqLqEqZGQ<G0B_EZBQ}Q&QBBEHZ>)R&)QRE&ZGQ:>)BtttZt)q>EB}ttR%)}&>_HEQB})Hq}H>G>Rt)&qRHtE}}_)t>EHZ&)>RGE&}}}GLL>7&&_}_G}}QG)ZLt&ZHLBGqqHtqGG}E*&B}}RGHL)tRqgEZG_}RnHLR}yGELq&)Zt__C)Q)ttH>QH.R)QtZL)Q&R)Q_j}ZB)B&RHZ.QRH)QwEHLPGR_QQ&)Q)EHRL)BLqHRERRR)}L>HZEt}QEk>H)_&HBC)HL)BEG&>))}LEHGEt>&AQ&_))qG}QG}BR}BGZQ}_BZ&tEZRHEGLq>E&GRLBt&qGER{qL_w_LGH}Z&>K&_qGQqI_LQ&GZRQHARBLE&Z>El7EBHq>ZBtBR}_&tRRB)&KG_RtB>B)Rq>H&G&>HtG(SHGE_>tQtq}Hx&}RtE>&)_>qLHZ)wRGHGGG>Z_)>R}RE)>G_QqB)EG)>}_Q>QHHxHL>tLZqQqC}Hx#_qt}ZG>QA_ZRZ}T&&L&ttRRtGZRLHGkZLtDR&}Et)LQQQ&QLEELLG}_xQL)ttR&GRvBLCtRR)t_&}B}t}REGQjtHtEQ>))BqBHE&>}&)q&HBQZ>RH_Hq>}LELLq_}LR)}EtH>))L>_LqZ>rEGqG}GGZL)GRZ&HGG:Q)_tqtHt!qQE__ZLEZG>}>G)LtELG}L_tLZRE}GtB_t}RQ}Q&LBtyRZR)R&&HqtERE)>ZEBqoQZ5EQR)QHE>BR)RqRBHErB})L&LBLE)}B)>&G__tEZ_ER>H_GEq>>)G&ttqEB>))Bq}}REHQZ_&q)tHEQHHGQBRHBGQLR_qBB}>GGQ__>q)HtRH>)t)ZHQ}g>B>t_q_}G^}LB&_Z>_tlZQtpEL)QHrHLHttH}QqZQB}EQZQ)LZGB_tQR)t)&)BqEL>&QER>Hqt{>&E&lGHGE_>t)}q}H?&BRH_BqR}>E>L&_H>&H>&t>ZGt>E))GHHB_BZBH)-ZH_)}qBHHGQ>E&&qRHtG&LHG}ZL}LGLL)&BqQQQiBBHtRRRQ)ZqLZEqZGQkGoB_EZL_}<ZHLE&HB}tL&ZQqEq>qQL&EQBERRq)Z>EBhtERGGQ&_BQE)}L)H&LHBZq>R)R&RH}Z>>Z)tLQ)+qHHQEHq&tREB>Q_RqqtBGq>L_}ZqHER&>_ ZZZ_qGE>_)YB}}HqQ}Ez}LQEZkLLq&HZL}DRtQZGGL>Q&RkLZtLZS}E>ZB&t)B)ttZQ}kt_H)}E&&B)t}HEQGitB&qQRqt)RE)Zq&BtE>LqH>E&}B)>&G__E)BEEGLHB)EE>H)LL)BEGE>)__qH}HGGHL)LZL}ZuR>R_-ZB}zGtLE))ZQQ&qQ>EGLq_tLZB}Rt&>P}{4-LRt_L>Q>G_LWt)ZH_GA_LQt)L)Q&ZBBLEBRZ)ZZ_B)hHZH)H&>HLtL>q)}RqLDE{RLEERGHQ&&>qE&wGHGE>>)EqqZ}qEG>TQtq_}Z&_>_)ZqB}qEGHL_Zq&}qqq>G)G&G}RZY>)G&qDQ&GtLtGLZ>_qGqBq_GZ<HA4_BZG_qQQQGdQHr}RR_)T_})_}R}}G&>}_ttR_Q}&QLBELRttL&ZB&EqHtQGaGLGERHTQ)R&ByG&Rt)tvtHtEZ>}G>&>_ZtEHt)R>_)tq}>B_H&H}RqG}L)HRsHLq<}&EEq))QGQLQ)EZL)GG_>Q_)BL}HGLLB&qZR}RGRL}&>qHQHF>BLtqRqQ}q+>Yt3ZtQEGEBQE&RQQB&HL>ERR)tR&&LGtOH)Qt4)B_qBR}QB&H_ZE>RZ)R>GH&E&R&)LLqBaEQ}BEt>R)Q&>RE^&&RHBG&RGhRqqH_Z}>RE}>&_Rq_HQaQ&tHXGQ>H0tq)}>Rq}HGGLB)NG}Q_)GZq}_GQQG_FqE}qR)LLG_L<t)ZH)>tHZREQkHBq&GBZt&ZBLGqqZ>QH&qLcq>RZQt>QQtD_RZGLm}B_ELRRG}&BH&qER}tE>&_QttR )Q&H_tEER_Q!L}Ht&QHtG&>d)QqqQ&_R&:tLGR>Eu)qLB)qZ}&kEq&}RGE>_&&qRQR7&Bq_EZEQ>VEL)t_q_QH/G}L_LRLQZ&RL&tdRB_u8R}_tqB_ttZQBBYLRL)L9QHqo)R)Qq&LH&tEB>)qV8H&&&ZG)G&_HtE}>})lRBHZGB>R_>&>}&GHH&_&&HH_GB>RE)qHHLGBHB_RqRHRG}Q>)HZH}>4LLqtqZ})(G_L!_tZEHEMQB&GQZB}>uL)&tZZZ}ZpH)RtqZ_t_ZG})p&Z}E_GGBqt_ZQEGSRBHtRRL)&d>)?tERHG>RHQ>tE}&QR&BH&tG}RQBqBHRG>>&_&qHQGtG>G)_qtBtG}>p_}qL}BERLZ_Q>ZHB&G>>GG>o)tGQH}_}Z}Ht,>HE_Eq>}}*RL&GHZ>}ZNR}R_qRq}GvJL_t_RZ_QGQBQtBRH}H&RB)ERR&)qGGBEE>LEQqZQLP&QB)tH&>QRER>RQH&AQ}tLRRQ>&BB)qER&QQKEH>&L>Z)Z&ZHHZRRB_BqR}>G&L&_HRGBGGG>__t&t}}GpL}_LZBHR.ZLQGZqB)GG>}GG=>t}Qq}L}t}qtQ>qEL)_}ZQE>oBL>tLH&QZ2ZLZtHHRQqP_)}tRL)tt>>LHt)R>QZ>HL)E)RH)}&>H>E_BZQZqZBrG&R&)tqRHtEQ>)QHqBHE&BR)EZ&}_ZqRH&)ERtHtGt>&_}>qHGEGRG_RL-HEGHQ>)Y&>)tqGQH))qE}HGLQ))EZE})^_LHtHZGQH0>BL_LRqQ}qm>StuZtQEG)BQE&LQ}EZLL_&LBBtR&&}Jt-R?QR&_Q>EqRqQq&B_ZtL>L)ZqRB^ET>BtE&QHEE)>_Q_qHHG&HR_ER&Q_Rq>Hq)GREHEGE>q_Q>ZH7EE>GgQq_HQG)QL_HqL}BRqLR_qZZtEG->I)=Z>E&GGL}&LL_tZZQ>RG_ZREBGQLttBZ>EQn>L}t_R>Q&>RLG*BZ>)>&qHZtGRG)LZtB}EtRQ))m)HBEEBBQ)RZB}qZHRE&&EQtEt>t)&q})qtW>C)tqEHQGQL&EH&H}HG>LL)LZq}}<q>G_P&t}_KZH_)8>HHEZH}}GLZZ_q*qBq_LZE_BG>QHtqRZ}GgGQBt>RL}L&qQtiqZL_EKRQEMGL_Q}ZHBHEHZ_)RZtL)&ERH)}&>H>&tR))_e_HHqZBHQ_RRBQqRH>Eq&GQEEE>E)qqQ)ZE&}R)EqGH)G)}Z_&ZqHqGE}}EEqq)QE2}QG)>H}>qRLRtRqH}zq}>GG>ZRQ>N&B&_&R&}B*t}R_RRR}QfpQ___BQ}>RRL)&ZBRtF1EBG_GR)ELRtLGdBZtEBRHQ>EqB&)&q&B>EtBLQRqRH&GqRE)Eq>HEE)>_Q_qHHG&LRL_LqZ}RE&>0_BR:HtEtRt_qLEH}Et>A_}q>tHGZH))}Z}}L6BLZtZZQ_&G&B&_EZGHGb)Bqt)ZHQ}GLB>t_L>}}Z&LB&&Bq_Gg_})t)R)}G&B}N_EH&Q)&_BHEHBVQE&GLGE)HLt)6GQBttHBEHR>Hq&&>&_&&>Ht&LRRGBq&}qEE>EGLqR}>E>L&G_>&H>&t>ZGt>E))GHHB_BZBH)aZH_)QLt}BdHLRtRL_}QO)>)tBBq_BG)}Z_}BZtRZ&LEGtZtQt5&B}Wqq.EZ,tBEtQRQEqy{H&t&RtEHZtB&F}ZGE}RQQBERBZ)ZqZBBEGBHQERRHZGRRh) 08HPEL>_EZ&Z}ZE}>GG)&)_}ER}Z)QLq_ZqG>t_E&E}QZ>}_)E>LH_ZL}BGRZ&)?G7La_RZ__>GZBZ_bR&}tTtBRttZQQ)G)BBtEL>}>&>BqEZqkQG&L}Gt_ZQQ)>LBHtLRBGq&RBRtRR}G>&ZBtqQR>tQRq)>&tBtG)iEH&E)R}GE&_HLZZH}G&Rv)q&}>&YR&BHQGR>qnB&Q}QGBLH_RZR})qq}E_HZ}H}Y>R)GZLBt>qQLB_BqB}_RH>)t)ZHQ}1>B>t_LZH_G&}QtBZ>QL>&BZtZZZQH>RLGtZRLQG/))Et8LGQE&GB)E)RZQB&QHZtG}q)Z>RB}&&RQGRpGHGE_>)GB&B_>tzHG)t>E)Gq)>tG_LZ_QG}HR)QLR}&qe}Zo)qLHQGtLL_qB>HEqL}QGLZqH(GRQt_G>E}tZtLG&BZQ}LR_L>GtZZttZE})_}R}QL&>}_tQR_}i&HQ&tEZ_QtZtBQtHR}GR&LBRE>Hr)q&qBqEB}Z)&&)_HEZBHt6>Z)Q&t}}Q_&GH}EB}_)QqRt&E_HZE}>__ZqLQq)>qH}qEIQ>)bqR}BG^>_XGqQ_qEbLS_tZE}QjQB&GHZRQH1>BL_LRqQ}ZqLLGEZRtEZG}_t}LHQH&HL_ERLt})&)BHE}R>)>&_QZtZ>ZQfq&B&Et>R)t&QH)tH>B)ERBB)&ZR}GZ>R)&EEBt)tqtH&G}HqQ{LZHtGE>Q_QLqHz<&>&_tLH)tG&H})GL}_QqBLRGZZZQZGBLGGHqE_R;ZBR_4Z*Hyx-LLt_LZ}Z&ZL}tGB)}L&LL_&RB>Q.R)Lt(>Z)E>RLQZt6LGQG&GBZE)BRQqqqBGEOR_)_qZH_E}>QQQqLHt&RRR_Rq&}qtG>E_>REHq&QRnGQ>))HG>HR_RZRHHG8H})BZB}R/>L&t&ZH)GE,LG__ZtHtm}LvG}qt_>G)Q>5LLZ}eqGLGtGZZQ)ZRLqEqZGQ^,_B_EZR_Q}&QLQELRttRmRHRE&>q}G&EH>yER)Q)A)BFq_RQ)RL&B_t&B}E_>Z)RZqR>)HqqB^Z>RH_Hq>}LGqLq_}R4BSG<>t_E&E}Qc&LQ_BZHH>rRL)GRZ&}&G&LL&qq>Q>KqBZ_GZGQLqtL}ttZQQ)G)BBtELBQR8qBZ&EZ6}E(G)Qt_Z_}_&&)tt)R>GqRHQG&RBqtH3s_ZtLR})Z&&_LERREG)&LL)&ZHLEt>Z__tG>q)_&Q_GEuRE)qL)HE&_HtE!Lq)Gq>QZ_LqqtHGL>s{tLZ_QqGHt_RBBHQGtLB_>BQ}>G}L_t>Z&ERz>}>tRR>Q&&&}Q_6ZRQBI4L_&GZ&_gG,BMt_BEtE&QQZt}ZtQ;&}B>qHR)t}y}H}E>>>EEi)Q_tQ>Q)LqLQtEtBt)L&-_>tGBtGq>OB_EG>})BL_HQGR}}_R>Z)}E}L}_>LB_H.Z}E)Qqt}BG>QQ_Z>)}Q#)>)tB>NHEgELQv_L)QHqGLGGGZ_}Q6))LtHZH}H9tL!tQBGQQZB}G_GRGQ)RtQEE}HR}.&ZBtt)HTQ}R&BSG&R&)tRLBRGRRTGq>&HE&>>>E>qqBcG&}__&&HH_GB>RE)qHHLGBHB)tq&}RGt>}a_qG)tG_Lt_}Z}_qGH>__GZH}RRB>_GHq&HLqGL)_}qtELkH}B!QBLELPE)BtQZLE_lBL)tERBQZ>LBHCBR})B&RHZN_RHQLlQ_Zt_BREH>Z_ZEH}R)B&Z_}ERRH))qRBaZZ>>ERqZ}REH>-E}&GHZGL>G))LEHG&G>E_G>,})qR>Q)EZ&}QGLQ}_q>Q}}9Q}QtL>G}HgqQG_X>3_BGB)qtHZqQZRELBGELLQL>&LRtBR&}G>RL}EBZ))ZZQBHEQZE)LZGB_EtBE)}Z6BqbVRtQ)&_Q_E}RB)HRHH>EZ>RERqRB)EG>Q)BREH)E}>QEQqBHBEB>_PHqZHBGQLZ)GBq}ZqZLqtZqG}GqH>E_qZ>}EGQQt)G>EHEDELQS_L_QHZ&LB_)ZEQBuZ)Lt}LB}B&BBZEZB_}}ZQLHEHRR)RZ)B)a)RRQE>ZLtT)BFEEkQBtEBR>GQ&HHqqB>qE&RBBBGB>ZG>>L}&q_RH))q>HZZH>&E}qH}}E}L>EE&_}_GH}QG}ZL)tGtHt_QqH}}RRLL_LqL})GELH4tZH_>qt>tttZ}t)Z_BB&qqEQ& )L}&EZB_GcEBG_GR)tRaqHqtEB?tG&_QZEZBZQK8EBGqQR_QQ&)_LEHRHQH&t_}E_RHGE&ZHBtGR>QG&Q_GG&RG)CR3HtE)>_rBq}HBGHQZ_>qZ}RZGL&)Gqet)Gt>)__BB}}G}>}_EBQ}HVqQGT>LB_Gqt}>_tBT}ZKLLr_EHZQ&5))HtZLH_:RZQLPEH}}_ GB}tBH_QQ&R_&&BB}ELZGBHq)ZE)&&)B}qER_)LLZ)}&_H&EZR}H&ZRRB)QqRHqZB>>)GL_HB&EH^GZ>BtLE}>__LqRt}EtL__}ZQHQ3LLtGRqRQR3&Bq_EZEQ>qEL)_)q)}hR_LQtRH&}_ZZQ>oHL)E)GEB&t)Z}EE.GLtt&HQQ>Z)QG&QBBGR&BBZq}RB)&>E)Z1-RBGQutB EQRHGt&)H>ZqRtEqRQ)}Z>RH))q>HZZH>L)!LtHH&tHtw}&_HGG}>Bj_&GtqG_Lt_}Z}t&GGLu)VZ_tBq_L}_}q}}ERQ>tk{ZQQ)DBBBlGZtQEGEBQ&>LQ}EZLL_&LBBtR&&}/tbRkQR&_Q>EqZW)&>_BEtEZE)Z>GBtEB}RQGRRQ_&E}BQQ&tHBE>}QQGqZBGG&>_Q{L)H}GZ}a))>q_&Z_RG_qq_HQZG>qtqqG}.G_L_tZ>QHQyQLBtHqHQR )BRt&RqHGvEB>GEZq_QGPQQo)LHQ>ZRBRERZHQ%Z}B}_YRRQG(_QZtiZEQGZGLt&1RQ))&BHB&GRt)EXEHQq>BQQERLB_qLHBERq&QyEv>M)Rq_)>EqRN)&qZHBZQRt)L&Q}&qq>G)G&G}RZ#>ZCLqkQ&GtLt1>ZZQRGRL-W)>/}Rq_Lqi_Lt_QCB}LtLRL}Q&q})tHZLQB>qBRtqRZEEO%L9_8R>G&VGB}qLR&tLR)_qt>RH)qke_>EZRtGQ&>QQ&qH}EQLRBBEQ>R)qLBB_EAR_)Eq}BtZH>L)aLt_qttH>)tL3HZGL>,)EBZHLPLLZtRqj}:yBHE)GZE})o_>_tHZG_HG_}R_QBRt>ZqLGGEZEQEgqBQ4ZRZ}QrEB}tLLtQQ1HB}6}ZB)B&RH>E&>&)HZGB)EGR_)tbtH}E{B}QtR>B)q>HLEZ&IQGEG>G)Zq))RE&RGQ<qqHLZ}R_)>&}H!q&>E)E&E}ZZG>qtqqG}0G_L_tZ>Q}LnQLBtHqHQR1)}R_H>{}LZ7Q&GEZ)_Q:QBQ_ERL_Gh_LQt)HLQH{HLHttH}}_&_B}EQRL)L&tHLEZ>RQR&!HB7ERt)EX)HQ&ZRBtG&>)G&(Bt)QR}H}G}Rt_>REH)E}>QO>qBH>GLQ&_Zq&}qZt>G)G&G}RZ4>))GZq})GBQQ_>>t}}GB>)&RZH_>Z}QRsRBEQ&Gt)Zt&Z)EHZt}QGkR&E)GEB&t)Z}EE9_BLqZRBtZRL)GtqR>QGmt_qt>>>)qqZBGEG>L)GwtHtEQ>)Q)qBHEG>B_Q_q_H}GQRB_Lqt)LGZ>Z)ZqHtREBLB_RZ>}&c&LHt&&G}GG_Lt)tZ}},mBHE)EZE})3_>}tHZG_HG_}R_QBRt>ZqLGGEZEQEVqBQ%ZZh}E+G)Qt_Z_}_&&)tt)R>Gq&LLq9QH&EZ>_LGEqR_QQ>GBitERqG)AtQ_&GHqGqRt)QZZ>L)qLHHLEp}tGRRGHGZ}R_)Gq}HBZ_>BEtq_}tG}L})}Z}HGi>H_)_Z_}qdHQR)GZG}>Zt}Et}BR}LqELRVELG__%}}HtHRH}_&R}tttZRQH&ZL9!BRRQq&ZQZt&>&QE&GB)E)>qt}l}H}EL>BQBqZHQ&ZRBtG&>)G&5Bt)QR}H}G}Rt_>REHEE>>}_Rq&)HG>>Z_R>R}&G&>&_LBqHtqZLqtZqG}GEGLG_>Z)_qGqBq_HZEtQG>B>_)BZtRSGQQ__LR}QRRQ>CqZG_EIEBEtqRQtZ-YLEtGHQQ_xQB)qLRHQL&B_qERRq)Z>EB!tERGGQ&_B_t_>&Gt&)H>ZqRtERRQ)t& HH/Z&LH}GZ>&?LqRHEZ)>R)Q&_tBEQLQ_BZH}R,RL)))qE}HGLQ)_R>_}qZ_}tGQZB}BGBL_&HZ&_}:HB}_}R>_E?)L}tQLQQB8BLBt_HHQL:k)ttHqtt>RHQ)&&HEQ&&RBEt_}&Q_:^HZE_RHG)&tQ_E)>_)HqHBiER>B)K&__GEg}&)LREHBZ&R___q}}HZRRG_Gq__tqEL}(RL)}Qq>>)5>Zqt&ZRQ__Bq)}EoBLZ&LqG_BZ)}BtZZ&}>RELWGGZEtE*h)Ht)ZBEt9L}EtRBEtGZ_LQEQRB)LZtB)EtR&)}RqBGttREtE&)B)t)R!G_&BB)EE>B)ZLLH&&}>>)Z&B_.EqH&G>>J)tZQ>t)}LGHtGBQR)L>R_BZ1>Z_Lq4HERZL&_)BHHQqHH(GGB)HEn&L)_}BE}_{L)Z6}qZ_)GQ)L_}Z_QL:R)}tQZH}_>>B}DLBHttR_QQ.EHtQ%m__qt3RQGBr}QB&B}ZQL&}HZE&}L)&RBHLGB>Z_Z&Z}ZE}>GEL&L}LE_LqGE&E__EB}L)tL>_LZq>pt&q&}tZH}G_tqR}H#Z>9GBZR}qlZ}Z_&R&}E5GL)t)Rq_}G}B}tLRB}B&ZBQMZZB_G1>QG<eLtQQZ}B}E}Zt)>ZEBEt>R})R&&QHE>RZ)RRRH&E&R&)LLqB>G>>q_Z&GHGGLBtQtqtHQG)R)_BqE)BE)HZ)}LZ_Rq&>EEtqt}tG&L}GqqGHtGEQ}_)q)H)G,Q__QZRE&ZL}Z_&BtHpPZLt_)Bb}>2}L>tBRq}L>&LGt}HLt}ZLLLqqZ>QH&qL q>ZH)H&>HLEq>q)}ZuLkE0Rt)E4EHQG&BQQERLB_qLHBERq&QuEM>{)Rq_)>G>R_)9q)HH&G>_)Qq)))E}L}_LZB}ZkZLQG&q&Q&GELG)GZ)Qqq)>GGBqttBZH}>tqL&Q&&&L>ttLL}Zo&LqtRZHE)GELB_)RqtZ*hLg_(R>G&xRHRE&>qQE&EH>6_Z_)_&}HQtQ>L)tRLBQ&qRHGq>ZQlEtB_)_q_BSGHH&)E&_HtZH>Q)Hq}tRGL>L)Lq)tBG>>G/_LZ)_qR>ZgGqq}>GG>t&qq>Q>dqBZ_GZGQLqt>EttZQQ)G)BBtELB})ZZL}&ZBRt&FE}tttRtQ&&}QqtGZG}G&R)otERHG>zBQ>&}}&QR&BH&tG}RQBqBHRG>>&_&qHQGtM>G)_qtBtG}>0E}&t)>E)}>GL>ZHc&G>G_GqZ})qRL&_&q&}LRq>>t>ZqQZGGLGtL>tHE4tLQt)q)QB%E}B_)LZ}}RZQRl&ZE_t1tBtt&R}tq=GLttEH}Q)7}BQq>RBQ>&L_&EZR&)q>tBGttREG}&)B}EQ}>)B&>HLZ&>Z)Z&ZHHZR>q)_L})Gq&H_E}&?tZEL>}_Zq&tLGR>Ed)qL))qZ}LGHL&t_EGLq__qQtGGtLB&RqG_>q_}G.&LQE>GHL)t>ZZEHM}LB_)HRQLZ>BRE>R&)&R}BBEHZH)R&RLkqLZ})}&LH>g_RqQE&qQQEBR>)LRLHZEZRZ)HLRBBGB>R_>q&}&GHL&)EqGBGG)LqE}&}}}GLLB)RZZ}QqZ>BEGq>_GqjHt_Q>}}}8}>tt>>EH_D_L}tQZLQL#tBLtZRR}Ra!BBGEZtQEG)BQxZZB_Gy>QGW5LtQQZ}B}E}Zt)>ZEL_E_R})Q&LHLEtBRQXqRH&GqRq)Eq>QEEqBQQF>Q))&H>>ERqR}REH>?E}&B}BGRL>_&Z&}H&GRG_Gq_}tEtL}_8Z}}LCB>RtZZQ_ZGBHG_>LG_aqtLQG}Z}Q}GtB>GEq_tG;}BQtLRLtE*_Bt_tR}ERZ}Ltl>Z)E>RLQZt4LGQG&GBZE)BRQq>>BGE^R_)_>RHqGZRZ)G>QQGEZB))&>))_&}>LE>q>}>E}L&EQ&H_)G>LL_qZq_QGHL})}Z>_Aq>Lq)6Z&t_GE>E)EZZtGGQ>Et&ZQ}LR}L)GQZ}QQ-LBLGGZp_)zQQ)_^BBtQZBBZt&Z>EEOB}GtEBEQ:>HB)tBHtQH{_BGEHRRGB&}QHEq>HQ_>RHZGqB)Q}q}BtG>B_))R_H}EB>HEHq>HZGR}G_&q&H&GLQq)CqQtBGqHBG)>t_QR&>R_BZ&HGRRLq__B}_GZq}BG}q/EZGLL}tZZ&EL,BL>_}HqQLZZQRfQB}tZZC)QttZ}EGCtBBqRBQt_RBQqt)HEQ&&RBEt_}&Q_biHZE_RHG)&L)tEtB_QQqQHBGH>R_Rq)}RG&Lq)qqE}>&_>)__&}}Hq&>>EtqZ_tqEH)_H>B}BnB>)tZ>_}qqHLBtHZRQRqtL_G}q}Q};LBB_BRZQQZZL&E&ZBtGZYB)TqRZtqGdBatLR_tZ&RHZtr>&}E&tHRTtR&t}{G)}&QBB)RRZHZGZRB)GRHBLq}>Z_R&eHMqH>L_B&B}ZqEHZ)BRGH>qGH^EtqQ)}G}L})tZ>)EGRHQ_}ZQ}LnL>LtLq_Qqq}>}t}qGQ>R&L&AGqQt}GXQHW}B>QZ&RLRtAB)EquR}_tqB_ttZQBBlLRL)LsQHqT)Z})}&LHBEZ>Z)QqZBFG&R&)tqRQ)t)>))Hq}BLG>>_E>&})&EB}&GqRGH_&)>)_)&G}B&yRE_Eq)}_GHLH_G>L}qvLLZtRqR}j%BHp_R>_}qZ_}tGQZB_LMLBL_QRq_)G}B}tLRBQZ&ZBQl&Z&)&4EBG_GR))q&)BHE}ZL)>&_Q>E>Z_Qc&)BHiGR_QQ&)Q)E&R>)Hq&BtqwRGGqqR)Wt#HE)t>_B?qQ>QGH&G)BEt>&_RqtH}Z_>>EtL&)tEH>E_RqH}LRq>)GqLQ_tR>LH_RBQ}HIqQGcZ>G}LR)>Et&Z)}}REL_tLHZtQZ>LQ&GZqQ>lGLtqqZ#QQ>BQ_fHLGQ>>QLttsRQQH>tB>iERE)E&GHQ&ZR3Q+moH>Z&>REqq&)qEGRt)EL}H)E)R))1L_H)&t>)EtqE)}E)H})H>>HRq>Lq)gZ&t_GE>E)EZZtGGtLB&RLL_RG)Qk_ZZL}9GE)Zt&Z)EHZt}QGcZLE)GEB&t)Z}EEhZBBtZR>Q,FR)GttRBGRktLRI_B_GBoQBtEBR>GQ&EQ)E)>))>qBQVE6RB))qLHZ&Q>B)>qL)LE_Hq)qZqH>GEHB_Zq&H>ZE>AEGLq_GGq}__)Z)HQ<BLB_ZB}}RqQLqbBLEHGnGL_t)LRQ&GGL.GPqt})G_LEtqH>}Hk&L>t_LtQQPQLQtGH)QGZ_B_E_RL)HR&BEt_RtGH&QBQtQRGG)&}HZq<HLEqRHBEZZRL)}qZH&ZL>B)>&}tqGRHZGL>H_}qZH)8QqtH}ZG>t_BBR_>ERH__qBBHQGtLB_>BQHt5tL_t}>z}HqhL<_BZ)QL0Z}QtBZ>QLZLLQkqB}t)Z}B}_ORRQGx_QZt:ZEQGZGB_t_Z_)&>tL4E+RG)_RZB)&ZR.QE&G_QE_RQ))LLHHEL>Bvq&))ZE}}ZGRL_HEE_>t8HqtHRGHLZ)D>B}RGqLZGZq7HkEIL>&&q_HusZL__HB)}LZtLtG_qQQQTBBHtRRRQ)&RB&EqZqQE&>}_t)R_}}&HQ&t>LtQZRtQE=)RHtB&BHBt)>Zt_&qQHEB>H)RqRQtE_B}Q}q}HLGBRB_ZqQ)ZE&L&)B>G)gG)Hq_Z>qBJG;>L__>Z}R*Z>{t&&E}tjRHt_&>}HGZ}}QGBZR_ZnZBZ_BZG_HGLQ}tZRR}W#hQHtLRB}B&ZQE{ZZB_Go>QG{(LtQQZ}B}E}Zt)>ZEBRWQR})Q&LHLtL>LQ_qqQ}t}>}QGq>_&E&HGQQ>}BhqHH}G>qZ}RER>XG)LqHR&_>qG_>t)QGBHL_LZLHQ3qH))}Z}}L-BLZtZZQQZGPB&_&ZtQRq)>)t)ZHQ}GLB>t_L>}}Z&LB&&Bq_Ge_})t)R)}G&B}#_EREQ)&_BHEHRGtL&qHLEZ>RQR&wHBi+RRt_&q)_&tBQ)BRLHLGLRQ_qR)B}G}>L_BqZ}ZGQH&)&Z&HEGGRG_)Zq})GHL})LZ>}_q>Lq)(Z&t_GE>E)EZZtGGqBq_GZd}_A_BZGQB)}&&&LEtGqGQ)&q})tHZLQB>qBRtqRZEE24LEtGHQQ_u_L_E&HtQ)&>_qttBRtQRt)&&>}ZQL&}HZE&}L)R&E_)ELBtEG>Z)}Z>RH))q>HZZH>L)xLtHH&t}&G>>EtBEQ>t_Bq>tQGHLqkGL>_}ZRRtG>qtt?GZLL_+qEEZgRLq_LBGQZq2Q&7HBL_;Z_)BtQZLE_5QBRq&BBt)Rq>G<BZGGq3>BHEqZ?G>{CBREBRIQ_>GBQ&qREQ_j8_}t)BQEE>})QZZ>L)qLHHLE%}tQGRt)>qH}J)ZqLHWEEQZ_&q)tHEQRHEfLB_}Rq>>_HZqH+R>>Q_EqQ}_fB>)&LZR}ER)Q&Gtq)EBGQLttBZ>EQGtBttQR)QB&BBE.>qE}ZZ_B_tZRB)qrGQLEZR&)qRqLaErRt)E&QHQG&BHGR&EHGtG>)Q&R})tq)B3)RR_Hqq_HtEQqB)LGLLL)QZq))EH>L)Bq}HtZI>Z)_&D}BqHL>_>q>}QRL>}t}ZLQBvZBZtQL&HQEG}Ht>ZZQRRGB&t&Z&QL>qLtcZRq)ZCGBG_GRGQ>&))BtBH>}#RGBL&EBGE)&}HQtQ>LG&>HBQ&qRHGq>ZQFEtB_)_q_BWGHH&)E&_HtZH>Q)Hq}tRG}R7_RqGH_qZ>W)EqG)GG>>}__Z>}&RRLHGBZZ}&G>QE_}>GtZZE})&HZ)}BRtL)t>HqtBZRL)&EZ&QRnEL_q&ZGQ}>LQHyLZGGqC>BHEqZ:G>&ZBtqQB,}QRqBQqtZY)Z&tB)qcR>)}&>HBGqRL1&&GH}ZL>&QLRE)EZ}R_)Gq}HBZ_RGbqq_}tG}L}X&qG}WEVL_IB>_H3qH>EIHL}_LMZ}qtqRq}LcE}BtBqEQq5tLQf&ZE}_Pt}tt_L}QH&}B>E>Z>)>&RH&zHZH)H&BHR&wZ)))&Q)}&Q>>E &qQQtPHQE)RHH>&R>R_R&HHf&}RL)R&>HBE)}E)&&QBEG>HL_ZqZHZGHQR_H>>}RS>L&t&q&Q&GmLtGRqRQRdZL=k_qBQByLQ>cLR&t_GE}L__BLtBZRB&G+ZAQF<RB_Y>Rq}a&&)_tEZE}E&Z)GttRBGRRQLRp_RRGB<QBtEBR>GQ<GHZtG>&)_NV_)E}>ZGC>&Ld&HR KZ&LH}GZ>&#L&}}}GLLB_ZZZ}Qq&>tt&qE}GEGL)tq>)HGqB>tVBLH_>lq}&t&R&}>(t}LtLqtQ&l_L}G.Zt})N_}__QRQQB&HBRERR)tqdqHqtGRn}F&_HZE_R})QfBHLEtBLQZ&&BqERRHG)gEBBt)>qEZ&nBetP>>M&&R}RG&Lq)EqE}>&_R___q}}QEQLL_tZL}ZlR>&_oZB)VGt>)__BB}}GBLH&ZZ>}>G>LQ&LZR}ER)LLG)LZtLREL&tRZE}_>&LGt}HLQ&ZLQ)qqZ>QH&qL2q>RLQR.H_&E>BqEqR>)H&>BQG}&_BHqER_)LLZBEtZB)EtLLB}E_>L)RL}B_G_>}_QqL}LGtHR)9ZR}&0q>q_EZ>)EGqHQ)fLQ_)qHL>GRZRQRGHLrG}Z}HwcRLG__LZ}-GELGGGqtQtCQB)tBRBQEZ>L>E>Rq)ZbZBGELRGQ_&tLQE}RSt}PtQ>t)H>ELRZB!MGRG)G&ZH)&R>RQ)&GHQEBBE))&}HQ&Q>B)B&BH_ZHR)_)qH}}G>L>__>ZHZ+Z>6t&q&}t1RLt_QZ)HH0BLEGBq)_ZG}QZlRL&}EqtLtttZ&Q}ZqLG_tZEE}N)L)_)ZvE_GGBGt_RtQ}&}BrE}RL)B BHZEQB&QPq&LEEtBLQQRqBHqqHZtu&tQ_E_>_Q<qH)&EER_)tLHHQEH>}5RqLHRG>}f_>&_HrG)>HEGq_HQG)H)_HqHHHGtQ}_RqH})vR>b&ZZB_L q>h_RBt}HqEQq3tLQEBvQLL&_ZQQR>&QL#ZZQEtGdBZttZ)E6XEBHq>BBt>(E_&tRRB)&5G_REqR_G}RGL}&&R}G_1GHqE_RQGG&RHHER>L_&&>_{EE>H(>&2B>&tHtPH&)HEGH>LJ)&Et&G)L__HZH_XGELG)GZ)tLq)>GGBqttBZH}>tqL&Q&&&L>ttLLQLGtB&t_Z}_5OtL)t_L_Q)ZHBBEHRR)RMRHREZR0tBYBHBEL>ZEGpQHQE}HHE}qR)GE&B}QG>})Q&B>REZqZ}ZEB>GEH&>HZER>L)QLtB-E}Rt_R>>}qGq>q_BBZ}BqRLZtRq,}PE%Lx_GZ__ZGZBZtqZGt)GLBLt>BRt>6/Q)_tL>})R>QLpZZx_GiGBGtZR)tR&&LGtnH)QtgtLtEqHEQ_&L_Z&}ZZt)&Z_Lt}R_)L&R_}tE>qQE&YH)tG}Q)Hqq_G&gZGEB&GtqE>>H_q&/t>EHLH_>ZL}qcqL}E0q_}dGtLE)EZQQ&qQ>EGLq_tLZB}Rt&>r}rCILRt_L>Q>G_Ldt)ZH_G,_LQt)L)}}&}BLEBRZ)Z&QQ&t&>&QE&GLGE)>q))&HH}tL>>)_R>Bqt R&)Z&B_QttRLQQq&)qEGRGQGqR_FEZLZ)pZ&HtGtLRE)&)})GHL})}Z>}_0>LqtZ&+}GbLHG__qQ})RLLH_LZBEqvRLR_RZ}E>.ZLt&QZ>_QZqQ>&tqMQZvtL)&7ZEQH>>L*7>BQG&,RBBE&ZGGR&>BZtBH )RR&)&&RHBERR}_HE)RBGt&)H>ZqRtQqRQ)_Z>RH))q>HZZHR)_)qH}}G>L>__>ZHG=Z>Kt&q&}tXRHt_&>}HGZ}}QGBZR_Z%ZBZ_BZG_HcH>GtZZE})ZqLG_tZE_EG_B_t}RQQL&LBtWRZR)R&&HqtqRE)>&EB)E_Z})H&GQHt_BRQQ>R)>&qRGtE&EHEEq>QEZqZBQEE>})LRtHQEH>}E}qLHLEL>)TB&Q}QGBLH_RZR})qq>qtqqG}pE^L_tZZ_}}oQ>BtLZt_LGQ}q_HBqtZq5LtG_Z_Q_GuBHO&ZE}_/t)HtQZQ}Q(G))_EREQ)&_BHEHRG)H&>HLtL>q)}ZNBGETZt)_R>B}&&RBG&>qQGE_B)))q)BGGBB )t&)H_ZB>})BqHtZG>>Z_RLG}&EG>Pr)qtHtEtLqeEq}HtG5L}_>BH}Zq)>}t}ZLQB2ZBZtQL&}t&&LEtGqGQ)&q})_GLB}tRBQH%>Rqt&&&H&t>RttL:RHRE&>qQE&EH>k_Z_)_&}HQtQ>L)tqLHZGRR&)?qBQ{ERB_)q>_)t&Q>BELqL}LEQLqE)&}__GLLB_ZZZ_)G}LQ)QZLt&qL>QGqqHtqZZHx_t>_}_v_>NtHL&HGRqL_ttZ}Q}R&LGtmq0Q_RB}__WLH}ERHQ}KLRZtq&qHqtLREtBT>)HEq>ZQG&G)BE>>LQLqq)t&qRLtE&R)E&GB_)}RHHHGHR__RRtB)qE>H_}q>}>qt>)__&_}HZZHH)_>RHQZR}>GqqG)EGELE_qZQ_ZG}HG_EZG}){)>)t)Z&QBqE>EtEZRQQRLLL&RqGtE8>Qt=EBQQH&}L}E>BcEB&qLME&H_QE=ELEEZHGQt&B_RtGBRt_RG)Z&H}>QH&)H>EZ}H)L&0_tqZHBEt.))ZE)}E)&qRHEE_Q&_q&PHRZt>#EEL&_qZR}qG_B>}HGRQQ_HZqtGGQRGGBLQ_EZZQF_ZZL}6GE)Zt&Z)t0G)B)tHR}Q>&>B_.ZLQ}Q&QBBEHZ>)R&))LtqR>QG7t_qt)BZQ}>Z)R&&REQEjEHZqGRHt<&GH+t#>_E>qqB/G&H&_&&HH_GB>RE)qHHLGBHB)tq&}RGt>}^_qG)tG_Lt_}Z}_qGH>__GZH}RRB>}GHZBQHG>BRGtZZ}BVQBZ_GHqQZZZBZ&ZBZE_TBL)tERBQZ>LB}CBqF}E&EB_EQHLQ&q&BG&GB7))>ZBqGqRE)E>}L_&>>&QG&Z__EEBtE/>_BQZL>})>L)BEGE>QG_q}}H&G>G_Gq_})qRL&)Gq3)!GL>Q_tZL}qR>LHGLZLQLZBBq_tZBER4B)q_>ZHQqGV)>_HRHQR&R})t)HL}GZBBLEBZB)ZZ_B}t}Z}QE>QBZ:)R&E)R_Q}ELRR)>R>H>t_Rh))&HQGE_RQ))R)HHEHRH)tL}HREH>)_R&,tZGRHR_ZZRHJGAH})GqZ}LGG>)PE&=)GGELG)_Z)_RGQ>Et&ZQ}LR}L_GQZHtQZQ)Z_EZqQ>fELQ&tZE_EGBL>E>R&)&RtLHEHRRELRBHq&QZ})}&BH>&wZZt_&HBLtQ}Z)>RR)BqZR&Gt&wB_ZqR>_>qZ_ZEb>GELqR}LGZLqE)qHHLGBHB)tq&}RGt>}#_qt)tG)LtGEZ}}RGEQ)__B}H_GGL}_BB_HGfGLtt)Lq}yRtLLGEZtQEGEBQMZZ,}jGwB>q&ZQtq%H)q&ZLVQt6)B_C_R}QB&H_ZE>R>Q>&Q_LERREG)&RBQt_}BQQqQHBGH>R_Rq)B)EE>H)LL)HR&_>qG_>t)QGB>B)Bq_tHG&H}_HZ}H}%>HE_)q}}QqQLB_>ZLE&%ZL&tqBt}GGG>GtRBa}EcH)>_iLBt}Z_QB&GZqQ>hGLtqqZ<QQ>BBq%}B)tGR&_&tRRB)&pG_RtGRZ)L&GB)qE>&tG&EHGE)>)ER&QBEG&>Q)LL}B)&Q>}_Q&B}L&G>>)}q_}>G&QR_>>>}>Z>}>-Eq}HtG*L}_>BH})q}>q).Zh}Ew_QH_ZRZQ&R&QqttB>}R&RLxtlB)HEZBBZt&Z>EEIb}G&qBE}_>HB)tBHt}P&DB_&ER))QR&H&G&RE)tRLHZE&>qEq&HB_EG>H)RLBHQ&H>H_H>}}REG>}!Lq}tREB>Q_RqqtBEQLQ_LZL)tGtQH_&>}}Hd}>}t>>E})G)>)_*B_}>qtLZstLE_)gHLLtBLBQR,RLRt}H>QZXt)Q%ABRtLZ}}otHH)}E&&B)t}HEQG4tB&qQR>t)RG)Q&}}R)B&Z_}EB>&GE&}QE&LHH:&&RHBG&RG1RqqH_Z}HEE}>&H}Z_RG_qq_HQZG>qtqqG}wG_L_tZ>QHQWQLBtHqHQRP)BRt&RqHGeEB>GEZq_QGvQQp)LHQ>ZRBRERZHQ<Z}BLtLZLQ)>BB>tGBGEqZEQRt_HGQq&>BGtt}q)Z&&B>qE>qtG>q)Hq>HZE}LLH}E>}))}qZ_IE)Z#EH>HtZEL>}_Zq&tLE}L}_LZB}ZjZLQG&q&Q&GELG)GZ)QqK)LHt}qLQ>:_}>_}L&}BR&QqGGZ__)1)B)_GRB_2hXLBt)RLQZZQBBt>RLtL!GB}&EZ})}&LHBEZ>Z)QGCQHtH>H)>qLBZGq>}GRo4HZEtR)Gf&})&EB}&GqRGH_E_R__&LtHL&E>t_E&E}QqZ>g)EqG)GGG>L_QZ>}qq}LL_RZ>_>.qLq_qZBEZGLBLtZRR}v3mBBGEqEQEO)B___RHQG&HB>ELZZ)q&}QqtLLEQRREQGT_R}tH&HHHt_>Rtt&QBHE}}R)L&RH>qp>q)q&qHBZZ>&))>))t&QBO)HL)BEG&>))}LEHZGB>Z_>qyHRZG>t_BBRHGERH_GGBBHQGtLB_>BQHt{tLQt)ZBQB=E}>_>R>Qq&ZLZtGRLQG+_Bt_QR}Q/Z}LtK>Z)E>RLQZtpLGQG&GBZE)BR)R()BGEQRBtE&)B}EQBQQHqHH>GL>q_qq}QkE_>I)tqEBEGQL&EQ&E)LE_}LGB>R}&&1>M_nqR}_q>>q)^q&}ZGBQQ)tqLHQ#&}q_GqGHGfRQk_ZRZ}D&&LtttRR_)G)B)tHR}}}&>B_E>Rq)ZG0BGELLGQZZ)B&&)B_t}&LQ>E>>>Q}q&QQEBR>)LL&HZE&>qGt&GBtEE}}))&)B)E3}_)B&)HEGB>Z;Lq&_HGQHB_Zq&H>ZELqEGLZ_Eq)QH_)qBttG)L>&qLL_q0RQE_&ZR}EG_)&_GZ}EL Q}LGEB&E}G_LGt}ZBE_DQBRq&R>}&Z}QC&qH)}E&&B)t}HEQZ&BBZE>RuQR>GBtEB}RE}3RQ_Et}BQQ&tHBE>}QQt>THQG)>B_B>GHtGERE_QL>)QEEHL)_LL_BqRL&ECq{}?GRL_G>Z>H_GAL)_H>G}_GQL)G)Z&_B LBBtZRZ}Z&ZL}tGLL}L&LL_EqBE}ER_LB&LZtE>RL)qtN>&Q&&t)H&GR&t}zG)}&QBB)RRZHZGZRB)GRHB>EZRR)L&Q_ttMR}QtqR)>Gq>q)qqBtZEEHR_ZZRHrGyRv_4qL}_qZ>ZtZq}}GZ)>)(}qRtZGQQqmZLG}t9E>EtQB>t_GE}L__BLtBZRB&GuZfQ*IRB_1>Rq}7&&)_tEZE}E&Z)GtQL!QG&=B_E_B>)LR&B&G&RE)GIGH)GqB)Q}q}BGqBHH_ZRQHt&QRH_H&E}R&)>E_)qH}}ELL>__>>H}q&>Bb&Lq)GG_H)_)Z)HGkBHI_tq)}_RBL}_}q}}ERQLHtqBGQZqG}ByLHq}>lHBq_wH>QZPt)Q!EL_tq&Z)t_5RZQtP)),E&ZGQZ>_BBYtB*E&>ZQ2&)}R)B&Z_}EB>&GERGLE&L>B0&&RHBG&RG4R&B}BGRL>_&Z&}H&GRG_Gq_}tEtL}_3Z}}LMB>RtZZQ_ZGBHG_>LG_9qtLQG}Z}Q}GtB>GEZE}>=}BRt&LHQ>PZBReRZqE>PGB(t_R_ER&qHZtZRGEQZGBGtLRQ)>&qQ}ELRR)>R>HqEqRq)BLZBLGL>Z_R&%HSGBBEQEqEH)G_R__HqG}HG>LL)ZZq}}qq>LEEqR_EqGH__}>H}H?H>_tR>t}QGHL}&RZL}LGLL)&BZ>}GR_QqGEZEEHG)LEtHZLE)G9BR_yRqQt,&)_tQRRG&&>Q&&ZHt}?&ZBtt)H=QZqZBfG&Rt)tqRQ)EB>))Hq}B}G>>_E>&})&EB}&GqRGH_&)>)_)&G}B&k>a)Bq)}LGZHQ_Bq>}LqL>RtRZ&QqGELEt>>_H_v_L}tQqQQLTtBLtZRR}&8PBBGJZR__vqQ_stLQQBZLBLELZQ)qZ)LHtLZBQ}Wt){tZZ_},&BQHE>R>Q>&Q_Lt}>})LqBHZGZ>QE&&&}&EE>GQGq)}qG)>H_}&L}>G_H>)}>&HBZ&}qEGq_))G)L))GZB)lGt>)__BB}}GBLH&ZZ>}ZeRQGt&qG}gR)Lt_)Z_EB%}LBtHHZQ>W>L>tQHLQRkE))&&BRtGZ)Bqq>ZHQ)&>BZqHRLQ:>tBH_tB>EHR))LqER&)R&EB_Z&>qQ<&R_tG&BEG&>&_R&lHHa>qHHRZQ>H_qLGHQtGHBGQ>t_BZ{>Z_LqvHERZ>E_qZ>}EGQQtt&LGQ&ZtL>?)Z_t}G}QB_&B>}_ZRBZGOZGQT0_B___R_Q)&H)RtRHq}tR_B_&)B_EH&LHBtB>ZEE>>BBaGR>EGR/QtEQB})}q}BtG>BEQ_q_H}GQ>L_Lqt)REgLR_&ZqHqGEL>EEqq)QEM}QG)>H}>qRLRtRqH}Fq}>BtBZRQ>p&B&tH>GHGWGL_ttqtQ}JWB}tLRB}R&ZBQ,ZZB_Gn>QG9VLtQQZ}B}E}Zt)>ZEBRnQBEtQ5>B)E&R>)Z>GBQkGHBEQLqH>E&}B)>&G__EBB_ER>>_GEq>>)G&ttqEF>QPBqq)B&GHEDQ&tHhGQ>H,tq)}>Rq>t)q>Q_QR>>H_)Z>}ZRHL}_Bq)ERDL}>#LLHt)ZH} &_ZG})>&LGt}HLtBZLLGqqZ>QH&qL/q>ZHE)P&)>t>HLt)&)BqEL>&QER>Hqt:>&E&&BQtqRHLERqRB)EG>Q)BREH)E}>QEQqBHBEB>_aHqZ)}q.}qECqtH)G_QB_}q}H}GEQQ_HZqtGGQRGGBL}EqG>LHtqq:E>JLLR_HH&QZZqQZO>BHtRR&)}t_ZHEEi_BLqZZEtZR>)GtqR>QGFt_q_3BZ)LqZBQEGBH)H^GHZEER)Eq&GBtEEBEQtRQHtGQ>Q_LRGHGEL>Q_>qq)}GL>R_>>>}qGq>q_BBZHBqRLBtRZR}kq}LL_RZ>tC!q>Pt&B_}EGE>EtZBG}t(B)R_GLL__Z-)B_QZtQB2>)QtwL)QQZ)BHtHZHQt>}BBE&HEQ}ZEQL&tBGGHp)BEEHRLG)byHRt6>q)t&&__EQ>Rk&&_)ZqR}tQ*qZHtE)}8)_>&HGq&L&)Hq_}BGRH)_HqL}BqBLBGZq>_ZEo>E)GZ&}>RH>)_RqH}GqPLt_tqtQqRELQGGZt_Gs_LQt)HLQHnLBBqqRRQq&Z)Et}LGQBRGQ(qHRQQH&}_RttB>Q)>>)L&ZRWtG&GHGEZ>)ERqZQwEG>S)_q_B_G_>)_HRGBGGG>E_)LBHq-qL&GOL&}_ZB>}G&qBt&ZqHG__>)})#)>GtB>IHEfEL)t_ZHQH#GBHt>RL}L&qB}G#ZGQ5GtB_c>Z}t&jB)&&qLGQ_Z)B)E)ZG)BZ0LEEER))_&HHHEG>H)>qLBLGq>}t<%3HmEt>EQ)qQ}&&Q>Q)&q>H6EtHR_&&GHJ&!>_)Q&EtBE}HHG_LB_}R&LR)MBL}RGE}EGE>t_ZGqQE_&ZR}EG_)&tqqs}RRtLHGEB&tHRR}s-)H>QH7R)QtHRqEG4&Q&&ZH)}E&&B)t}HEQ&>RBEEGR)))>ZH&GqRq)E>}QEEqBQQO>Q))&H>>ERqR}REH>NE}q}B2GR>G)_>ZHrEE>GEG&t}tGQL)_BZB}Eq>L&t>ZqQZGZLGtL>G}GGLLQt>Zq_}?LLRt>L>Qq+qLqtBHZ}L&LBZERZIQF&B}EtQREQ)&_L_EHRGtH&>BZERHG)&DGB(q)RuQB&)HLEZBQ)B&>HL&L>Z)Z&ZHHZRRG)ZqLHGE)}E_q>X}qqE>GG_qR_QEQ}H)qLLHtq>LRG&qkQ&GtLt)tZt}_Y}Q>_>BZHEZtLt8_Ltt}oBBH_HRRtGRLLHGeZLt2R&}Et)LQQQ&QLEELLG}t&tBQE)RB)B&EQ>E&>>)qqZBZEG>LtG&ZQ)E&H)E_R}HL&>>>_>&}}&&QRH_Hq>}LGqLq_}R#B6Gd>t_E&E}Q4&LQ_BZHH>5RL)GRqH)!GL}m^&>E})qQLQtQqEQLqGL>G)LG_)GLL_tqZLQRRNL)G6BHt)>ZBLtqHHQL8^)ttHLtt>RL)+tZRLQ?mE_ZE&R)GH&ZQHd(BGG)jEH&E)R}GE&_HLZZREQZR)))ZLR})_qLHRZ}>Q)H&_t>GBHLGB>}__q}}&MtqwH_Rq>j_QBB_HqB>*&ZqL}}XZL&&Lq}t_GqQL_LBB__a_LZtBRq}GZLBZt&Rqtq6H}E&>BBt>&>L_tJR)QHZGB_tQR)t)&HBHtHRtG}&RQQq&HZE&&EB_Et}H)Q&QBQEG}))}qZ_aE)ZyEH>QtZEL>}_Zq&tLGB>>)}Bq}RqZ}RGLL}_>ZqQQ_tq}tGGtLB&RqG_RZLQP_ZZL}nGE)Z_&LRQB&RBRtTL}Q}GOBRtGZ_tZfnLEtGLG}EZ)BEE)Rq)BZ^B!tBR))L&ZQQEBR>)LRLHZEZRZ)HLRBH&>>H_>&_}&&Q>B)>qLt&GZ>&_qLtHGEGRG_RL HEGHQ>)n>B)tZ&QH))qE}HGLQ)t&>_})q_L}_}q}}ERQLHtqBG}QqG}B,ELOE}G_LGt}ZBE_x&B>t&RZQE2q)tt)R>GqVtQR&>HEQ&&RBEt_}&)LRqBx&q>qQ}&tHHE>B_)}&BHH&HRGER&L)RE&RGQ(qqHLZ}R_)>&}H=q&>E)E&E}ZZGLRE5qE)NGt>)__BB}}GBLH&ZZ>}ZhRQG_Q>b}HZiQ&&}Z)}}zQ)>_ELL}_RLQB5RR&_*wiBNtRR_t>&RQ&tp>&Qt&tLtEtR_)}ZnLVEPRG)_>HBZGZ>qG&>qHtqHRQEq&H_qqZB<)tR_H_G_Rj_H>&BGGG>__tq}}}GyL}_LZBHBIZLQG&q+Q&EELtGLqQ_qGHQqhZ>0}tq_L_t_q;QHZ&>GtGZ_QtW}B}t*R}QL&BLBEZRQt&*&H&tERG}_&)Hq?)RHQL&B_qERRRQR&}_>tH>H)>qLHqGq>}_q&GHgt7>__ZRQH}GQRB_LRGH_EQ>)KLqHHLGBQq_Rqq}ZZE>b)EqGtQG_>_)_Z&ttG)L>&qqt_RqQ}tGEL>EZGLL}tZZ&EL=RLE&)B&tqZG}}Y&Z}E_GGBqt_ZQEG0tBBqRZGtRZ_QG&&B>G>*HB)E>RZGH&LB4qtRHtGR>)H&QBEGE&&HREER_M&&_BfGZ>_)HL)Ht&_>)__qH}Hq&>B))qE}BGZQL)G>BHB5BLRtZ>_}HGL>Q&ZZ>_RcZQRX>B&QZR)LE_QByQRZpHH_ZZG}tqqL}E}RqE>4LQG_EREQ)&Q)>tWZEQGZGB_t_Z_)&>tB)E>}qEHRQQY&qBHQ^LZBLE}>Z)&LLB)EGR))tqHB_ZB>>)GL_HBt_HRGB>H_>ZtRa_ZqtH)ZD>))GZq})GBQQ)GL_HQZQL>G}Z>}ZGBQ7_)L&t>Z=Qq&QZt}}RGLttBBBtQZLLt&eZZQLDYLEqZRRQq(L)GtBL6E&RQ)L&RBBGB&QBLq_RQ)RL&)B&&RQGtivHZEtR)GK&>)&EnL&)tqt)LGBHq)RLqHBqE}&EEqQHHE_Q>_B>LHHZ>LB5GZqHERR>LG>qGQ>:qQ&_ZZG_HGLBLtZRq_}GH}}tLZRQ>Z>L}j&ZBE&Rq}Gt_L)Q)&)LGEBLCQsrBB)ELRZtQ&BB>ELBLQLRqH&GqRE)ERBH&&ZRZ_Z&ZHG&H>R)q&L_GG&Bp)q>J_&qt>GSBqQHLZ_>(G_RRBGG)>}tEq>Q>GEQ&_HL)HQPQLBtLB&}_GQL)G)Z)}qiLB&_EL>QqG!B&-&ZE}EGEBZ&GZR_J3GB,t_R_t>&LQ&tZH&QLRtQm;tR}QB6)_RELB>QB>RHLqE>&QtLZB>&RRE_Rq&)mEq>EEB&>}>GqL&EH&B)HG>>Z_R>RHH&7>LGuL&)EG)HQ_QZQHElLHG__qQ})RLLH_LZBEqcB>EtqZt}QZ&LE__Zt_t(LLh&>qCQ#AtBEtQRQ)&GB}GtERG}_&))LtqR>QGFt_qt)BZQ}>Z)R&&REQE9EHZqGRHt-&GH0tn>_E>qqBaG&H&QE&_BtEG>ZWL&}HqEL>tEEq)H)E)>**_qQ}RZ}>RtRZ&QqGELEt>&)_ZpqBZ)<ZGtQGLL}tZZ&ELGG}B_tBBtHZ>BqtqZqQB>ZL_9RRZ)RIRB4{}RLQR&>Q>EqZ5)&>_BEt_RtGH&QBQtQRGG)&}HZqjHLEHREQEEB}QQt&2HQEH}tQnq{HtGE>Q_QZ&}QEHLH_>ZLHLFqL}_p>B}LdB>RtZ>_}}G}>}_EBQ}H7qQGs>LB_tEt}>_tB-}ZVLL-_EHZ}L&LBZERZ-Q4&B}E&GZ>)>&qHZtZRG)LZGB_t_Z_)&>tBHt_RG)H&R_BE)H}Qt>BBBq>>BGZqR_&EHHG)BREHQEHR_m>&f)LqQ}>GqLG}qEEQR_qq_t}qtH}_qB>HHG)L>_ZBH}LG.Qt2R>G}LR}>__GZ}}BR_LQtRBRtBZZ}}t&HR}BVQBRtqHB}_VuL_tER}}t>HBLtjHtQHZGQmq}Z_QG&}BBq_ZG)G&_HtE}>})6RBHZGB>R_>&>}&GHH&)>RtHZqtHEE)qH)BGBLB))ZZ)_G_>Z_BZqHGqLLZ_&Zq_qErL4_tZE}QiQB&GHqHQH3>BL_LRqQ}&qLGt:qtQ_&Z}__.LH}ERHQ}3LRZtq&qHqtLREtBgRBqtZR>Q}>_LGtHZ_)ZRRH&E&R&)LLqB>G>>q_Z&GHGGLBt)}qtHQG)R)_BqE)BE)HZ)}LZ_Rq&>EEtqt}tG&L}GqqGHtGEQ}_)q)H)GrQ_)GZG}_9tL}t}Z+Q}=LBB_BRZQQZ&L%E&qEQtZLLQkqZHEqRZ}zttL_Q_&_LlEHB&QE2_BtqHRQQQWQBGq)R})Z>9B)&qBHEHLZBLE}>Z)&LLHREEHEG&Rt)ZE)}E)&qRHEE_Q&_q&!HRZtRGEE>G_>ZRHEGBB>}HGRQQ_HZqtGZZRGGBqGEqG>LHtqqYE>D&}Lt>RLQq&qLqEqZ}QEZ>L>E>Z_)&RtLHEHZGELRBHq&tZGtB/t)B&HB>)qR&H&G&R>)tRLHLtt>&)_&}QzEtR))_R_Hq&HH_EH&ZH}EG>Z_&LtHH&t}>GHL#}ZEGQ>_ZqttQqEH_GqqQttE LZ_tq)t7GELH&>q=_>ZL)&_RZBQ&GG)RtqZ_E}dR}QX&LGE_GGBqt_ZQEG+Q}/&BB}tB&RBRtRR}G>.H))EHH>)B>LQ)EHRL)BLqHRERRR)}L>HZEt}QEjR_HZZLR})_qLHRZ}RE_q&EH(G)RGzQqH}qZG}qEGqHt)EEL&_)q}tEuRHG_aZGHEe)}RtRq)}GgQLBGEZ)}}IQ}QtQLLQB&LL}EqL)}HTLLBt}ZtEM4ZL__iRBtH&>B>t>RQGL&_QBEH>BQLqZQ_E}RB)HLZH>EZ>RGGq&H&E&>LCq&4HQZB>qEBRG_qZQRt)IqQHHZt>)_>BqHtqq}QGtB>HHG)L>_ZBHHt!&>t_GZQHER}LBt&BE}}qEQq&Qqt}AuQLH&tZ&_EG5}EtEZ>Q}&RB&YHR>QZ&RQRtBL,QEZbLtt)Z_QE&q_>tHR&Q>&_QtEQRQQQ&G_)EZB_)QR_H}EB>HdZq>H>E>>QXLqQ)BGLHB_Rqq}ZZE>h)EqGtQG>H)_ZL)__RRLL_RZ>t4G}}&_BB&tqqGL_G)Z)Q)GGBBG-Z5}BC)BLtZLQQBS>BLaLRZQZhZBHqRZGt>R}Q>_-RLQ_I:BEqQR>tQ>q)>qtR{Q_LqByEQ}BE)R}QGEB}QQt&*HQEH}t))q>tqEtHqGZLEH&GR>E)_B&HGG}QL_&>B)Eq_Q})_qG}}GBQ__B>ttRZL}Rt&Z&}&-L)q_>BHQ>RqBR&ZLHQ>rZBR&GR&Q&K&BLqqZpQQ>BQt%}ZOGZJLB}EZR&GLV)BGt)Rt)H=__BE>RGG_RGQ_E>}HQ)&EHHEL})_&R_HtG_R)_H>&}&EH>__BqR))GH>L_B>B}BqZLRtZqL}GqH>>_ZqR}LGQQt)vq}HtfR}>tqZq}qrB)Zt}LRQ>&RLZt9L}QLJRB>&lRq}-&&)_tEZE}E&Z)GttRBGRnGQR._BGGBeQBtEBR>GQ&HHqqGRQtG>B)QZqR>)HqqB5Z>RQ)E&QH_GBR)wLqRHEZ)>LE)>GtBEQ>t_Bq>tQEEH))t>)})GqLLt&qE_>Yq>5t&L&}RqtL)GtqQ}HG}L)_GHq}>GELqt}LQQBDBLBt_HH}{Z}BB8}RLQR&>)xEqRqQq&B_ZEBBR)ZRRH&tGRuG)&tB)E_}B)qRHBXqHH}N&qZH&Gq}t)LREHRqEHGE_q})HGHLH)_ZR)tGQ>H_}BR}LGL>L_)BB}>GGQ__B>___RH>)_EZH}LR)>EtEZ)Q_eHBHtGLLQq&LBZERZRQf&B}{ttZt}t&q)Et&>&QE&GB)E)>q))&HH}t}>>)_RZBZGZR%_&2EHtGRBt)&R}BGq}HQEBqR)ZGZLZ)BqG)HG>>Z_RLG}&EG>mk)qtH)G_QB_}qB}HRZL>_ZZRtGw&>G_{B)}tG)L_&BZ}}}G}LE&QZHQqRGLQ!&LBtQZ)Q>&:ZZQLbFLEqZR&Q)>HBZYHL#EZRRQGq}Z_QG&}BBq_RQ)RL&B_&&B}E_Rt))ZqR>)HqqBOZ>>L)R&Ht&G>HqGZ>__HqLH}3}q_HHZE>__LBZHEEZH)GE>G_QRR>B_QZR}qRBLq_LZ}QqGE)&__LR}qR>LGt8Z_Q_RRBqEZZZQGRQ}GtZL)Q&R)Q_b}RLt>&>H>t}>&tQaJQLE>>L)qqqBqGqRH)ER>B>G>R)_&>tBtq)RLG>&__Rq>}&)Gq%B%G_}BGE&3)HEE}HG}>L}ZqqLqtqqL}EqB>>t>ZqQZGGLGtLZG}_dt>tt}Z^_BGBBBtRR>}q&&BHI&Z>_tVZQt8EL)QHZBBBEBZ))ZZ_LQEQRB)H&RHRE)>R)&qqBqEE>>t_&)H_t}>HE&&>QtEZHtEER)HH&B>B_B&)}Z&_RQ_QqB}HGRLR_)ZR}&aq>q_EZ>)_G)L_)}ZH_&G>Ht_ZLt_Eq)LHGBZBQBG)BZG_qQQQdBBHtRRRQ)&RB&EqZqQE&>}_t)R_}}&HQ&t>LtQZRtQE<)RHtB&BHBt)>Zt_ QHQEB>H)RqRH)&qRE_q&GHXt7>__ZR_H_EZ>B_q&G)LGZ>&_q>qHHE_>G_HqRtBG)HQ_LqRHHR&>_GqLLt&qEQ)_EqQtvGELH&>LQ_BGE)&_RZBQ&GG)RtqZ_E}aR}}7&L7E_GGBqt_ZQEG;tBBqRZG}RZ_QGqBZQQt&BB>qQR)Q}Nt_LEQBBEBRt)t&BH&GEq&BtZZ>&))LHHZtHBPEEL)BEG&>))}LEH&r&>E_Gq)})yqL)_HZ}H}F>L_GZqZQZGYB&)EZtQRqtL&G}qGt}ZQ}BtRLZQZ&ZLBtGLHQHGGBZtEZ)tq GLttELE}_&_B}EQRL)L&tHLEZ>RQR&rHB5ERt)E=)HQ&Z>ZQQ&EH}ELBt)Q&HH}&}>L)L&LH)ZBRQ_QqB}HGRLR_)ZR}& q>q_EZ>)_G)L_)}ZH_&GE>__tBH}QGQ>Q_GB)}}:ZQ(_)&5_HZ})Z_LZ}QZ#&)LtQLBQL&BBZEZZZ)Z&qBGsLZL)L&>Hq&EZEE_kB)LELH>EL>qBIG&R&)t>H)GE&B}QG>})Q&B>REZqZ}ZEB>GEHq>H>E>>Q2L&}__GLLB_ZZZ_)G}LQ)QZLt&qL>QGqqHtqZZHm_t>_}_+_>etHL&}EG_Lt&HZQ}H!})RtLZL}LI))Bt>ZGE_(B}_:RBBEG^qB>tGZtGqW5BQqBRqtHZG)qqQZtQY&QBHqtZbGZ&tHEEQ>QGq&.}&E&>tGHRtH&&}RGG}>Q)BGRHZ_ZZZHBGGHH_>q>H>GQQL)}L_}LwBLZtZL)}}?Q>QtLB&_LGQ}q_HBqtZq%LtG_Z_Q_GxBHF&ZE}_rt)HtQZQ}QTG))_EREQ)&_BHEHRGtLdLHLEZ>RQR&KHBEnRt)E=)HQG&BQQERLB_qLHBERq&Q8Ec>T)Rq_)>GqR=_&L_HEE_>t5HqQHHG}QR_}&h}RGG>_GZq/HEGGHG__q_H_#&Qt_Hq_}GdHLR&BZq_QGHQ)t>RLQq&qQQtHR}}}&>QFg>Z}t&/B)&&qLGQ_Z)B)E)ZG)BZ,BL2_R))_&HHHtH>HQEqRQ)t)>))&qB_ZEZ}&Q_>)HqqQH)GBq>}LELLqGtLRHL&E>RGE>G)_G}HH_HZHH_fRHt))Z)}Hi}L>t>Z_Q>=qBZ_ZZGQLqt>tttZQQ)GHBBtELB})ZZL}&ZBRt&2E}tttRtQ&&}Qq_<RAQt&EBQEQ>&)Q&BHHtH>R))RqH&GqZG)ERBB)&ZR}GZ>R)&EEBt)tqtH&G}HqQFq#HtGE>Q_QZ&}QGBLH)HZR})qqL&tq&G}EqB>)GZq}tZZR}&_E>t}t=tL&t}LqHi1ALttEZQQQ&&BQtBRH}H&RB)jqR&)qGGBErBZ)tZ^})Z&RB&QEZtBtEtR&)}RqLrEvRt)E&QHQG&BH)RqHH>GLRL_qq})qEGRt)EL}H)E)R))1L_HBE)>E_BqZtLGQ}H_}LL}&ZRLL.qqq_2GB}E_L>tH)f)LHt}Z>Q>1_}Z_ZRZ} &&L&ttRRQt*QB)_HRBQEZBL)nZZ}EZRRQ&tELtQt&tB&E}BqQHZE)qXEZ}QG&>B}EB}ZQERZ))&E}L)}&>_)E}>ZGe&))q&HHQeZ&LH}GZ>&=LqRHEZ)>LEt>Z_BZE>&_RqEH_R&L>GqZ&_qGG>G)GZRtFGELH&>L_H>qtL>&Hq)}EfHLL&)Z_}QGE)Bt}LHt}ZtQE+QL^EG&qLEqRRqQ_>}QE4}RqG>aHB)E>RZGH&tQ}EBB})}fmHREGR_EZ&cBEEGBG)}R)Bt&)>))qqL}&EEH>_q&<}&q&>E)E&E}ZZG>EE=qq),Gt>)__BB}}GBLH&ZZ>}>G>LQ&LZR}ER)LLGtL)EBGQLttBZ>EQkHBq&GBRHGZBLGqqZ>QH&qLuq>ZQQEmQB_EBZ)GL&RBEq)BGtt&R_BtQRt)B&>_QtEB))_q)H)GBBr)+&BH)GL>ZEQqBH>GLHL_B>q}Z8q>__E>BHRGq>Z_>q}t_EG>H)_ZZ_R3&L&_&ZLEqMH}ZtRRZ}t#G}Ht>ZZQRRGB&t&Z&QL>qLKtQHBQqZBQQqZZLQ}&ZB&qLRBQ>a}_qERBZELRE)}&ZHZGQ&tB}qGRt)BLRBG&RHRG^&ZHLEJRE0Z&E)Rq)HtE)q)HqGLL&)E>>}qEdL&G&&GtqEE}__ELt_qfq>}_tZH}>q_L}_BZH_Hs>L>_>ZQELG}Q__HBLQHRB}_t}ZBQH>ZB>tZRREG&&LGtdH)QLZ_BR&_BtG>&BB>EL}&QQRqBHqqHZt?&tQ_E_>_QmqH)&EBBtG&RtBHEE>R)HqLtqEtHqGQ>tt>GH>R^QqH}qZG>QG&L&t)EEL&_)q}tEG_LL&ZL}_ZG_QG_qZ>}GGt)qtLLZQqZZLk_TqcQ>>&LGt}B}t_ZHLGqqZ>QH&qLpq>RLQRKH_&EZBqERR})H&RB<G}&_BHqER_)LLZBEtZB)EtLLB}E_>L)RL}HE&Q>HEQqQH&G>>=)t>R}&EG>jE?qQ)_EEH___qZ}BTq>GGLZZ}&eq}q_GqGHG RQ!_GL&}ZZ&LE__ZtEH9QLHt}HRQLYLLLt)HBQ>/G)_6EL_Q>>HL)tERHQL>)B}EZHfERRqB}q_ZG)q&_BQqGRZtDq&HvEl>_E>qqHqEq>BpZq})RG>LR)Eqo)}GL>R_>LO}qGq>q_BBZ}&G)QHG_>Q}&RR>B_QZR}qRB>__yq_}E^}>t&HZL}NRt}E)tL>}tR2LZtLZ:}E>ZLL&}Z>EZ&>)R8}R}}C&RBGt_BZQv5EBGAGR>t)>q)R&qZGQt^EB^ER}BQQ&ZBBEEBG)_&_B_G&}tQoLZBGqt>GGE>ZHKEE>G-Qq_HQG)QL_HqL}BRq>tGZq)tZZRQ__Eq_}tRHL&G}qGt}ZQ}BtRLZQZ&ZLBtGLH}EZRQHkRqGQ>!)LGttH}QRZ})&&RH_QG;)_&tGR}GL&&QHzEBcG}z_BGE}RBG_&QHRZ&HHEZ&Q_tt1>Z)t&)_nEE>Hn>&I)>&t}RG>LGHqG>>G)tBqHBG)>B_}ZRHHRZL&_)BH_EqQL&&RqB}QpRLq&BZL_HGQ}HtHqGQZ1EL)NqZG}thE}EtELQQHZQLBt>ZLQHi_)GtqZ)}G&LQBERRRQR&}_>ERBLQHRLHZE&>qGt&GBGtG>RGYqR)&E3H&)E&_HtZH>Q)Q&QHGZ)>}_ZL,_qqqHH)oBZHLG}LZ_&BL}RGEQ)Gt>__ZG)QE_&ZR}EG_)&_RBB}ZR&BZ&qLBQRmRLRt}H>}-ZLQt{GLtQQ*HB}qRRLQLeLB)qBR>QG>_BB4_B5GH5)BEEHRLG)g HRtd>q)t&&__EQ>Rj&>RB&&}>&iR&BHQGR>qiBqt)HG}LH_qZR)tGt>R_HZZH4qBLR_qZZ_ZGqHG_*ZG}Gn)}R_&qGH-/qLL&}q_}>G}L=I&ZE}EGEBZ&GR>_N&&BhtQR_t>&qLrE&H_QE^_BtqHRQQH&}_RtGB>Qt>>)LqER,QE&G_QEZB))&>))_&}>LE>q>}>E}L&EQq&)LG>LL_qZqHqzq>}_E>>H>s>>_t&LtHtZ)>Lu>qttRZ>Q&_GZIHF/_QBIEq!_HGEQHM}LLQZZqBqEqZLQEZBL>E>Rq)Z;GBGELRGQ_&tLtE}RztBKBHBER>>Qqq&HH&&R>tt&Z)t&EB))HRBHBGBR)_ZR_BQGQ>B_HqR}RG)LR_&ZqHqGEL>E_q)}_E}LHG&qEH_GtQH_QqQHQGGQ)_}ZZt#G)HhfRL>_ERQ>t_4ZQ}HRtL)t>HqtHZ}Qq)1LH}8>ZLLt}RZQ&>LBBt>Z}Gq&LQZ&LBQE}RBQEqQRtQ}>GBtEB}RQGRL)H&}BeGE&&HREER_g&qqB1ER}t)HRE_qqtHQ,BqQHLZ_>Q_RB&_LqZ>Q=t&=}ZGt>)dNqE}HR>}BG>qEE&GRLBt&qGERyqL_&}ZR_}Z_)>_HZ)Q>xZ)Ht}ZB})>RLLY>B>tQR)Q>&RH_QGr)_&tGR}GL&&QL&H}qQ>&HHqtC}>QH>)H>GL>q_q>QHHG}R}_>>7)>E}H&)BL&_q&G>_E)q)})EGLBE.q!HBG)LL_Z>Q}BG>LLGLqRtBC&Bq_EZEtL-RB>_>R&t_Z&L>GtZZttZE})tHLBQB&BL)EZL_Q_IZBBEqZGtL&ZB&EqBqQGNGLGERHrQZ>LB/G&Rt)t>>HZGRRR)Y>)QmERB_)q>_)t&Q>BELqL}LEQLqE)qHHLGBQq_RqRHRG}Q>_ZqttQG>RQGqLqttEpLZ_tq)tXj&>G_ZB_HEqt}tOqBZ_GZL)RtBZZE}IBB&&ELGHEZLLEq&ZRQB&&LGqRZBEQ&RH>E&>&E}&BHHtH>REGRRBHn^RLET>&QEE)BQ)QqQBEGLBG)G&LHQG>>qE}qLHRG>H>)ZLLHJ9&>t_tL>}Z-R>R_!L)) GO>B_)ZL}ZqQLB_>ZL_LYZLZ_ZZHERGBQQtRR>Q&&&Q}tBRH}H&RQG=RR&}G(x))ttZ)Q_>BB}t}Z}QE>QBHEqHGQQZG)Rq)ZE)&&)B}qER_)LLZBE&RB)EtLLB}E_>L)RL}B_G_>}_QqL}LGtHR)RZR}&zq>q_EZ>}EG)L_)}ZH}GqH>_GRqQtRZ>}q_G>E}E1ELqtQLZ}KG2>-t>H&}R&RB&EqZEQE&>}_tHR_Q}&QLQELRttLbQQqtHHqEZZ/Bti_R_)_v%HH&&REQ_&t_HEQRQQQ&G_)tE>E))q_HHGH>G_Hq>}LELLq_}RdB=Gh>t_E&)}QD&HQ)E>LH_ZL}BGRZ&)(G^Lk_RZ__>Oq>kt&B_}EG_Lt&HZQ}H%})Rt}qoQRxGL_#ZZ<}E2G}Gt>Z}Q_&>B&qRRHtB&ZB&t>HEQ}ZG)Z&EB)GH&)BBqtR))>Lq)B&qBQ)qL>BHE)>>)ZLHHLE/}tGZRG)>Et}d)ZqLH,EEQZ_&q)tHGZRHEuLqt)EEL&_)q}tEG&B&_EZG})w)Bqt)ZHQ}G}B>t_LZ}Z&ZL1E&qEQt&R}tt&L}}GR}QQVBRRtZ&ZHZtBRGtH&>B>t>RQGLj}H}EL>B)ZqZHQGZR^_&&&HtGRB))Qq)BHGBB+)RR_Hqq_HtEQqB)LGLLL)QZq))GH>L_BBq}RGR>R_}B>}}qLL>tLZqQqGqBqt&ZE_>G>B>tRR&ttGtQ)_LB>Q>RRQ>&&ZGQ,GbB_&BBE}aZHLE&HB}tL&ZQqEq>qQL&EQBERRq)Z>EBitnZf)>L&BGE}}L)&RH)LZqR>)HqqB6Z>>Z)tLQH>&)HqGqLtBXGZ>t))LcHZAZ>jt&qt}tWRH)_BZ)}H2}>}t>Z__>G}}&_BB&tqqGL_G)Z)Q)GGBBG;Zt}tGtBq&EZ&)&VEBGt)R))q&)BHE}Z})>&_QZEq>Z} &GQHt_BRQQ>R)>&qRGtE&EHEEq>QEZ&pBEEG}Q)_&_B_G&}t))q>tqqBHR))LEH&GR>E)_B&HLGQ>L_HZZHBRq>2_QBB}qEBHGGEBQHtGKLQ_HBtH RZLttEZQQQRqLWE&Z&QtRH}tttZRQH&ZL6IBRRQq&ZQZt&>&QE&GB)E)>qt}u}H}EL>BQBqZHQGZRT_&TEHtGRBt)&R}BGq}HQEBqR)ZGZLZ)BqG)HE>>Z)RqLHQZtRF)}&t}Rq>Lq_qqq}BRZ>LtLZZQRG4LctB>EHE6EL)t_q_QH4GBHt>RL}Z&qB}5qZL_ETRQECGL_Q}ZHBHEHZ_)RZtBQtHR}GR&LBRE>Ha)qz4H&q_REQ_&t_HEtRR)HqZB5&B>R)qqZ)ZE,RVQPq>t&GqR )RLtHH&E}qGt>QtBGQ>Lo_qQ}RR&}LGZqQttEDLZ_tq)tIGELH&>LB_>GE)&_RZBQ&GG)RtqZ_E}+R}}s_H>}Ho)B>tZHHQ}uBL)qRZLt>R>QQ&)B>ER>_BGt)}&QG&}_LE&BLEHLqB>EH>qQ#L>BHq)>>_Lqq}qqQ>H_}&}}>q;H>)}>&HBZ&}qEGq_))G)L))GZB)7Gj>B_)ZL}ZqQLB_>ZL_LGRQBt&Rq}ElEQLtRR>}>&&Q_V&Z>_tzZQtoEL)QHZBBBEBZ))ZZ_B_tZRB)q-GQLEZR&)qRqBGtGZG)R>VBZqLR-_&&tHtq>>Z_R&RHlq)BX)RR_Hqq_HtEQqB)LGLLL)QZq))GH>L_BBq}RGR>R_}B>}ZGtQQ_>&Q_qZqQt)PZZ}tG)Qst&qG}ZR_>EGtLttqRZ}GPLHRQB^Z)}tBR&EEZG>E%LZEG&ARBBE&ZGGRKB)QER>>)&q&)}EB>HQHqR)G&RRHtS&L)#q&BE))RQHQGQRE_LRGHGEL>Q_>qq)}GL>R_>>>HZZL>jt&qt}tZ>LZtRqR}fZ)H1_0qB})lLLZGQZB}>bL}LtZZZ}Z H)R_BBQQR&>B&E&B}QB&HLHERBGtR&&LGtxH)Qt9)B_qBR}Q}l}BEqQRH)q>GBQzGHRG)eEH&E)R}GE&_HLZZREERR))tZLR})_qLHRZ}R___q}}QGLLL_t>RHRbRL&tqqq}E >LE_)Z_H}!HLGGHq__RGQQR/>Lq}GqELEtEZqQQZZL%_kq9Q>>&LRERR&)qYEBEE>L_QH&_B}EQZQ)L&tQLtQBqQH>q)ZdiRtt_&_H_tC>HE&&EB_Et}H)Q&QBQEG})QEqEH)G_>H_HqG}HG>LL)LZq}}&2R0_Dqt}EE)LQt&>QHEqL>_ALLB_R-&HM_9Z+}RK_}>tqqjQ&R_LE__ZtEHJQLHt}HRQLSRB>&6RqQqjqBBqZZEQq&>BEtQHt)&RGH&&tREE) ))}ttHBQERLBRGR>&_q&EHEG>>E))q_B_GH>GEL&L}LGZLR)&qo}B&z>RE_qq__qtHQ_B>L}L/L>Qtq>)H}M}LLtBZZQZvQ}&_tR&}EbG>Gt)Rq_)GG}B_tBBtHZ>Bq7&R&)&u>BtKLZR)R&&HqtERE)>Z_L_E_R})QJQHLEt>L)ZqRB&E!>Bt:&RQ_EqH_EtRQHB&L>L_L&Q}q&)>&EB>))BEq>H)EqqHYZ_>BE_LR_BZGLq)EBR}qG_Q}_R>}_&ZqQ_)GZq}_GQQG_tZBERZB}RG_ZREBGQLttBZ>EQTHBq&GZQ_GRZ))_ER&Q)3})EtGZtQ&>QB_j)B)E>>&Q)&Z}q)>&&_BE>RGG_RGL_&RR_GG&qH>EGRtCq&L)ZGRLZ_ZqG)HGHRG_ZqEH)qq>G)tqE)EG&HQ_)ZQ})FLHG_GqL}Qj>LqG}ZL}R0>}>tqZq}qaB)Z_)LRQ>&RB>tJL}QLJRB>&lRqQqkqBBqZR&Q)>HBZfHB_GRXBBQERRqGB7_BOt_RE)}/t_HELR{GtRGLt&>RtGn&ZHLE/REOZ&E)Rq)HtE)q)HqGLL&)E>>}qE*L&G&&GtqGq}_)_Lt_qEG>t)Eqg}RRB>Q_ZqB}EqGL___q_Q&RtLHGEB>tBZ>Bq_%R&E_<EL_ttHHQQ!QLQtGH)Q}&Z)Pt)BqER>_LGEqR_QQ>GHZ/cRGt1&tBttt>qGE&_HLZZH}E>&__GEq>>)G&ttqGBHZ)>>ZH#E{Ru_>B&}Bqq>DGqqGHtGEQ}_)q}}QR>LB_>ZLE&G_}q_QBqtZR)Lt_)Z_EBG?}H_EBHt}ZLBZjqRq)qFLBE BZttZRBQZ_ERRQQfEB_qHRZtHR5)Zq)REQQ>#BEEH}>QzRBQt&G}HQ)&EHHEL}))}qZ_SE)HqGRL_BGGq>_)QLG}Z&9>GEIqtHtEtLqaEq_}LRZ>E)Z>)tqZRQt)!ZZ}tG)Qdt&qG}ZR_LEGtLEt&RZ}tI}HRQBzZ)}tBR&EERR}CtBHQ}t9.BQtHHt)qZELxSEREQ>&}HRE&BH)>&ZHR&R>>ty&EQpEaRB))qLHZ&Q>B)>qL)LGZ>Z)ZqHtRG}H>)B>>}qE<L&2_qEH_GtQH_QqQHQGGQ)_}ZZtmG)HKGHLBEZGLL}tZZ&ELdRLE&)Lt__ZZL)&EZ&QRVEL_q&ZREBNB)&t&HqtB&RBRtRR}G>3AQL&tBGtt&QBHE}}R)L&LBLE)}B)>&G__&GZ_ER&__GEq>>)G&ttqELHZ_RZZ}ZGGHH_>q>H>GQQL)E>B}HJBLHtZ>_}}GBLH&ZZ>}ZaRQGt&qG}mR)LLG_ZRt_Zt)>tBZ>QL>&LQPqZHEqRZ}nttL_Q_&_L/EHB&QBZt)&OtZHQE&RBHEL}qQtRq)Q&t}>)H&R_QEH>qGG>R)&EH})QEq&H)E}}E)_qLtZEEHZGRLGHqG>>G)tBqHcGQQBG_&B)GGBQQ)tq<}QGHQt_qZL}qMRLG_ZBE}_+L)Zx>qZ_)wZ)L_}Z_QLxR)}tRLQE&RZQ&E&ZHQ_&BBR1)RHQL&BQBt>HHQH>qBqqZBHQ>&ZBRELRQGtcMB}tt>RE>qqHqEq>B{Z&E)Rq)HtE)qHHLGBQq_RqRHRG}Q>_ZqttQG>RQGqLLttE:LZ_tq)tnG>L}_>ZBQqGL)&_GZ}ELZQ}H_GHq}>PHBq_cH>}tZLBBELRB)qZ)B)tqRL)&WEQ>EqZ<)&R&LC,tRE)t&tH}&qZGQt-EBmER}BQQ&ZBBEEBG)_&_B_G&}t)>REHGGE>G_Q>ZHIEE>GCQq_HQG)QL_HqHHHGtQ}_BZ&tEG}HE<ZBQHtG6LQ_HBt})*>)q_tLqtQZ))>_HZ)Q>+Z)H_tR&}taGBQ_EH}QB&&)Et}L-E&>QLtt;RQQH>tHZ<ER_tE&EB>E}>R)&RHH>EZ>RERqRQ*EqBPQt&)B_EE>qT>&HH&E>>_EtqQHQEQ>Gm)Z&)_GQH__}qB}HRZL>_>q>}QRLLQGBZL_B#RLqtZBE}xGELG&QZ>_)(ZQ)i_HRQLTRB>&0Z}t&3B)&&qLGQ_Z)B)E)ZG)BZ-BLn_BMt_oBBtEZRB)>L&B_&&H}E_LRHBEZ}})Bq&_EqZBn)BLQBtEi>Q)HLtH)G>QqG>>RH)ZE>&_RqEH_R&>G_}BL}&qLHEGGB}H_GGL}_BB_}tG)>G&HZQ_}Z}}E7GL}t>RbBZ_GH>QZ+t)Qt>LQtQ>LL}t_RLQR>}BRFQH&EZR&H&tHR_)B&RQ)EHRL)BRBB>qHRHGq&q_Z&H>HQGqZHEE)Hq)G&tHE&E>)))&)HFZ_RGgqqq__E_}tGqqGHtGEQ}_)q)H)G1Q__QZRE&G_}&G}L)ERGBLQtRZqEBMHLL_QHZQ>ZRQ> EBQtRZt))tEZQES#EBHq>ZDtBRL_&tRRB)&^G_RtHB>)Lq>H>G&BQ)Q&&H>EIRtERq&BGE2BW)ZR_HtG_>t_H>&}&EH>__BqR))GH>L_B>B}RGR>R_}B>H}qLLBtLZLQqq)LH_LZBEq-RLqtZBE}gGb> t>H&}GA})L1_LH_EAL)}__ZGQ}CB)_tQRRG&r_L&.}B_GR%BBQERRqGB&_QHtQBH)>&>B>EQ}L)_RBH>&B>R)qqZ_EEDR5Q:q>t&G>Hq_&>qHGEt>EC}q)H}GQQ>)F>LHEZL}BAGZ&HGGXQ)_tq)}_RBL}_BZHEZ<>LZtRBGQ&5&L&tLHq}shQ)BtqL}_GRqQqIEHH})IEBHtLH)Q}&Z)^t)LmtHR)Q)&}}&QR&BH&tG}R)q&__}ERB}EtRt))ZZRL)}qZH&ZL>R)EL)HL&)HGEl>>t>EH>)_>qZtHG}>B))BR}Hq>}HG}L)_>ZRQ__Gq)E&GGL}&LL___Z}>RG_ZREBGQLttBZ>EQW>L}t_R>Q&>RBH&LZEER&>)qERBy}bREB>&_ZLt)&BB>t}}qQtRZ)BqqBGG_&GB)Z&RG)}LL))&HRG:q&>HHGqR;O>qZHtZQ>>EQ>q_&ZtR _ZqtH)Zw>E_HB>_}qBHt_>BHH)GELH_LB)HkoR>/tqZt}&R_LQtRH&tqZ&LQ&tquQZvtL)&^ZZ)ZJCH&ttRt)RZ)BBE)RH)}%}H>E_B>Q}R&BBq&HqtG&_Q)E)>)QGqBQCE.RB))qLHZ&Q>B)>qL)LERLR_&ZqHEGEL>E_&_}_G}LQ)QZL}t^LLZtRq&}h1BHp)tq)H_GELq&>qH}&G>L_GtZQ}QGQLG&)qEQE,)B_tHRHQGZLBqELRZ)R=RBnEBLXQRZ_Bq&_BttQ&BQLEL>LQQqqQ)EHRL)BLqHRERRR)}L>HZEt}Q)>RQ)GZLR})_qLHRZ}>Q)H&_t>G}HLGB>)__q}}ZrtqhH_Rq>^_QBB}qq}}H&ZqL}}XZL&&Lq}Q}WLBBtZRZQQ&ZLzE&Z&Qt&R})_)R)QH&}LLE>R_t>T}Q&tBH&EqZGB_b)R)))iGHBi:RoQB&)HLEZBQ)B&>HL&LRR_Rq&}qEE>E_>qEH)G_R__HqG)LELLL_ZZRH&GDLBE.qR)_Gq}_Gt>Q}BqLLLtLqQQqq)L)_qZLQ&GE}>tqqXQ&Z&LE_EqEQZRGLqEqZGQv%_B_EZR_Q}&QLQELRttRbRHRE&>q}G&EH>oERqtQwn)Q&)BH)>RRHRGRRH)CR}HLER>>GWqqB-G&}_)E&EBEGZ}G)tqBtREGHRG}LJHZGL>0)EBZ}&G)})GE>Q}&RR>B_QZR}qRBLH_LqQEZG>}RrLLBtQZLQZ&)ZE}QRpLEtHH>tQG>}tt>HH})pEBHtLH)QLZ_QpF_ZBQt&ZBBE>}&Q_R&)}&_}R)B&Z_}EB>&GE>qQW&LREj&&RHBG&RGsRqqH_Z}>RE)>}t>EH>)_>qZtHGL>CGsLZ)Gq>>tF?qZ}LGc>E&ZqH}_GHLQt>q}ERCqL_&}L_H}Z&L}&_qGQq _LQ&GR>_I&&BatNR_t>&>L_tOR)QHZGB_tQR)t)4QQBEH>BQEqZQ_t}RBQH&QBEZ&RRQt&&HH&}>L)L&LH)ZB>tEHq}}HGHLREtqQHHG}QR_LqLHLG)QB_>qGt_GBH_G0BHH)GELH_LB)H6*R>utqZt}&R_LQtRH&tZG&}}t&HR}B+QBRtqHBQqZHQG&&LGQGNLBQE>Rqt}&LBRE>B>QZ>LBq&V>qG&RLBZE&Rq)R&H_)tERBQ)qq)ZE R QCq>t&ER}B)ZL&}ZZqHB_Rqq}ZZE>b)EqGtQG_>_)_Z&ttG)L>&qL}_qqQLq&>qH})e>LZ&HZ__}XH}}tLZL}Lg))Bt>ZGE_9B}tpRBLEGuqB>tGZtGq&BQZt>BZQFNXL*E>}&QtRqB.&qRGQt&E_}E)R})QL>HBE>>LO&&_)qEQ}qGZL)HtE)>_4B&V)HEE}HG}>L}ZqqLqtqqL}EqBLB)EZq}tGQ}&_Eq_}tqt>LG}ZHQ}a>B>_>R>HE&&}H_HRH}&&RQ!_oBE}}RHLq&BBHER&qHZtZRGEQ>&BZJ)R&E)R_Q}ELB>)>q>B}G&BQ)Q&&H>E5RtERq&BGE:B.)t&tBtGq}E)}RG_Z&GRQ)+qLHQGHQR)G>R__qGQB_QqLt_GQLR&&L>_Zq}L&&RqB}QKRLq&BZ>}GR_LBGEL_EHG)LEtHZLE)#}BZ&ZBLtqZHLhqZZLQ}&ZB&qLZ)QG2)BtEHZ_GB&>BGq_BG}_RRB_qGRq)>&GBtZq>HEZqR}ZGZ>GEHqHBGGZ>E))>qHGEt>EEE&t)QG)LQ_&ZL)GE_>Q))qt}&RR>B)nqR})q_L}_}q}}ERQLYG)Z_Q)#)BBGTZt})j_)Bt}Z}}}CE)QtHRqEGoQ}G&ZH)}E&&B)t}HEQZ&BBZE>RuQR>GBtEB}REL.RQ_ER}BQQ&tHBE>}Q)>R)_qqRHq_q&}HtGH>>E_q}HBGHHH)LL}H>ZZL>xR>}HLGR>>_Bq)tEG&>Q)EZ>_LkZLZ_ZZHERGBQQ_LBRQLR>}QtBZ>QL>&BZt&RqEtcGLG_GRRE+.EBHq>B_t>ZtB>qHZ)QE&HBLq)RGt_&)Q_E}R}Q}&E_QEH>qGG&QQX&BH}3q&>HHGqRC8>qQ)LEHHL_ZqZHZGHQR)b>>}Zq>Lq)2Z&t_GE>__tBH}QGHL}&RqG_>GtQ>eLBE}(GELG&QZZ_)1&Q)n_L}QLZ>B>E>Z})&ZQBBt>RLG&&ZBZtZRHGR7GQ>&}B>}#&LB_t2REGQ&>QQqqH>Gt&?B_ZqRA)QLBHq&BBGEPLQBtE!>Q)HLtH)G>Qq)t>q_ZZE>&_RqEH_R&>G_}BL__qHHE_LB}H_GGL}_BB_}&1>L&tZZE}qRtL)t>HqtZGq}QtqH>}H7)B>tZHH})RELQ&HRQE}ZEBEt>R})R&&QHE>RZ)RRRBQ+XHBE}RBBREqRZ)>&}__tGRHQ_qZ)RG&>&)&qLtqE>}H)RLq}RZZHH_>qZ}RZGL&_&q&}LRq>V_QBB}qqB})&ZqL}}uZL&&Lq)}GG)LttHq_EBs>LG&_LrH_ZRL_&GZqQ>CGLtqqZLtZ&RHZtQRGtH&HLGEZREQ)RqBGttREtE&GQQE)>Q)QqLQGt_RQQ)&tH&ZRRBQd&RH)&_>})}&}HEZQREE)q_})GqLBE8qtH)G_QB_}qB}HRZL>_>q>}QRLLR_EB)t&q)LR&BqQ}tkBL>&QZE_)6Q})tHZH}Hft)}tBR&EEb}}EALBttG>HL)tERHQL>)B_tQZEGB&}QH&QBEEERH)&qG>qQELRHqE_}}EER}HqZ>RH))q>HZZH>RE}qB)}G}Rx_RqGH_qZ>#)EqG)GGGH))t>)})GqLLt&qE_>oq>At&L&}EGE>EtZBGQRq9LqG-Zt})9_)Bt}ZBQH>ZB>tZRREGyQ}vtHB3E&>}B)t}RQG>%EQLt_HLEBRRH&JlR.)K&RH_&>>qQDq&__EER_)tLHHQEH>}rRq}BaGR>G)_>ZHeEE>GEGq>H}G_L>_&BR}HZL>ESRZLtqGq}7t&LE}>Z_>LG)Z&_BZ)}B_qZH}EiqLb&_ZB__RRQB&GRq}E>RBqt_H}ttZ}Bqq>ZHQ)&>BZqHRLQX>tBHTtB>EH>cBZELR7QELZH&E)}H)Z#HQ*qq})QEq&H)E}}E)QRGHt&G>_)_&_}&ZtLZEE&M)EG)>}_QB>}BGB>B__BH}_q}LHG}ZL}RC>Q1tqZq}qvB)Zt&Z)EHZQ}QGWZHE)GEB&t)Z}EE8_BLqZZEtRZ)QQqLZ}Q_&LBRq}Z_EG&_)}t}HQtG&_B_t_>&Gt&HQEq>HBE>qqBWG&}_)E&EBEGZ}G)tqBtRqQRRE_qRtBEQ>t_Bq>tQEGLZ)GZ&}_E Q)_}ZZtvZZH{_}B_HG{qL__QBG}Zq<B&tdR&Q_Z>B>__ZFQ){H}Gt_ZQQ)Z)B)FBRH)B7EHZo_Z}QB7HBQtE}&QRNtB&EHB})L&LBLE)}BQ)RHH}GH>}_RRtHQEH>},RqLHRG>}#_q&.}&Z_>BEtq>_tqEQL_HqL}BRq>)GZq}tZZR}&_E>t}tVtL&t}LqH)qELttEZQQQGQBQ_ZRL_tGtBt_LR}E>d>)Z_EBt}BR_Qt&}RB)HcHHR&GHLQHZ,BL&iH&tE&)QQEQ>QQEqLQGtt>t)Qq)HBGB>E_BqR}>E>L&_HRGBGGG>__t&Q}}GMH})t>>H)Z>}LGZqo)GGGLG_ZZ)_RGqBq_GZ1}_:_BZGQZLQQpBBH_HRRQ)ZRLHGbZLt?R&}Et)LQQQ&QLEELLG}t&tBQE)RB)B&EQ>t>>>)qqZBZEG>L)G&_HttQ>})2R}Bt&>R)G>>L)ZEsBG)GqGHZG)HR)QR6_R&9R)_&qBH)G}Q>)v>>_tqKQH_)qBttG)L>&qLB_RG)QE_&ZR}EG_)&_GZ}ELZH}L_GHq}>rHBq_kH>QZWt)QpGL_tqkQ)t_mRZQtg))=t>R}Q>&BHqtL}&QG&}_L&}BLQGLqB>EH>qQPL>B}&L>B_LqB}q&)>))qqL}&EEH>_q&l}&q&L&EtqE}tGRL}Gq&GHtEE>h_RBBHQGZ>B_E>G}_G_>_t&Bt}&qELGtEZGQQZZLa_EZGEQ:_L___R&Et;)B>qqBB}qZQBqq>ZHQ)&>BZqHR}QB%)_RELB>ELRt))&LHRG_&GB)Z&RG)}LLH&tLBEEtL}B_EG>})BL_HB&t}RGL>R}RE)>G_QqB)EG)>}_Q>QHHZ)LH >q>tLq)L)_qZLQ&GE}>tqqXQ&Z&LE_EqEQZRGLQG0BBt}ZBBRtqRZEEI{LEtGHQQ_!_L_E&HtQ)&>_q&HBqQ)>EB&ERREQ_L&H>&q>&Eq&GBGtG>RG!&EHHqHH)EBRtH>ZHR))EqHHLZ)Rx_R&.}qGt>&D_qQ}RR&>_G&L>ttEbLZ_tq)tJKL}&_ZL&Q&GHL_tBZR_)YHLLtBLB}EZZB&TZq;}EGGB&t>HH})%RLHtGLYQtYtLtEqHE)RZGB&AGR_QQ&)_LEHRL)BLqHREq>ZGE&}QGEBHGExLHHQEH>}XR&t)>E)}>GL>ZHx&G>G_GqZ})qR>QE-LR)6E)L&_Bq)}}R>>6G>Lt_ARHL)_BBt})n>)q_tLqt>REL&tRZE}_>&LGt}HLQ&ZLQBqqZ>QH&qL<q>RZQt>QB>SQBEGL }B_ELRRG}lEHqtERS))!G_QEH>qGGRsLG&BRGdq&>HHGqRIo>&H_)GH}>)>LL))G)>q_LZ&HEq>Lq)XZ&_&GBHt(RLL_RG&>G)^Zq}LR}>__>q}}fZ&LE_EqEQZRGLq&>RqtGGGQ-+>Rq}X&&)_tEZE}E&Z)GttRBGRRBQRttH#QZ&LB%tE}ZQBRRH>GR>>)fR}HLELRL))LBH_&H>}_H&G}R&t>Q)Hq}tRGL>R_>LK}qGq>q_BBZ}&G)QHGG>Q}&RR>B_QZR}qRBL>_GLGtqqEL>&Hq)}EbHLL&)Z_}QGE)Bt}LHtHZEQE+QBLEG&qLEqRRqQ_>}BR_}B&EZ>_LGEqR_QQ>GB)=jREtP&8BBE)>L)ZRQHBE>>LELqB)qERHq_q&}HtGH>>E_q}HBGHHH_>q>H>GQQL_q>B}>qBLR_qZZtEGK>/)#Z>E&b>}qt&Lq}GGtLE&}Z)}}iQ)>_jLL}ERLQB&GR&}G=^))t.ZBQ)&LBZsQRBQ>&LQLEZRZQZ&H_RtGRZ)L&GB)qE>qE/&H)EEGH_)E>QBQqHRGGL=u)>G&RG)ZL_HB&t}&G_>}tLG}>>e)q}}ZZ:}>Gqq}t_EGLq__qQtGGtLB&RqG_Rq_})&BqQ}tMBL>&QZHQqRGQZ8&LB}G>qL>tHRq}V>>LQtEZQQ_&BL)qLRRQE>)Q_!)RRGBhQBtEBR>GQItHtEQ>))BqBHE&>>&_>qq}ZEZ>G_LRGHZ&)>&G)>_)}GLH>_>Z>H}{&HQ_Qq&}>GM>tGRZ&HGG,Hj)EZE})!_LHtHZG_LGLBLtZRR}R40BBt8ZtQEG)BQE&LQ}B+>LLtHZ_EGCqL)_GRLtB&RBRtRR}G>VHHHE>>L)qqqH}TrR_)O&tHEtE>Q_&RQBE&LR_GL>B)RG&Bb)6q0HRG_H>_q&a}&Z_>E)E&E}ZZG>t_BBRHGqR}}; qZ}LGz>E&ZZR}qGLQGtZ>Wt&Z>QL;ZLtEB(QLL&_ZQQR>&L_VZBqEtGDBZttZ)Es-ZHZtg>&Qt&tHREtRQ))6)HBEEB>Q>q>HqGZZ5)GqLQGEZB))&>))_&}>LE>q>}>E}L&EQqQH&G>>;)t>R}&EG>1Eo&E}EG)L__HZH}G=HL>tLqLQq*}HJ)CZe}tkE>)tQR&_QGE}L__BLtBZRB&GNZ QpARB_j>R>}_XAB)tHLGQ_NQB)*)RHQHNHBtq}Z_)_&}HQEL>L)tqLHZGRRR)?qBQEtE>E))q_B}GH>GEH&_)REQ}RG>>qHG&E>E_Eqq}QqZ>N)EqGtQG_>Q_)BL}HGH>H_tB}}B^&QE_}>EtZRQ>t_#ZQ}HRtL)t>B>tHZRL)&EZ&QR3EL_q&Rq}##R)t_GLEtoR&)RXzBtG>&HBRqQRH)q>G)R_GBBQGLqB>EH>qQuL>BX&LHQEL&&HBEt>&)GL)HL&)}ZGLLE}&EtQZ_&q)tHq_HQE2qHt)EEL&_)q}tEG_LL&ZqE_>ZZQG_qZ>}GGt)q_VZQtQZt}}GGZBEQGtLNtQZHEtXqBLtqRRQGkZ)Et_RLGZRLLZg)RZGLC}B_ELRRG}&GQQE)>Q)QqLQGEGRL)Qq>Hq&}>L)Rq>)>ERH&_qZ&HHGtHL)Zq&HqGR>H=)&EHBE)LqGZqxH=E6L>&&ZB_qpZBqtqZE_B0RLqtZBE}wG(>Ct>H&}Gw})Lt&LLtQ>qL>tHRq}2>>LQtEZQQ_&BL)qLRRQE>)Qt_)BZQ)>EB&ERREQ_L&B_&qH}E)R}H}t#>R)G&_)ZEmRE)GRGBtq9R_GQq__)&KRt))&_HEGqQ>)Hq&H>G_Ht_QqQHQGGQ))EB&HtZ)Lts_L&}EG_Lt&HZQ}Hh})RtLZL}L4))Bt>ZGE_RZ}_;RZ_EGgqB>tGZtGq&LQZEqBZQ,D.LkE>}&QG&}_LE&BBtER,_}t_RG)}&B__G&BtQGRtHQEQRQ)GL)HB&_>QE_q}HBGHQZ_>qZ}RZGL&)GqJt)GLH__RL__tR>LB_>ZLE&GQ}q_HBqtZqCLtG_Z_Q_GkBHY&R&}H;_BBtRL)QH1LBBfBq;tZ&qHZtGRG}G&GLHE)BqQqqqL)EEHQQQ>HBZqqZ_G&>q)EE_>tQtq}_Rq)RtE>&)_>qLHZ)*RGHGGG>Z_)>R}RE)>G_QqB)EG)>}_Q>Q}BGB>B__BH}Zq}}tG}qR}QGbLRtqBE}}qEQL-}H&QRGS)LtRZEE)ZG}tbZZ)EE!&BRtEZ_G&!GB}qLR&tHRL_qt>RH)qui_>EZRtEtR?Q_&qRQGtu^HZEtR)G#&>H}E>>B_q&Lt&EG>}4L>}BL&E>L6}&_HGG}>BA_Zq)tGELt_tZ}_qzq>}_tZH}>q_L}_BZH_HGB}Rt>RR})SV}}_LZR}>,BL)&EZ&}QGEB>aLRZQZ3ZBHqRRQt>&LH>E>>&tQ&BB>EL}&)Z&ZBZEH}R)q&__}ERB}EtL>BHE)>>)ZLHBtG&Rt)GqQBEZ}>B_&LE)<tEHL)EB&HRGBL&)GBRHGq>}_GE>_}_GZLBtqqG_L8ZL&tqLqH{RZ>GWtZGtEZZ>O_EqGQ&M>)H_)ZR}HDG}-ttZt}t&q)Et&HR}AREB%&GBR)&4GB2q)RtQ)&__BE}R}Q}&E_QEH>qGG>LQG&BRG2q&>HHGqRk.>q})LG>HL_ZqZHZGHQR_qq_t}GRHQG&LZt_EGLq__qQtG#RHI_q>h}tGt>ttqBE}QqGLtGGZ_}Q!))LtHZLQB>qBRtqRZEE7}}GtBBGtu>HBQtHR}GRxtQ>t)H>ELRZBesGRG)G&ZH)&R>&QG&{_)EtRtQtqq_EE}BGGZRGBQEW>L)QqHtREGHRG_>GtBGQ>L2_qQ}RR&>_G&>}_QRR>B_QZR}qRBL>_GB_}Bq_}t&Hq)}E{HLL&)Z}QZR{QLlqLH}5>ZLLt}RZQ&>LL)tGZ)Qt&HL_qBR>QG>_Qt__BRQ_>GBqE>RGQtLqB>qHRRGqqR_Z&H>HQGqZHEE)Hq)G&tHE&E>REQL&_Zq&RE)_&tHGGZQL)}qqHLGtHE_)q)H)G:Q_)GBqHEZ_LE<tLq}GGtLE&}Z)})G)L:&_ZQQR>&L_g&B>EtG:BZttZ)Ew#>B}t>RB)q2L_&tGR}GLRQLL8ERLG}d_BGE}RBG_O.QtEE>t)Rq})qGqR})tqHH>&_>})BqH)HG}HR_>ZR}RGwH})LqRH>GB>)MEq&HQEEL>GLZZ}ZGZLH&RqH_>*LB>__R&_Q+BL>tLH&QZe&Bq&tZG}GGGBR&?ZEQH>>Q)=>ZEG&gRBBE&ZGGR&HQ>ERB>)q&qBqEB}Z)&&)_HEZBHt,>B)}ZqR>)HqqB(Z>>L)R&Ht&GZHqGR>H_HqqH)e}q_HHZE>__LBZ_HqZ>_SGqq}>GG>t&qqE_Z?&}ZtZqQ}E!}LLGtZQ}H0}}}t}L>}BZ>B>__Z Q)YH}Gt_ZQQ)Z)BHtHZHQt>}BE(QZ_tQ&BB>EL}&)Z&&HqqtRGQt&E_}ERBQ)q>Q))ZZ>>)ZqR_GEHBM)L>K_&&E>)EQqQ}QEELLEGq_HQG)QL_HqL}BRqLR_qZZtEGK>E_GBQ}_G_>_t&Bt}HG_LGtHZREB=qQ}t}LH}L&LBZERZ9Q4&BBVttRE}E&QH&hHZH)H&>HLtZ>q)}RqBL+ERREERGQ_E}BH)HqHB_GRBtQ)q)HHG}>>_>q_)ZEGLZ)0Z&H&GtLREtq&)}EG}}GQ>B}RqZLZtZqB}GqH>EGRZZQRGWLrG}ZH_>G>B>tqRZ}ZzGBLGGqtQtIZQ)l_RB_ElG}E__R_Qq&H}GtcRGQ_&tLQE}Rmt}7tQ>t)H>ELRZBfjGRG)G&ZH)&RRqG>&GH2E_>_GRqq}ZEZ>GGQRGHZ&)>&G)>_)}GLH>_>Z>H}O&HQ)g>L}>oLLqtqqqQqGHLEG>q>Q>G)B&+tqtt)GLQ>__BRt>R&LGtkquQ_RBQE_PLH}ERHQ}:LRZtq&qHqtLREtB&ZB&t>HEQwZGBEEGR)))>ZH&GqRq)E&EBQqsRZ_Z&yHG&LR_)H&_)RG&RG)zR^HR&_>qG_>t)QGBHL_LZLHQ;qH))}Z}}L6BLZtZZQ_&G&B&_EZGHG0)Bqt)ZHQ}GLB>t_L>QqGXB&&_ZE}EGEBZ&GZtQB>RLGrLBHt}ZE)Et&RRQEm__&tR>R)&qqBEEE>>t_s_H_E}>QQQqLHtqRRR_Rq&}qtG>E_>REH)E)R))ML_HQGRQ&GB>H)fq&HB)GBqH>GHLq)9B>HQGE>Q__ZBH)RLLR_EB)t&Zq}B)}L&}}R_>GtqZ_}QRGLqEqZGQIj_B_EZLQ}Q&QBBEHZH)R&)HRtq>qQG&#LtE_>Z)QRZHZtQRE)}&LQtEQRH)}R}BGEZ>L)G&)_EGRBGQ}qGH_GtRt_}qs)}EG>Z_LqGH)ZE>LG&qBH)GELB_ZBL}&qBRg)>>E}&qQL)lBR{}BGLL>EHqS}E&HQ_)iq>ttG>BHtGZ_}E%GB>_}L)Q}e&LGE&ZBQ}pQBq&GZdE}&B)QtERq)>&EBQqtRGtE&LHEE)>QEZ&ZHBtGR>QG&Q_GG&LqGZqE}BGRL>G>Z&}Hq&>E)_qt__G3LB)GqGHRG}>)__ZqHLqHLL)Eq_}EGRLL_BqGt_GBQLtRBR}}R>L}_tZ-Q}->)HtQL}Q&&}BLE>RR)>RLH&EQRB)HRHHRE)BqQHRqBGttREtE8Z)E&ZRGQt&&_QE)B)EE>QHHG}RL_>q>H&ZBRfEH&E_Hq}HL)_&D}ZG_>HD)qt)_G_L_)jZH_&GQLR&&ZZQR+&LHtB>E_>ZZ}t&BqQ}tDBL>&QZ>QtP}Q}r_RB_EGBL>&RRq)ZlZBG_LLGQ_!_L_E&HtQH&hB_&_BG)QR&LQt}HB)>qLBLGqZ}Eq&GBtEEBE)Eq__)GZ}&Gqqt)RE_HR_&&GHD&;RE_Eq)}_GHLH_G>L}ZZ}LBOZqBt&G_QqGBqR}qGZL>_}B_HGGH>_tZLRQ&C&L&tLHq}>&>BqEZZGQG&L}t_tRtQQ&)L)EBRE)Bx>H>Eq>Z}+&GHLEtBL)Z&&HqqtRGQt&E_}E)R})QL>HBEBRB)_LHHLE.}tGZ>Z))&)>R{B&QHtGB>>#QqH}qZG>QG&>B_QqQ}>{hqZ}LG4>E&ZqLQLWZBR_9ZzQBiYLttEqEQQ&&}H_HRHQ>&LLZEqR}tqDGLG_GRRE3wEBHq>B)t)RRQR/)RZGL4}B_ELRRG}&RBHE)>RQ9LZH>&R>Z_R&?H6t2>d)tq_)ZEZLZ)#qG_)E)}})RLZ}&Zq}ZGGZ&_MZBLq_qqq}BRZ>E_qZ>}EGQQt_E>E}tNELQtQLZ}}GtL7t}Z>EHP&}}_}R}QL&BLBEZRQtZ:&H&ttBGtl&)QqtHBq}X&XB_E_BZQ}qZB7G&ZE)tqRQtEQRH)}LRHLER>>G!qqHqEq>BbZq&H)ZHHEEE>>)LEGQq)>qH}qExQ>)E>L}>wL>Ltq>)}HGH>H_tB}}B,&QE;RLR__E_}R__BG}q/>LG_tHq}Bl)LBt}RR}H>ZB&t)HHQZGH}8&ZBZt}>}L_tGR}QB>_BQERH}QRqRH&GqRE)Eq>Q_&Z>q_Zm#HGqQRL)}qZH&ZLRGEB&t_BqHH>_qqqHqGBQZ)_>R}ZPR>R_7>}}LGRL>G>Z>H_G,L)_H>G}_GQL)G)Z&}>9HB&_tB8QZRqL}.oqEtEm}Q_t_L)Q&o>BHE&ZtEbS}Q&&>B&}_&qBHt_RQGL4GQL&EH&G}&_BHqER_)LLZ)H&>RQGG&qH>EGRt*q&uHQZBH}E}RGH>ZQRt)rqQHHZt>)_>BqH)qq}L%Eq&}RGE>_&&ZqHhGRQt_G>E_EZqQRGGLBE>fHLR&QZHQqRG}%GGZLE)GEB&t)Z}EE(&)RtnBEQ}RGQRERZ)QG&QBBkER)Q}&QQQtEBLEtRGQtEtRR)HqZBn&B>R)qqZ)ZE4RuQ{q>t&EQHqG}>))}GL>R_>Ly}qGq>q_BBZ}&G)QHG)>})=GLQ))EZ&})G}QEtq>G}GoGL>t)LRQ&*&L&tLHqQ&ZZBZEZqFQGZHB>tZRREG&&LGtFH)Qt9tLtEqHEQ_&L_Zt_BZt)RE_Lt}R_)L&R_}EB>&G&>ZQ+&LR_%&&RHBG&RG+Rq>HZEB}K_q>&_&qH}BGq>)tHG)>B tq)}>Rq>))q>Q__R>>H_)Z>}ZRHLZG}ZB_}D}>NtRZG}_ZZL^_EZG_GG_})_tL)Q)vqBLE&ZEt>&qLuE&B&QEnELEEZHGQ&ZCBqKyRtQ)&__BE}R}Q}&E_QEtB))QR)HHEL>B;qqRHqGZ}E)BRGH>qGH9AHqQHHG}QR)LqRH>GB>)nEq&HQEEL>GLZZ}ZGZLH&RZq}_R&>_t_Z}QQnLBLttLR_)jQB)_HRBEqGEB&t)Z}EE1B}Gt>BGtFZtBQtQZQQG>)BR6_R))_2_HH&&REQ_&tQtEQRH)}LRHLER>>GMqqBoG&}_)E&_HtZH>Q)Hq}tRGL>R_>L<}qE6L&0_qEH_GtQH_&>}__Z}>tGBZR}qFZ}Z_FqE}GqG>GtZq)}&G)LL&)qEQRR=Bq_TR&t&kBL)tERBQZ>LL)4BB)}Q&ZBQc_RqQL&}HqtE}&)RRqL)_KB}QG&ZHLEGR)GE&}QGq)H}GHRtHZEB>Q_Z&GtqGZHZG/LB)QZR>t)>qZ}>E)>t)EqLtZGR}C_RqH})DR>1&ZqL_RGQQG_QqEQ&aQLL&}q)_QZE>tp_BZEQ/>L}t_R>Q&>RBL^>B}}HRBQEq>ZHtLGG)}EqZQQH&QLmEqRZQ)>HHZq>R_)LLZB>&ZHHQB>R)_ZRRB)QqRHqZBR_)0&HBEEH>Z<Hq)tLGH>L_BBqHRqZ>q3ZLRt_GEHtr}ZZtRZL>>^ZLHt&xBQZtZB>thZ_>)KLZGEHGtB&_}qG}}TR)&t)HqtEGtQ_C!LttRRHLB&>Ht)Z4tBEq&RQQqf4HqtHRQQ)&Z)Yt)Ht)R&E_)ERRQQ_LBBNGQRH_L&LH}GZ>&eLqH)BGL}BG}&H_BqtQ>)EZHHL/RH)sBLLH>q_}Q,}>E})G}LQ&>qQ}EGL>__LZ&ELG}Lq_LZtE}x)L}tQB_E>TtL}t)q^}HRGB_tLRBGqa>H>&BZLEq&G))&QZ}EL&)HqqqRgGq>}BQtEHG)}>:)_t)HQEER))qqLR>GRL)}&E)>_GGqHB(EE>v)LqHH}G&}E)}L)}qG_Q}_qqHHQR>>EtHqLQRGRLBt&qGER#L}>tRB>tBGLQ>!)HZ}_&LLREqL}E>RRLZt_B&EBZ_BH%HH>)BRBQQq&BRQRZhL}E>ZtQ)&tBZE>RLQE>)_&tGHOGLq&BGENZEEBqZ)ZG&HgGBL>}Bq}}&GHZZ_qqQ}tE-qtH)G_QB)_q#HHEE>H_ZBHH)GR>H_GB)}tG)L_iEBBQtqBLutHZGE&jELHt}HR}B&BQ}_HB>)&RtBH&HBQ}}RBQHE&HRE)p_L q&R)GqRELt&_BKttRR)HtBHRGtqZBtEE}&)Q&qBjGqRH)Q&)HZqsR)GtqRHEZ)>R)Q&_tBEpLQ)HZLHLG}LZ_&BL}HqBLL!BL}HHZB}t&>qEQHGLBRG)BBtLG>B&wHB}_E<)L}tQH>}Q-ELL__ZLQ&>LL}tqZLQt>}B)t}RQE_>>HPtqZGQB{})GE_RL)BLqB>G>HBQL>RHGq)>LGL>HBBq>>BE_Lq_}EQRE-BqQt>GB>>_LLH__ZB>s)HqL}HEE>:_&q}tLoqQZ_QZRE&GZ}&YLq>tqMH)q_>ZHQqGi)>_QZE}LG_LLt&HLQQ>RBLtRR>E,:qQ&_xH&Eq>QB_()HB)&>q)RtZH&EBR})Bq&>qGZ>E)Qt}HRE_LLB)EGRBQt&BHqqG>}GV>_B)qQHEE)>q_LE>}Zs)Z&H)G_}G_H&uHEGf>L_Hq}}&ZE>}0)Zq}_R}Lq_HqQE>GEBH_LRR}RyBB&_GHRQLZ>BR&>BB}LR>Q)qZZ_)LFRHqm}H>ER:ZQE&>HBt_T_HQ&Q>Ltt>}BLGRHR)7>Q_ZtE>RGHq&B}EB>}QGq&HqEQ}BGtq}__Zq>t))q__)EG}t_LLQt&ZR>R_QLEH),}}Qt>Lt}&ZGLH/_BZtQR&QLuBLRQq&qLHtEL>HEGZ}___LH}Q&HQHERLtQZZ}B&&}Z}tB&RBqEZHEQZ&BLGt>ZGQQ>GBqt)ZG)LLqHREq>ZG>>EQ&xQLEQ_Zq_HG>RG)8L)BEGEHOQG>)}HZR}Z)q>/_qqG})_QL)tqGZ>B<HZqt}Z>>RKZLB_Rq)}G)ELtERfQLRt>BHQ&G}LBt}qGQ&-qLQ&BZqER.)B>qqZ)Q&,Z)EtB>&}G&tLttJRQQH>tBGmERtEER+LG&EHRG_&>HGtt>)Eq>E)tt_HLE_>9)>G&H&QQqL_>q_}Q__>Q)EZtLZCRLL}ZEZH__QZQHkoLHt_ZZZtBZt}q_H>E}LZEQH{LB>_QcLBHj}RR_)RHBQuHL_ERRRQ)tQR_tt&HQ&t&RGtG&)Qq&LZ>QE&>QBERRq)Z>EBZEBZGQ>6GBQqGRqQ)1GHLZq>R)qqZ_>qELtQ}Z>Bo&R}H_>&GHOZ)RE_E>IBGq_LHcRq{_GZ&R3GE>G_LZ)Qq_ZqBtH+qQ}#>qRtZZB}RG)LGHEZ))RtQZRQ>RHB&_}ZBQ}GGB&tqZQEBIq)Rt)R>Gq?)B&tZHEQBq&LGEtZtQ/&QBHqtRGtE&t)E&zZGEE>R__E>>GQtq))qqEHtQ_q>_&qeH>_q&z}&Z_>&_>&tHZEt>H2t&aH}EtLR4:ZqH^c&QZJ_Z>Qt-}B_tqBLQZGtLE&}q_Q_ZE>tu)RLEq4EQt<GqEt_&ZQ}&}BuQ&M>)EEqH_QED_Bt&GHZEE&BLGttRGQ>&BBHtXHt)L>QH&E)}HQQRH)tt_H}G&L}B_EG>})BL_H&G>Rt)Z&tHHZt>EA)qtH)G_QB)}>HHBZH}}&&ZZ_qZELHJ}L)HQZR}Q7LB&}GRZQEzQq}tR{})L_)ZG}BGtLBtqBGQ}R0Q__)BQtEZ)Qq&LZ>EZ>)H&t)R_EG&HLltERmQL&HB}E&HEQ}>)HqE_}})q&HBQZ>RE_H&L}RER>B_&&GtRGLH>_RL>_BEL}>G)BZH_CL>Rtq>}t>ZR>ZGtLLtBq_LQtQqjQLqt>GtZBBttZqLHGEZLtEGE}_t}ZBQH>ZLHt_ZR}Q5RLGqRZB}1zRB)qBR}QB&H)QqZLqQt=_HqGRHt)Q&RH>qXRZ_Z>>BRq&>tG}>HBB&EHHG}q>_}qz>&)>LLH:ZB}Z)qL&_>qqH}Gt&__}RqLH_qZZtLGG>B_>ZBHtGG>j_HB>HpRqL}tZB=}}GGL&&_Z>QGGtB)_)ZEQH/L))ttL_Q)R_QE_tB_Eq>QBZEtZ))}Zb)_&)ZQELRQ)E&ZRYQE&G_QtG>ZQ)&&B)EL})QE&BB)Gq}E)+&EHGZ&}Q)LqBHHEmHqeRZ&H)G_QB)QZQ__E)}}tRL2}}Z)}t)_LQ_QWRQBFEqG}ZRRLE&>B&HiZGQZGeLBt)GQQ}&cRL}7&&)RttZ>QZ&>L)ttZEQL>ZLE&pRB)&>EBBttZGGQ&ZHtt)>}Q}&_HLER}}))RQH}qQH_Q)>Q),ZH>&_)&}}B&E}QG}&H_&q)}_G&qEH_GtQH)tZ&H}EG>}_RB}H_G>>}_DB_}EG_LtxGBH}ZGEBEt}ZTEqeGL}tQH>}H&HQQ_}B>)qREBB&}B)}QRBQ}&>H>E_8tB&qQR)GH&QBHE}H)}EIEHE&CZGEtqH_RqZRqEG>q)t&^}R)G&tHEq{R>QQ>ZH}Et>?_}q>tHGQH}_LL_H_ZQL>1BLE_Z!&B&r&Zt_REt>qG)Z}Q}ZQB>G_Z)tG/QBQ6)RLE&qqBDG}RZ_q&tHREEq:QRqEL>*&ZQQ)ZtBZtGRZt)&HQBERHQQQ>HHZq>H_QQ&EBLt_RL)&LLHHq_HtGR>)_B&_>})BqHtZEH>_)R&QHREGQR_>qtt&ZHL&)}qB}}EGL&_qqQtBZtL&_>ZHQ&GtQ%_}L&HQEGLB_)ZEQBiZ)LtHLBt)GQQ}9GL_Qq%LB}EqZEG&FRQRttRBGR&H)RtiZB)qZLBqEHR}Q}L&BREB>&QGLRBB&>>LGq&EB>E-BRQWqLHBEB}B)AqH_)GL>L)Lq)tBEQHHl>L_}>GZLRTGqt}BRRLH-RqZH)G>BG__R>)qqRQ}_RBZQZZGBGG}>>)}G)L}tZL&EZGGBqt_ZQEG&&}:tGB^EqZEB)t)Z)Qb>_BEutR_EtREQ)EHRL)BLqB)G>>q_&RH)_t)HQEGRtH&G)RG_}qL}>qEHpQG>E_RGGHLGQ&}_Hq_H)))qGHBEt>B_qBBH*qQLB_>ZLtHZ%QLeQLGtLZtQ}tRZqQZR>Qt&RZt}>VZB>_)Zt}EwL)Z_EBtQ)R)L3&}RLEBOH)>ERHLQQ^EH&EQRLG}&_Q_E>RGG_!GQ_&RHRGG&qH>EGRtMq&;HQZBRQEB>BtZEL>}_Zq&tLGR>Eu)&E))qQQB)Qqt}BG>QQ_HZqtGqx}&GBqBEqG>LHtqq;E>pLLR_HH&QZZqQZjtBHtqZD)}t_ZHEE*_BLqZZLt>Z7)GtqR>QG9t_qE>R&GB0_BytHZEQH&Z_Ht_>&Q}&BHLtE>HQ_qLH_E}>BG)AGBRq_RR_)LL}>G_LLEX>B})q>HE_nLq_Qq}L_GELL_>ZtLEG>ZZH)G}L)_&ZZ}RG_Q}tZBZ}kR&>e#Gq.tt:qQEt>ZGE_P>)Q_tZIQQ.H)ttqRL}E,RLEt}HEQkq&B>EtR_Q_n_H&ERREG)pN_}t_RG)}&B__E&>>Qt&ZBtEH}t)GL)HtEtRt_qLEH?A&>t_t>RHRZGL&)Gqdt)Gt>)__&Qt>G3>E_GBQ}GGLLQt>Zq_}{LLRt>L>QZGG)>_QZE}LG_LLt&HL}GR_LB&LZ)QBp))qtBHZtH&>BZERHG)RS)BGEQRBtE&)B}EQBQ)B&BBBE_}H))&B_tEq>LQE&RBEE}}E)BLRBGqE>Z)GqZ_QEG})E5qtH)G_QB_}qB}HRZL>_>q>}QRLL}_>B)HX0R>__qq_}BR_L&tGZZQ)iQLHt}L}QLoRB>&5RqQqAqBBqZR&Q)>HQ_gQZ}GRyBBQERRqGB&HBLtQ}Z)LRR)B&BHQELR4_)EERQGu&EHHZ>HBE>&Lt&ER>B_&&GtREG>Z_LqGH)ZE>&EGqt)GG>>}__Z>}&RR>}9LZZtRCZ}&_ZBRt&R&}LtRqxELG)LG_Bqt}B;q)BtHq9}ED/LLtHZ}Q&RE)RtHZ_QG&HBRqBRqE}yE)BE>H>QZRqH&q>RLEGrE_&t_H)QQ>_)3tG}qQt>_B)qt}qG&Lq)BE>}HGZL>)QEQ>E)L&_HLG&}E)HLQH}Z}}ElHZqtRGGQZ8HBq}ZZEL)TtBq}Hq Lt_)Z___K}LBtHLHQHGGBZtEZ)tq*GLttELEQRiHB)ERZ!GZ6LQREqBR)q8E_Rt}RtQ>.)B>t1}>)LKEB_EERR)L&BBGq_}q)L&QHtGL>q+>qB)LG>}})QLZHqZ>RkGG&E_,ZR>ZALq&_=EGQ&hH>tH)ZE}_p)>dH*MR>__qq_}BR_LEGGZ_}Qw)})tHZLQBZBBB_ERqQt^QQ&tEZ_QtZtBQtQZQQG>)BLtQRt)L&q_>tHBL)RRLHRt=}LQ)&GBBttRB)qLBHHtMRE)J&LHHE}>&GELRHHE_>G_HqRtBG}HH_BL)H_Z>>R2Bqqt&EIQq=Lq>tHGZQq_&BZtQqG>tVyLEttZqLqtLqE}RGEL}&EZat&:EL_ttLtQQeHB}0}RLQR&>)SEqZd)&>_BEtEZE)Z>GBtEB}REQRLB>q-RZ)L&#BEZZ>&))LHB)&QHQoR&BHQGR>q5BqQHLZ_>&_>&tHZEt>H8tLZ_>q)}qG}L>_tqG}yGtL>__Z>}}IQL)_GZ>)qtRZqQZZZL{_9q2Q>>&BR_nHL})+GLB_tZBQq>BB}&tB)EQREB_&WB)EQ.))HE>HLQ)>RHqq>H})B>))>q>RLGZ&(_&EL}q)t&)H_&_>})BqHtZG>>>)>qQtLGR>EGE>G)tqZ>ZrEq&}RGE>_&&qL}QGLLHtZqBEqGYLQ&BqQ_}Z))Z_LZ}QZ:&)Lt}Z>E)GMBR__Zq}_wB)_tEHqt=RG)ZE&H>tlRGLr&tRQE)uo)}EBHQEE&_)x&QHQQ)>HH>qLR)GBqqBMG&H&_&&HH_GB>RE)qHHLGBHB_>q&tBE_>D)H&EHHGZQH_}q&HGF&>B_}qQ}qZG>QD}ZBtBG_QH_GZ}ELGG)R_BZQQRlq)BtqZLQ}&qLEq&RZtqREL}&>B})R>&B)&QBtE_>Z)E&H>ZEh>BBH&hHZGq>>_&E)HQEt>__&qq}&EL&LHQEqRH)q&ttqGR}Z_qL}_Rq&>E)E&E}ZZG>Q)EZ&}QGLQ}_)>Q__;BQR_ELt_zZG}R_RZHH1GL>k_)BH}ZR}QttBBHQ>RH}Q?qR&ER&ZLttEH}tG>BLGtZH_EZZGB_tQR)t)&HBLEBBB)R&qHZ&ZZYQEJGH&E>}HQ)&RBHEGB{)t&tBtGq}E_&&ttZEH>_)R&QHREGQR_LLQ_HZB})_}Lt_HZB>HV>ZqtZGHQ&_GBqtLCRQH8qBq}ZZoLt2EZZtG#QLHt}L}QL-RB>&1Rq}=&&)_tEZ_Qt>HBQtHR}E)RG)R&)HqEE';qQ_pEUGEvHQOBJfKIpdqlWxvYQdbKlGj={"lpqbJLcqvpLQbQJpq<o<qo!p!CQLQ!l!CcpLVcZLp","obclQVcCbCpLbpq!CvLov<CpqobQLpQbVv!vvJZpbpLJcJVnLbLVCvJJqoo","!JJbc!bJJC<lZcnZQLbpVLbbnLlnpQQqqLcZJboQZZvoJnc!Zb<Cqn<<clvCvvbpnL<nvpVnCqbZLZ!<J<VV","pLppn!!qZbbZ!<ZJ<<nbp<<qovQbcVQlJbZCQZJvll!<vnpqv!lZJvvq!n","C!<Z<lLJQ!VbpvnJLQ!LbQq<Co<JnJc!QVC<voJo!bLQJQqp!QQbqQCnZvbZqvQvlccbvbCqVLnZQZvqlCVZVbLCVln<Q","Q!Q<bJbonoJ!Lo<ZLvnQLZcqqv<q<pb!oCJ<ZLpobLZoQoQCoL!nLcc!Lpvb<p!cn","L!c<Vp<bVVV!voQnbb<plCqLVJLlCvolvboVcpLclnQLnpqoCQnqvpQQnvpVVloo<CvC!Vn!VCcvoVpLcCbq","CCob!ncLcZc<qV<QZVQ<ZlZ!QcJVCnZVJCZnpVcvbCnVV<CJclc!C!pc<!bn<LpoZbo<C!l<!L<v","ZloJJQnq<qvqCLcQon<cqbLCnnoLLq!VqZCZc!<ll!cvvoClppvQZbZqL","v<ppv!bllJQn!<oJLlq!vLLJblVbQ<QZLpLolcLpQVQqQoZQnQbnClb<nJqo<ZoV<cJJJJqQonZbV","ClZvJbLQnbVoZJqpZCVZq<pcpQC<JQcCbnJbCvcLJlvco!Vp!ncvvLLC<ZJCbonQQQ!vpCb<vV","o<J!<VLQJqpoc<cLCocL<nJqZbLbcvvCovpo<!Vbnb<ZboQLnpvQbq!QZZoCp!<JLJooq<nvClbJnJJZbQLqcZlc","V!JqcLo<qZVLZZvQonLVV!poq!bJvpQVvVLCbnQcVbLcZlqoLvqoc<cncQcVv<bZq!bJ!QvcvZVvcVlcCpqQZloVQplnZQbcobql!lVnnlo<cbqLvZ!ZbnqVpVCQbZVnqoqlJoqVJoCJq<JQncobZJcqQvcJ!c<cCllvbqbJQbqcc<JVcVL<qCbJnbb!CQnZv!n<vlZppcC!qvvnqplCJbpqJopopQLpn!cvJoQllppoVpplZcvpqCooQCCZnlbvJ<JV<!CpLbCovJQZQ!cqZZlZZcpCVlVCQCovJq<qJLZvbbLp<JCnQvcoloJoJVQQClQVJZppQbcpv!cVcVCc<nQQnbZCZqnvv!popnnVpcJZ!cv<q<pbnQV<b!vZvoJVqV<vZLbZcobvCVcbVJV<VvllLQ<<VvVv!cJnvppVqqQpLQCpQ!vlJ!vLVQqcbvZJQlZcLCqp!!CQbZqJnnvV<qpVv<cbcLclCpCZJQlCqcJLqVcQoobvbJbCZJl!JlCCbJq<Llb!ZJ<o!JoqLl<VobQbJ<!lQ<V!q<nv<oooQLJJqopZZonJ!!<lCqQQpC!QooLb!VbqnlcvoqQCbnbob!JZCoLv!LvCqQqQJJCpl<n<!lcJn<LJoVcclpCQpovZZcVlZq<JQCp<<<QbJ<QLn<pCLbnQoL!qlonZlVVnClpV<pbcQbCo<JZncV<VJZvZnbVo!VpQv!QpcnpCpc!VnvqZqVVqpc!lb!C!cqlpnvpCbo<plovbQCblVC<!Vc!VqCVVo!CqoboZpnponnvJJqv!bQpQpVbJpcQVQQlCQpnpV<vVoCvqQQQvq!VnQqCbbQvZJ!plpcJCnZCnqplpqVpnoZnJplboZJ<LqnJoblcoVqZlLQpZZVlZCvo<bJ<boJZ!Jcq!<JvvoLqLQnobZLolLJJ<<<!JnqvqCvZboV!JLpZJqovplLVovVpCQoCLCnQbLb<bqJLcplpoclonvJC!<Qoqv!c!vnZ!ovlZV<nL!nvQqoJqlJcvlJbncnQCnc!n!VZ<Q!onncnoCVJVqCpvLQ<vQvcnlJ!bVvLJnpCLnJpCvQqpvbbZVbV!Ll!Zq!LVVnCbonLvbbCnnLZVncVbv<!CbJ!!VbbZncqCLCqJCcZQJb!JLcQpn<CcCnpplpob!!poCZ<oZV!lLqQqLobJcJLJqZcvLVQZ!<qnvVCVb<cLC<!<ncJJQpobbnZpoqvCobnCqvJblZlbvZqVLQbopcZnoon!qCQCbCpcJ!Z<bclC<JVQvvZocbvZ<J<ZZccoQCJcCccp!pZnl<JVlLJQn!QQvQJlvZcb<cq!CZ!pcQZLLVLZ!lqClJo!cv<<<LnvLCvZQvCc!nCLLJbZvbboClQCvZvnlJJv!QCQnpQVLqbovQnclCVvVbqllo<nq!Cob!LponvCZCLQnLCbp<bvv<nJcpQvVbVc<p<oLC<<pnVLJbL!pZcVnZVoppC!lpVqQc!pCCZnvZvbLqbVZlvcJ<cJLQcVq<VCpLc<QLqvlqLCZobocJJLCqvZopqnoCnLbopbn!<<coLlvqQo!!poV<!<bZnJQoocZZZJop!lQCJvZJoZbZppbJZ<p!nVpcoqcJQnqZpbCQblopVbLQ!nno!lcbl!QvQJvVlZpVV<LoCoLVJZcLCZoboo<ppqnpLvqbZLqLVp<pbnCCv<VlpLClnvqCZcb!on<JQZ<JJ<cCLvcbp!JQQvZclJVvblq<<QVqoLl<cvJCplqoCQJLQQvbcLp!VZC<VlblVnqJbcqbvcl<VnlJ<CnZLbppbQlpLbvLCVpCVQZJQoLLVLplZCcql<VpQJLqQVlQ!!QLbVb<lLVVoZ<ccVCvcq<!<cJ<VvZ<lZ<JLnvoQnloqpCZpQC!qqJc<lQo<qQ<LpcqnZLoqlnbQc!LqqvoppnnQCpc!QJn<<qZbccJVvoplJZpqpno<b<novqL!bJVqqC<oVoLCCqJCoJLbCcnlcvpLpLVZLJoVpv!QvqVnLVvQoZlp<q!L!pqcQcLQ<ZLCvnnnqVLvqqLLC!Z<QCqJlnc!CClnLVLvclVC!ncqoncQoJvlvloJq<lpvVCvv<ZQ<qCnCQnblobCVCb!pnnVnpZcLbQqbqnZQpcnp<C<CqCqnqbLJboLQpZ<!nCbnZqcJQoVJLnZbZcq!qvZLQCpvbQ!<J<!vnQCQLbcpnqJJqLbLpqVJCZlpVbnqQblv!b!Zl<<q!vnZnpcbvZZVbo!qpnLbZcqVcv<CQCZL!QnpJ<QQl!JnLvQ!conLbpLLnZoZLQvpvLpcqZ!bcQCZc!LZn!L<LqZpv<ZZvnQbcCCqVZoocoLVQoQ<VCoqobl!QCqbnQobbpbcbJJVl!<cZbCn!JVZQ!obqlQQoqlcLccLnvQbJJLLQbZcbcLCCpZp!vQJLQQ!QVLbcJcZcccL<nbqvvo<QboboQqCCLoVZpLLQZqbcVlpopl!bQCZncp!CbZ<vqLcQvbVCncbVCJvQbVCQZcJoplv<cqo<<VVVlLcQvCQoloVCV<qpbC!ClnJcponcnJc!nlJ<V!qJoZpvbqClbqqZQo<lZVqQoJ!QnoCcqQZJnn!qoZnQlcovQ<bZCZnV!olcJl!qJ!pp!<vl<obccq<n<Vbp<plQpQvo<poZcoCLCQvQCVlvVpZJ<JJVVQJLbvnCqCvqLolb!QVC<QlvcnlqJ<ZJLoVcnq!CpLn<L!JccnqQb<CL!nqpnqqo!noLVo!bcoQcqZQbq<JLqnnon!nbQLccVLopQCnCoqbCvZbbpv<oJLbvnpV<JJJCqCLQCv<bncCZQCnbZZVqVVVQVqZcQCConncZJbc<cVJbQZboLqnp<!!Z<VvCvvvZ<v<oJJoCJop<JqZ!bLVQV<lnVZoZJvQlLZpCllJLcC!J<nJV<Jbq<JonZcLQLnqCJLJZcZnl!CcLvJCQVbVoncovLbQn<oLlqZVbQqJpcqQVbZZbv<nLvbvqnlvcqZlLLovLqJVlZZVQLcbbvp!VVJcnZ!bCvLn<v<!J<v!<<QlLVcLlpLlvq<JnQvZCoVVqqCcqoVvlJqqooJLZqvJn!cpcQLZQZJ<!!ZLCno<!qZVqJ<LvqZJoVlpqlQvn!vpbC<JvVCv!Q!!VZloLVLLLCJCQloJcQoqZoLqVVLvZclZQLJn<nncVVQcocCQCv!pQq!JJLcQpQqvVqnb!nnlQ!vbqLJbVpQo<bqbQpQVlclnoCbovopLnLCoVqV<vZZv!ccqCC!!pbLQLJJZQLoQcVJQp!<Cn<nq<oppbC!cqbl<V!QVQVQCLCV<Zcq<lJbZpVl!<<ol<CpnblLlJbQqLQqvJJlpCvov!VqvoJ<l!<Qb<JVpQCcZQnlLJ!nQLJLQVCbQnqLcbvLVcQCZqbVvVV!nl!nbQLoVVb<lVVbLonQvCvLZbnpqJClvVocpVqZoZnCqboCQQ<lZZcQvobCpQClq!!CVJ<pJlbob<Jqbpoqbbpo<nVlbLJVCJoVvQbqpqn<loCbQCvqVZJqpqb<LQLobbJLQVVVbqVVCCvZVQcnZJ<!pv!Zo<LJ<qJpcQcJcbqcVZcco<cnnQC!Z!c<JJLLvl<np<J!QQv<qQoQpQq<CpVqoJVloq<!LCQlvccbLL!lZ<JVoqqJpcbCV<CqlZclqQ<J<C!!CQVlvc!LpnQClVV<JJcLVblqqlZJ<LQV<VnbvCvVbb!nvoJnqv!<!<JLbnJVQQVnpcbVvLJb!voconqZ<!bqLJ<VqloZZq<ZpLpZoQL<bCJplZobJJbJCnllLLnqcc!oq<vonnlV!JnVvvVnVvVoCpc!vCovqCvLncbVloJnCcpCJ<Jco!JVpQLcpQ!plpnJVJoCoLqJcJJpbobnJZocL<LqvnlZlqQCVnZQoZc<cQopnQCVvZocCJLJQcLb!<JcbQvcVQLJLqZClpnqvJLq<LVQZonvnob!VLnvoLqZLpCZJbVcpLlnCpQ!voVvoqVvoppcql<CbpLZCn!JQppQovZ!ZcQc!CZCcQJClLvvoZ<<qcqQonqLvnQZnnLbZbqoZQl!JZQZlJnopQoQJc!pbcqc<v<vvqo<qpnc<vQnCqCLqV!JqobLLqJvVllQZl<qvVLbJqolvpZcJbC!!Zov<C!npoc<vqQJCJJQocqoVpLC<<QlVVQLobnpQQJqvVvpJcoCCqJ!pJnlvcVJvlvqQnb<Vq<L<vqVcvQpCpVco<CbVq<JVbbcCccnbCVnV<JvCbZ!JcbVq<Lb<ZcnJnQLZCc<JZl<qc!q!bb<J<LQlLb!!bQoQoQQLVbclc!v<qpqoCvn!JLZZlCZp<VvVvCnJJVv!!LQboJ",""};return(function(f,...)local y;local t;local l;local d;local o;local a;local e=24915;local n=0;local c={};while n<581 do n=n+1;while n<0xb6 and e%0x2548<0x12a4 do n=n+1 e=(e+152)%10506 local u=n+e if(e%0x315a)<=0x18ad then e=(e+0x2ce)%0x808f while n<0x230 and e%0x4506<0x2283 do n=n+1 e=(e*431)%12625 local d=n+e if(e%0xe60)>=0x730 then e=(e+0x2c)%0xc12e local e=21367 if not c[e]then c[e]=0x1 o={};end elseif e%2~=0 then e=(e-0x226)%0xb7c8 local e=68333 if not c[e]then c[e]=0x1 t=string;end else e=(e+0x174)%0x1cd3 n=n+1 local e=15898 if not c[e]then c[e]=0x1 l=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x1d8)%0x5be8 while n<0x253 and e%0x44b2<0x2259 do n=n+1 e=(e-47)%20263 local y=n+e if(e%0x2162)<0x10b1 then e=(e*0x41)%0x9b1e local e=12586 if not c[e]then c[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e-0x3f0)%0x5c2d local e=73684 if not c[e]then c[e]=0x1 d=function(d)local e=0x01 local function c(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=c(0x01)if(n=="\5")then break end local e=t.byte(c(0x01))local e=c(e)if n=="\2"then e=o.clibwuSd(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(e,n)return f(8,nil,f,n,e)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][c(t.byte(c(0x01)))];end local n=c(0x08)o[n]=e end end end else e=(e+0x2e4)%0x9391 n=n+1 local e=66352 if not c[e]then c[e]=0x1 end end end else e=(e+0x39)%0xa5e8 n=n+1 while n<0x114 and e%0x1898<0xc4c do n=n+1 e=(e*492)%25451 local l=n+e if(e%0x15dc)<0xaee then e=(e*0x29d)%0x640f local e=91117 if not c[e]then c[e]=0x1 a=tonumber;end elseif e%2~=0 then e=(e-0x3fa)%0x2ffe local e=93607 if not c[e]then c[e]=0x1 end else e=(e-0xb8)%0xa2b8 n=n+1 local e=42152 if not c[e]then c[e]=0x1 y="\4\8\116\111\110\117\109\98\101\114\99\108\105\98\119\117\83\100\0\6\115\116\114\105\110\103\4\99\104\97\114\80\104\120\84\102\103\82\76\0\6\115\116\114\105\110\103\3\115\117\98\118\67\113\108\72\87\109\75\0\6\115\116\114\105\110\103\4\98\121\116\101\122\83\70\85\108\103\83\72\0\5\116\97\98\108\101\6\99\111\110\99\97\116\111\101\97\76\84\89\77\87\0\5\116\97\98\108\101\6\105\110\115\101\114\116\110\70\109\119\73\68\69\83\5";end end end end end e=(e-334)%625 end d(y);local e={};for n=0x0,0xff do local c=o.PhxTfgRL(n);e[n]=c;e[c]=n;end local function u(n)return e[n];end local t=(function(y,d)local f,c=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local t=y while true do n[0x03][o.vCqlHWmK(d,e,(function()e=f+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""c=0x000 break end end local l=#d while e<l+0x01 do n[0x02][c]=o.vCqlHWmK(d,e,(function()e=f+e return e-0x01 end)())c=c+0x01 if c%0x02==0x00 then c=0x00 o.nFmwIDES(n[0x01],(u((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=y+t;end end return o.oeaLTYMW(n[0x01])end);d(t(27,"V/sWcgMP&+Ej0R!z!P0z!y0EE!+cPPPP&Wc+Wzzz/j0PjzgsWMcEc/cPss/Pzg!0Ec&Rs+7RsssE}Mz-RM0/Eg&/MR*O!Mzj!M0s!M0&jgMEPsc;sj/aE/&P+z&gMc&!Mzg3/c//!+jR0&cssEWRsc-0zSRM!g0j+RPEM/c/c+s&ER+cEM+/P&gEc!W+scsWzsz&0E+cWW/+WW/+zR/c.XjREc&gPPM.M/RcjE0RjP+j+REggjcMc&80z0RMPggjPWgWWRg!s//+zc0/E0&jEs/Mz!/azE!/jREsEsEt&zPggjW/szz!&/MPP!MWcjccWgWT8E!g0+00&Ess1&/0#M!RzjRgj&jE&zM0P/WM0WEjj0Ec&gPsg/M0Mxs&zPzs!!EzjMs!/cs+/cz+BP!j0w+0E++gP0gM0zjg0Rj/+g+/+PPMMWW!ss}!zzPLgPP/ggWP/RcMzM5!0s0WjWM0MWzMRR!zR+j&EW+g+?M MNszcgz+R0P0MsP0g+c/W!czqM!Mz5RPjs&//RpW/MzjRz!+0MEMEP&!P0c&sEj!EgjjEW&cM0M/c.c&/sFW9PR+EcccsEW!sPAPsj4RzR0U+/PRg0gc!g0j!W0ME0jM&+&F&cgEc!z0!+&MM!PzM&czsR/MsEzR%+0gEs+P+Wggz/RP!zRgjjjj0gEcMsMzg+/0/R+sP&&RPsgRg0g//EsEz!z&jj0MWW/+sz/wzjKzzPRRj-+gPPPWWRRcj00RjW+jP0M&g+PcWQsMU0!&0c0jWzsWWjg!WgsjRz!MEMj&+j/MzE//Wj/!Rs!+jME0PPcR!RR/!P!P0!RsjzEgMMP/WP0cE&0/!jj+&0PcP+c/sPz!+jPz++E+&!P!cjggsPzg!gPsg&M0gcWEs0sR/gRE0cjg+!+M/Wz&kRzQ//Rc0W0+P!&cMPc}0zjc0EE!j&jP+s&+WMcgNcu&&jPn&gM+PsP+c!W+s&!ERREjcPs0cssgWszz/+X/j!jRE0+W#W!EzR!y0+j/j&+M+EP-cs/+/M!M&+Pb&sMMcRWWgPsczMzRRREg+M+gNzzc;0!!/czRRzj!EsP+PWsR0jjd0cE!RQ&M+PMzgPc0Wi!s&PM0&WMjPEMMs&/!sszMR/EccWs&W0sP/Ex+/M!jRE0/+sP/zz!cfNR!!s!W0/&W&z&JgPWgjjECjE+E+!&/g0cgs0?Ra0 gPPg0PWggPPgjWzz+zz!0EjEjWW/PWscj_R!!z&!+E0+qPj:E!zOM!Poc!Mjgj/&WM0MPWg0MEj0sEgEPjcMRPsW&cgzE!/&sMP&sM/gzWRWR/M?/!!0++!c/"));d(t(212,"%Lt.Va1/MEFNSHRPtSaRP/tVVR/LFtS/E*LSaE/HFSFHREtFVtMNM1Sa?ESSPEEzFPHELi.S1/E1F/P1PHtD1.ENaHMHtVat/aF1HMRMLR.HMaFNR.HH}aPkttNNRMLt.a11MNaaREWEVM1.EVSHR1PNV?aMM.SaHaNMRM/HEHHSPSSaaM/SFERMcS./111aSLSFLtLF1ztS1?P.LLVS/LEaH+REtMVL1RFVSE?Ltaa1aSFVS1>SLHPVtVNSR.L.V51FMHNRR.PE.11MEHNNS1Lt.LwM.EHVRHLFae/aVtHHUt.&VH/NFPHLPVuP.aM/F1NHLVHV9tEHStP{)H.N1P/LNNREPNa/aLFPSEEVSLaMM1FEHFIS.t..MLNVRSPM.t1NtFaMP7L/V//VERSLPtL/LRaa//NLPatN.a1VVt1H*V.taaM1NMHV N.1aPMaSaSVP.HV6tENNERSLL.N/ME/SVPVPat1aLFLFNEbSwaa/aNVHVEHtFaSMNN/R1PPtZ1/11SVRatQt/ a"));mQhSJFBzqJA_oDJ=function(e)e((-o.OvWhCzAT+(function()local l,c=o.BcYibtGK,o.TKPQWVMT;(function(n,e)n(n(n,e),e(e,e))end)(function(n,e)if l>o.oltDgPVV then return n end l=l+o.TKPQWVMT c=(c-o.vrnMeXGm)%o.bcPHJEhb if(c%o.EKQkUvcH)<o.jqIKGTXt then return e else return e(e(e,e),e(e,n and e))end return n(n(n,n)and e(n and n,e),n(e,e))end,function(e,n)if l>o.RuFLiHSH then return e end l=l+o.TKPQWVMT c=(c-o.rPcYAGAs)%o.Kdnopazd if(c%o.LXncYXvO)>=o.bWUrbZzZ then return n(e(e,n)and e(n,n),e(n and e,e))else return e end return n end)return c;end)()))end;JDo_AJqzBFJShQm={o.QbhqcBbU,o.nCelxXfs};local e=(-o.hwZDZqMo+(function()local l,n=o.BcYibtGK,o.TKPQWVMT;(function(n,e)e(e(n,e),n(e,e))end)(function(e,c)if l>o.baQHpwyn then return e end l=l+o.TKPQWVMT n=(n-o.Klfndcjv)%o.zExGcnBT if(n%o.CYD_IzIG)>o.KwIDikaK then n=(n*o.UMHdfoVS)%o.GAdIUtaG return c else return e(e(e and c,c),c(e,e and e))end return c(c(e and e,e)and c(e,e),e(c,c))end,function(e,c)if l>o.pmxVBICV then return c end l=l+o.TKPQWVMT n=(n*o.ZHZyjyBJ)%o.cQxOGWnK if(n%o.SxrKsxVr)<o.ScGravTz then n=(n*o.ehiWWTkP)%o.DzQbcZQs return c else return c(c(e,e),e(e,c)and e(c,e))end return c(e(c,e),c(e,e and e))end)return n;end)())local te=(getfenv)or(function()return _ENV end);local u=o.A_aGwEwe or o.aXGAgZEp;local g=o.TKPQWVMT;local y=o.rduDfAnl;local d=o.xvEw_pVG;local l=o.MOnvwSyZ;local function de(b,...)local r=t(e,"iw(#3QD)y*c/Cu^OwDyCQ(wyu^c*Dc#7OD/cC3yO3^(Q*CD?(D^C/()y#^3#fc*zDywC^(cyDCD*wcO#/w*wQy(uO)y^)(#O^v/3Dc3*(3/CQC(>^DcC)(#yO^^;CcQdy3uCc(Dy(C-(C)yuQ3w*uOcDc*)y(cO(//yRQ*uDu3*yDu(yO#/O)D3*g/C3*QD((^^^c3Dy#*OOyDy/Q3lCuQcc)w#QO(/u)CMcFcuc*CD*w^Ow/C)u#c%/uwyyQ)wv^*cO)##d^OCyyu33CQ*/c*()^u/#)*#O&CC/*w3)D3w3^CyQDc(OODC*)^3OO/u3*DD)(uvN*Q)y3/!3cD*ODQ(*^DcQ)^3#Oc*c3(w3C^*3Qcw^m}Dw**QuO4O*Dww^/p^s*DDc(^O3/cy23DxCC(u)Q^#w^c/6)D#c)*D#3uuDy*C)^33#DO(AQC^y3CweuD*CD((y^^/C/c3NNOCC*(QywC#)OyC(y*3urcuQ*3w3uOczDD(CO&(*(#y3##u_*CQC((^ycCQyCD(3vD3uQ(wuu^c3Dc(^3CBc/Du3_^uc*cD,(D^c{w/c)^3OwQ*(QDwC^(cyD^#3wcrJyy3Cw(uy*^D3(cO0/D)C3)4yC^*3QyQ*)(*/O3#cO^C3ycQ!wDuC^ycy(^OO/cya3D{cwu^D*^D)#C #C)y33OM^*5Q3wc^RcDDC#(&CO^y33OwEuD*CDZy^()3(3D3}wDCC*(QywCwjwe)uOuuc5w^O//O^c-^*)(*cQ3/w)^3CFcul*DQcDy(Cpw/*)^3uw/yCQ)wyu^c3Dyys^O^^uy3y#^u3*cDL(3(3YJCCyOh#w*u/*DDO()OD/Oy O*Syuy3/DD(Qu^cQ)Q#3/QCO*<8)w(^/*^D(#cOO/D#)QwF/u(c(wQ(^^3/*)D3#!uyu3Dw(u(*yQ^*)Q^((uOccD*Cy*#Q3wc^}wcCu*3D3(#y3QDwhuD*CDd((^^2wCy(u#D3#/ecy/wQ/cC)L#DOCC(yy3^#^wcc(DD(CO(/y)^33#^wV*yQC((^yc^)3#c#T7Dy^Q(wyu^c3Dc#<(3OCy(QQ7^u3*cQ^Q/wyOcchy##u^u^**3DOw3Oy)>#3OcCByD3Cw(w(u^DD(cOV/D)C3(.y^Du3Qc()^DcC)(*^Du#D^O/w)*33c(DC(^O3/c^#c^Du33*yD((3^c/Yuy/Q)D(uy^Q*wc^kcDDcD*(3#OuO3c(wuD*CD((D(OS*/Cy^{Dw/C/)#3*aDuO/uyD(CXu/w3^(Qucc,DD(c3yO^c))C#CwD^C*^D/#uj)*)Qu((wu/wQ(#(u^c3Dc(^((EcuK*Q3owyuC*^Qy#O5#C{y/3cwC/)*^QO(Q^C//Q33uw#u)3CwOuy*^D3(yO)x3^3uuQ#c3wc)*^))3/3uu#y&DC3ycQ,w3#c/c*C3/OwyQQO3Dw=u(*yQ^((#C43/)#CJ)Cyy^Q3wyOO#cuw^DOyCcy33cwnu3Q3(DKw*/*/*DO)#OCQuOlOw^O#cc) #DD*w#OIcwQ^(r^(^q*u#CO*uu/#3^wc*DDO((^yc^)(qQ*yfD(yyuQQ^CD3CukQDf**yC)cc#DOwQOc(y^C/()y#^J3Cc/3*DwC}#cyD^#3OywJ/DycDwOCu(yc3^3QuucC)4(*O)u*y33y#Q^OC(y##3w/uOyy3DwO^#*()*wcq#yVQ*RCu(*yQC#cQ3Oc/*Oy#MQ#cuc((*3C##y)Ow)E/*)#D3w(uD*CD((y^^/3/wypsyCC*(Qyw^^3cc*()DOCu(yy3^w3uyQ)/)cuQ*3/D4Jy)Q/C/^y*ywc(yQ3u#CJzCDyCQ(wyu^Cccc#(OD/Cy(3yS^/3J*cN(y^C/()y#^73Cc/y*DwC^ycyD^#3OyqOu)*3QO(/*^D)(cOm/D^O/)DcC^**Qc(-^Dcc/uyD#^q)yCQgwDuCc(Dyc^#COcyxQ)gCu(*yQCucw#(^^C/u3#3#)ykQu/)*3Q*/(CDOcDy39Cw(uD*CDNw3u)coD#(y(DC/^wcPDZ#)O^Cw)cO/wQCy*yQy()*Oc/)u31r3)u*CQy(3^)Q/)y(C^O/D)c3CuO)y#/w)uuc#D*(OOQ//yu3);uu#**QO(Q^//w))#us#C*C^D#(*^O^DDu##O*/OyQ3/wwu)*uD#(*^OCwDy(/T)Cu*#Q*wO^Q_D)y3QOuC#y*3OwQu/cwD)(ulwC9)O3QY/uw*)D3#w^*cO)Q#/8wC)yuQ#w*^ucCCyw^^w/uy#3*HOuQODDwyQ^u/cy)#OxQC/*wQ)wu((7QyC#QO/Cwy)yCQ(#Qu^DQ(/Ow/))u3#w)uD*QQ/)O33*cQu#*OOCQy/cCw)#/c#D*yuOQC(y^QQ3Cu#cw*^D3(cOU/D)C3(SyC^*3Qc^cc)cC3wmDCD^#3/ww#Q*uD#yDuC*O)/3wt)(yOwQ*wO3#c/)w*QOuC#y*cu(#^(cwD)(uO#/*)O3QP/uw*)Qu(cO)cOu##/LwC)yu/ww*uOcQD/y^^3c)y#3*DcuQ*//O()^u/#u)#OnQ(**wDDwu^#c*)^)wO/Cwy)3uw#^yu/DQ(/OwO#)u3#o*(u*QQ/(w^)7/)##*QC/()QQww)#yc#D*(OQ#//yw3)D/u#**D^(Q^//w)))C3(C*yOQQw/^w^DcC##O*/OyQy)ww#Q*uD#(*3u/Q)/3w})(cyN3#wO^Qc/CC#)OuC#^)3OwQ^cuu)D(uO#CD*/3uM/(fcXQu(#^*/))Qyc_c^Q*cQ#w*w//3c)#wQQ/uy#3*Du#(yy3/()^u/#)**cEQ(**wQ)wuO^/wDO#QO/Cwy)3u3O^y*O)##yOO/)/*Q(z*CO*QQ/(w^)/Dy^#*OOCQ^*Qw)3CcyuD*(OOQ//ywc(0u#w**/uDw(c/w))3QjCC*yO*#w/^*c)Du##Z(/OC#3/wwuOcDD#(*(^C3)/*OZ)CuO23Dm*^Qc/)w#)OuC#*HQC(#wcOOD)D*O#/*)O3u3/u^cQ*C(cOD/D/33*1^C^*DQ#w*uO/3D/yO#DC/*eQMOC/O*/Dw()^u/#)*#OYQC/*wQ^(cO;^QDO#QO/Awy^Q/Q(^dcwDCDcOO/^/u3#h*COc3Dy(^^^*cQu#*OOCQy/Qww)uuc#D*(OOQ//yw3)3*u#**QO(Q^/^u/)3c?cuyyOQQw/^wc))C(o^#/OyQ3/wwu)*uD#(*^O/Q)/3w_)Cu*#**Q/^Qc/)w#)A3u&*.3OwQu/cw)D#3^oc#)O3QS/uw*)Qu(#^*cO)Q#/9wC)yuQ#w*wO^wD/#wO)/uy#3*ROuQ*/)<(^uc*u)*#OgQC/*wQ)wu^#c*DO#QO/Cwy)3uw#u**ODC#(O^CQy/QwwDuD*C3yh/^)cu)##*OOCQy/Qww)uuc#D*(OOQ//ywDO3^(wuu/((Q(Jow)))r3^w(u#3(vQC^*wD^#cOcCXyD3c/OQD/DO3DwO(/D)C3(qyC^*3cwD8^D/z)(#yO^#yV#CW)/uCc)Dy(^O3/yDyCDT#/Q*cQ^(3^c/p)D/C3(&yy^Q/wc^ecDDcy33/bOCC*)QDuDcwD((y^^/(*C%)O(*Q*(Quw^^3ccD^y<)#yQc)Qlw3uccEDD(CO(K(/^3DRcu;*DQC((^yc^/3#C8&CDyCQ(wyu^/3cc#pO//Cy(3ySC(DOwn(Q)^^/()y#^%3CcQGcOQC^(/yD^#3Oc/^cODODLwD/^yu)c3*u)cwD/#cwQC3cD(o^/cC)(#yOCC9q/w^OCuCc)Dy(^O3/yw#CQ/u^^*yDy(3^c/a)D#CW(CyyOQ3wc^:cDD^#(Oy/^y3yywJuD*CD((y^^/3)c^Q9DCC*(Q*w^^3cc)y#DOCC(yc3^w3uccdDD(C^())yU33pcu>*DQC((Qy^^)D#c5?CDyCQ(wyu^^3Dc#vOD/Cy(3cW^u3*cD0(D^C/()y3!%3Cc*&QDwC^(uyc^#DOcCpyD3Cw(uyy^c#(cO3/D)C3(jD(R^y*/(Q^DcC)(#y#^C3ycQNwD^+c(Du(^O3/cyG3D7CDw*yD#(3^O/a)D#Cryuyy^Q*wc^QcDDu#(O*/^yy)/w2uD*CD)(y^O/3)^)wNDCC*(Ddw^^Qcc)M#cOCC)yy3^w3ucceDD)*O(/u)^3*kcux*DQC*w^y/#)3#C6TCDyCQ(wCu^c*Dc#wOD/Cy(3yQ^u3*/DB(/^C/#)yQWw/Cc*QQD(w^(cyD^3DO/CkyC3Cw*uy*^D3#COQ/Dy#3(+*C^*3Qc(<^CcC)c#yOOC3ycQ.wDO*c()x(^OC/cy33Dw^^y*yD)(3^O/L)D#Cw3O/y^Q^wc^3cDDC#(OyODy3QQw>u/*CD3(yw33u)c3/aD^w*(Q*w^^*cc)3D)OCC(yyD#w3u/cEDcQuO(/y)^D?Scuw*DQC(D^y/c)3#CS0CDyC)(ywu^/wDc#wODC3y(3y(*u3c*D!(C^C/()y#^wCCccaQD((^(cyD^#3OCC,*#3C((uycAD3(cm3/Dyy3(w3C^cwQc3L^^cC)/#y=cC3*}Qj#C3cc()#(^w*/cyw3Dw#u(*CyO(3^c/,*/#Ch#Cyy^Qywc^CcDD^#(Oy/^c3/Ow+^#*CD#(yOD/3)c3C{Du/*(Q^w^^3cc)r3OOCu(yyQ3w3ucc<DD3PO(CQ)^Q31cu(*DQC(3^y/c)33DxIu#yCQ((3u^cuDc#*ODCyy(D^)Cu3cQD6Qu^C/#)y3wv3C^CwQDwC^(uOD^#QOc^HcC3Cw*uycQD3#wOn/Duw3(w3C^*)Qc(s^DcCy^#yIcC3*wQz((uCC()Q(^kB/cyC3Dw#u(*y)w(3O)/_)*#C{(Cyc^Dbwc^^cDDO#(n7/^y33Cwd^D*CD^(y^^/3)cQy:Duu*(D3w^^3cc)%DQOCufyyQOw3uCcBDD*^O(CQ)^QwAcu^*DQC(C^y//)33#<}u#yCQ((/u^/(Dc#cOD/Cy(3y(yu3c*DL(*^C/()yQ^wQCcc QD(*^(ccD^#3OCC_*Q3C(wuyc^D3(cO^/DyD3(wDC^c#Qc(D(ZcC)y#y#cC3y/Qew^uCcD**(^O3/c/C3DRuu(*yD((3OD/v)D#C;(Cyy^D/wc^CcDDC#(%(/^y3/*wm^n*CD3(y^^/3*cDD8Duw*(Quw^^/cc*LQCOCCyyyQ3w3^wcFDcQuO(/y)^QQocuw*DQCC)^yc^)3#/.FCDyCQQwyu^c3Dc39OD/Cy(3DQ)wy^ycQQ*#(ucCcyOQDOu//)OQO6^cy)O#3OcCsy3)wQDw/^(/QDc#//Qu(y(QcCuu/*^)w(ccC)(#yO^C3y/QqwDuCc()9(^O3/ccD/3zCu(*yD#(3^//L)*#C-DO*y^Q3wc^QcDDu#(Vc/^y33/wHu)*CD((y^^(#)c3wpDC^*(Qyw^^yu/)9#DOCC*yy3Ow3^Cu#DD(uO(/c)^33jcusNQQC(#^y/G)3#co&CD#wQ(wyu^cQDc#GODC3y(3yK^u3cZDv(D^C/}C/)^3QwQu3QywC^(cyD^#3OcC_CD3CwOuy*^D3(y3(OcCOy^3C(wu3cuDN()O)/D#y,#C3ycQRw3(OOc/))(O3Cwy 3DfCuP^c/w)Q#(Ou/C#CXyCyy^Q3wy(O^ycC)u3#/^yO3cw?uD*cc-DD3wZ(CC*#Q)w3uO*^(H^3cc)J#DOCC()yyuwDu^cGDD(CO(/y)^33McuW*DQC((^/c^)3#cSf#DyCQ(wyuOc3Dc#+ODOcy(3yR^u3*cD-(D^CQ))y#^t3C/*-QDwC^(cyD^#3OcCLyD3Cw(u/*^D3(cO8(D)C3(VyCO*3Qc(U^D^c)(#yO^C3ycQxwDuC3)Dy(^O3//y%3DHCu(*yQ^(3^//v)D#C:(CCy^Q3wc^_wDDC##Oy/Oy33cwouDucD((*^^/3)c3RmDCC#)Qyw^^3c/)r#DOCC((u3^w3uccwDD(CO(/y)^33{cuw*DQC((^y/()3#cKKCDOCQ(w*u^cQDc#eOD/CC<3yEOu3*cDj(D^C/(wu#^H3Cc*wQDwC^(cyw##3OcCNy)3Cw(uyO3D3(cOqCyO 3(EcC^*cQc(v^DcC)##y:wC3ycQhwDuCc(y#(^Oy/cyw3D-Cu(*y)y(3^u/>)*#C1DCyy^QOwc^3cDDC#(Oy/^y33OwXuc*CDD(y^^/3)c3u_Duw*(Qyw^^3cc)bDQOCC3yyQ#w3uCcxDCyOO(/c)^Qd+cuw*DQC((^CuO)3#ct}u(yCQ#wyu^w3Dc##OD/uy(3yt^u3Y*DV(*^C/3)y#^_3uC*vQDwO^(cCD^#3OcCqC(3CwDuy*OD3(cOs/Dh)3(_/C^*DQc((^Du(^M#ykwC3/*Qdw)uCc)Dy#((Q/cy,3D#/u(**Q^(3^^/M)*#CF(Cyy^Q3wc^ucDDO#(O//^yQ3cwD^(*CDQ(y:3/3)/3vLDCC*Dy*w^^3ccyD#DOuC(yC)Ow3uccU)^(CO#/y)^/3>cu#*DQC((^yc^)3c*mFC*yCQ3wyu^c3Dc#3OD/Oy(3y9^u3*cD7)#^C/Q)y3w=3C/*tQDyC^(cCD^#3OcC+yD3CwDuyc#D3(cOK/D)C3ywuC^*cQc((^Dcu)(#*O^C3/DQ?wDuCcDDy(^O3/c*)3Dwwu(**Q^(c^cC()D#CI)Cy*wQ3wc^hcD*w#(O^/^y33cw?uD*Cy)(yOQ/3)c3;4)CC*yDuw^^Ccc)h#DOuC(y*3^w3_Dc{DD(COD/y)^33wcQu*DD#((^Oc^)C#c}_ucyCQ)wy^Qc3DC#_9yCDy(3^8^uc*cDl(D^C/D)y3QI3Cc*FQDwC^(C(D^#/OcC)yD3Cw(uyc#D3#(OH//)C3(6yC^*/Qc(D^D/3)(#*O^C3y^Q,wCuCc(Dy(^O3/c*)3Dw(u(**Q^()^c/k^Q#CmDCy*;Q3wc^_cDDu#(O//^y33cwguDc^D((yOw/3)^3hEDCC*(*3w^^ycc)w#DOCC(yyu*w3uucKDy(CO3/yc3uuvcu#*D*w((^*c^)Q#cH3O)yCQ(wyw#c3D/#0Oc^uy(3yp^(**cDw(D^C/D)y3wz3Cc*?QDwCY(w*D^#yOcCwyDQ3w(uy/)D3(uOl/*)C3DTy^^*OQc(3^Dcu)(#cO^C3y^QTw*uCcQDy#(O3/c*y3Dwau(*yQ^(3^c/{yR#C-)Cyy^Q3wc^6CD))#(O^/^yQ3cwyuD*CcO(yO#/3)O3Y+CCC/(cDw^^ccc)w#DO^C(y^D#w3^wcZD*(CO#/y)O33!cOC*DQC((^Cc^)3#cdnuuyCQ)wy^3c3)w#HTy/Cy(3uk^u)*cD7(D^Cu))y33=3Cc*aQDwC^(CuD^#/OcCzyD3uw(u^/#D3#(OP/))C3#UyCO*3Qc3C^DcC)(#CO^C3ycDTc#uCc*Dy#QO3C(yB3D(yu(*uQ^(/^c/()D3^w3Cy*3Q3(H^VcDDC#(vC/^y/3cwfuD*CD((y}#/3yw3PYuCC*(Qyw^ODcc)y#DxwC(yy3^w3^Gc DC(COc/y)O334cu3*DD(((^yc^)3#c(eO#yCQ*wyuOc3)(#hODu(y(3^t^uc*cD)(DTCC()y3Qx3C/*zQywC^(/)D^#cOcC)yD3Ow(uycuD3(^OT/y)C3(,yC^cDQc(#^DcC)(#yO^C3(OQFwDuCc#Dy(^O3CwyY3DeCu3*yQ^(3^c/r)D(C3wCcy^Q3wc^+cDDCc(#y/^y33cw9uD*CD#(y^^/3)y3?8/CC*(Qy*(3QUCuC*/OCCyyy3^w33uw3uy*QDmwOye33Xcu:*DQC((^y^^)Q#/ SCDyCQ(wyu^c3DC#dOD/Cy(3^?^u3*cDYD*^C/3)y#^!3Cc*FQD(w^(c/D^#QOcCjyD3Cw)uyc(D3(/Or/D)C3(w(C^*)Qc((^Dc^)(#yn3C3yCQVwDuCcQDy(^nC/cyP3Dsuu(*yQ^Qc^c/;)D#C<DCyyOQ3wc^xcDDC#(#3/^yD3cw;uD*CD((y)*/3)/3 5yCC*3Qy33)ucc)w#DL(C(y*3^w*ucc3*)(CO(/yy333-/up*cyu((^yc^yw#cEwCDyCQDwyuOc3D/#POD/Cy(y3J^uD*cDr(D^C/()^Q#83Cu*mQDwC^#cy) #3Oc^CyD3Cw(uy*^D3(cO.Cc)C3(Eyud*3Qc(6^Du^)(#*O^C)ycQwwD^ru#Dy(^O3^^yF3)-Cu(*CQ^(Q^c/B)D#C-(CyCcQ3wC^KcDDC#(Oy/^_O3cwwuD*^D((c^^ucw#3BR)CCcQQywO^3/6)E#c(uC(yy3^()uccwDD#_(#/y)^33#^uj*)QC(()Dc^)Q#c%+CDyCQ((D)Qc3D/#oeu/Cy#3yEOu3*^*w(D^C/(yO#^rQCc*3y)wC^(cyc(#3O/CFyDQmw(u**^D)(cOq/D)CQ/myu-*3Qc(l^DcCy3Q3O^C)ycQwwDuCc()c#<O3/^yF3)ICu(*yQ^#&^c/w)D3rT(Ccy^)c#k^8c)DCQwOy/Oy33^wRucCuD((y^^u#)c3wrDuxC#Qyw^^3u^)5#)OCu3//3^wQucc#DD(CO(Cc/w33ACu9*uQC((^yc^uc#cW#CDyCQ(wyu^/D)/#pOc/Cy#3y_^u3*^D3(D^^/(c/#^bQCc*q*(wC^ycyDO#3OcC0yD^Dw(uO*^Dy(cO+/D)C3yayuD*3Q^(x^DcC)(Q(O^CuycQ#wDuCc(Dy#QO3C3yd3DkCu(*yQ^3w^c//)D3w=(Cyy^Q3(D^Y/(DC#)Oy/^y33cwwuDcQD(#3^^/D)c3fQ#CC*cQy(D^3/#)V#DcZC(*w3^w*ucc1DD(COD/yyD33w(uo*OQC3(^^c^)C#c0yCDy^Q(wyOQc3)w#TOu/Cyc3y.^uO*cDw(DO(/()O#^,yDQ*sQywC}DcyDO#3Oc(OyD3uw(uc*^D3(cOf(Q)C3(Gyup*3Qc(A^DQw)(#yO^CQycQ+wDuuc(Dy(^OD/cyA3DWCu(*y3^D#^c/9)D#CY(Cuy^Q3wcsM^^DC##Oy/^y33/wmuD/#D((*^^/Q)c3wKDCCc*QywO^3cc)M#DOCC(*^3^wQuccwDD(uO(/yyw33gcu_*)QC((^yc^)3#cWJCDyCQ(wyu^/wDc#jOD/ClC3yJ^u3*cDs(D^C/(y;#^,QCc*wQDwC^(cyDO#3OcCnyD3Cw#uy*^D)(cOw/D)^3(+yC^*3D#(q^DcC)(#yOOC3ycQ#wDuuc(Dy(^O3/cyrQQ4Cu3*yDw(3^c/r)D3tT(C/y^Qywc^}cDDCQ/OyC;y33Cw7u**CD(3#^^/Q)c3wPDC^*(Qy(O^3cc)+#)OCC(yy3^w^ucceDD(CO(/y)^33wyuL*DQC(#^yc^)3#/N}CDyCQ3wyu^c3Dc#9ODcCCw3yz^u3*cDr(/^C/()yQ^3CCc*wQDwC^(c*D^#3KQCgy)3Cw#uy*OD3(c8C/D)u3(gyC^*3Qc(<OecC)##yOOC3y/Q4wDuuc(Dy(^OQ/cyx3DVuu(*yQ^(D^c/8)D#Cf(Cy)^*#wc^:cDDC#(Ou/^y33c#Fw^*CD#(y^^/3)/3jkDuD*(Q*w^^Qcc)w#DOCu#yy3Ow3ucc DD(CO(/*)^3QUcuw*DQu((^yC#)3#ch6C)yCQ(wyuOc3Dc#aOy/Cy(3ye^u3*cQjDQ^C/()y#^P3CO*HQDwCA(O_D^#QOcC4yD3uw(uycwD3(/Og/))C3#2yC^c#Qc(w^DcC)(#yO^C3*3QPw)uCc#Dy(OO3/c*)3DaCu(**Q^(3^cR/))#C;(uc^uQ3wc^%uDDC#(OyC3yD3cwvuDcqD((*^^/Q)c33#)CC*(Qy((^3c/)V#c(uC(yy3^33uccwDD(Cw)/y)^33_cuj*DQC((O)c^)Q#c>9CDyCQ(wy^Dc3Dc#&OD/Cy#3y(^((*cD+(D^C/()O#^wD(w*?Q)wCO(cyD^#3XCu9yD3^w(>y*^D3(cODC/)C3QLyC^*3Q/(<^)cC)(D3O^C3ycQwwDuCc(Dy3*O3/CyK3ypCu#*y)G34^c/()D)O0(Cyy^DD(^^1c*DC3COy/^y3DcwQuD*OD((/^^Os)cQ(M^CC*DQy#*^3cc)UQDSOC(yC3^wyucC3DD#^rO/yy#33(3u7*DQC3(#Dc^)*#c?QCD/wQ((cw*c3)s#ew!/Cy(3y(^^**cDD(DO(/(*^#^&3u)*;QuwC^(cyD^#3&CuuyDQ3w(^y*^D3(c-(/y)C3/7yf)*3Qc(ZOyCy)(3(O^C/ycQ1wD^tcDDy#DO3u/yp3)aCu(u3Q^#E^c/Q)D#C?(Cy*QQ3()^>/wDC#(Oy/^*#3cwCuD*^D((c^^/3yC3I=uCC*uQy(c^3cc)O#DU#C(*33^wOucc3xw(COc/y**33T/ua*DQO((ONc^)C#cm:CD*(D)wy^Dc3D^#+O)/Cyy3y5^nt*cDp(D^^/()y#^63OD*%QDwC^DcyD^#3Oc^CyD3Cw(^z*^D3(cOY^()C3(Ayuw*3Qc( ^Duy)(#yO^C/ycQ-wDuCC^Dy(^O3//yq3D7Cu(u^Q^(u^c/y)D#CX(CyyOQ3(3^&cDDC#(Oy/^yQ3cw*uD*^D((c^^/3)O3hPDCC*/Qyw^^3ccyw#DOCC(yc3^w3uccH)c(CO(/y)^33}cu%*c)w((^yc^C^#/VwCD*^Q(wyu^c3/y#-OD/Cc(D(;^u3*cDG(DO#/(yc3*93Cc*aDHwC^(cyyn3=OcC&yD*cw(uy*^y3(CO4/D)C3(bywy*3DC#D^DcC)()#O^C3ycQ0(CuCc(Dy(OO3/cy2Qyw)u(*yQ^3^^c/%)D3^V(Cyy^Q33u^8cDDC#(#Q/^yQ3cwEuD*CD((y.Q/3)C3x-DCC*(Qyw^Owcc)##DOCC(yy3^(D^)c=Dc(Cwc/y)^33wCu(*DDw((Oyc^)3#cw(CyyCQywyw)c3Dc#%?yCCy(3O2^u/*cDv(DO_(C)y3#=3w#*PQ)wCO3cyD^#uOcpDyD3Cw(OyO(D3##O+/O)C3#9yC^*/Qc(c^D/3)(#yO^C3yCQLwOuCc3Dy#rO3/cyD3D8^u(coQ^(u^c/myO#CJ/Cy*7Q3((^_cDy*#(Oc/^yu3cwyuDcpOu(yO#/3//3,A)CCc3y/w^^*cc))#DOCC(*c)ww3^&c.yQ(CO(/y*RDwqcu)*DD#((^yc^)y3/5-C/yCcCwyuOc3yc)(ODCQy(Qqr^u/*cy7)O^C/C)y3(A3O)*UQD(y^(/3D^#COcC.yD3C((uyc/D3#(O-/D)C3(5OC^*^Qc(u^Dc^)(#ypDC3yuQJwOuCcCDy3^OO/cy*3DwMu(CQQ^(3OQ/Hyw#C_cCyy^Q3wcwCcD)y#(-S/^y33cw1<D*CD/(yOc/3)C3=(Du3*(D(w^^Ccc))#DOCu^yyQww3^#c_)<(CODQ#)^3*Gcwu*DQu((^^C#)3#OhPC)yCQ#wy^(c3DcQCOD/Cy(3*z^u3*cDoQ(^C/()y#^e3Cc*<QD3y^(cyD^#)OcCtyD3C#^uy*^D3(CO;/D)CQ3D)C^*cQc#)^DcC)(#^wyC3*=QK)*uCc#Dy(OO3/^/w3DjCu(O/Q^(Q^c/3c)#CX(CyOQQ3w/^:/yDC#(O^/^*/3cwnuD*C4y(yO3/3)/3BTyCC*y)#w^^cccuy#DOuC(y*3^wy4/ckDD(CQc/y)O33wCuk*DD(((wwc^)3#cql (yCQ*wy^#c3Dc#xryuuy(QR6^^w*cD1(DO^CO)y3)%3uw*1QDwCO3c/D^#^Oc^#yD3Cw(^c/QD3#QOS^()C3(fy^q*CQc(C^D^3)(#yO^C3*cQjwuuCc^Dy#-O3/c*Q3Dw3u(*uQ^(3^cC(*)#CS/Cyc#Q3wc^M/y)*#(R(/^C^3cwzuDc^D3(yO*/3CQ31XDCCc3QCw^O6ccc3#DOCC(*cQ*w3^)cvDy(CO(/y)^Dw0cuy*DD*((^cc^)3Q#Y>COyCQ)wyu^c3)CQwODCDy(yO+^u3*c)(#y^C/u)y3)R3Cc*HDy()^(/3D^3#OcCsyDQ^(yuyc/D3QQOE/D)CQ3wDC^c(QcD*^DcC)(#y!^C3*#QG(3uCc3Dy(^OQ/cyc3Dwwu(*yQ^#Dwu/Vyw#CQwCyy^Q3(Cw#cD)y#(3#/^y33c((T**CDO(y4(/3)c3PwyDc*(DDw^ 2cc)V#D=^uwyyQuw3eOctDD(CO(C))^3^%cuO*DQ^((^ycO)33Q.:C*yCQ(wyu^/uDc#CODCwy(3yL^^D*CDB##^CO^)y#^L3uC*QQD(c^(/CD^#3Ocu((D3C(wuyc(D3(cOmCy*y3(wyC^C/Qc(:^D/^)y#y1OC3/OQBwDuCc()w(^pK/c*w3D4^u(*yD/(3O)/_)/#C (Cyc-Q)wc^^cDy3#(Oy/^*D3Cwj^Q*CyQ(y^^/3yC^XFDuC*(D)w^^3ccy(#yOCu#yyQDw3uccW)y3wO(Cc)^y*TcuK*DQC#c^y//)33C_XCyyCQ((wu^/(Dc#QOD/Cy(Qcw3u3c*DEDc^C/()yQ!wwCcc&QD(7^(cyD^3D(uC_*)3C(wuy*^D3#C(#/Dy^3(#*C^*3Qc#(w*cCyQ#ywmC3ycQAwD^Cc()D(^t)/cy(3DPCuO*yD*(3Oy/>))#Cw3O/y^DKwc(6cDDC#(Oy(#y3Q)wIu/*CD((yx6/C)c3^>DO#*(Qyw^OD/*)r3QOCuwyy3^w3^CcwDD#CO(u/)^33zc^(*cQC##^y^u)3#cW6uycDQ((cu^^DDc#bOD/Cy*3yw/u3cCD9(y^C/(CQ#^wwCc*DQD(*^(/c)##3WyCo*D3Cw(uy/LDO(cOO/Dyw3(9yC^*3Dw(!ODcC)y#y1QC3*lQuwD^Cc(w((^OQ/cyw3DwNV#*yQ^(3*3/j))#C6DO*y^Q3wccDcDDu#(fcOwy3Qcw7uu*CD((y^^wc)cQw.Du)*(Qyw^OD/y)N3yOCC*yy3^w3u^c(DD#CO()u)^3Qscul^#QC#D^y/*)33uH4CD**Q((Cu^ccDc33ODC(y*3y((u3Q^D2()^C/()y3(#QCc*2QD^e^(c*D^#33)Cf*c3CwyuycQD3(c#O/D*>3(wCC^*CQc(a^ucCy)#y{*C3*uQHwD^cc()u(^Oc/c*Q3DBCu**y)((3^C/h)y#C9(u^y^DywcO3cD)Q#(Oyu#y3Q^w9^c*CD((yw3/C)cQ3?D*g*(Q*w^^ucc)3D)OCC(yyw(w3u/csDDDyO(CC)^QwzcuF*DQCD(^yC#)33DPFCDyCQ((^u^/yDc#(OD/uy(Qcw)u3c^DA3)^C/()y#^wOCcc3QDwu^(c*D^#3S/C,yD3Cw#uy*^D3(cO#/D*%3(wCC^*3Qc((#*cCy)#ypDC3ycQdwDDQc()u(^OQ/cyw3Dw Du*yD^(3*y/k))#C((^^y^D(wc^^cD)##(OyOcy3Qcwhu/*CD((yqouQ)cQw_DOc*(Qyw^OD/#)q3yOCOyyy3^w3^Cc#DD#OO(/C)^33_c^(ccQC#D^y/c)3#c2xuyyOQ((uu^C3Dc#7OD/C*33yw^u3cODf(y^C/()O#^>/CccSQDwC^(cyu##3!cC{y/3Cw(uy/m)u(cIw/DC33(EyC^cD)D(KOycCc3#yO^C3*CQ*wD^Oc(DC(^O3/c*(3u9C^D*y)3(3^c/syy3Q0(uuy^*(wc^!cDDC3cOyC^y3QOwHuy*CD(D3^^/C)cQ8+DCC*(QyD/^3/c)G#COCC*yy3^c#uc/.DD#CO(Cm)^3c6/ulcDQCOu^ycO)3#/.;Cc/uQ(wyu^)ODc#wODC</#3y8^u3*#DF()^CC3c/#^w3Cc*)QDwC^(cyu3#3R/CI*w3Cw(uy/m)Q(c (/Dy#3(gyC^*yQC(MODcCDc#yOOC3yc)QwDO>c(Dy(^O3/c*(3DlC^)*yDC(3^c/5)CQwN(u^y^Qcwc^wcD)w#(Oy^cy33cw>uC*CD((y^^^=)c3_lDu#*(Qyw^^3uD)W#DOCCcyy3^w3ucCCDD(CO(C#)^33zcuAC(QC((^yCw)3#ctXCDODQ((uu^/cDc#kOD/C*w3y((u3*cDY()^Cu(CD#^wyCcc3QD(#^(c^CL#36^C5)#3Cw#uy*OD3(^(w/D)C3(OQC^*QQc(3w)cC)(#yO3C3y/QPwDwyc()C(^>w/cyG3DgCw(*y)#(3OD/})D#Cz(Ccy^Dywc^(cDDu#(<cu3y3Q^wNO)*CD((y^^/c)cQ3XDCu*(Q*w^^3/C)h#DOCC#yy3^w3ucc#DD3:O(CC)^33 cu(^*QC#)^y/#)3#c2KCDwQQ((uu^cQDc#wOD/Cy#3y(wu3*cD_(D^C/Dw##^w3CcDOQDwu^(Cy*3#3JyC7*33Cw*uyC3u((cO^/DyL3#P*C^c3Qc(3w)cC)(#yv(CQy/Q}wDwyc()y(^?w/cyt3Dw^^#*yDO(3o#/A)D#C-(u/y^D3wc^(cDDu#(fcC*y3Qcw+O)*CD((y^^Cc)cQj}DCu*(Q*w^^3C9)>#DOCC#yy3^w3ucc)DD#CO(Cy)^33Wcu(^*QC##^y/Q)3#cxRCDwQQ((*u^cQDc#wODuCux3yw^u3cQD9)S^C/(yz#^B/Cc*DQD(C^(/cyD#3+cCtyu3Cw(uy*^DO(crw/Dy)3(YyC^cDD((jOycC)*#yO^C3y^DwwD^Cc(yW(OOQ/cys*#6C^D*yD*(3Ou/a)Du*7(uCy^QcwcO3cD)(##Oyu(y3Dwwwu)*CDO(yO(^Q)c3q,D^#*#Q*w^^3^D)13cOCCOyy3^w3uc^BDD3wO(C3)^33tcu?cQQC#D^y/N)3#/nSuyyOQ((Cu^CQDc#0OD/Cyc3y((u3*/D5()^C/()/#^93Cc*wQDwC^(cy)w#3R^C%*c3Cw(uycq/)(c4Q/DyQ3(KyC^*3^#(XO/cC)##yOOC3y^^/wD^Cc()((OOQ/cyDQ/8C^(*yDw(3^//Y)y#CE(O3y^Q3wc^DcDDC#(Oy^cy33cwR^o*CD((y^^(&)cQwHDCO*(Qyw^ODcO)V3yOCOuyy3^w3uccuDD#OO(/u)^33Gc^(c/QC#D^y/*)3#cV,uycpQ((uu^uCDc#LODC^*c3y(3u3/uDl(D^CC3y(#^w/Cc/OQDwC^(/cR(#3w(Cec33Cw(uy*^D*(c_#/D*33(tcC^*3DD({OccC))#yO^C3*CQ3wDOwc()*(^O3/c*(Q(MC^y*y*y(3^c/tyy3uB(uOy^))wc^ScD)^3uOyuDy3QBw0uD*C)3Q/^^Cu)c)(aDCC*(Qy(^^3/^)S3OOCC3yy3^wOuc/wDD3ZO(/*)^QD#uuNcyQC(*^yc^)3#cDDCD*OQ((*u^c3Dc3(zO/C*D3ywQu3*cDz(co#/(yc#^3)C/*wQD(^wQcyy3#3}wCSyD3Cw(#^*^)/(cO//D)C3(wc^#*3)((:^ucC)(#y_(^AycDDwDw^c#D*(^O3ODyZD_oC^(*yQ^(3^cQ()DQ)9(u#y^Duwc^TC(DC3^OyCOy3QOweuDcCD(3(^^u2)c3(RDu(cmQy#y^3^Q)w#)OCC#yyQ(3QuccRDDD)O#/*)^3y#/u_*DQCD#^*cO)3#c#CCDcDQ((Qu^c3Dc#Z#D/C*u3ywcu3*cDs(DO*/(*(#^5DCc*wQD(^^Ccyyy#3w/C:yD3Cw(^**^)^(cOw/D)u3(ryCO*3Qc(&^)cC)(#yY(QOycDDwDwnc#D*(^OyQQy_QyMCR(**QO(3OC/_)D3^t(u/y^Q3wc^DOyDC33Oy<QyQ3/w;u)*CDDQ*^^/3)cy)j)Cu*(Dcw^^3/C)z)#OCC(yy3^Q_uc/#DD#^O(/y)^33c(usccQC#3^yc^)3#c</CDcwQ(wuu^c3Dc3(O)/C*y3yQ^u3*cDj#yOu/(yO#^(wCc*FQD(^OycyyD#3U*C6yD3C(3O#*^)u(c#w/D)C3(wcum*3)3(VFycC)(#yO^O#ycDQwDODc(Dc(^O3wcyBQcLCu3*yDG(3^c/()DQjJ(C*y^QDwcO(c*DC3)Oy}/y33cw+^ycuD(#^^^/))c30nDCCccQy#(^3Cf)v#DOCC(y^3^()ucc2DD(^O(/cuw33w^u4*yQC((^yc^uO#cw#CDcqQ(wyu^c3yw#K */Cy(3y>^u3*cD/(D^C/()y#^p3Cc*>O/wC^(cyDO#3OcC0");local n=o.BcYibtGK;o.knSvQH_k(function()n=n+o.TKPQWVMT end)local function e(e,c)if c then return n end;n=e+n;end local c,n,h=f(o.BcYibtGK,f,e,r,o.zSFUlgSH);local function t()local c,n=o.zSFUlgSH(r,e(o.TKPQWVMT,o.xvEw_pVG),e(o.zcQTtWXJ,o.aalTyfOZ)+o.MOnvwSyZ);e(o.MOnvwSyZ);return(n*o.C_bBGSWj)+c;end;local le=true;local s=o.BcYibtGK local function z()local e=n();local n=n();local d=o.TKPQWVMT;local l=(c(n,o.TKPQWVMT,o.lJTuEfdX)*(o.MOnvwSyZ^o.WqgyAkEd))+e;local e=c(n,o.UwgmwTbK,o.YAvyQkuw);local n=((-o.TKPQWVMT)^c(n,o.WqgyAkEd));if(e==o.BcYibtGK)then if(l==s)then return n*o.BcYibtGK;else e=o.TKPQWVMT;d=o.BcYibtGK;end;elseif(e==o.YRqbOAYD)then return(l==o.BcYibtGK)and(n*(o.TKPQWVMT/o.BcYibtGK))or(n*(o.BcYibtGK/o.BcYibtGK));end;return o.orEuRnJd(n,e-o.rZGidGSm)*(d+(l/(o.MOnvwSyZ^o.swtnm_tI)));end;local k=n;local function p(n)local c;if(not n)then n=k();if(n==o.BcYibtGK)then return'';end;end;c=o.vCqlHWmK(r,e(o.TKPQWVMT,o.xvEw_pVG),e(o.zcQTtWXJ,o.aalTyfOZ)+n-o.TKPQWVMT);e(n)local e=""for n=(o.TKPQWVMT+s),#c do e=e..o.vCqlHWmK(c,n,n)end return e;end;local s=#o.QbhqcBbU(a('\49.\48'))~=o.TKPQWVMT local e=n;local function de(...)return{...},o.ghlAFEiG('#',...)end local function ce()local f={};local a={};local e={};local r={a,f,nil,e};local e=n()local u={}for l=o.TKPQWVMT,e do local c=h();local n;if(c==o.xvEw_pVG)then n=(h()~=#{});elseif(c==o.MOnvwSyZ)then local e=z();if s and o.ubKdPOeI(o.QbhqcBbU(e),'.(\48+)$')then e=o._ToBtixS(e);end n=e;elseif(c==o.BcYibtGK)then n=p();end;u[l]=n;end;r[o.xvEw_pVG]=h();for e=o.TKPQWVMT,n()do f[e-(#{o.TKPQWVMT})]=ce();end;for r=o.TKPQWVMT,n()do local e=h();if(c(e,o.TKPQWVMT,o.TKPQWVMT)==o.BcYibtGK)then local f=c(e,o.MOnvwSyZ,o.xvEw_pVG);local h=c(e,o.rduDfAnl,o.aalTyfOZ);local e={t(),t(),nil,nil};if(f==o.BcYibtGK)then e[d]=t();e[y]=t();elseif(f==#{o.TKPQWVMT})then e[d]=n();elseif(f==b[o.MOnvwSyZ])then e[d]=n()-(o.MOnvwSyZ^o.sDpcfvuB)elseif(f==b[o.xvEw_pVG])then e[d]=n()-(o.MOnvwSyZ^o.sDpcfvuB)e[y]=t();end;if(c(h,o.TKPQWVMT,o.TKPQWVMT)==o.TKPQWVMT)then e[l]=u[e[l]]end if(c(h,o.MOnvwSyZ,o.MOnvwSyZ)==o.TKPQWVMT)then e[d]=u[e[d]]end if(c(h,o.xvEw_pVG,o.xvEw_pVG)==o.TKPQWVMT)then e[y]=u[e[y]]end a[r]=e;end end;return r;end;local function ne(c,e,n)local l=e;local l=n;return a(o.ubKdPOeI(o.ubKdPOeI(({o.knSvQH_k(c)})[o.MOnvwSyZ],e),n))end local function b(ee,r,h)local function ce(...)local t,p,_,ne,k,n,a,z,j,m,s,c;local e=o.BcYibtGK;while-o.TKPQWVMT<e do if e<o.xvEw_pVG then if e<o.TKPQWVMT then t=f(o.aalTyfOZ,o.ahEVudZH,o.TKPQWVMT,o.EOwgqs_Y,ee);p=f(o.aalTyfOZ,o.TKPQWVMT,o.MOnvwSyZ,o.QmfCjvha,ee);else if o.MOnvwSyZ>e then _=f(o.aalTyfOZ,o.TKPQWVMT,o.xvEw_pVG,o.QOEIKGau,ee);k=de ne=o.BcYibtGK;else n=-o.nmlAbjD_;a=-o.TKPQWVMT;end end else if o.zcQTtWXJ>e then if e~=o.MOnvwSyZ then repeat if o.xvEw_pVG~=e then m=o.ghlAFEiG('#',...)-o.TKPQWVMT;s={};break;end;z={};j={...};until true;else z={};j={...};end else if o.TKPQWVMT<=e then repeat if o.zcQTtWXJ<e then e=-o.MOnvwSyZ;break;end;c=f(o.kHDiuSRX);until true;else e=-o.MOnvwSyZ;end end end e=e+o.TKPQWVMT;end;for e=o.BcYibtGK,m do if(e>=_)then z[e-_]=j[e+o.TKPQWVMT];else c[e]=j[e+o.TKPQWVMT];end;end;local j=m-_+o.TKPQWVMT local e;local f;function VMiIfZDz_tSq()le=false;end;local function _(...)while true do end end while le do if n<-o.heOfSWmV then n=n+o.OwKkLtDF end e=t[n];f=e[g];if o.KD_SYaWG>=f then if 40>=f then if f<20 then if 9>=f then if f<5 then if 2<=f then if f>2 then if 4>f then for e=e[l],e[d]do c[e]=nil;end;else c[e[l]]=r[e[d]];end else c[e[l]]=c[e[d]]-c[e[y]];end else if-1<f then for n=41,60 do if f>0 then local t=e[l];local l={};for e=1,#s do local e=s[e];for n=0,#e do local e=e[n];local d=e[1];local n=e[2];if d==c and n>=t then l[n]=d[n];e[1]=l;end;end;end;break;end;c[e[l]]=h[e[d]];break;end;else local t=e[l];local l={};for e=1,#s do local e=s[e];for n=0,#e do local e=e[n];local d=e[1];local n=e[2];if d==c and n>=t then l[n]=d[n];e[1]=l;end;end;end;end end else if f>=7 then if f>=8 then if f>4 then for o=19,68 do if f~=8 then local o;for f=0,6 do if f<=2 then if 0<f then if 2>f then c(e[l],e[d]);n=n+1;e=t[n];else c(e[l],e[d]);n=n+1;e=t[n];end else c(e[l],e[d]);n=n+1;e=t[n];end else if f<=4 then if 3~=f then c(e[l],e[d]);n=n+1;e=t[n];else c(e[l],e[d]);n=n+1;e=t[n];end else if 5~=f then c[e[l]]=c[e[d]];else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end end end end break;end;local o,r,u,s,h,f,a,b,p;for f=0,4 do if 1<f then if f<=2 then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if 2<f then for y=33,77 do if 4~=f then f=0;while f>-1 do if f>2 then if f>=5 then if f~=5 then f=-2;else c(h,s);end else if 4>f then s=o[u];else h=o[r];end end else if 1>f then o=e;else if f~=0 then repeat if f~=2 then r=l;break;end;u=d;until true;else u=d;end end end f=f+1 end n=n+1;e=t[n];break;end;a=e[l];b=c[a]p=c[a+2];if(p>0)then if(b>c[a+1])then n=e[d];else c[a+3]=b;end elseif(b<c[a+1])then n=e[d];else c[a+3]=b;end break;end;else f=0;while f>-1 do if f>2 then if f>=5 then if f~=5 then f=-2;else c(h,s);end else if 4>f then s=o[u];else h=o[r];end end else if 1>f then o=e;else if f~=0 then repeat if f~=2 then r=l;break;end;u=d;until true;else u=d;end end end f=f+1 end n=n+1;e=t[n];end end else if f~=-4 then for a=21,80 do if f>0 then f=0;while f>-1 do if f<=2 then if f<=0 then o=e;else if-1<=f then for e=37,73 do if 2~=f then r=l;break;end;u=d;break;end;else u=d;end end else if f>=5 then if f~=4 then repeat if f~=5 then f=-2;break;end;c(h,s);until true;else c(h,s);end else if 2<=f then for e=43,97 do if f<4 then s=o[u];break;end;h=o[r];break;end;else h=o[r];end end end f=f+1 end n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end break;end;else local o,s,u,a,h,f,r,b,p;for f=0,4 do if 1<f then if f<=2 then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if 2<f then for y=33,77 do if 4~=f then f=0;while f>-1 do if f>2 then if f>=5 then if f~=5 then f=-2;else c(h,a);end else if 4>f then a=o[u];else h=o[s];end end else if 1>f then o=e;else if f~=0 then repeat if f~=2 then s=l;break;end;u=d;until true;else u=d;end end end f=f+1 end n=n+1;e=t[n];break;end;r=e[l];b=c[r]p=c[r+2];if(p>0)then if(b>c[r+1])then n=e[d];else c[r+3]=b;end elseif(b<c[r+1])then n=e[d];else c[r+3]=b;end break;end;else f=0;while f>-1 do if f>2 then if f>=5 then if f~=5 then f=-2;else c(h,a);end else if 4>f then a=o[u];else h=o[s];end end else if 1>f then o=e;else if f~=0 then repeat if f~=2 then s=l;break;end;u=d;until true;else u=d;end end end f=f+1 end n=n+1;e=t[n];end end else if f~=-4 then for r=21,80 do if f>0 then f=0;while f>-1 do if f<=2 then if f<=0 then o=e;else if-1<=f then for e=37,73 do if 2~=f then s=l;break;end;u=d;break;end;else u=d;end end else if f>=5 then if f~=4 then repeat if f~=5 then f=-2;break;end;c(h,a);until true;else c(h,a);end else if 2<=f then for e=43,97 do if f<4 then a=o[u];break;end;h=o[s];break;end;else h=o[s];end end end f=f+1 end n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end end else local f;for o=0,3 do if o<=1 then if 1~=o then c[e[l]]=c[e[d]];n=n+1;e=t[n];else f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];end else if o==3 then c[e[l]][c[e[d]]]=c[e[y]];else c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];end end end end else if 6>f then for f=0,3 do if f<2 then if f>=-1 then for o=13,80 do if 0<f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end else if f~=-1 then for o=23,82 do if 3~=f then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if not c[e[l]]then n=n+1;else n=e[d];end;break;end;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end else h[e[d]]=c[e[l]];end end end else if f>14 then if f>16 then if f>=18 then if f>=17 then repeat if f~=19 then local e=e[l]c[e]=c[e]()break;end;local e=e[l]c[e]=c[e](c[e+1])until true;else local e=e[l]c[e]=c[e]()end else local o,s,a,y,r,f,u;f=0;while f>-1 do if 2<f then if 4>=f then if f~=3 then r=o[s];else y=o[a];end else if f>2 then for e=19,92 do if 5<f then f=-2;break;end;c(r,y);break;end;else c(r,y);end end else if f>=1 then if f~=1 then a=d;else s=l;end else o=e;end end f=f+1 end n=n+1;e=t[n];u=e[l]c[u](c[u+1])n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;n=n+1;e=t[n];for e=e[l],e[d]do c[e]=nil;end;end else if f~=15 then local f,h;for y=0,1 do if-2<=y then repeat if y~=0 then f=e[l];h=c[f];for e=f+1,e[d]do o.nFmwIDES(h,c[e])end;break;end;f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];until true;else f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];end end else local d,y,f;for u=0,1 do if u~=-2 then for h=25,52 do if u>0 then d=e[l];f=c[d];for e=d+1,a do o.nFmwIDES(f,c[e])end;break;end;d=e[l];a=d+j-1;for e=d,a do y=z[e-d];c[e]=y;end;n=n+1;e=t[n];break;end;else d=e[l];f=c[d];for e=d+1,a do o.nFmwIDES(f,c[e])end;end end end end else if f>11 then if 13<=f then if 10~=f then for o=12,97 do if f~=14 then for f=0,1 do if-4~=f then for o=29,81 do if f<1 then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if c[e[l]]then n=n+1;else n=e[d];end;break;end;else if c[e[l]]then n=n+1;else n=e[d];end;end end break;end;for f=0,1 do if 1==f then if not c[e[l]]then n=n+1;else n=e[d];end;else c[e[l]]=h[e[d]];n=n+1;e=t[n];end end break;end;else for f=0,1 do if-4~=f then for o=29,81 do if f<1 then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if c[e[l]]then n=n+1;else n=e[d];end;break;end;else if c[e[l]]then n=n+1;else n=e[d];end;end end end else c[e[l]]();end else if f>=7 then repeat if f<11 then local e=e[l]c[e]=c[e]()break;end;if(c[e[l]]~=e[y])then n=n+1;else n=e[d];end;until true;else if(c[e[l]]~=e[y])then n=n+1;else n=e[d];end;end end end end else if 29<f then if 34<f then if f>37 then if f<39 then c[e[l]]=c[e[d]]+e[y];else if 35<=f then repeat if 39~=f then if c[e[l]]then n=n+1;else n=e[d];end;break;end;local a=p[e[d]];local u;local f={};u=o.qinHdZtY({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[y]do n=n+1;local e=t[n];if e[g]==44 then f[l-1]={c,e[d]};else f[l-1]={r,e[d]};end;s[#s+1]=f;end;c[e[l]]=b(a,u,h);until true;else if c[e[l]]then n=n+1;else n=e[d];end;end end else if 35<f then if f~=36 then c[e[l]]={};else local e=e[l]local l,n=k(c[e](c[e+1]))a=n+e-1 local n=0;for e=e,a do n=n+1;c[e]=l[n];end;end else local f,o,y;for u=0,2 do if 1<=u then if u==1 then c(e[l],e[d]);n=n+1;e=t[n];else f=e[l];o=c[f]y=c[f+2];if(y>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end end else c(e[l],e[d]);n=n+1;e=t[n];end end end end else if 32>f then if 30~=f then local e=e[l];do return u(c,e,a)end;else c[e[l]]=c[e[d]]%e[y];end else if f>=33 then if f~=30 then for o=23,60 do if 34>f then local f;c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=c[e[d]];break;end;c[e[l]]=c[e[d]]%e[y];break;end;else local f;c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=c[e[d]];end else c[e[l]][c[e[d]]]=c[e[y]];end end end else if 24>=f then if f>21 then if 23>f then local o,t,u,y,f;local n=0;while n>-1 do if 2>=n then if 0>=n then o=e;else if n~=-3 then repeat if 2>n then t=l;break;end;u=d;until true;else t=l;end end else if n>4 then if 4<=n then for e=31,95 do if n>5 then n=-2;break;end;c(f,y);break;end;else c(f,y);end else if n>=0 then repeat if n~=4 then y=o[u];break;end;f=o[t];until true;else f=o[t];end end end n=n+1 end else if 20<=f then for n=40,72 do if f<24 then c[e[l]][c[e[d]]]=c[e[y]];break;end;c[e[l]][e[d]]=c[e[y]];break;end;else c[e[l]][c[e[d]]]=c[e[y]];end end else if f>17 then for u=45,86 do if f~=21 then c[e[l]]=r[e[d]];break;end;local a=p[e[d]];local u;local f={};u=o.qinHdZtY({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[y]do n=n+1;local e=t[n];if e[g]==44 then f[l-1]={c,e[d]};else f[l-1]={r,e[d]};end;s[#s+1]=f;end;c[e[l]]=b(a,u,h);break;end;else local a=p[e[d]];local u;local f={};u=o.qinHdZtY({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[y]do n=n+1;local e=t[n];if e[g]==44 then f[l-1]={c,e[d]};else f[l-1]={r,e[d]};end;s[#s+1]=f;end;c[e[l]]=b(a,u,h);end end else if f<27 then if f~=22 then repeat if f~=26 then local o;for f=0,4 do if 2<=f then if 2>=f then c(e[l],e[d]);n=n+1;e=t[n];else if f>3 then if(c[e[l]]~=e[y])then n=n+1;else n=e[d];end;else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end end else if f>=-4 then repeat if 0~=f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]];n=n+1;e=t[n];end end end break;end;for f=0,6 do if f>2 then if f<5 then if f>-1 then repeat if f>3 then h[e[d]]=c[e[l]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];end else if 5~=f then h[e[d]]=c[e[l]];else c[e[l]]=(e[d]~=0);n=n+1;e=t[n];end end else if f>=1 then if f~=-3 then repeat if 2>f then h[e[d]]=c[e[l]];n=n+1;e=t[n];break;end;c[e[l]]=h[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=h[e[d]];n=n+1;e=t[n];end else c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];end end end until true;else for f=0,6 do if f>2 then if f<5 then if f>-1 then repeat if f>3 then h[e[d]]=c[e[l]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];end else if 5~=f then h[e[d]]=c[e[l]];else c[e[l]]=(e[d]~=0);n=n+1;e=t[n];end end else if f>=1 then if f~=-3 then repeat if 2>f then h[e[d]]=c[e[l]];n=n+1;e=t[n];break;end;c[e[l]]=h[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=h[e[d]];n=n+1;e=t[n];end else c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];end end end end else if 28<=f then if f>=24 then repeat if f~=29 then local n=e[l];local l=c[n];for e=n+1,e[d]do o.nFmwIDES(l,c[e])end;break;end;local e=e[l];a=e+j-1;for n=e,a do local e=z[n-e];c[n]=e;end;until true;else local e=e[l];a=e+j-1;for n=e,a do local e=z[n-e];c[n]=e;end;end else local o;for f=0,6 do if f>=3 then if f<5 then if-1<f then for o=27,83 do if f<4 then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];break;end;c[e[l]]=h[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=h[e[d]];n=n+1;e=t[n];end else if f>=1 then repeat if f~=6 then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];break;end;c[e[l]]=h[e[d]];until true;else c[e[l]]=h[e[d]];end end else if 1<=f then if f>1 then c[e[l]]=h[e[d]];n=n+1;e=t[n];else c[e[l]]=h[e[d]];n=n+1;e=t[n];end else o=e[l]c[o](c[o+1])n=n+1;e=t[n];end end end end end end end end else if f>61 then if f>71 then if f<=76 then if 74<=f then if 75>f then local o,a,k,p,s,b,z,f;c[e[l]][e[d]]=c[e[y]];n=n+1;e=t[n];o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];f=0;while f>-1 do if 3<f then if f>5 then if f>5 then for e=26,64 do if f<7 then c[z]=b;break;end;f=-2;break;end;else f=-2;end else if 5>f then b=s[a[p]];else z=a[k];end end else if f<2 then if f>-1 then for n=32,56 do if 1~=f then a=e;break;end;k=l;break;end;else a=e;end else if f>=-1 then repeat if 3~=f then p=d;break;end;s=c;until true;else s=c;end end end f=f+1 end n=n+1;e=t[n];o=e[l]c[o](u(c,o+1,e[d]))else if f==76 then for e=e[l],e[d]do c[e]=nil;end;else local f,o,y;for u=0,2 do if 0<u then if u==2 then f=e[l];o=c[f]y=c[f+2];if(y>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end else c(e[l],e[d]);n=n+1;e=t[n];end else c[e[l]]=#c[e[d]];n=n+1;e=t[n];end end end end else if 73~=f then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;else local e=e[l]c[e]=c[e](u(c,e+1,a))end end else if 79<f then if 81<=f then if 78~=f then repeat if 82>f then if(c[e[l]]==e[y])then n=n+1;else n=e[d];end;break;end;if not c[e[l]]then n=n+1;else n=e[d];end;until true;else if(c[e[l]]==e[y])then n=n+1;else n=e[d];end;end else for f=0,6 do if 2<f then if f<=4 then if f>=-1 then for o=16,75 do if 4~=f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=#c[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=#c[e[d]];n=n+1;e=t[n];end else if f<6 then c[e[l]]=c[e[d]]-c[e[y]];n=n+1;e=t[n];else c(e[l],e[d]);end end else if 0<f then if-1<f then for o=27,83 do if 1~=f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end end else if f>=78 then if 76<=f then for o=44,96 do if f<79 then c[e[l]]=c[e[d]][e[y]];break;end;local o;for f=0,6 do if f>2 then if 5>f then if 0<f then repeat if f>3 then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;o=e[l]c[o]=c[o](c[o+1])n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end else if f>=1 then repeat if f<6 then c[e[l]]=#c[e[d]];n=n+1;e=t[n];break;end;if(c[e[l]]==e[y])then n=n+1;else n=e[d];end;until true;else if(c[e[l]]==e[y])then n=n+1;else n=e[d];end;end end else if 1<=f then if-2<f then repeat if 2~=f then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end break;end;else c[e[l]]=c[e[d]][e[y]];end else c[e[l]]=c[e[d]][c[e[y]]];end end end else if 66<f then if 68>=f then if 65<=f then repeat if 68>f then local f;c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];do return end;break;end;local e=e[l]c[e](c[e+1])until true;else local f;c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];do return end;end else if f<=69 then local e=e[l]c[e](c[e+1])else if 69~=f then repeat if 70~=f then if(c[e[l]]==c[e[y]])then n=n+1;else n=e[d];end;break;end;local f,r,h,o,u,y;c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];do return c[e[l]]end n=n+1;e=t[n];f=e[l];r={};for e=1,#s do h=s[e];for e=0,#h do o=h[e];u=o[1];y=o[2];if u==c and y>=f then r[y]=u[y];o[1]=r;end;end;end;n=n+1;e=t[n];n=e[d];until true;else if(c[e[l]]==c[e[y]])then n=n+1;else n=e[d];end;end end end else if f<=63 then if 59<=f then for n=20,78 do if 63~=f then r[e[d]]=c[e[l]];break;end;local e=e[l]c[e]=c[e](u(c,e+1,a))break;end;else r[e[d]]=c[e[l]];end else if 64>=f then local f;c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](c[f+1])n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;else if 63<f then repeat if 66>f then c[e[l]]=h[e[d]];break;end;c[e[l]]=c[e[d]]-e[y];until true;else c[e[l]]=h[e[d]];end end end end end else if f<51 then if f<46 then if f>=43 then if f<=43 then local e=e[l];do return u(c,e,a)end;else if f>44 then local a,h,r,f,u,o;c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];do return c[e[l]]end n=n+1;e=t[n];a=e[l];h={};for e=1,#s do r=s[e];for e=0,#r do f=r[e];u=f[1];o=f[2];if u==c and o>=a then h[o]=u[o];f[1]=h;end;end;end;else local t,h,y,u,o,f;local n=0;while n>-1 do if 4>n then if n<2 then if n>=-3 then repeat if 0<n then h=l;break;end;t=e;until true;else t=e;end else if 2<n then u=c;else y=d;end end else if n<=5 then if n==4 then o=u[t[y]];else f=t[h];end else if 2<=n then for e=10,81 do if n>6 then n=-2;break;end;c[f]=o;break;end;else c[f]=o;end end end n=n+1 end end end else if f>=38 then repeat if f<42 then local f;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];f=e[l];do return c[f](u(c,f+1,e[d]))end;n=n+1;e=t[n];f=e[l];do return u(c,f,a)end;n=n+1;e=t[n];do return end;break;end;local n=e[l];local l=c[e[d]];c[n+1]=l;c[n]=l[e[y]];until true;else local l=e[l];local n=c[e[d]];c[l+1]=n;c[l]=n[e[y]];end end else if f<48 then if 44<f then repeat if f>46 then local n=e[l]c[n]=c[n](u(c,n+1,e[d]))break;end;n=e[d];until true;else n=e[d];end else if 49<=f then if 47<f then repeat if f~=49 then local n=e[l]c[n](u(c,n+1,e[d]))break;end;n=e[d];until true;else n=e[d];end else local f;for o=0,2 do if 1>o then f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];else if-1<o then for f=23,72 do if o>1 then c[e[l]][c[e[d]]]=c[e[y]];break;end;c[e[l]]=c[e[d]]-e[y];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]]-e[y];n=n+1;e=t[n];end end end end end end else if 55<f then if 58<f then if f<=59 then local f,o,u;c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]={};n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];f=e[l];o=c[f]u=c[f+2];if(u>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end else if f~=59 then for o=17,93 do if 61~=f then local t,o,h,f,u,y;local n=0;while n>-1 do if 4>n then if 2<=n then if-2~=n then repeat if n>2 then f=c;break;end;h=d;until true;else f=c;end else if n>0 then o=l;else t=e;end end else if n<6 then if 3<n then for e=22,94 do if n~=5 then u=f[t[h]];break;end;y=t[o];break;end;else y=t[o];end else if n>4 then for e=46,76 do if n<7 then c[y]=u;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end break;end;for f=0,6 do if 2>=f then if 1<=f then if 0<f then for d=43,78 do if f<2 then c[e[l]]={};n=n+1;e=t[n];break;end;c[e[l]]={};n=n+1;e=t[n];break;end;else c[e[l]]={};n=n+1;e=t[n];end else c[e[l]]={};n=n+1;e=t[n];end else if 4<f then if 1<=f then repeat if 6>f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);until true;else c(e[l],e[d]);n=n+1;e=t[n];end else if f~=2 then for o=22,89 do if 4>f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end end end break;end;else local t,o,u,y,h,f;local n=0;while n>-1 do if 4>n then if 2<=n then if-2~=n then repeat if n>2 then y=c;break;end;u=d;until true;else y=c;end else if n>0 then o=l;else t=e;end end else if n<6 then if 3<n then for e=22,94 do if n~=5 then h=y[t[u]];break;end;f=t[o];break;end;else f=t[o];end else if n>4 then for e=46,76 do if n<7 then c[f]=h;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end end end else if 57>f then c[e[l]]=c[e[d]]%c[e[y]];else if 54<f then for t=46,90 do if f>57 then if(c[e[l]]==c[e[y]])then n=n+1;else n=e[d];end;break;end;if(e[l]<c[e[y]])then n=e[d];else n=n+1;end;break;end;else if(e[l]<c[e[y]])then n=e[d];else n=n+1;end;end end end else if f<53 then if f>=47 then repeat if f>51 then local o;for f=0,6 do if f<=2 then if f>=1 then if 0<f then repeat if 1<f then o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end else c(e[l],e[d]);n=n+1;e=t[n];end else if 5>f then if-1<f then for o=19,69 do if 3<f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]];n=n+1;e=t[n];end else if 3<f then repeat if f<6 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);until true;else c(e[l],e[d]);end end end end break;end;local f,o,u,y,t;local n=0;while n>-1 do if 2<n then if n<5 then if n~=0 then repeat if 3~=n then t=f[o];break;end;y=f[u];until true;else t=f[o];end else if 2<=n then for e=12,93 do if n~=5 then n=-2;break;end;c(t,y);break;end;else c(t,y);end end else if 0<n then if-2<n then repeat if n<2 then o=l;break;end;u=d;until true;else u=d;end else f=e;end end n=n+1 end until true;else local o;for f=0,6 do if f<=2 then if f>=1 then if 0<f then repeat if 1<f then o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end else c(e[l],e[d]);n=n+1;e=t[n];end else if 5>f then if-1<f then for o=19,69 do if 3<f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]];n=n+1;e=t[n];end else if 3<f then repeat if f<6 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);until true;else c(e[l],e[d]);end end end end end else if 54>f then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;else if 51<f then for n=35,95 do if 55>f then c[e[l]]=b(p[e[d]],nil,h);break;end;c[e[l]]=c[e[d]][c[e[y]]];break;end;else c[e[l]]=b(p[e[d]],nil,h);end end end end end end end else if 124>=f then if 103>=f then if f>92 then if 97<f then if 101<=f then if 101<f then if f~=98 then repeat if 103~=f then local f,o,u;for y=0,2 do if y>0 then if y==1 then c(e[l],e[d]);n=n+1;e=t[n];else f=e[l];o=c[f]u=c[f+2];if(u>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end end else c[e[l]]=#c[e[d]];n=n+1;e=t[n];end end break;end;local b,j,z,k,s,p,j,f,o,y,r,a,h;b=e[l]c[b]=c[b](u(c,b+1,e[d]))n=n+1;e=t[n];f=0;while f>-1 do if f>3 then if 6>f then if f>0 then repeat if f<5 then p=s[o[k]];break;end;h=o[z];until true;else p=s[o[k]];end else if 5~=f then for e=45,79 do if f~=7 then c[h]=p;break;end;f=-2;break;end;else f=-2;end end else if 2>f then if f~=1 then o=e;else z=l;end else if 1<f then for e=20,62 do if 2<f then s=c;break;end;k=d;break;end;else s=c;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if f>4 then if 6>f then c(h,a);else f=-2;end else if 4>f then a=o[r];else h=o[y];end end else if 1<=f then if f~=-3 then for e=28,71 do if f<2 then y=l;break;end;r=d;break;end;else y=l;end else o=e;end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if 5<=f then if f~=5 then f=-2;else c(h,a);end else if 2<f then repeat if f~=4 then a=o[r];break;end;h=o[y];until true;else h=o[y];end end else if 0<f then if f~=0 then repeat if f~=1 then r=d;break;end;y=l;until true;else r=d;end else o=e;end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if 5>f then if f~=1 then for e=11,62 do if 4>f then a=o[r];break;end;h=o[y];break;end;else h=o[y];end else if 2<=f then for e=25,75 do if f~=5 then f=-2;break;end;c(h,a);break;end;else f=-2;end end else if 1>f then o=e;else if 1==f then y=l;else r=d;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if f>2 then if f>=5 then if 1<f then for e=25,77 do if 5~=f then f=-2;break;end;c(h,a);break;end;else f=-2;end else if 3~=f then h=o[y];else a=o[r];end end else if f<=0 then o=e;else if f~=-2 then repeat if f~=2 then y=l;break;end;r=d;until true;else r=d;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 2<f then if f<=4 then if f~=3 then h=o[y];else a=o[r];end else if 2<=f then repeat if f~=6 then c(h,a);break;end;f=-2;until true;else f=-2;end end else if f>=1 then if f~=-1 then repeat if f>1 then r=d;break;end;y=l;until true;else y=l;end else o=e;end end f=f+1 end until true;else local b,j,z,k,s,p,j,f,o,y,r,a,h;b=e[l]c[b]=c[b](u(c,b+1,e[d]))n=n+1;e=t[n];f=0;while f>-1 do if f>3 then if 6>f then if f>0 then repeat if f<5 then p=s[o[k]];break;end;h=o[z];until true;else p=s[o[k]];end else if 5~=f then for e=45,79 do if f~=7 then c[h]=p;break;end;f=-2;break;end;else f=-2;end end else if 2>f then if f~=1 then o=e;else z=l;end else if 1<f then for e=20,62 do if 2<f then s=c;break;end;k=d;break;end;else s=c;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if f>4 then if 6>f then c(h,a);else f=-2;end else if 4>f then a=o[r];else h=o[y];end end else if 1<=f then if f~=-3 then for e=28,71 do if f<2 then y=l;break;end;r=d;break;end;else y=l;end else o=e;end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if 5<=f then if f~=5 then f=-2;else c(h,a);end else if 2<f then repeat if f~=4 then a=o[r];break;end;h=o[y];until true;else h=o[y];end end else if 0<f then if f~=0 then repeat if f~=1 then r=d;break;end;y=l;until true;else r=d;end else o=e;end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if 5>f then if f~=1 then for e=11,62 do if 4>f then a=o[r];break;end;h=o[y];break;end;else h=o[y];end else if 2<=f then for e=25,75 do if f~=5 then f=-2;break;end;c(h,a);break;end;else f=-2;end end else if 1>f then o=e;else if 1==f then y=l;else r=d;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if f>2 then if f>=5 then if 1<f then for e=25,77 do if 5~=f then f=-2;break;end;c(h,a);break;end;else f=-2;end else if 3~=f then h=o[y];else a=o[r];end end else if f<=0 then o=e;else if f~=-2 then repeat if f~=2 then y=l;break;end;r=d;until true;else r=d;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 2<f then if f<=4 then if f~=3 then h=o[y];else a=o[r];end else if 2<=f then repeat if f~=6 then c(h,a);break;end;f=-2;until true;else f=-2;end end else if f>=1 then if f~=-1 then repeat if f>1 then r=d;break;end;y=l;until true;else y=l;end else o=e;end end f=f+1 end end else local f,b,z,p,k,f,f,o,h,y,r,a,s;for f=0,6 do if 3>f then if f>=1 then if f==1 then f=0;while f>-1 do if f>=3 then if f>=5 then if 4<f then repeat if f~=5 then f=-2;break;end;c(a,r);until true;else f=-2;end else if f>1 then for e=37,91 do if 3~=f then a=o[h];break;end;r=o[y];break;end;else a=o[h];end end else if f<=0 then o=e;else if 0<=f then for e=21,70 do if 1~=f then y=d;break;end;h=l;break;end;else h=l;end end end f=f+1 end n=n+1;e=t[n];else f=0;while f>-1 do if 3<=f then if f<=4 then if 1<=f then for e=39,93 do if f<4 then r=o[y];break;end;a=o[h];break;end;else r=o[y];end else if f~=6 then c(a,r);else f=-2;end end else if f<=0 then o=e;else if-1<f then for e=21,90 do if f~=2 then h=l;break;end;y=d;break;end;else h=l;end end end f=f+1 end n=n+1;e=t[n];end else f=0;while f>-1 do if f<=3 then if 1<f then if f>-1 then repeat if f~=3 then z=d;break;end;p=c;until true;else p=c;end else if f~=-3 then for n=10,78 do if 0~=f then b=l;break;end;o=e;break;end;else b=l;end end else if f>5 then if 3~=f then for e=36,90 do if 7~=f then c[a]=k;break;end;f=-2;break;end;else f=-2;end else if 0~=f then for e=49,76 do if f~=4 then a=o[b];break;end;k=p[o[z]];break;end;else a=o[b];end end end f=f+1 end n=n+1;e=t[n];end else if 5<=f then if 2<=f then repeat if f>5 then s=e[l]c[s]=c[s](u(c,s+1,e[d]))break;end;f=0;while f>-1 do if 2>=f then if 0<f then if f>-3 then repeat if 2~=f then h=l;break;end;y=d;until true;else y=d;end else o=e;end else if 4>=f then if f<4 then r=o[y];else a=o[h];end else if 6~=f then c(a,r);else f=-2;end end end f=f+1 end n=n+1;e=t[n];until true;else f=0;while f>-1 do if 2>=f then if 0<f then if f>-3 then repeat if 2~=f then h=l;break;end;y=d;until true;else y=d;end else o=e;end else if 4>=f then if f<4 then r=o[y];else a=o[h];end else if 6~=f then c(a,r);else f=-2;end end end f=f+1 end n=n+1;e=t[n];end else if 1~=f then for u=31,98 do if 4>f then f=0;while f>-1 do if f<=2 then if 1<=f then if 2~=f then h=l;else y=d;end else o=e;end else if 5>f then if f>=0 then for e=15,85 do if f~=3 then a=o[h];break;end;r=o[y];break;end;else r=o[y];end else if 4<=f then for e=37,94 do if 5<f then f=-2;break;end;c(a,r);break;end;else f=-2;end end end f=f+1 end n=n+1;e=t[n];break;end;f=0;while f>-1 do if 3<=f then if 4>=f then if f~=1 then for e=21,95 do if f~=4 then r=o[y];break;end;a=o[h];break;end;else r=o[y];end else if 6==f then f=-2;else c(a,r);end end else if 0>=f then o=e;else if-3~=f then repeat if 1<f then y=d;break;end;h=l;until true;else h=l;end end end f=f+1 end n=n+1;e=t[n];break;end;else f=0;while f>-1 do if 3<=f then if 4>=f then if f~=1 then for e=21,95 do if f~=4 then r=o[y];break;end;a=o[h];break;end;else r=o[y];end else if 6==f then f=-2;else c(a,r);end end else if 0>=f then o=e;else if-3~=f then repeat if 1<f then y=d;break;end;h=l;until true;else h=l;end end end f=f+1 end n=n+1;e=t[n];end end end end end else if f<99 then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;else if 98<f then for o=26,86 do if 99<f then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;break;end;if c[e[l]]then n=n+1;else n=e[d];end;break;end;else if c[e[l]]then n=n+1;else n=e[d];end;end end end else if f>94 then if 95<f then if 97==f then local l=e[l];local f=c[l+2];local t=c[l]+f;c[l]=t;if(f>0)then if(t<=c[l+1])then n=e[d];c[l+3]=t;end elseif(t>=c[l+1])then n=e[d];c[l+3]=t;end else local f,y,r,o;f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];f=e[l]c[f]=c[f]()n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];f=e[l]y,r=k(c[f](u(c,f+1,e[d])))a=r+f-1 o=0;for e=f,a do o=o+1;c[e]=y[o];end;n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,a))end else for f=0,1 do if-4~=f then for o=27,80 do if f>0 then if not c[e[l]]then n=n+1;else n=e[d];end;break;end;c[e[l]]=h[e[d]];n=n+1;e=t[n];break;end;else if not c[e[l]]then n=n+1;else n=e[d];end;end end end else if f>92 then repeat if 94~=f then if not c[e[l]]then n=n+1;else n=e[d];end;break;end;local e=e[l]local l,n=k(c[e](c[e+1]))a=n+e-1 local n=0;for e=e,a do n=n+1;c[e]=l[n];end;until true;else if not c[e[l]]then n=n+1;else n=e[d];end;end end end else if 87<f then if f<90 then if 84<=f then repeat if f~=89 then local f;c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](c[f+1])n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;n=n+1;e=t[n];for e=e[l],e[d]do c[e]=nil;end;break;end;local f,o;f=e[l];o=c[e[d]];c[f+1]=o;c[f]=o[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];f=e[l];o=c[e[d]];c[f+1]=o;c[f]=o[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];until true;else local f,o;f=e[l];o=c[e[d]];c[f+1]=o;c[f]=o[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];f=e[l];o=c[e[d]];c[f+1]=o;c[f]=o[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];end else if 91>f then local f,o,y;for u=0,2 do if 1>u then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if u~=1 then f=e[l];o=c[f]y=c[f+2];if(y>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end else c(e[l],e[d]);n=n+1;e=t[n];end end end else if f~=90 then for y=49,81 do if f~=91 then local o;for f=0,6 do if 3<=f then if f<=4 then if 4~=f then c(e[l],e[d]);n=n+1;e=t[n];else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end else if f~=6 then c[e[l]]=c[e[d]];n=n+1;e=t[n];else c(e[l],e[d]);end end else if 1<=f then if f>=0 then repeat if 1<f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else c(e[l],e[d]);n=n+1;e=t[n];end else c(e[l],e[d]);n=n+1;e=t[n];end end end break;end;local e=e[l];local n=c[e];for e=e+1,a do o.nFmwIDES(n,c[e])end;break;end;else local o;for f=0,6 do if 3<=f then if f<=4 then if 4~=f then c(e[l],e[d]);n=n+1;e=t[n];else o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];end else if f~=6 then c[e[l]]=c[e[d]];n=n+1;e=t[n];else c(e[l],e[d]);end end else if 1<=f then if f>=0 then repeat if 1<f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else c(e[l],e[d]);n=n+1;e=t[n];end else c(e[l],e[d]);n=n+1;e=t[n];end end end end end end else if f<=84 then if 80<=f then for o=40,55 do if f~=83 then local f;c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](c[f+1])n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]][c[e[d]]]=c[e[y]];break;end;c[e[l]]=b(p[e[d]],nil,h);break;end;else c[e[l]]=b(p[e[d]],nil,h);end else if 85>=f then local u,o;for f=0,6 do if f<3 then if f<1 then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if-1<f then for o=21,89 do if f>1 then c[e[l]]=c[e[d]]+e[y];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]]%c[e[y]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]]+e[y];n=n+1;e=t[n];end end else if 4<f then if 4~=f then for o=23,62 do if f>5 then c[e[l]]=c[e[d]];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]];n=n+1;e=t[n];end else if 1~=f then repeat if 4~=f then c[e[l]]=r[e[d]];n=n+1;e=t[n];break;end;u=e[l];o=c[e[d]];c[u+1]=o;c[u]=o[e[y]];n=n+1;e=t[n];until true;else u=e[l];o=c[e[d]];c[u+1]=o;c[u]=o[e[y]];n=n+1;e=t[n];end end end end else if 87~=f then c[e[l]]=#c[e[d]];else for f=0,1 do if-3<f then repeat if f<1 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=h[e[d]];until true;else c[e[l]]=h[e[d]];end end end end end end end else if f<114 then if 109>f then if 105>=f then if 102<f then repeat if 104<f then local f,o;f=e[l];o=c[e[d]];c[f+1]=o;c[f]=o[e[y]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=c[e[d]]*e[y];break;end;local a,h,u,o,f,r,t;local n=0;while n>-1 do if n>2 then if n>4 then if n==5 then c[r]=t;else n=-2;end else if 1<n then repeat if n~=3 then t=c[f];for e=1+f,o[u]do t=t..c[e];end;break;end;r=o[a];until true;else t=c[f];for e=1+f,o[u]do t=t..c[e];end;end end else if 1>n then a=l;h=d;u=y;else if n~=0 then repeat if 2~=n then o=e;break;end;f=o[h];until true;else f=o[h];end end end n=n+1 end until true;else local a,h,u,o,f,r,t;local n=0;while n>-1 do if n>2 then if n>4 then if n==5 then c[r]=t;else n=-2;end else if 1<n then repeat if n~=3 then t=c[f];for e=1+f,o[u]do t=t..c[e];end;break;end;r=o[a];until true;else t=c[f];for e=1+f,o[u]do t=t..c[e];end;end end else if 1>n then a=l;h=d;u=y;else if n~=0 then repeat if 2~=n then o=e;break;end;f=o[h];until true;else f=o[h];end end end n=n+1 end end else if 107>f then local d,y,u,f,h;for r=0,1 do if r>-2 then repeat if r~=1 then d=e[l]y,u=k(c[d](c[d+1]))a=u+d-1 f=0;for e=d,a do f=f+1;c[e]=y[f];end;n=n+1;e=t[n];break;end;d=e[l];h=c[d];for e=d+1,a do o.nFmwIDES(h,c[e])end;until true;else d=e[l]y,u=k(c[d](c[d+1]))a=u+d-1 f=0;for e=d,a do f=f+1;c[e]=y[f];end;n=n+1;e=t[n];end end else if 103~=f then for o=24,86 do if f~=108 then local f,r,h,o,b,y;f=e[l];do return c[f](u(c,f+1,e[d]))end;n=n+1;e=t[n];f=e[l];do return u(c,f,a)end;n=n+1;e=t[n];f=e[l];r={};for e=1,#s do h=s[e];for e=0,#h do o=h[e];b=o[1];y=o[2];if b==c and y>=f then r[y]=b[y];o[1]=r;end;end;end;break;end;for f=0,6 do if 2<f then if f>=5 then if 2<f then for o=23,69 do if 5<f then c(e[l],e[d]);break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);end else if 0<=f then for o=12,65 do if f>3 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end else if f<1 then c[e[l]]={};n=n+1;e=t[n];else if-1<f then for o=16,52 do if 2~=f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end end end break;end;else for f=0,6 do if 2<f then if f>=5 then if 2<f then for o=23,69 do if 5<f then c(e[l],e[d]);break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);end else if 0<=f then for o=12,65 do if f>3 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end else if f<1 then c[e[l]]={};n=n+1;e=t[n];else if-1<f then for o=16,52 do if 2~=f then c(e[l],e[d]);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end end end end end end else if 110>=f then if 110>f then c[e[l]]=c[e[d]]+c[e[y]];else if(c[e[l]]==e[y])then n=n+1;else n=e[d];end;end else if f>111 then if f~=113 then c[e[l]]=(e[d]~=0);else for f=0,6 do if 2>=f then if f<1 then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];else if-2~=f then repeat if 1~=f then c[e[l]]=c[e[d]][e[y]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end else if f>=5 then if 4<=f then repeat if f~=5 then c[e[l]]=c[e[d]][e[y]];break;end;c[e[l]]=r[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=r[e[d]];n=n+1;e=t[n];end else if f>0 then repeat if f~=3 then c[e[l]]=(e[d]~=0);n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];until true;else c[e[l]]=(e[d]~=0);n=n+1;e=t[n];end end end end end else do return c[e[l]]end end end end else if f<=118 then if f>115 then if f<=116 then for f=0,6 do if 2>=f then if f<=0 then c[e[l]]=h[e[d]];n=n+1;e=t[n];else if 1==f then c[e[l]]=r[e[d]];n=n+1;e=t[n];else c[e[l]]=r[e[d]];n=n+1;e=t[n];end end else if 4>=f then if 4~=f then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];else c[e[l]]=r[e[d]];n=n+1;e=t[n];end else if f==6 then c[e[l]]={};else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end end else if f<118 then local f,h;for o=0,5 do if o>2 then if 4>o then f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];else if 4==o then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];else c[e[l]]=c[e[d]]+c[e[y]];end end else if 0>=o then f=e[l];h=c[e[d]];c[f+1]=h;c[f]=h[e[y]];n=n+1;e=t[n];else if o<2 then c[e[l]]=c[e[d]];n=n+1;e=t[n];else c[e[l]]=c[e[d]];n=n+1;e=t[n];end end end end else c[e[l]][e[d]]=c[e[y]];end end else if f>112 then repeat if 115~=f then local u,f;for o=0,6 do if 3>o then if o>=1 then if 1<o then c[e[l]]=c[e[d]];n=n+1;e=t[n];else c[e[l]]=c[e[d]]+c[e[y]];n=n+1;e=t[n];end else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end else if o>4 then if 1~=o then for h=42,82 do if o~=5 then u=e[d];f=c[u]for e=u+1,e[y]do f=f..c[e];end;c[e[l]]=f;break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;else u=e[d];f=c[u]for e=u+1,e[y]do f=f..c[e];end;c[e[l]]=f;end else if 1~=o then repeat if o>3 then c[e[l]]=c[e[d]]%e[y];n=n+1;e=t[n];break;end;c[e[l]]=r[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]]%e[y];n=n+1;e=t[n];end end end end break;end;local e=e[l];a=e+j-1;for n=e,a do local e=z[n-e];c[n]=e;end;until true;else local u,f;for o=0,6 do if 3>o then if o>=1 then if 1<o then c[e[l]]=c[e[d]];n=n+1;e=t[n];else c[e[l]]=c[e[d]]+c[e[y]];n=n+1;e=t[n];end else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end else if o>4 then if 1~=o then for h=42,82 do if o~=5 then u=e[d];f=c[u]for e=u+1,e[y]do f=f..c[e];end;c[e[l]]=f;break;end;c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;else u=e[d];f=c[u]for e=u+1,e[y]do f=f..c[e];end;c[e[l]]=f;end else if 1~=o then repeat if o>3 then c[e[l]]=c[e[d]]%e[y];n=n+1;e=t[n];break;end;c[e[l]]=r[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=c[e[d]]%e[y];n=n+1;e=t[n];end end end end end end else if 121<f then if f<=122 then local l=e[l];local t=c[l]local f=c[l+2];if(f>0)then if(t>c[l+1])then n=e[d];else c[l+3]=t;end elseif(t<c[l+1])then n=e[d];else c[l+3]=t;end else if f>=122 then for n=40,67 do if f<124 then local n=e[l];do return c[n](u(c,n+1,e[d]))end;break;end;local n=e[l]local l,e=k(c[n](u(c,n+1,e[d])))a=e+n-1 local e=0;for n=n,a do e=e+1;c[n]=l[e];end;break;end;else local n=e[l]local l,e=k(c[n](u(c,n+1,e[d])))a=e+n-1 local e=0;for n=n,a do e=e+1;c[n]=l[e];end;end end else if f<120 then c[e[l]]=c[e[d]]*e[y];else if 118<=f then repeat if 121~=f then do return c[e[l]]end break;end;c[e[l]]=(e[d]~=0);until true;else do return c[e[l]]end end end end end end end else if 146<=f then if f<156 then if 150>=f then if 148<=f then if f<149 then local j,a,h,r,j,f,s,o,b,z,p,k,y;f=0;while f>-1 do if f>2 then if 4>=f then if f~=0 then for e=35,84 do if 3<f then y=o[a];break;end;r=o[h];break;end;else y=o[a];end else if f>=4 then repeat if f~=5 then f=-2;break;end;c(y,r);until true;else f=-2;end end else if 1<=f then if f>=-3 then repeat if 2~=f then a=l;break;end;h=d;until true;else h=d;end else o=e;end end f=f+1 end n=n+1;e=t[n];s=e[l]c[s]=c[s](u(c,s+1,e[d]))n=n+1;e=t[n];f=0;while f>-1 do if f<4 then if 1>=f then if 0~=f then b=l;else o=e;end else if f>=1 then repeat if 3>f then z=d;break;end;p=c;until true;else p=c;end end else if 5<f then if f~=3 then repeat if 6<f then f=-2;break;end;c[y]=k;until true;else f=-2;end else if f~=1 then for e=24,54 do if 5~=f then k=p[o[z]];break;end;y=o[b];break;end;else y=o[b];end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3>f then if f>0 then if f<2 then a=l;else h=d;end else o=e;end else if 4<f then if 5==f then c(y,r);else f=-2;end else if 1<f then repeat if f<4 then r=o[h];break;end;y=o[a];until true;else r=o[h];end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if f<3 then if f>0 then if f>-3 then for e=40,83 do if f>1 then h=d;break;end;a=l;break;end;else h=d;end else o=e;end else if f<5 then if f>0 then for e=42,52 do if 4>f then r=o[h];break;end;y=o[a];break;end;else r=o[h];end else if 2~=f then for e=30,80 do if f<6 then c(y,r);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if f<=2 then if f>0 then if f<2 then a=l;else h=d;end else o=e;end else if f<5 then if-1<f then for e=30,59 do if 3~=f then y=o[a];break;end;r=o[h];break;end;else y=o[a];end else if 5<f then f=-2;else c(y,r);end end end f=f+1 end n=n+1;e=t[n];f=0;while f>-1 do if 3<=f then if f>=5 then if f>=4 then for e=30,78 do if f<6 then c(y,r);break;end;f=-2;break;end;else f=-2;end else if 0<f then repeat if 3~=f then y=o[a];break;end;r=o[h];until true;else r=o[h];end end else if f<1 then o=e;else if f==1 then a=l;else h=d;end end end f=f+1 end else if f>=145 then for o=17,69 do if 150>f then local f;c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=c[e[d]];break;end;local o,r,a,t,h,u,f;local n=0;while n>-1 do if 2<n then if 4<n then if n~=5 then n=-2;else c[u]=f;end else if n>-1 then for e=25,67 do if n<4 then u=t[o];break;end;f=c[h];for e=1+h,t[a]do f=f..c[e];end;break;end;else u=t[o];end end else if 0>=n then o=l;r=d;a=y;else if n<2 then t=e;else h=t[r];end end end n=n+1 end break;end;else local o,r,a,t,h,u,f;local n=0;while n>-1 do if 2<n then if 4<n then if n~=5 then n=-2;else c[u]=f;end else if n>-1 then for e=25,67 do if n<4 then u=t[o];break;end;f=c[h];for e=1+h,t[a]do f=f..c[e];end;break;end;else u=t[o];end end else if 0>=n then o=l;r=d;a=y;else if n<2 then t=e;else h=t[r];end end end n=n+1 end end end else if f>=144 then for n=36,89 do if f<147 then r[e[d]]=c[e[l]];break;end;c[e[l]]=c[e[d]]-e[y];break;end;else r[e[d]]=c[e[l]];end end else if 153>f then if 147<=f then for o=24,59 do if f~=152 then if(e[l]<c[e[y]])then n=e[d];else n=n+1;end;break;end;for f=0,6 do if 3>f then if f<1 then c[e[l]]=c[e[d]];n=n+1;e=t[n];else if 0<f then for o=26,80 do if f~=2 then c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);n=n+1;e=t[n];end end else if 5>f then if f>-1 then repeat if f~=4 then c(e[l],e[d]);n=n+1;e=t[n];break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else c(e[l],e[d]);n=n+1;e=t[n];end else if f==6 then c(e[l],e[d]);else c(e[l],e[d]);n=n+1;e=t[n];end end end end break;end;else if(e[l]<c[e[y]])then n=e[d];else n=n+1;end;end else if 154>f then if(c[e[l]]~=e[y])then n=n+1;else n=e[d];end;else if f~=155 then local o;for f=0,6 do if 2<f then if f<=4 then if f>2 then for o=34,98 do if 4>f then c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]];n=n+1;e=t[n];end else if 2<=f then repeat if f~=5 then o=e[l]c[o]=c[o](u(c,o+1,e[d]))break;end;c[e[l]]=c[e[d]];n=n+1;e=t[n];until true;else o=e[l]c[o]=c[o](u(c,o+1,e[d]))end end else if 0<f then if-3~=f then repeat if f~=2 then c[e[l]]=r[e[d]];n=n+1;e=t[n];break;end;c[e[l]]=r[e[d]];n=n+1;e=t[n];until true;else c[e[l]]=r[e[d]];n=n+1;e=t[n];end else c[e[l]]=r[e[d]];n=n+1;e=t[n];end end end else local l=e[l];local f=c[l+2];local t=c[l]+f;c[l]=t;if(f>0)then if(t<=c[l+1])then n=e[d];c[l+3]=t;end elseif(t>=c[l+1])then n=e[d];c[l+3]=t;end end end end end else if 161>f then if f<158 then if 155<f then repeat if f~=156 then for f=0,1 do if f>=-4 then repeat if 1>f then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if(c[e[l]]==c[e[y]])then n=n+1;else n=e[d];end;until true;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end break;end;local t=e[l];local l={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==c and e>=t then l[e]=d[e];n[1]=l;end;end;end;until true;else for f=0,1 do if f>=-4 then repeat if 1>f then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if(c[e[l]]==c[e[y]])then n=n+1;else n=e[d];end;until true;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end end else if 158>=f then local o;for f=0,6 do if 3<=f then if f>=5 then if f~=4 then for o=39,53 do if f~=5 then c(e[l],e[d]);break;end;c(e[l],e[d]);n=n+1;e=t[n];break;end;else c(e[l],e[d]);end else if f==3 then c[e[l]]={};n=n+1;e=t[n];else c[e[l]]=c[e[d]];n=n+1;e=t[n];end end else if f<=0 then c(e[l],e[d]);n=n+1;e=t[n];else if f==2 then o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];else c(e[l],e[d]);n=n+1;e=t[n];end end end end else if 158<=f then repeat if f<160 then local f,o,u;for y=0,2 do if 0>=y then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if y~=-1 then repeat if y>1 then f=e[l];o=c[f]u=c[f+2];if(u>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else c(e[l],e[d]);n=n+1;e=t[n];end end end break;end;local f;c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];c(e[l],e[d]);n=n+1;e=t[n];c(e[l],e[d]);until true;else local f,o,u;for y=0,2 do if 0>=y then c[e[l]]=#c[e[d]];n=n+1;e=t[n];else if y~=-1 then repeat if y>1 then f=e[l];o=c[f]u=c[f+2];if(u>0)then if(o>c[f+1])then n=e[d];else c[f+3]=o;end elseif(o<c[f+1])then n=e[d];else c[f+3]=o;end break;end;c(e[l],e[d]);n=n+1;e=t[n];until true;else c(e[l],e[d]);n=n+1;e=t[n];end end end end end end else if 164>f then if 162<=f then if f>160 then repeat if 162~=f then c[e[l]]=c[e[d]]%c[e[y]];break;end;local o;for f=0,3 do if 2>f then if f~=0 then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end else if f>=1 then for y=45,75 do if f>2 then if not c[e[l]]then n=n+1;else n=e[d];end;break;end;o=e[l]c[o]=c[o](u(c,o+1,e[d]))n=n+1;e=t[n];break;end;else if not c[e[l]]then n=n+1;else n=e[d];end;end end end until true;else c[e[l]]=c[e[d]]%c[e[y]];end else local e=e[l];local n=c[e];for e=e+1,a do o.nFmwIDES(n,c[e])end;end else if 164>=f then local o,f;for u=0,4 do if u>=2 then if 3>u then c[e[l]]=c[e[d]]%e[y];n=n+1;e=t[n];else if 0~=u then repeat if 4>u then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;o=e[d];f=c[o]for e=o+1,e[y]do f=f..c[e];end;c[e[l]]=f;until true;else o=e[d];f=c[o]for e=o+1,e[y]do f=f..c[e];end;c[e[l]]=f;end end else if u>-4 then for f=38,78 do if u~=1 then c[e[l]]=r[e[d]];n=n+1;e=t[n];break;end;c[e[l]]=c[e[d]]+c[e[y]];n=n+1;e=t[n];break;end;else c[e[l]]=c[e[d]]+c[e[y]];n=n+1;e=t[n];end end end else if 166>f then do return end;else local f;for o=0,1 do if-3~=o then for y=29,88 do if 0~=o then if not c[e[l]]then n=n+1;else n=e[d];end;break;end;f=e[l]c[f]=c[f]()n=n+1;e=t[n];break;end;else if not c[e[l]]then n=n+1;else n=e[d];end;end end end end end end end else if 134<f then if f<=139 then if 136>=f then if 136>f then c[e[l]]={};else local f;c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](c[f+1])n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;n=n+1;e=t[n];for e=e[l],e[d]do c[e]=nil;end;end else if 137>=f then c[e[l]]();else if 134~=f then repeat if 138<f then local e=e[l]c[e]=c[e](c[e+1])break;end;c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];until true;else c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];end end end else if 143<=f then if f<=143 then for f=0,1 do if-2<f then for o=47,52 do if f<1 then c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];break;end;if not c[e[l]]then n=n+1;else n=e[d];end;break;end;else c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];end end else if f>143 then for n=34,72 do if 145~=f then c[e[l]]=c[e[d]][e[y]];break;end;c[e[l]]=c[e[d]]+c[e[y]];break;end;else c[e[l]]=c[e[d]][e[y]];end end else if f<141 then c[e[l]]=c[e[d]]-c[e[y]];else if 140~=f then for o=33,71 do if 142>f then local f;c[e[l]][e[d]]=c[e[y]];n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](u(c,f+1,e[d]))break;end;c[e[l]]=#c[e[d]];break;end;else local f;c[e[l]][e[d]]=c[e[y]];n=n+1;e=t[n];f=e[l]c[f]=c[f](u(c,f+1,e[d]))n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]=r[e[d]];n=n+1;e=t[n];c[e[l]]=c[e[d]][c[e[y]]];n=n+1;e=t[n];c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](u(c,f+1,e[d]))end end end end else if f>129 then if 132>f then if f~=131 then c[e[l]]=c[e[d]]*e[y];else local l=e[l];local t=c[l]local f=c[l+2];if(f>0)then if(t>c[l+1])then n=e[d];else c[l+3]=t;end elseif(t<c[l+1])then n=e[d];else c[l+3]=t;end end else if 133<=f then if f~=133 then local n=e[l];local l=c[e[d]];c[n+1]=l;c[n]=l[e[y]];else local n=e[l];do return c[n](u(c,n+1,e[d]))end;end else h[e[d]]=c[e[l]];end end else if 127>f then if 124<f then repeat if 125<f then c[e[l]]=c[e[d]]+e[y];break;end;local f;c[e[l]]=c[e[d]];n=n+1;e=t[n];f=e[l]c[f](c[f+1])n=n+1;e=t[n];c[e[l]]=h[e[d]];n=n+1;e=t[n];c[e[l]]();n=n+1;e=t[n];do return end;n=n+1;e=t[n];for e=e[l],e[d]do c[e]=nil;end;until true;else c[e[l]]=c[e[d]]+e[y];end else if f<128 then do return end;else if 125<=f then for n=42,95 do if 128<f then local n=e[l]c[n]=c[n](u(c,n+1,e[d]))break;end;local n=e[l];local l=c[n];for e=n+1,e[d]do o.nFmwIDES(l,c[e])end;break;end;else local n=e[l];local l=c[n];for e=n+1,e[d]do o.nFmwIDES(l,c[e])end;end end end end end end end end n=1+n;end;end;return ce end;local d=0xff;local t={};local o=(1);local l='';(function(n)local c=n local f=0x00 local e=0x00 c={(function(t)if f>0x25 then return t end f=f+1 e=(e+0x137a-t)%0x2b return(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x3d);end return true end)'toPbE'and c[0x1](0x1de+t))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x45);end return true end)'WMeXR'and c[0x3](t+0x306))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x7a);l='\37';d={function()d()end};l=l..'\100\43';end return true end)'nxWTn'and c[0x2](t+0x129))or t end),(function(y)if f>0x1f then return y end f=f+1 e=(e+0xd46-y)%0x1d return(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x94);d[2]=(d[2]*(ne(function()t()end,u(l))-ne(d[1],u(l))))+1;t[o]={};d=d[2];o=o+d;end return true end)'edqCi'and c[0x3](0x2a1+y))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xe0);end return true end)'wyqfO'and c[0x1](y+0x383))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xa7);l={l..'\58 a',l};t[o]=ce();o=o+(1);l[1]='\58'..l[1];d[2]=0xff;end return true end)'KWnYy'and c[0x2](y+0x319))or y end),(function(l)if f>0x28 then return l end f=f+1 e=(e+0x981-l)%0x28 return(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x99);end return true end)'kSpFm'and c[0x2](0xd6+l))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xaa);end return true end)'aXVLV'and c[0x3](l+0x133))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xce);t[o]=te();o=o+d;end return true end)'zvECb'and c[0x1](l+0x2e2))or l end)}c[0x1](0x2605)end){};local e=b(u(t));t[2]={};t[1]=e(t[1])mQhSJFBzqJA_oDJ=nil;e=b(u(t))return e(...);end return de((function()local n={}local e=0x01;local c;if o.EUjVsBUm then c=o.EUjVsBUm(de)else c=''end if o.ubKdPOeI(c,o.XbUqkwEA)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,n,c,d,l,t)local t;if 4<=e then if e>=6 then if e>6 then if e>4 then for n=30,66 do if e<8 then do return setmetatable({},{['__\99\97\108\108']=function(e,d,l,c,n)if n then return e[n]elseif c then return e else e[d]=l end end})end break;end;do return c(e,nil,c);end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,c,l,d,n)if n then return e[n]elseif d then return e else e[c]=l end end})end end else do return l[c]end;end else if e>4 then local e=d;do return function()local n=n(c,e(e,e),e(e,e));e(1);return n;end;end;else local e=d;local d,f,o=l(2);do return function()local c,l,t,n=n(c,e(e,e),e(e,e)+3);e(4);return(n*d)+(t*f)+(l*o)+c;end;end;end end else if 1>=e then if e>-1 then for t=10,98 do if e~=0 then do return function(c,e,n)if n then local e=(c/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(c%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return n(1),n(4,l,d,c,n),n(5,l,d,c)end;break;end;else do return function(n,e,c)if c then local e=(n/2^(e-1))%2^((c-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if e~=-1 then for t=21,96 do if e~=2 then do return n(1),n(4,l,d,c,n),n(5,l,d,c)end;break;end;do return 16777216,65536,256 end;break;end;else do return 16777216,65536,256 end;end end end end),...)
+--[[
+
+███████╗██╗░░░░░██╗░░░██╗███████╗███╗░░██╗████████╗  ██████╗░██╗░░░░░██╗░░░██╗░██████╗
+██╔════╝██║░░░░░██║░░░██║██╔════╝████╗░██║╚══██╔══╝  ██╔══██╗██║░░░░░██║░░░██║██╔════╝
+█████╗░░██║░░░░░██║░░░██║█████╗░░██╔██╗██║░░░██║░░░  ██████╔╝██║░░░░░██║░░░██║╚█████╗░
+██╔══╝░░██║░░░░░██║░░░██║██╔══╝░░██║╚████║░░░██║░░░  ██╔═══╝░██║░░░░░██║░░░██║░╚═══██╗
+██║░░░░░███████╗╚██████╔╝███████╗██║░╚███║░░░██║░░░  ██║░░░░░███████╗╚██████╔╝██████╔╝
+╚═╝░░░░░╚══════╝░╚═════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░  ╚═╝░░░░░╚══════╝░╚═════╝░╚═════╝░
+
+A modified version of Fluent
+github.com/discoart/FluentPlus | dsc.gg/hydrahub
+
+]]
+
+--- button
+local Show_Button = false
+local Button_Icon = ""
+---
+
+local Lighting = game:GetService("Lighting")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local TextService = game:GetService("TextService")
+local Camera = game:GetService("Workspace").CurrentCamera
+local Mouse = LocalPlayer:GetMouse()
+local httpService = game:GetService("HttpService")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+local Mobile
+if RunService:IsStudio() then
+	Mobile = false
+else
+	Mobile = table.find({Enum.Platform.IOS, Enum.Platform.Android}, UserInputService:GetPlatform()) ~= nil
+end
+
+if Show_Button then
+	Mobile = true
+end
+
+local fischbypass
+
+if game.GameId == 5750914919 then
+	fischbypass = true
+end
+
+local RenderStepped = RunService.RenderStepped
+
+local ProtectGui = protectgui or (syn and syn.protect_gui) or function() end
+
+local Themes = {
+	Names = {
+		"Dark",
+		"Darker", 
+		"AMOLED",
+		"Light",
+		"Balloon",
+		"SoftCream",
+		"Aqua", 
+		"Amethyst",
+		"Rose",
+		"Midnight",
+		"Forest",
+		"Sunset", 
+		"Ocean",
+		"Emerald",
+		"Sapphire",
+		"Cloud",
+		"Grape",
+		"Bloody",
+		"Arctic"
+	},
+	Dark = {
+		Name = "Dark",
+		Accent = Color3.fromRGB(96, 205, 255),
+		AcrylicMain = Color3.fromRGB(60, 60, 60),
+		AcrylicBorder = Color3.fromRGB(90, 90, 90),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(40, 40, 40), Color3.fromRGB(40, 40, 40)),
+		AcrylicNoise = 0.9,
+		TitleBarLine = Color3.fromRGB(75, 75, 75),
+		Tab = Color3.fromRGB(120, 120, 120),
+		Element = Color3.fromRGB(120, 120, 120),
+		ElementBorder = Color3.fromRGB(35, 35, 35),
+		InElementBorder = Color3.fromRGB(90, 90, 90),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(120, 120, 120),
+		ToggleToggled = Color3.fromRGB(42, 42, 42),
+		SliderRail = Color3.fromRGB(120, 120, 120),
+		DropdownFrame = Color3.fromRGB(160, 160, 160),
+		DropdownHolder = Color3.fromRGB(45, 45, 45),
+		DropdownBorder = Color3.fromRGB(35, 35, 35),
+		DropdownOption = Color3.fromRGB(120, 120, 120),
+		Keybind = Color3.fromRGB(120, 120, 120),
+		Input = Color3.fromRGB(160, 160, 160),
+		InputFocused = Color3.fromRGB(10, 10, 10),
+		InputIndicator = Color3.fromRGB(150, 150, 150),
+		Dialog = Color3.fromRGB(45, 45, 45),
+		DialogHolder = Color3.fromRGB(35, 35, 35),
+		DialogHolderLine = Color3.fromRGB(30, 30, 30),
+		DialogButton = Color3.fromRGB(45, 45, 45),
+		DialogButtonBorder = Color3.fromRGB(80, 80, 80),
+		DialogBorder = Color3.fromRGB(70, 70, 70),
+		DialogInput = Color3.fromRGB(55, 55, 55),
+		DialogInputLine = Color3.fromRGB(160, 160, 160),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(120, 120, 120),
+		HoverChange = 0.07,
+	},
+	Darker = {
+		Name = "Darker",
+		Accent = Color3.fromRGB(56, 109, 223),
+		AcrylicMain = Color3.fromRGB(30, 30, 30),
+		AcrylicBorder = Color3.fromRGB(60, 60, 60),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(17, 17, 17), Color3.fromRGB(18, 18, 18)),
+		AcrylicNoise = 0.94,
+		TitleBarLine = Color3.fromRGB(65, 65, 65),
+		Tab = Color3.fromRGB(100, 100, 100),
+		Element = Color3.fromRGB(70, 70, 70),
+		ElementBorder = Color3.fromRGB(25, 25, 25),
+		InElementBorder = Color3.fromRGB(55, 55, 55),
+		ElementTransparency = 0.82,
+		DropdownFrame = Color3.fromRGB(120, 120, 120),
+		DropdownHolder = Color3.fromRGB(35, 35, 35),
+		DropdownBorder = Color3.fromRGB(25, 25, 25),
+		Dialog = Color3.fromRGB(35, 35, 35),
+		DialogHolder = Color3.fromRGB(25, 25, 25),
+		DialogHolderLine = Color3.fromRGB(20, 20, 20),
+		DialogButton = Color3.fromRGB(35, 35, 35),
+		DialogButtonBorder = Color3.fromRGB(55, 55, 55),
+		DialogBorder = Color3.fromRGB(50, 50, 50),
+		DialogInput = Color3.fromRGB(45, 45, 45),
+		DialogInputLine = Color3.fromRGB(120, 120, 120),
+	},
+	AMOLED = {
+		Name = "AMOLED",
+		Accent = Color3.fromRGB(255, 255, 255),
+		AcrylicMain = Color3.fromRGB(0, 0, 0),
+		AcrylicBorder = Color3.fromRGB(20, 20, 20),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(0, 0, 0), Color3.fromRGB(0, 0, 0)),
+		AcrylicNoise = 1,
+		TitleBarLine = Color3.fromRGB(25, 25, 25),
+		Tab = Color3.fromRGB(40, 40, 40),
+		Element = Color3.fromRGB(15, 15, 15),
+		ElementBorder = Color3.fromRGB(0, 0, 0),
+		InElementBorder = Color3.fromRGB(40, 40, 40),
+		ElementTransparency = 0.95,
+		ToggleSlider = Color3.fromRGB(40, 40, 40),
+		ToggleToggled = Color3.fromRGB(255, 255, 255),
+		SliderRail = Color3.fromRGB(40, 40, 40),
+		DropdownFrame = Color3.fromRGB(20, 20, 20),
+		DropdownHolder = Color3.fromRGB(0, 0, 0),
+		DropdownBorder = Color3.fromRGB(0, 0, 0),
+		DropdownOption = Color3.fromRGB(40, 40, 40),
+		Keybind = Color3.fromRGB(40, 40, 40),
+		Input = Color3.fromRGB(40, 40, 40),
+		InputFocused = Color3.fromRGB(0, 0, 0),
+		InputIndicator = Color3.fromRGB(60, 60, 60),
+		InputIndicatorFocus = Color3.fromRGB(255, 255, 255),
+		Dialog = Color3.fromRGB(0, 0, 0),
+		DialogHolder = Color3.fromRGB(0, 0, 0),
+		DialogHolderLine = Color3.fromRGB(20, 20, 20),
+		DialogButton = Color3.fromRGB(15, 15, 15),
+		DialogButtonBorder = Color3.fromRGB(30, 30, 30),
+		DialogBorder = Color3.fromRGB(27, 27, 27),
+		DialogInput = Color3.fromRGB(15, 15, 15),
+		DialogInputLine = Color3.fromRGB(60, 60, 60),
+		Text = Color3.fromRGB(255, 255, 255),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(40, 40, 40),
+		HoverChange = 0.04
+	},
+	Light = {
+		Name = "Light",
+		Accent = Color3.fromRGB(0, 103, 192),
+		AcrylicMain = Color3.fromRGB(200, 200, 200),
+		AcrylicBorder = Color3.fromRGB(120, 120, 120),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 255, 255), Color3.fromRGB(255, 255, 255)),
+		AcrylicNoise = 0.96,
+		TitleBarLine = Color3.fromRGB(160, 160, 160),
+		Tab = Color3.fromRGB(90, 90, 90),
+		Element = Color3.fromRGB(255, 255, 255),
+		ElementBorder = Color3.fromRGB(180, 180, 180),
+		InElementBorder = Color3.fromRGB(150, 150, 150),
+		ElementTransparency = 0.65,
+		ToggleSlider = Color3.fromRGB(40, 40, 40),
+		ToggleToggled = Color3.fromRGB(255, 255, 255),
+		SliderRail = Color3.fromRGB(40, 40, 40),
+		DropdownFrame = Color3.fromRGB(200, 200, 200),
+		DropdownHolder = Color3.fromRGB(240, 240, 240),
+		DropdownBorder = Color3.fromRGB(200, 200, 200),
+		DropdownOption = Color3.fromRGB(150, 150, 150),
+		Keybind = Color3.fromRGB(120, 120, 120),
+		Input = Color3.fromRGB(200, 200, 200),
+		InputFocused = Color3.fromRGB(100, 100, 100),
+		InputIndicator = Color3.fromRGB(80, 80, 80),
+		InputIndicatorFocus = Color3.fromRGB(0, 103, 192),
+		Dialog = Color3.fromRGB(255, 255, 255),
+		DialogHolder = Color3.fromRGB(240, 240, 240),
+		DialogHolderLine = Color3.fromRGB(228, 228, 228),
+		DialogButton = Color3.fromRGB(255, 255, 255),
+		DialogButtonBorder = Color3.fromRGB(190, 190, 190),
+		DialogBorder = Color3.fromRGB(140, 140, 140),
+		DialogInput = Color3.fromRGB(250, 250, 250),
+		DialogInputLine = Color3.fromRGB(160, 160, 160),
+		Text = Color3.fromRGB(0, 0, 0),
+		SubText = Color3.fromRGB(40, 40, 40),
+		Hover = Color3.fromRGB(50, 50, 50),
+		HoverChange = 0.16,
+	},
+	Balloon = {
+		Name = "Balloon",
+		Accent = Color3.fromRGB(100, 170, 255),
+		AcrylicMain = Color3.fromRGB(189, 224, 255),
+		AcrylicBorder = Color3.fromRGB(160, 227, 255),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(240, 250, 255), Color3.fromRGB(210, 235, 250)),
+		AcrylicNoise = 1,
+		TitleBarLine = Color3.fromRGB(150, 200, 255),
+		Tab = Color3.fromRGB(153, 185, 255),
+		Element = Color3.fromRGB(160, 200, 255),
+		ElementBorder = Color3.fromRGB(130, 170, 230),
+		InElementBorder = Color3.fromRGB(120, 174, 240),
+		ElementTransparency = 0.80,
+		ToggleSlider = Color3.fromRGB(93, 163, 255),
+		ToggleToggled = Color3.fromRGB(60, 112, 180),
+		SliderRail = Color3.fromRGB(170, 220, 255),
+		DropdownFrame = Color3.fromRGB(175, 235, 255),
+		DropdownHolder = Color3.fromRGB(200, 220, 240),
+		DropdownBorder = Color3.fromRGB(130, 170, 230),
+		DropdownOption = Color3.fromRGB(146, 202, 255),
+		Keybind = Color3.fromRGB(170, 220, 255),
+		Input = Color3.fromRGB(170, 220, 255),
+		InputFocused = Color3.fromRGB(75, 95, 140),
+		InputIndicator = Color3.fromRGB(190, 250, 255),
+		InputIndicatorFocus = Color3.fromRGB(100, 170, 255),
+		Dialog = Color3.fromRGB(189, 230, 255),
+		DialogHolder = Color3.fromRGB(201, 239, 255),
+		DialogHolderLine = Color3.fromRGB(197, 236, 250),
+		DialogButton = Color3.fromRGB(219, 252, 255),
+		DialogButtonBorder = Color3.fromRGB(160, 200, 255),
+		DialogBorder = Color3.fromRGB(175, 220, 255),
+		DialogInput = Color3.fromRGB(160, 200, 255),
+		DialogInputLine = Color3.fromRGB(185, 230, 255),
+		Text = Color3.fromRGB(30, 30, 30),
+		SubText = Color3.fromRGB(90, 90, 90),
+		Hover = Color3.fromRGB(170, 220, 255),
+		HoverChange = 0.03
+	},
+	SoftCream = {
+		Name = "SoftCream",
+		Accent = Color3.fromRGB(206, 163, 90),
+		AcrylicMain = Color3.fromRGB(255, 245, 220),
+		AcrylicBorder = Color3.fromRGB(255, 230, 200),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 245, 220), Color3.fromRGB(255, 235, 210)),
+		AcrylicNoise = 0.93,
+		TitleBarLine = Color3.fromRGB(255, 220, 190),
+		Tab = Color3.fromRGB(199, 165, 112),
+		Element = Color3.fromRGB(255, 216, 161),
+		ElementBorder = Color3.fromRGB(234, 193, 111),
+		InElementBorder = Color3.fromRGB(255, 212, 143),
+		ElementTransparency = 0.80,
+		ToggleSlider = Color3.fromRGB(214, 175, 97),
+		ToggleToggled = Color3.fromRGB(200, 160, 100),
+		SliderRail = Color3.fromRGB(255, 220, 190),
+		DropdownFrame = Color3.fromRGB(255, 228, 164),
+		DropdownHolder = Color3.fromRGB(250, 240, 225),
+		DropdownBorder = Color3.fromRGB(255, 210, 180),
+		DropdownOption = Color3.fromRGB(255, 190, 115),
+		Keybind = Color3.fromRGB(255, 220, 190),
+		Input = Color3.fromRGB(255, 220, 190),
+		InputFocused = Color3.fromRGB(180, 140, 80),
+		InputIndicator = Color3.fromRGB(255, 250, 205),
+		InputIndicatorFocus = Color3.fromRGB(255, 236, 158),
+		Dialog = Color3.fromRGB(255, 255, 240),
+		DialogHolder = Color3.fromRGB(255, 245, 220),
+		DialogHolderLine = Color3.fromRGB(255, 240, 210),
+		DialogButton = Color3.fromRGB(255, 255, 240),
+		DialogButtonBorder = Color3.fromRGB(255, 210, 180),
+		DialogBorder = Color3.fromRGB(255, 220, 190),
+		DialogInput = Color3.fromRGB(255, 210, 180),
+		DialogInputLine = Color3.fromRGB(255, 225, 205),
+		Text = Color3.fromRGB(30, 30, 30),
+		SubText = Color3.fromRGB(90, 90, 90),
+		Hover = Color3.fromRGB(255, 220, 190),
+		HoverChange = 0.03
+	},
+	Aqua = {
+		Name = "Aqua",
+		Accent = Color3.fromRGB(38, 166, 178),
+		AcrylicMain = Color3.fromRGB(18, 54, 61),
+		AcrylicBorder = Color3.fromRGB(80, 118, 130),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(41, 101, 139), Color3.fromRGB(11, 132, 128)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(68, 135, 136),
+		Tab = Color3.fromRGB(126, 175, 180),
+		Element = Color3.fromRGB(66, 130, 160),
+		ElementBorder = Color3.fromRGB(40, 100, 122),
+		InElementBorder = Color3.fromRGB(75, 109, 110),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(100, 152, 160),
+		ToggleToggled = Color3.fromRGB(25, 70, 95),
+		SliderRail = Color3.fromRGB(115, 150, 160),
+		DropdownFrame = Color3.fromRGB(158, 194, 200),
+		DropdownHolder = Color3.fromRGB(39, 99, 116),
+		DropdownBorder = Color3.fromRGB(33, 119, 120),
+		DropdownOption = Color3.fromRGB(121, 152, 160),
+		Keybind = Color3.fromRGB(108, 153, 160),
+		Input = Color3.fromRGB(112, 156, 160),
+		InputFocused = Color3.fromRGB(14, 35, 40),
+		InputIndicator = Color3.fromRGB(137, 181, 190),
+		Dialog = Color3.fromRGB(27, 113, 130),
+		DialogHolder = Color3.fromRGB(33, 99, 109),
+		DialogHolderLine = Color3.fromRGB(34, 81, 86),
+		DialogButton = Color3.fromRGB(27, 128, 130),
+		DialogButtonBorder = Color3.fromRGB(62, 100, 110),
+		DialogBorder = Color3.fromRGB(26, 86, 100),
+		DialogInput = Color3.fromRGB(36, 107, 105),
+		DialogInputLine = Color3.fromRGB(70, 120, 130),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(112, 155, 160),
+		HoverChange = 0.04,
+	},
+	Amethyst = {
+		Name = "Amethyst",
+		Accent = Color3.fromRGB(126, 44, 182),
+		AcrylicMain = Color3.fromRGB(40, 12, 71),
+		AcrylicBorder = Color3.fromRGB(85, 45, 120),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(34, 19, 49), Color3.fromRGB(41, 24, 57)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(95, 55, 130),
+		Tab = Color3.fromRGB(135, 75, 170),
+		Element = Color3.fromRGB(115, 55, 150),
+		ElementBorder = Color3.fromRGB(60, 35, 85),
+		InElementBorder = Color3.fromRGB(85, 45, 110),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(135, 65, 160),
+		ToggleToggled = Color3.fromRGB(59, 30, 79),
+		SliderRail = Color3.fromRGB(135, 65, 160),
+		DropdownFrame = Color3.fromRGB(145, 85, 170),
+		DropdownHolder = Color3.fromRGB(50, 30, 70),
+		DropdownBorder = Color3.fromRGB(60, 35, 85),
+		DropdownOption = Color3.fromRGB(135, 65, 160),
+		Keybind = Color3.fromRGB(135, 65, 160),
+		Input = Color3.fromRGB(135, 65, 160),
+		InputFocused = Color3.fromRGB(25, 15, 35),
+		InputIndicator = Color3.fromRGB(155, 85, 180),
+		InputIndicatorFocus = Color3.fromRGB(126, 44, 182),
+		Dialog = Color3.fromRGB(50, 30, 70),
+		DialogHolder = Color3.fromRGB(40, 25, 60),
+		DialogHolderLine = Color3.fromRGB(35, 20, 55),
+		DialogButton = Color3.fromRGB(50, 30, 70),
+		DialogButtonBorder = Color3.fromRGB(90, 50, 120),
+		DialogBorder = Color3.fromRGB(80, 45, 110),
+		DialogInput = Color3.fromRGB(60, 35, 80),
+		DialogInputLine = Color3.fromRGB(145, 75, 170),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(135, 65, 160),
+		HoverChange = 0.04
+	},
+	Rose = {
+		Name = "Rose",
+		Accent = Color3.fromRGB(219, 48, 123),
+		AcrylicMain = Color3.fromRGB(35, 25, 30),
+		AcrylicBorder = Color3.fromRGB(145, 35, 75),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(65, 25, 45), Color3.fromRGB(75, 30, 50)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(150, 65, 95),
+		Tab = Color3.fromRGB(190, 85, 115),
+		Element = Color3.fromRGB(170, 60, 90),
+		ElementBorder = Color3.fromRGB(95, 35, 55),
+		InElementBorder = Color3.fromRGB(120, 50, 70),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(190, 75, 105),
+		ToggleToggled = Color3.fromRGB(45, 15, 25),
+		SliderRail = Color3.fromRGB(190, 75, 105),
+		DropdownFrame = Color3.fromRGB(200, 95, 125),
+		DropdownHolder = Color3.fromRGB(75, 30, 45),
+		DropdownBorder = Color3.fromRGB(95, 35, 55),
+		DropdownOption = Color3.fromRGB(190, 75, 105),
+		Keybind = Color3.fromRGB(190, 75, 105),
+		Input = Color3.fromRGB(190, 75, 105),
+		InputFocused = Color3.fromRGB(35, 15, 20),
+		InputIndicator = Color3.fromRGB(210, 95, 125),
+		InputIndicatorFocus = Color3.fromRGB(219, 48, 123),
+		Dialog = Color3.fromRGB(75, 30, 45),
+		DialogHolder = Color3.fromRGB(65, 25, 40),
+		DialogHolderLine = Color3.fromRGB(60, 20, 35),
+		DialogButton = Color3.fromRGB(75, 30, 45),
+		DialogButtonBorder = Color3.fromRGB(115, 45, 65),
+		DialogBorder = Color3.fromRGB(105, 40, 60),
+		DialogInput = Color3.fromRGB(85, 35, 50),
+		DialogInputLine = Color3.fromRGB(200, 85, 115),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(190, 75, 105),
+		HoverChange = 0.04
+	},
+	Midnight = {
+		Name = "Midnight",
+		Accent = Color3.fromRGB(52, 50, 178),
+		AcrylicMain = Color3.fromRGB(20, 20, 20),
+		AcrylicBorder = Color3.fromRGB(83, 83, 130),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(1, 1, 39), Color3.fromRGB(6, 6, 54)),
+		AcrylicNoise = 0.96,
+		TitleBarLine = Color3.fromRGB(77, 75, 126),
+		Tab = Color3.fromRGB(126, 127, 180),
+		Element = Color3.fromRGB(111, 108, 160),
+		ElementBorder = Color3.fromRGB(32, 32, 59),
+		InElementBorder = Color3.fromRGB(85, 83, 110),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(120, 117, 160),
+		ToggleToggled = Color3.fromRGB(30, 12, 68),
+		SliderRail = Color3.fromRGB(117, 117, 160),
+		DropdownFrame = Color3.fromRGB(161, 161, 200),
+		DropdownHolder = Color3.fromRGB(35, 36, 80),
+		DropdownBorder = Color3.fromRGB(32, 30, 65),
+		DropdownOption = Color3.fromRGB(116, 116, 160),
+		Keybind = Color3.fromRGB(110, 123, 160),
+		Input = Color3.fromRGB(116, 112, 160),
+		InputFocused = Color3.fromRGB(20, 10, 30),
+		InputIndicator = Color3.fromRGB(136, 140, 190),
+		Dialog = Color3.fromRGB(37, 37, 80),
+		DialogHolder = Color3.fromRGB(24, 24, 65),
+		DialogHolderLine = Color3.fromRGB(25, 26, 60),
+		DialogButton = Color3.fromRGB(46, 44, 80),
+		DialogButtonBorder = Color3.fromRGB(71, 72, 110),
+		DialogBorder = Color3.fromRGB(72, 70, 100),
+		DialogInput = Color3.fromRGB(55, 55, 85),
+		DialogInputLine = Color3.fromRGB(133, 131, 190),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(119, 121, 160),
+		HoverChange = 0.04,
+	},
+	Forest = {
+		Name = "Forest",
+		Accent = Color3.fromRGB(46, 141, 70),
+		AcrylicMain = Color3.fromRGB(20, 35, 25),
+		AcrylicBorder = Color3.fromRGB(50, 90, 60),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(15, 35, 20), Color3.fromRGB(20, 40, 25)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(60, 100, 70),
+		Tab = Color3.fromRGB(80, 140, 90),
+		Element = Color3.fromRGB(70, 120, 80),
+		ElementBorder = Color3.fromRGB(30, 50, 35),
+		InElementBorder = Color3.fromRGB(60, 90, 70),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(90, 150, 100),
+		ToggleToggled = Color3.fromRGB(19, 57, 21),
+		SliderRail = Color3.fromRGB(90, 150, 100),
+		DropdownFrame = Color3.fromRGB(100, 160, 110),
+		DropdownHolder = Color3.fromRGB(35, 60, 40),
+		DropdownBorder = Color3.fromRGB(30, 50, 35),
+		DropdownOption = Color3.fromRGB(90, 150, 100),
+		Keybind = Color3.fromRGB(90, 150, 100),
+		Input = Color3.fromRGB(90, 150, 100),
+		InputFocused = Color3.fromRGB(15, 25, 18),
+		InputIndicator = Color3.fromRGB(110, 170, 120),
+		InputIndicatorFocus = Color3.fromRGB(46, 141, 70),
+		Dialog = Color3.fromRGB(35, 60, 40),
+		DialogHolder = Color3.fromRGB(30, 50, 35),
+		DialogHolderLine = Color3.fromRGB(25, 45, 30),
+		DialogButton = Color3.fromRGB(35, 60, 40),
+		DialogButtonBorder = Color3.fromRGB(70, 110, 80),
+		DialogBorder = Color3.fromRGB(60, 100, 70),
+		DialogInput = Color3.fromRGB(45, 70, 50),
+		DialogInputLine = Color3.fromRGB(100, 160, 110),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(90, 150, 100),
+		HoverChange = 0.04
+	},
+	Sunset = {
+		Name = "Sunset",
+		Accent = Color3.fromRGB(255, 128, 0),
+		AcrylicMain = Color3.fromRGB(40, 25, 25),
+		AcrylicBorder = Color3.fromRGB(130, 80, 60),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(70, 35, 20), Color3.fromRGB(60, 30, 20)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(140, 90, 70),
+		Tab = Color3.fromRGB(180, 120, 90),
+		Element = Color3.fromRGB(160, 100, 70),
+		ElementBorder = Color3.fromRGB(70, 40, 30),
+		InElementBorder = Color3.fromRGB(110, 70, 50),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(180, 110, 80),
+		ToggleToggled = Color3.fromRGB(62, 34, 21),
+		SliderRail = Color3.fromRGB(180, 110, 80),
+		DropdownFrame = Color3.fromRGB(190, 130, 100),
+		DropdownHolder = Color3.fromRGB(60, 35, 25),
+		DropdownBorder = Color3.fromRGB(70, 40, 30),
+		DropdownOption = Color3.fromRGB(180, 110, 80),
+		Keybind = Color3.fromRGB(180, 110, 80),
+		Input = Color3.fromRGB(180, 110, 80),
+		InputFocused = Color3.fromRGB(30, 20, 15),
+		InputIndicator = Color3.fromRGB(200, 130, 100),
+		InputIndicatorFocus = Color3.fromRGB(255, 128, 0),
+		Dialog = Color3.fromRGB(60, 35, 25),
+		DialogHolder = Color3.fromRGB(50, 30, 20),
+		DialogHolderLine = Color3.fromRGB(45, 25, 15),
+		DialogButton = Color3.fromRGB(60, 35, 25),
+		DialogButtonBorder = Color3.fromRGB(100, 65, 45),
+		DialogBorder = Color3.fromRGB(90, 55, 40),
+		DialogInput = Color3.fromRGB(70, 45, 35),
+		DialogInputLine = Color3.fromRGB(190, 120, 90),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(180, 110, 80),
+		HoverChange = 0.04
+	},
+	Ocean = {
+		Name = "Ocean",
+		Accent = Color3.fromRGB(0, 141, 255),
+		AcrylicMain = Color3.fromRGB(20, 25, 40),
+		AcrylicBorder = Color3.fromRGB(40, 60, 100),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(15, 25, 45), Color3.fromRGB(20, 30, 50)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(50, 70, 120),
+		Tab = Color3.fromRGB(70, 90, 160),
+		Element = Color3.fromRGB(60, 80, 140),
+		ElementBorder = Color3.fromRGB(30, 40, 70),
+		InElementBorder = Color3.fromRGB(50, 60, 100),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(80, 100, 170),
+		ToggleToggled = Color3.fromRGB(11, 35, 67),
+		SliderRail = Color3.fromRGB(80, 100, 170),
+		DropdownFrame = Color3.fromRGB(90, 110, 180),
+		DropdownHolder = Color3.fromRGB(25, 35, 60),
+		DropdownBorder = Color3.fromRGB(30, 40, 70),
+		DropdownOption = Color3.fromRGB(80, 100, 170),
+		Keybind = Color3.fromRGB(80, 100, 170),
+		Input = Color3.fromRGB(80, 100, 170),
+		InputFocused = Color3.fromRGB(15, 20, 35),
+		InputIndicator = Color3.fromRGB(100, 120, 190),
+		InputIndicatorFocus = Color3.fromRGB(0, 141, 255),
+		Dialog = Color3.fromRGB(25, 35, 60),
+		DialogHolder = Color3.fromRGB(20, 30, 55),
+		DialogHolderLine = Color3.fromRGB(15, 25, 50),
+		DialogButton = Color3.fromRGB(25, 35, 60),
+		DialogButtonBorder = Color3.fromRGB(45, 65, 110),
+		DialogBorder = Color3.fromRGB(40, 60, 100),
+		DialogInput = Color3.fromRGB(35, 45, 70),
+		DialogInputLine = Color3.fromRGB(90, 110, 180),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(80, 100, 170),
+		HoverChange = 0.04
+	},
+	Emerald = {
+		Name = "Emerald",
+		Accent = Color3.fromRGB(0, 168, 107),
+		AcrylicMain = Color3.fromRGB(20, 35, 30),
+		AcrylicBorder = Color3.fromRGB(30, 100, 80),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(20, 55, 45), Color3.fromRGB(25, 60, 50)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(40, 110, 90),
+		Tab = Color3.fromRGB(50, 130, 100),
+		Element = Color3.fromRGB(40, 120, 95),
+		ElementBorder = Color3.fromRGB(25, 75, 60),
+		InElementBorder = Color3.fromRGB(35, 85, 70),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(45, 130, 100),
+		ToggleToggled = Color3.fromRGB(15, 40, 30),
+		SliderRail = Color3.fromRGB(45, 130, 100),
+		DropdownFrame = Color3.fromRGB(55, 140, 110),
+		DropdownHolder = Color3.fromRGB(20, 70, 55),
+		DropdownBorder = Color3.fromRGB(25, 75, 60),
+		DropdownOption = Color3.fromRGB(45, 130, 100),
+		Keybind = Color3.fromRGB(45, 130, 100),
+		Input = Color3.fromRGB(45, 130, 100),
+		InputFocused = Color3.fromRGB(10, 35, 25),
+		InputIndicator = Color3.fromRGB(55, 150, 120),
+		InputIndicatorFocus = Color3.fromRGB(0, 168, 107),
+		Dialog = Color3.fromRGB(20, 70, 55),
+		DialogHolder = Color3.fromRGB(15, 65, 50),
+		DialogHolderLine = Color3.fromRGB(15, 60, 45),
+		DialogButton = Color3.fromRGB(20, 70, 55),
+		DialogButtonBorder = Color3.fromRGB(30, 90, 70),
+		DialogBorder = Color3.fromRGB(25, 85, 65),
+		DialogInput = Color3.fromRGB(25, 75, 60),
+		DialogInputLine = Color3.fromRGB(50, 140, 110),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(45, 130, 100),
+		HoverChange = 0.04
+	},
+	Sapphire = {
+		Name = "Sapphire",
+		Accent = Color3.fromRGB(0, 105, 255),
+		AcrylicMain = Color3.fromRGB(24, 30, 85),
+		AcrylicBorder = Color3.fromRGB(25, 80, 150),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(13, 33, 94), Color3.fromRGB(21, 44, 127)),
+		AcrylicNoise = 0.88,
+		TitleBarLine = Color3.fromRGB(50, 120, 200),
+		Tab = Color3.fromRGB(60, 140, 220),
+		Element = Color3.fromRGB(42, 98, 176),
+		ElementBorder = Color3.fromRGB(23, 66, 113),
+		InElementBorder = Color3.fromRGB(27, 65, 126),
+		ElementTransparency = 0.85,
+		ToggleSlider = Color3.fromRGB(50, 140, 210),
+		ToggleToggled = Color3.fromRGB(20, 50, 80),
+		SliderRail = Color3.fromRGB(50, 140, 210),
+		DropdownFrame = Color3.fromRGB(60, 150, 230),
+		DropdownHolder = Color3.fromRGB(15, 60, 100),
+		DropdownBorder = Color3.fromRGB(30, 90, 140),
+		DropdownOption = Color3.fromRGB(50, 140, 210),
+		Keybind = Color3.fromRGB(50, 140, 210),
+		Input = Color3.fromRGB(50, 140, 210),
+		InputFocused = Color3.fromRGB(15, 40, 60),
+		InputIndicator = Color3.fromRGB(60, 160, 240),
+		InputIndicatorFocus = Color3.fromRGB(0, 105, 255),
+		Dialog = Color3.fromRGB(10, 60, 100),
+		DialogHolder = Color3.fromRGB(15, 50, 90),
+		DialogHolderLine = Color3.fromRGB(15, 45, 80),
+		DialogButton = Color3.fromRGB(10, 60, 100),
+		DialogButtonBorder = Color3.fromRGB(30, 100, 160),
+		DialogBorder = Color3.fromRGB(20, 80, 130),
+		DialogInput = Color3.fromRGB(30, 90, 140),
+		DialogInputLine = Color3.fromRGB(55, 150, 230),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(50, 140, 210),
+		HoverChange = 0.05
+	},
+	Cloud = {
+		Name = "Cloud",
+		Accent = Color3.fromRGB(27, 114, 138),
+		AcrylicMain = Color3.fromRGB(13, 62, 77),
+		AcrylicBorder = Color3.fromRGB(80, 118, 130),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(51, 74, 83), Color3.fromRGB(4, 47, 66)),
+		AcrylicNoise = 0.94,
+		TitleBarLine = Color3.fromRGB(97, 97, 97),
+		Tab = Color3.fromRGB(126, 175, 180),
+		Element = Color3.fromRGB(66, 130, 160),
+		ElementBorder = Color3.fromRGB(40, 100, 122),
+		InElementBorder = Color3.fromRGB(75, 109, 110),
+		ElementTransparency = 0.87,
+		ToggleSlider = Color3.fromRGB(100, 152, 160),
+		ToggleToggled = Color3.fromRGB(26, 59, 80),
+		SliderRail = Color3.fromRGB(115, 150, 160),
+		DropdownFrame = Color3.fromRGB(158, 194, 200),
+		DropdownHolder = Color3.fromRGB(39, 99, 116),
+		DropdownBorder = Color3.fromRGB(33, 119, 120),
+		DropdownOption = Color3.fromRGB(121, 152, 160),
+		Keybind = Color3.fromRGB(108, 153, 160),
+		Input = Color3.fromRGB(112, 156, 160),
+		InputFocused = Color3.fromRGB(14, 35, 40),
+		InputIndicator = Color3.fromRGB(137, 181, 190),
+		Dialog = Color3.fromRGB(11, 75, 88),
+		DialogHolder = Color3.fromRGB(18, 77, 93),
+		DialogHolderLine = Color3.fromRGB(33, 76, 86),
+		DialogButton = Color3.fromRGB(43, 72, 80),
+		DialogButtonBorder = Color3.fromRGB(62, 100, 110),
+		DialogBorder = Color3.fromRGB(26, 86, 100),
+		DialogInput = Color3.fromRGB(4, 97, 107),
+		DialogInputLine = Color3.fromRGB(70, 120, 130),
+		Text = Color3.fromRGB(209, 240, 233),
+		SubText = Color3.fromRGB(170, 170, 170),
+		Hover = Color3.fromRGB(112, 155, 160),
+		HoverChange = 0.04,
+	},
+	Grape = {
+		Name = "Grape",
+		Accent = Color3.fromRGB(183, 176, 223),
+		AcrylicMain = Color3.fromRGB(0, 0, 0),
+		AcrylicBorder = Color3.fromRGB(20, 20, 20),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(6, 0, 16), Color3.fromRGB(6, 0, 16)),
+		AcrylicNoise = 1,
+		TitleBarLine = Color3.fromRGB(25, 25, 25),
+		Tab = Color3.fromRGB(40, 40, 40),
+		Element = Color3.fromRGB(15, 15, 15),
+		ElementBorder = Color3.fromRGB(6, 0, 16),
+		InElementBorder = Color3.fromRGB(40, 40, 40),
+		ElementTransparency = 1,
+		ToggleSlider = Color3.fromRGB(255, 255, 255),
+		ToggleToggled = Color3.fromRGB(19, 16, 36),
+		SliderRail = Color3.fromRGB(40, 40, 40),
+		DropdownFrame = Color3.fromRGB(20, 20, 20),
+		DropdownHolder = Color3.fromRGB(12, 0, 34),
+		DropdownBorder = Color3.fromRGB(6, 0, 16),
+		DropdownOption = Color3.fromRGB(40, 40, 40),
+		Keybind = Color3.fromRGB(40, 40, 40),
+		Input = Color3.fromRGB(40, 40, 40),
+		InputFocused = Color3.fromRGB(6, 0, 16),
+		InputIndicator = Color3.fromRGB(60, 60, 60),
+		InputIndicatorFocus = Color3.fromRGB(255, 255, 255),
+		Dialog = Color3.fromRGB(7, 0, 18),
+		DialogHolder = Color3.fromRGB(7, 0, 18),
+		DialogHolderLine = Color3.fromRGB(7, 0, 18),
+		DialogButton = Color3.fromRGB(13, 0, 33),
+		DialogButtonBorder = Color3.fromRGB(30, 30, 30),
+		DialogBorder = Color3.fromRGB(27, 27, 27),
+		DialogInput = Color3.fromRGB(7, 0, 18),
+		DialogInputLine = Color3.fromRGB(60, 60, 60),
+		Text = Color3.fromRGB(255, 255, 255),
+		SubText = Color3.fromRGB(123, 144, 170),
+		Hover = Color3.fromRGB(40, 40, 40),
+		HoverChange = 0.04
+	},
+	Bloody = {
+		Name = "Bloody",
+		Accent = Color3.fromRGB(144, 0, 0),
+		AcrylicMain = Color3.fromRGB(61, 0, 0),
+		AcrylicBorder = Color3.fromRGB(86, 0, 0),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(90, 0, 0), Color3.fromRGB(100, 0, 0)),
+		AcrylicNoise = 0.92,
+		TitleBarLine = Color3.fromRGB(126, 0, 0),
+		Tab = Color3.fromRGB(134, 0, 0),
+		Element = Color3.fromRGB(156, 0, 0),
+		ElementBorder = Color3.fromRGB(91, 0, 0),
+		InElementBorder = Color3.fromRGB(106, 0, 0),
+		ElementTransparency = 0.86,
+		ToggleSlider = Color3.fromRGB(130, 5, 5),
+		ToggleToggled = Color3.fromRGB(66, 0, 0),
+		SliderRail = Color3.fromRGB(150, 30, 30),
+		DropdownFrame = Color3.fromRGB(150, 30, 30),
+		DropdownHolder = Color3.fromRGB(79, 0, 0),
+		DropdownBorder = Color3.fromRGB(116, 0, 0),
+		DropdownOption = Color3.fromRGB(150, 30, 30),
+		Keybind = Color3.fromRGB(150, 30, 30),
+		Input = Color3.fromRGB(150, 30, 30),
+		InputFocused = Color3.fromRGB(40, 10, 10),
+		InputIndicator = Color3.fromRGB(113, 1, 1),
+		Dialog = Color3.fromRGB(85, 0, 1),
+		DialogHolder = Color3.fromRGB(77, 0, 8),
+		DialogHolderLine = Color3.fromRGB(88, 4, 4),
+		DialogButton = Color3.fromRGB(115, 14, 21),
+		DialogButtonBorder = Color3.fromRGB(83, 0, 1),
+		DialogBorder = Color3.fromRGB(43, 4, 5),
+		DialogInput = Color3.fromRGB(108, 20, 21),
+		DialogInputLine = Color3.fromRGB(91, 1, 1),
+		Text = Color3.fromRGB(240, 240, 240),
+		SubText = Color3.fromRGB(131, 131, 131),
+		Hover = Color3.fromRGB(181, 0, 0),
+		HoverChange = 0.04
+	},
+	Arctic = {
+		Name = "Arctic",
+		Accent = Color3.fromRGB(64, 224, 255),
+		AcrylicMain = Color3.fromRGB(10, 18, 25),
+		AcrylicBorder = Color3.fromRGB(35, 55, 70),
+		AcrylicGradient = ColorSequence.new(Color3.fromRGB(15, 25, 35), Color3.fromRGB(18, 30, 40)),
+		AcrylicNoise = 0.94,
+		TitleBarLine = Color3.fromRGB(45, 70, 90),
+		Tab = Color3.fromRGB(70, 110, 140),
+		Element = Color3.fromRGB(60, 95, 120),
+		ElementBorder = Color3.fromRGB(60, 95, 120),
+		InElementBorder = Color3.fromRGB(70, 110, 140),
+		ElementTransparency = 0.88,
+		ToggleSlider = Color3.fromRGB(90, 140, 180),
+		ToggleToggled = Color3.fromRGB(15, 25, 35),
+		SliderRail = Color3.fromRGB(90, 140, 180),
+		DropdownFrame = Color3.fromRGB(110, 170, 220),
+		DropdownHolder = Color3.fromRGB(30, 45, 60),
+		DropdownBorder = Color3.fromRGB(60, 95, 120),
+		DropdownOption = Color3.fromRGB(90, 140, 180),
+		Keybind = Color3.fromRGB(90, 140, 180),
+		Input = Color3.fromRGB(90, 140, 180),
+		InputFocused = Color3.fromRGB(10, 18, 25),
+		InputIndicator = Color3.fromRGB(130, 200, 255),
+		InputIndicatorFocus = Color3.fromRGB(64, 224, 255),
+		Dialog = Color3.fromRGB(30, 45, 60),
+		DialogHolder = Color3.fromRGB(18, 30, 40),
+		DialogHolderLine = Color3.fromRGB(15, 25, 35),
+		DialogButton = Color3.fromRGB(30, 45, 60),
+		DialogButtonBorder = Color3.fromRGB(45, 70, 90),
+		DialogBorder = Color3.fromRGB(40, 60, 80),
+		DialogInput = Color3.fromRGB(35, 55, 70),
+		DialogInputLine = Color3.fromRGB(110, 170, 220),
+		Text = Color3.fromRGB(240, 250, 255),
+		SubText = Color3.fromRGB(180, 200, 220),
+		Hover = Color3.fromRGB(90, 140, 180),
+		HoverChange = 0.04
+	}
+
+}
+
+local Library = {
+	Version = "1.2.2",
+
+	OpenFrames = {},
+	Options = {},
+	Themes = Themes.Names,
+	Windows = {},
+
+	Window = nil,
+	WindowFrame = nil,
+	Unloaded = false,
+
+	Creator = nil,
+
+	DialogOpen = false,
+	UseAcrylic = false,
+	Acrylic = false,
+	Transparency = true,
+	MinimizeKeybind = nil,
+	MinimizeKey = Enum.KeyCode.LeftControl,
+}
+
+local function isMotor(value)
+	local motorType = tostring(value):match("^Motor%((.+)%)$")
+
+	if motorType then
+		return true, motorType
+	else
+		return false
+	end
+end
+
+local Connection = {}
+
+Connection.__index = Connection
+
+function Connection.new(signal, handler)
+	return setmetatable({
+		signal = signal,
+		connected = true,
+		_handler = handler,
+	}, Connection)
+end
+
+function Connection:disconnect()
+	if self.connected then
+		self.connected = false
+
+		for index, connection in pairs(self.signal._connections) do
+			if connection == self then
+				table.remove(self.signal._connections, index)
+				return
+			end
+		end
+	end
+end
+
+local Signal = {}
+Signal.__index = Signal
+
+function Signal.new()
+	return setmetatable({
+		_connections = {},
+		_threads = {},
+	}, Signal)
+end
+
+function Signal:fire(...)
+	for _, connection in pairs(self._connections) do
+		connection._handler(...)
+	end
+
+	for _, thread in pairs(self._threads) do
+		coroutine.resume(thread, ...)
+	end
+
+	self._threads = {}
+end
+
+function Signal:connect(handler)
+	local connection = Connection.new(self, handler)
+	table.insert(self._connections, connection)
+	return connection
+end
+
+function Signal:wait()
+	table.insert(self._threads, coroutine.running())
+	return coroutine.yield()
+end
+
+local Linear = {}
+Linear.__index = Linear
+
+function Linear.new(targetValue, options)
+	assert(targetValue, "Missing argument #1: targetValue")
+
+	options = options or {}
+
+	return setmetatable({
+		_targetValue = targetValue,
+		_velocity = options.velocity or 1,
+	}, Linear)
+end
+
+function Linear:step(state, dt)
+	local position = state.value
+	local velocity = self._velocity
+	local goal = self._targetValue
+
+	local dPos = dt * velocity
+
+	local complete = dPos >= math.abs(goal - position)
+	position = position + dPos * (goal > position and 1 or -1)
+	if complete then
+		position = self._targetValue
+		velocity = 0
+	end
+
+	return {
+		complete = complete,
+		value = position,
+		velocity = velocity,
+	}
+end
+
+local Instant = {}
+Instant.__index = Instant
+
+function Instant.new(targetValue)
+	return setmetatable({
+		_targetValue = targetValue,
+	}, Instant)
+end
+
+function Instant:step()
+	return {
+		complete = true,
+		value = self._targetValue,
+	}
+end
+
+local VELOCITY_THRESHOLD = 0.001
+local POSITION_THRESHOLD = 0.001
+
+local EPS = 0.0001
+
+local Spring = {}
+Spring.__index = Spring
+
+function Spring.new(targetValue, options)
+	assert(targetValue, "Missing argument #1: targetValue")
+	options = options or {}
+
+	return setmetatable({
+		_targetValue = targetValue,
+		_frequency = options.frequency or 4,
+		_dampingRatio = options.dampingRatio or 1,
+	}, Spring)
+end
+
+function Spring:step(state, dt)
+
+
+	local d = self._dampingRatio
+	local f = self._frequency * 2 * math.pi
+	local g = self._targetValue
+	local p0 = state.value
+	local v0 = state.velocity or 0
+
+	local offset = p0 - g
+	local decay = math.exp(-d * f * dt)
+
+	local p1, v1
+
+	if d == 1 then
+		p1 = (offset * (1 + f * dt) + v0 * dt) * decay + g
+		v1 = (v0 * (1 - f * dt) - offset * (f * f * dt)) * decay
+	elseif d < 1 then
+		local c = math.sqrt(1 - d * d)
+
+		local i = math.cos(f * c * dt)
+		local j = math.sin(f * c * dt)
+
+
+
+		local z
+		if c > EPS then
+			z = j / c
+		else
+			local a = dt * f
+			z = a + ((a * a) * (c * c) * (c * c) / 20 - c * c) * (a * a * a) / 6
+		end
+
+
+
+		local y
+		if f * c > EPS then
+			y = j / (f * c)
+		else
+			local b = f * c
+			y = dt + ((dt * dt) * (b * b) * (b * b) / 20 - b * b) * (dt * dt * dt) / 6
+		end
+
+		p1 = (offset * (i + d * z) + v0 * y) * decay + g
+		v1 = (v0 * (i - z * d) - offset * (z * f)) * decay
+	else
+		local c = math.sqrt(d * d - 1)
+
+		local r1 = -f * (d - c)
+		local r2 = -f * (d + c)
+
+		local co2 = (v0 - offset * r1) / (2 * f * c)
+		local co1 = offset - co2
+
+		local e1 = co1 * math.exp(r1 * dt)
+		local e2 = co2 * math.exp(r2 * dt)
+
+		p1 = e1 + e2 + g
+		v1 = e1 * r1 + e2 * r2
+	end
+
+	local complete = math.abs(v1) < VELOCITY_THRESHOLD and math.abs(p1 - g) < POSITION_THRESHOLD
+
+	return {
+		complete = complete,
+		value = complete and g or p1,
+		velocity = v1,
+	}
+end
+
+local noop = function() end
+
+local BaseMotor = {}
+BaseMotor.__index = BaseMotor
+
+function BaseMotor.new()
+	return setmetatable({
+		_onStep = Signal.new(),
+		_onStart = Signal.new(),
+		_onComplete = Signal.new(),
+	}, BaseMotor)
+end
+
+function BaseMotor:onStep(handler)
+	return self._onStep:connect(handler)
+end
+
+function BaseMotor:onStart(handler)
+	return self._onStart:connect(handler)
+end
+
+function BaseMotor:onComplete(handler)
+	return self._onComplete:connect(handler)
+end
+
+function BaseMotor:start()
+	if not self._connection then
+		self._connection = RunService.RenderStepped:Connect(function(deltaTime)
+			self:step(deltaTime)
+		end)
+	end
+end
+
+function BaseMotor:stop()
+	if self._connection then
+		self._connection:Disconnect()
+		self._connection = nil
+	end
+end
+
+BaseMotor.destroy = BaseMotor.stop
+
+BaseMotor.step = noop
+BaseMotor.getValue = noop
+BaseMotor.setGoal = noop
+
+function BaseMotor:__tostring()
+	return "Motor"
+end
+
+local SingleMotor = setmetatable({}, BaseMotor)
+SingleMotor.__index = SingleMotor
+
+function SingleMotor.new(initialValue, useImplicitConnections)
+	assert(initialValue, "Missing argument #1: initialValue")
+	assert(typeof(initialValue) == "number", "initialValue must be a number!")
+
+	local self = setmetatable(BaseMotor.new(), SingleMotor)
+
+	if useImplicitConnections ~= nil then
+		self._useImplicitConnections = useImplicitConnections
+	else
+		self._useImplicitConnections = true
+	end
+
+	self._goal = nil
+	self._state = {
+		complete = true,
+		value = initialValue,
+	}
+
+	return self
+end
+
+function SingleMotor:step(deltaTime)
+	if self._state.complete then
+		return true
+	end
+
+	local newState = self._goal:step(self._state, deltaTime)
+
+	self._state = newState
+	self._onStep:fire(newState.value)
+
+	if newState.complete then
+		if self._useImplicitConnections then
+			self:stop()
+		end
+
+		self._onComplete:fire()
+	end
+
+	return newState.complete
+end
+
+function SingleMotor:getValue()
+	return self._state.value
+end
+
+function SingleMotor:setGoal(goal)
+	self._state.complete = false
+	self._goal = goal
+
+	self._onStart:fire()
+
+	if self._useImplicitConnections then
+		self:start()
+	end
+end
+
+function SingleMotor:__tostring()
+	return "Motor(Single)"
+end
+
+local GroupMotor = setmetatable({}, BaseMotor)
+GroupMotor.__index = GroupMotor
+
+local function toMotor(value)
+	if isMotor(value) then
+		return value
+	end
+
+	local valueType = typeof(value)
+
+	if valueType == "number" then
+		return SingleMotor.new(value, false)
+	elseif valueType == "table" then
+		return GroupMotor.new(value, false)
+	end
+
+	error(("Unable to convert %q to motor; type %s is unsupported"):format(value, valueType), 2)
+end
+
+function GroupMotor.new(initialValues, useImplicitConnections)
+	assert(initialValues, "Missing argument #1: initialValues")
+	assert(typeof(initialValues) == "table", "initialValues must be a table!")
+	assert(
+		not initialValues.step,
+		'initialValues contains disallowed property "step". Did you mean to put a table of values here?'
+	)
+
+	local self = setmetatable(BaseMotor.new(), GroupMotor)
+
+	if useImplicitConnections ~= nil then
+		self._useImplicitConnections = useImplicitConnections
+	else
+		self._useImplicitConnections = true
+	end
+
+	self._complete = true
+	self._motors = {}
+
+	for key, value in pairs(initialValues) do
+		self._motors[key] = toMotor(value)
+	end
+
+	return self
+end
+
+function GroupMotor:step(deltaTime)
+	if self._complete then
+		return true
+	end
+
+	local allMotorsComplete = true
+
+	for _, motor in pairs(self._motors) do
+		local complete = motor:step(deltaTime)
+		if not complete then
+
+			allMotorsComplete = false
+		end
+	end
+
+	self._onStep:fire(self:getValue())
+
+	if allMotorsComplete then
+		if self._useImplicitConnections then
+			self:stop()
+		end
+
+		self._complete = true
+		self._onComplete:fire()
+	end
+
+	return allMotorsComplete
+end
+
+function GroupMotor:setGoal(goals)
+	assert(not goals.step, 'goals contains disallowed property "step". Did you mean to put a table of goals here?')
+
+	self._complete = false
+	self._onStart:fire()
+
+	for key, goal in pairs(goals) do
+		local motor = assert(self._motors[key], ("Unknown motor for key %s"):format(key))
+		motor:setGoal(goal)
+	end
+
+	if self._useImplicitConnections then
+		self:start()
+	end
+end
+
+function GroupMotor:getValue()
+	local values = {}
+
+	for key, motor in pairs(self._motors) do
+		values[key] = motor:getValue()
+	end
+
+	return values
+end
+
+function GroupMotor:__tostring()
+	return "Motor(Group)"
+end
+
+local Flipper = {
+	SingleMotor = SingleMotor,
+	GroupMotor = GroupMotor,
+
+	Instant = Instant,
+	Linear = Linear,
+	Spring = Spring,
+
+	isMotor = isMotor,
+}
+
+local Creator = {
+	Registry = {},
+	Signals = {},
+	TransparencyMotors = {},
+	DefaultProperties = {
+		ScreenGui = {
+			ResetOnSpawn = false,
+			ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
+		},
+		Frame = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			BorderSizePixel = 0,
+		},
+		ScrollingFrame = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			ScrollBarImageColor3 = Color3.new(0, 0, 0),
+		},
+		TextLabel = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			Font = Enum.Font.SourceSans,
+			Text = "",
+			TextColor3 = Color3.new(0, 0, 0),
+			BackgroundTransparency = 1,
+			TextSize = 14,
+		},
+		TextButton = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			AutoButtonColor = false,
+			Font = Enum.Font.SourceSans,
+			Text = "",
+			TextColor3 = Color3.new(0, 0, 0),
+			TextSize = 14,
+		},
+		TextBox = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			ClearTextOnFocus = false,
+			Font = Enum.Font.SourceSans,
+			Text = "",
+			TextColor3 = Color3.new(0, 0, 0),
+			TextSize = 14,
+		},
+		ImageLabel = {
+			BackgroundTransparency = 1,
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			BorderSizePixel = 0,
+		},
+		ImageButton = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			AutoButtonColor = false,
+		},
+		CanvasGroup = {
+			BackgroundColor3 = Color3.new(1, 1, 1),
+			BorderColor3 = Color3.new(0, 0, 0),
+			BorderSizePixel = 0,
+		},
+	},
+}
+
+local function ApplyCustomProps(Object, Props)
+	if Props.ThemeTag then
+		Creator.AddThemeObject(Object, Props.ThemeTag)
+	end
+end
+
+function Creator.AddSignal(Signal, Function)
+	local Connected = Signal:Connect(Function)
+	table.insert(Creator.Signals, Connected)
+	return Connected
+end
+
+function Creator.Disconnect()
+	for Idx = #Creator.Signals, 1, -1 do
+		local Connection = table.remove(Creator.Signals, Idx)
+		if Connection.Disconnect then
+			Connection:Disconnect()
+		end
+	end
+end
+
+Creator.Themes = Themes
+Creator.Theme = Creator.Theme or "Dark"
+
+function Creator.GetThemeProperty(Property)
+	local Theme = Creator.Themes[Creator.Theme]
+	if Theme then
+		return Theme[Property]
+	end
+	return Creator.Themes.Dark[Property]
+end
+
+function Creator.UpdateTheme()
+	if not Creator.Themes[Creator.Theme] then
+		Creator.Theme = "Dark"
+	end
+
+	for Instance, Object in next, Creator.Registry do
+		for Property, ColorIdx in next, Object.Properties do
+			local themeValue = Creator.GetThemeProperty(ColorIdx)
+			if themeValue then
+				Instance[Property] = themeValue
+			end
+		end
+	end
+
+	local transparency = Creator.GetThemeProperty("ElementTransparency")
+	if transparency then
+		for _, Motor in next, Creator.TransparencyMotors do
+			Motor:setGoal(Flipper.Instant.new(transparency))
+		end
+	end
+end
+
+function Creator.AddThemeObject(Object, Properties)
+	local Idx = #Creator.Registry + 1
+	local Data = {
+		Object = Object,
+		Properties = Properties,
+		Idx = Idx,
+	}
+
+	Creator.Registry[Object] = Data
+	Creator.UpdateTheme()
+	return Object
+end
+
+function Creator.OverrideTag(Object, Properties)
+	Creator.Registry[Object].Properties = Properties
+	Creator.UpdateTheme()
+end
+
+function Creator.GetThemeProperty(Property)
+	if Themes[Library.Theme][Property] then
+		return Themes[Library.Theme][Property]
+	end
+	return Themes["Dark"][Property]
+end
+
+function Creator.New(Name, Properties, Children)
+	local Object = Instance.new(Name)
+
+	for Name, Value in next, Creator.DefaultProperties[Name] or {} do
+		Object[Name] = Value
+	end
+
+
+	for Name, Value in next, Properties or {} do
+		if Name ~= "ThemeTag" then
+			Object[Name] = Value
+		end
+	end
+
+
+	for _, Child in next, Children or {} do
+		Child.Parent = Object
+	end
+
+	ApplyCustomProps(Object, Properties)
+	return Object
+end
+
+function Creator.SpringMotor(Initial, Instance, Prop, IgnoreDialogCheck, ResetOnThemeChange)
+	IgnoreDialogCheck = IgnoreDialogCheck or false
+	ResetOnThemeChange = ResetOnThemeChange or false
+	local Motor = Flipper.SingleMotor.new(Initial)
+	Motor:onStep(function(value)
+		Instance[Prop] = value
+	end)
+
+	if ResetOnThemeChange then
+		table.insert(Creator.TransparencyMotors, Motor)
+	end
+
+	local function SetValue(Value, Ignore)
+		Ignore = Ignore or false
+		if not IgnoreDialogCheck then
+			if not Ignore then
+				if Prop == "BackgroundTransparency" and Library.DialogOpen then
+					return
+				end
+			end
+		end
+		Motor:setGoal(Flipper.Spring.new(Value, { frequency = 8 }))
+	end
+
+	return Motor, SetValue
+end
+
+Library.Creator = Creator
+
+local New = Creator.New
+
+local GUI = New("ScreenGui", {
+	Parent = RunService:IsStudio() and LocalPlayer.PlayerGui or game:GetService("CoreGui"),
+})
+Library.GUI = GUI
+ProtectGui(GUI)
+
+function Library:SafeCallback(Function, ...)
+	if not Function then
+		return
+	end
+
+	local Success, Event = pcall(Function, ...)
+	if not Success then
+		local _, i = Event:find(":%d+: ")
+
+		if not i then
+			return Library:Notify({
+				Title = "Interface",
+				Content = "Callback error",
+				SubContent = Event,
+				Duration = 5,
+			})
+		end
+
+		return Library:Notify({
+			Title = "Interface",
+			Content = "Callback error",
+			SubContent = Event:sub(i + 1),
+			Duration = 5,
+		})
+	end
+end
+
+function Library:Round(Number, Factor)
+	if Factor == 0 then
+		return math.floor(Number)
+	end
+	Number = tostring(Number)
+	return Number:find("%.") and tonumber(Number:sub(1, Number:find("%.") + Factor)) or Number
+end
+
+local function map(value, inMin, inMax, outMin, outMax)
+	return (value - inMin) * (outMax - outMin) / (inMax - inMin) + outMin
+end
+
+local function viewportPointToWorld(location, distance)
+	local unitRay = game:GetService("Workspace").CurrentCamera:ScreenPointToRay(location.X, location.Y)
+	return unitRay.Origin + unitRay.Direction * distance
+end
+
+local function getOffset()
+	local viewportSizeY = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+	return map(viewportSizeY, 0, 2560, 8, 56)
+end
+
+local viewportPointToWorld, getOffset = unpack({ viewportPointToWorld, getOffset })
+
+local BlurFolder = Instance.new("Folder", game:GetService("Workspace").CurrentCamera)
+
+local function createAcrylic()
+	local Part = Creator.New("Part", {
+		Name = "Body",
+		Color = Color3.new(0, 0, 0),
+		Material = Enum.Material.Glass,
+		Size = Vector3.new(1, 1, 0),
+		Anchored = true,
+		CanCollide = false,
+		Locked = true,
+		CastShadow = false,
+		Transparency = 0.98,
+	}, {
+		Creator.New("SpecialMesh", {
+			MeshType = Enum.MeshType.Brick,
+			Offset = Vector3.new(0, 0, -0.000001),
+		}),
+	})
+
+	return Part
+end
+
+function AcrylicBlur()
+	local function createAcrylicBlur(distance)
+		local cleanups = {}
+
+		distance = distance or 0.001
+		local positions = {
+			topLeft = Vector2.new(),
+			topRight = Vector2.new(),
+			bottomRight = Vector2.new(),
+		}
+		local model = createAcrylic()
+		model.Parent = BlurFolder
+
+		local function updatePositions(size, position)
+			positions.topLeft = position
+			positions.topRight = position + Vector2.new(size.X, 0)
+			positions.bottomRight = position + size
+		end
+
+		local function render()
+			local res = game:GetService("Workspace").CurrentCamera
+			if res then
+				res = res.CFrame
+			end
+			local cond = res
+			if not cond then
+				cond = CFrame.new()
+			end
+
+			local camera = cond
+			local topLeft = positions.topLeft
+			local topRight = positions.topRight
+			local bottomRight = positions.bottomRight
+
+			local topLeft3D = viewportPointToWorld(topLeft, distance)
+			local topRight3D = viewportPointToWorld(topRight, distance)
+			local bottomRight3D = viewportPointToWorld(bottomRight, distance)
+
+			local width = (topRight3D - topLeft3D).Magnitude
+			local height = (topRight3D - bottomRight3D).Magnitude
+
+			model.CFrame =
+				CFrame.fromMatrix((topLeft3D + bottomRight3D) / 2, camera.XVector, camera.YVector, camera.ZVector)
+			model.Mesh.Scale = Vector3.new(width, height, 0)
+		end
+
+		local function onChange(rbx)
+			local offset = getOffset()
+			local size = rbx.AbsoluteSize - Vector2.new(offset, offset)
+			local position = rbx.AbsolutePosition + Vector2.new(offset / 2, offset / 2)
+
+			updatePositions(size, position)
+			task.spawn(render)
+		end
+
+		local function renderOnChange()
+			local camera = game:GetService("Workspace").CurrentCamera
+			if not camera then
+				return
+			end
+
+			table.insert(cleanups, camera:GetPropertyChangedSignal("CFrame"):Connect(render))
+			table.insert(cleanups, camera:GetPropertyChangedSignal("ViewportSize"):Connect(render))
+			table.insert(cleanups, camera:GetPropertyChangedSignal("FieldOfView"):Connect(render))
+			task.spawn(render)
+		end
+
+		model.Destroying:Connect(function()
+			for _, item in cleanups do
+				pcall(function()
+					item:Disconnect()
+				end)
+			end
+		end)
+
+		renderOnChange()
+
+		return onChange, model
+	end
+
+	return function(distance)
+		local Blur = {}
+		local onChange, model = createAcrylicBlur(distance)
+
+		local comp = Creator.New("Frame", {
+			BackgroundTransparency = 1,
+			Size = UDim2.fromScale(1, 1),
+		})
+
+		Creator.AddSignal(comp:GetPropertyChangedSignal("AbsolutePosition"), function()
+			onChange(comp)
+		end)
+
+		Creator.AddSignal(comp:GetPropertyChangedSignal("AbsoluteSize"), function()
+			onChange(comp)
+		end)
+
+		Blur.AddParent = function(Parent)
+			Creator.AddSignal(Parent:GetPropertyChangedSignal("Visible"), function()
+				Blur.SetVisibility(Parent.Visible)
+			end)
+		end
+
+		Blur.SetVisibility = function(Value)
+			model.Transparency = Value and 0.98 or 1
+		end
+
+		Blur.Frame = comp
+		Blur.Model = model
+
+		return Blur
+	end
+end
+
+function AcrylicPaint()
+	local New = Creator.New
+	local AcrylicBlur = AcrylicBlur()
+
+	return function(props)
+		local AcrylicPaint = {}
+
+		AcrylicPaint.Frame = New("Frame", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundTransparency = 0.9,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BorderSizePixel = 0,
+		}, {
+			New("ImageLabel", {
+				Image = "rbxassetid://8992230677",
+				ScaleType = "Slice",
+				SliceCenter = Rect.new(Vector2.new(99, 99), Vector2.new(99, 99)),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Size = UDim2.new(1, 120, 1, 116),
+				Position = UDim2.new(0.5, 0, 0.5, 0),
+				BackgroundTransparency = 1,
+				ImageColor3 = Color3.fromRGB(0, 0, 0),
+				ImageTransparency = 0.7,
+			}),
+
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 8),
+			}),
+
+			New("Frame", {
+				BackgroundTransparency = 0.45,
+				Size = UDim2.fromScale(1, 1),
+				Name = "Background",
+				ThemeTag = {
+					BackgroundColor3 = "AcrylicMain",
+				},
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+			}),
+
+			New("Frame", {
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 0.4,
+				Size = UDim2.fromScale(1, 1),
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+
+				New("UIGradient", {
+					Rotation = 90,
+					ThemeTag = {
+						Color = "AcrylicGradient",
+					},
+				}),
+			}),
+
+			New("ImageLabel", {
+				Image = "rbxassetid://9968344105",
+				ImageTransparency = 0.98,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.new(0, 128, 0, 128),
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+			}),
+
+			New("ImageLabel", {
+				Image = "rbxassetid://9968344227",
+				ImageTransparency = 0.9,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.new(0, 128, 0, 128),
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					ImageTransparency = "AcrylicNoise",
+				},
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+			}),
+
+			New("Frame", {
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1),
+				ZIndex = 2,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 8),
+				}),
+				New("UIStroke", {
+					Transparency = 0.5,
+					Thickness = 1,
+					ThemeTag = {
+						Color = "AcrylicBorder",
+					},
+				}),
+			}),
+		})
+
+		local Blur
+
+		if Library.UseAcrylic then
+			Blur = AcrylicBlur()
+			Blur.Frame.Parent = AcrylicPaint.Frame
+			AcrylicPaint.Model = Blur.Model
+			AcrylicPaint.AddParent = Blur.AddParent
+			AcrylicPaint.SetVisibility = Blur.SetVisibility
+		end
+
+		return AcrylicPaint
+	end
+end
+
+local Acrylic = {
+	AcrylicBlur = AcrylicBlur(),
+	CreateAcrylic = createAcrylic,
+	AcrylicPaint = AcrylicPaint(),
+}
+
+function Acrylic.init()
+	local baseEffect = Instance.new("DepthOfFieldEffect")
+	baseEffect.FarIntensity = 0
+	baseEffect.InFocusRadius = 0.1
+	baseEffect.NearIntensity = 1
+
+	local depthOfFieldDefaults = {}
+
+	function Acrylic.Enable()
+		for _, effect in pairs(depthOfFieldDefaults) do
+			effect.Enabled = false
+		end
+		baseEffect.Parent = game:GetService("Lighting")
+	end
+
+	function Acrylic.Disable()
+		for _, effect in pairs(depthOfFieldDefaults) do
+			effect.Enabled = effect.enabled
+		end
+		baseEffect.Parent = nil
+	end
+
+	local function registerDefaults()
+		local function register(object)
+			if object:IsA("DepthOfFieldEffect") then
+				depthOfFieldDefaults[object] = { enabled = object.Enabled }
+			end
+		end
+
+		for _, child in pairs(game:GetService("Lighting"):GetChildren()) do
+			register(child)
+		end
+
+		if game:GetService("Workspace").CurrentCamera then
+			for _, child in pairs(game:GetService("Workspace").CurrentCamera:GetChildren()) do
+				register(child)
+			end
+		end
+	end
+
+	registerDefaults()
+	Acrylic.Enable()
+end
+
+local Components = {
+	Assets = {
+		Close = "rbxassetid://9886659671",
+		Min = "rbxassetid://9886659276",
+		Max = "rbxassetid://9886659406",
+		Restore = "rbxassetid://9886659001",
+	},
+}
+
+Components.Element = (function()
+	local New = Creator.New
+
+	local Spring = Flipper.Spring.new
+
+	return function(Title, Desc, Parent, Hover, Options)
+		local Element = {}
+		local Options = Options or {}
+
+		Element.TitleLabel = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Medium, Enum.FontStyle.Normal),
+			Text = Title,
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 13,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			Size = UDim2.new(1, 0, 0, 14),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		Element.DescLabel = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			Text = Desc,
+			TextColor3 = Color3.fromRGB(200, 200, 200),
+			TextSize = 12,
+			TextWrapped = true,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 0, 14),
+			ThemeTag = {
+				TextColor3 = "SubText",
+			},
+		})
+
+		Element.LabelHolder = New("Frame", {
+			AutomaticSize = Enum.AutomaticSize.Y,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			Position = UDim2.fromOffset(10, 0),
+			Size = UDim2.new(1, -28, 0, 0),
+		}, {
+			New("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				VerticalAlignment = Enum.VerticalAlignment.Center,
+			}),
+			New("UIPadding", {
+				PaddingBottom = UDim.new(0, 13),
+				PaddingTop = UDim.new(0, 13),
+			}),
+			Element.TitleLabel,
+			Element.DescLabel,
+		})
+
+		Element.Border = New("UIStroke", {
+			Transparency = 0.5,
+			ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+			Color = Color3.fromRGB(0, 0, 0),
+			ThemeTag = {
+				Color = "ElementBorder",
+			},
+		})
+
+		Element.Frame = New("TextButton", {
+			Visible = Options.Visible and Options.Visible or true,
+			Size = UDim2.new(1, 0, 0, 0),
+			BackgroundTransparency = 0.89,
+			BackgroundColor3 = Color3.fromRGB(130, 130, 130),
+			Parent = Parent,
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Text = "",
+			LayoutOrder = 7,
+			ThemeTag = {
+				BackgroundColor3 = "Element",
+				BackgroundTransparency = "ElementTransparency",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+			Element.Border,
+			Element.LabelHolder,
+		})
+
+		function Element:SetTitle(Set)
+			Element.TitleLabel.Text = Set
+			if Library.Windows and #Library.Windows > 0 then
+				local currentWindow = Library.Windows[#Library.Windows]
+				if currentWindow and currentWindow.AllElements and currentWindow.AllElements[Element.Frame] then
+					currentWindow.AllElements[Element.Frame].title = Set
+				end
+			end
+		end
+
+		function Element:Visible(Bool)
+			Element.Frame.Visible = Bool
+		end
+
+		function Element:SetDesc(Set)
+			if Set == nil then
+				Set = ""
+			end
+			if Set == "" then
+				Element.DescLabel.Visible = false
+			else
+				Element.DescLabel.Visible = true
+			end
+			Element.DescLabel.Text = Set
+			if Library.Windows and #Library.Windows > 0 then
+				local currentWindow = Library.Windows[#Library.Windows]
+				if currentWindow and currentWindow.AllElements and currentWindow.AllElements[Element.Frame] then
+					currentWindow.AllElements[Element.Frame].description = Set
+				end
+			end
+		end
+
+		function Element:GetTitle()
+			return Element.TitleLabel.Text
+		end
+
+		function Element:GetDesc()
+			return Element.DescLabel.Text
+		end
+
+		function Element:Destroy()
+			Element.Frame:Destroy()
+		end
+
+		Element:SetTitle(Title)
+		Element:SetDesc(Desc)
+
+
+		if Library.Windows and #Library.Windows > 0 then
+			local currentWindow = Library.Windows[#Library.Windows]
+			if currentWindow and currentWindow.RegisterElement then
+				currentWindow.RegisterElement(Element.Frame, Title, "Element", Desc)
+			end
+		end
+
+		if Hover then
+			local Themes = Library.Themes
+			local Motor, SetTransparency = Creator.SpringMotor(
+				Creator.GetThemeProperty("ElementTransparency"),
+				Element.Frame,
+				"BackgroundTransparency",
+				false,
+				true
+			)
+
+			Creator.AddSignal(Element.Frame.MouseEnter, function()
+				SetTransparency(Creator.GetThemeProperty("ElementTransparency") - Creator.GetThemeProperty("HoverChange"))
+			end)
+			Creator.AddSignal(Element.Frame.MouseLeave, function()
+				SetTransparency(Creator.GetThemeProperty("ElementTransparency"))
+			end)
+			Creator.AddSignal(Element.Frame.MouseButton1Down, function()
+				SetTransparency(Creator.GetThemeProperty("ElementTransparency") + Creator.GetThemeProperty("HoverChange"))
+			end)
+			Creator.AddSignal(Element.Frame.MouseButton1Up, function()
+				SetTransparency(Creator.GetThemeProperty("ElementTransparency") - Creator.GetThemeProperty("HoverChange"))
+			end)
+		end
+
+		return Element
+	end
+end)()
+Components.Section = (function()
+	local New = Creator.New
+
+	return function(Title, Parent, Icon)
+		local Section = {}
+
+		Section.Layout = New("UIListLayout", {
+			Padding = UDim.new(0, 5),
+		})
+
+		Section.Container = New("Frame", {
+			Size = UDim2.new(1, 0, 0, 26),
+			Position = UDim2.fromOffset(0, 24),
+			BackgroundTransparency = 1,
+		}, {
+			Section.Layout,
+		})
+
+		local SectionHeader = New("Frame", {
+			Size = UDim2.new(1, -16, 0, 18),
+			Position = UDim2.fromOffset(0, 2),
+			BackgroundTransparency = 1,
+		}, {
+			New("UIListLayout", {
+				Padding = UDim.new(0, 5),
+				FillDirection = Enum.FillDirection.Horizontal,
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				VerticalAlignment = Enum.VerticalAlignment.Center,
+			}),
+			Icon and New("ImageLabel", {
+				Image = Icon,
+				Size = UDim2.fromOffset(16, 16),
+				BackgroundTransparency = 1,
+				LayoutOrder = 1,
+				ThemeTag = {
+					ImageColor3 = "Text",
+				},
+			}) or nil,
+			New("TextLabel", {
+				RichText = true,
+				Text = Title,
+				TextTransparency = 0,
+				FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+				TextSize = 18,
+				TextXAlignment = "Left",
+				TextYAlignment = "Center",
+				Size = UDim2.fromScale(0, 1),
+				AutomaticSize = Enum.AutomaticSize.X,
+				BackgroundTransparency = 1,
+				LayoutOrder = 2,
+				ThemeTag = {
+					TextColor3 = "Text",
+				},
+			}),
+		})
+
+		Section.Root = New("Frame", {
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 0, 26),
+			LayoutOrder = 7,
+			Parent = Parent,
+		}, {
+			SectionHeader,
+			Section.Container,
+		})
+
+		Creator.AddSignal(Section.Layout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Section.Container.Size = UDim2.new(1, 0, 0, Section.Layout.AbsoluteContentSize.Y)
+			Section.Root.Size = UDim2.new(1, 0, 0, Section.Layout.AbsoluteContentSize.Y + 25)
+		end)
+
+
+		if Library.Windows and #Library.Windows > 0 then
+			local currentWindow = Library.Windows[#Library.Windows]
+			if currentWindow and currentWindow.RegisterElement then
+				currentWindow.RegisterElement(Section.Root, Title, "Section")
+			end
+		end
+
+		return Section
+	end
+end)()
+Components.Tab = (function()
+	local New = Creator.New
+	local Spring = Flipper.Spring.new
+	local Instant = Flipper.Instant.new
+	local Components = Components
+
+	local TabModule = {
+		Window = nil,
+		Tabs = {},
+		Containers = {},
+		SelectedTab = 0,
+		TabCount = 0,
+	}
+
+	function TabModule:Init(Window)
+		TabModule.Window = Window
+		return TabModule
+	end
+
+	function TabModule:GetCurrentTabPos()
+		local TabHolderPos = TabModule.Window.TabHolder.AbsolutePosition.Y
+		local TabPos = TabModule.Tabs[TabModule.SelectedTab].Frame.AbsolutePosition.Y
+
+		return TabPos - TabHolderPos
+	end
+
+	function TabModule:New(Title, Icon, Parent)
+		local Window = TabModule.Window
+		local Elements = Library.Elements
+
+		TabModule.TabCount = TabModule.TabCount + 1
+		local TabIndex = TabModule.TabCount
+
+		local Tab = {
+			Selected = false,
+			Name = Title,
+			Type = "Tab",
+		}
+
+		if not fischbypass then 
+			if Library:GetIcon(Icon) then
+				Icon = Library:GetIcon(Icon)
+			end
+
+			if Icon == "" or nil then
+				Icon = nil
+			end
+		end
+
+		Tab.Frame = New("TextButton", {
+			Size = UDim2.new(1, 0, 0, 34),
+			BackgroundTransparency = 1,
+			Parent = Parent,
+			ThemeTag = {
+				BackgroundColor3 = "Tab",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 6),
+			}),
+			New("TextLabel", {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Position = not fischbypass and Icon and UDim2.new(0, 30, 0.5, 0) or UDim2.new(0, 12, 0.5, 0),
+				Text = Title,
+				RichText = true,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				TextTransparency = 0,
+				FontFace = Font.new(
+					"rbxasset://fonts/families/GothamSSm.json",
+					Enum.FontWeight.Regular,
+					Enum.FontStyle.Normal
+				),
+				TextSize = 12,
+				TextXAlignment = "Left",
+				TextYAlignment = "Center",
+				Size = UDim2.new(1, -12, 1, 0),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = "Text",
+				},
+			}),
+			New("ImageLabel", {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.fromOffset(16, 16),
+				Position = UDim2.new(0, 8, 0.5, 0),
+				BackgroundTransparency = 1,
+				Image = Icon and Icon or nil,
+				ThemeTag = {
+					ImageColor3 = "Text",
+				},
+			}),
+		})
+
+		local ContainerLayout = New("UIListLayout", {
+			Padding = UDim.new(0, 5),
+			SortOrder = Enum.SortOrder.LayoutOrder,
+		})
+
+		Tab.ContainerFrame = New("ScrollingFrame", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundTransparency = 1,
+			Parent = Window.ContainerHolder,
+			Visible = false,
+			BottomImage = "rbxassetid://6889812791",
+			MidImage = "rbxassetid://6889812721",
+			TopImage = "rbxassetid://6276641225",
+			ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+			ScrollBarImageTransparency = 0.95,
+			ScrollBarThickness = 3,
+			BorderSizePixel = 0,
+			CanvasSize = UDim2.fromScale(0, 0),
+			ScrollingDirection = Enum.ScrollingDirection.Y,
+		}, {
+			ContainerLayout,
+			New("UIPadding", {
+				PaddingRight = UDim.new(0, 10),
+				PaddingLeft = UDim.new(0, 1),
+				PaddingTop = UDim.new(0, 1),
+				PaddingBottom = UDim.new(0, 1),
+			}),
+		})
+
+		Creator.AddSignal(ContainerLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Tab.ContainerFrame.CanvasSize = UDim2.new(0, 0, 0, ContainerLayout.AbsoluteContentSize.Y + 2)
+		end)
+
+		Tab.Motor, Tab.SetTransparency = Creator.SpringMotor(1, Tab.Frame, "BackgroundTransparency")
+
+		Creator.AddSignal(Tab.Frame.MouseEnter, function()
+			Tab.SetTransparency(Tab.Selected and 0.85 or 0.89)
+		end)
+		Creator.AddSignal(Tab.Frame.MouseLeave, function()
+			Tab.SetTransparency(Tab.Selected and 0.89 or 1)
+		end)
+		Creator.AddSignal(Tab.Frame.MouseButton1Down, function()
+			Tab.SetTransparency(0.92)
+		end)
+		Creator.AddSignal(Tab.Frame.MouseButton1Up, function()
+			Tab.SetTransparency(Tab.Selected and 0.85 or 0.89)
+		end)
+		Creator.AddSignal(Tab.Frame.MouseButton1Click, function()
+			TabModule:SelectTab(TabIndex)
+		end)
+
+		TabModule.Containers[TabIndex] = Tab.ContainerFrame
+		TabModule.Tabs[TabIndex] = Tab
+
+		Tab.Container = Tab.ContainerFrame
+		Tab.ScrollFrame = Tab.Container
+
+		function Tab:AddSection(SectionTitle, SectionIcon)
+			local Section = { Type = "Section" }
+
+			local Icon = SectionIcon
+			if not fischbypass then 
+				if Library:GetIcon(Icon) then
+					Icon = Library:GetIcon(Icon)
+				end
+
+				if Icon == "" or nil then
+					Icon = nil
+				end
+			end
+
+			local SectionFrame = Components.Section(SectionTitle, Tab.Container, Icon)
+			Section.Container = SectionFrame.Container
+			Section.ScrollFrame = Tab.Container
+
+			setmetatable(Section, Elements)
+			return Section
+		end
+
+		setmetatable(Tab, Elements)
+		return Tab
+	end
+
+	function TabModule:SelectTab(Tab)
+		local Window = TabModule.Window
+
+		TabModule.SelectedTab = Tab
+
+		for _, TabObject in next, TabModule.Tabs do
+			TabObject.SetTransparency(1)
+			TabObject.Selected = false
+		end
+		TabModule.Tabs[Tab].SetTransparency(0.89)
+		TabModule.Tabs[Tab].Selected = true
+
+		Window.TabDisplay.Text = TabModule.Tabs[Tab].Name
+		Window.SelectorPosMotor:setGoal(Spring(TabModule:GetCurrentTabPos(), { frequency = 6 }))
+
+		task.spawn(function()
+			Window.ContainerHolder.Parent = Window.ContainerAnim
+
+			Window.ContainerPosMotor:setGoal(Spring(15, { frequency = 10 }))
+			Window.ContainerBackMotor:setGoal(Spring(1, { frequency = 10 }))
+			task.wait(0.12)
+			for _, Container in next, TabModule.Containers do
+				Container.Visible = false
+			end
+			TabModule.Containers[Tab].Visible = true
+			Window.ContainerPosMotor:setGoal(Spring(0, { frequency = 5 }))
+			Window.ContainerBackMotor:setGoal(Spring(0, { frequency = 8 }))
+			task.wait(0.12)
+			Window.ContainerHolder.Parent = Window.ContainerCanvas
+		end)
+	end
+
+	return TabModule
+end)()
+Components.Button = (function()
+	local New = Creator.New
+
+	local Spring = Flipper.Spring.new
+
+	return function(Theme, Parent, DialogCheck)
+		DialogCheck = DialogCheck or false
+		local Button = {}
+
+		Button.Title = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			TextColor3 = Color3.fromRGB(200, 200, 200),
+			TextSize = 14,
+			TextWrapped = true,
+			TextXAlignment = Enum.TextXAlignment.Center,
+			TextYAlignment = Enum.TextYAlignment.Center,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			BackgroundTransparency = 1,
+			Size = UDim2.fromScale(1, 1),
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		Button.HoverFrame = New("Frame", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				BackgroundColor3 = "Hover",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+		})
+
+		Button.Frame = New("TextButton", {
+			Size = UDim2.new(0, 0, 0, 32),
+			Parent = Parent,
+			ThemeTag = {
+				BackgroundColor3 = "DialogButton",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+			New("UIStroke", {
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				Transparency = 0.65,
+				ThemeTag = {
+					Color = "DialogButtonBorder",
+				},
+			}),
+			Button.HoverFrame,
+			Button.Title,
+		})
+
+		local Motor, SetTransparency = Creator.SpringMotor(1, Button.HoverFrame, "BackgroundTransparency", DialogCheck)
+		Creator.AddSignal(Button.Frame.MouseEnter, function()
+			SetTransparency(0.97)
+		end)
+		Creator.AddSignal(Button.Frame.MouseLeave, function()
+			SetTransparency(1)
+		end)
+		Creator.AddSignal(Button.Frame.MouseButton1Down, function()
+			SetTransparency(1)
+		end)
+		Creator.AddSignal(Button.Frame.MouseButton1Up, function()
+			SetTransparency(0.97)
+		end)
+
+		return Button
+	end
+end)()
+Components.Dialog = (function()
+	local Spring = Flipper.Spring.new
+	local Instant = Flipper.Instant.new
+	local New = Creator.New
+
+	local Dialog = {
+		Window = nil,
+	}
+
+	function Dialog:Init(Window)
+		Dialog.Window = Window
+		return Dialog
+	end
+
+	function Dialog:Create()
+		local NewDialog = {
+			Buttons = 0,
+		}
+
+		NewDialog.TintFrame = New("TextButton", {
+			Text = "",
+			Size = UDim2.fromScale(1, 1),
+			BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+			BackgroundTransparency = 1,
+			Parent = Dialog.Window.Root,
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 8),
+			}),
+		})
+
+		local TintMotor, TintTransparency = Creator.SpringMotor(1, NewDialog.TintFrame, "BackgroundTransparency", true)
+
+		NewDialog.ButtonHolder = New("Frame", {
+			Size = UDim2.new(1, -40, 1, -40),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.fromScale(0.5, 0.5),
+			BackgroundTransparency = 1,
+		}, {
+			New("UIListLayout", {
+				Padding = UDim.new(0, 10),
+				FillDirection = Enum.FillDirection.Horizontal,
+				HorizontalAlignment = Enum.HorizontalAlignment.Center,
+				SortOrder = Enum.SortOrder.LayoutOrder,
+			}),
+		})
+
+		NewDialog.ButtonHolderFrame = New("Frame", {
+			Size = UDim2.new(1, 0, 0, 70),
+			Position = UDim2.new(0, 0, 1, -70),
+			ThemeTag = {
+				BackgroundColor3 = "DialogHolder",
+			},
+		}, {
+			New("Frame", {
+				Size = UDim2.new(1, 0, 0, 1),
+				ThemeTag = {
+					BackgroundColor3 = "DialogHolderLine",
+				},
+			}),
+			NewDialog.ButtonHolder,
+		})
+
+		NewDialog.Title = New("TextLabel", {
+			FontFace = Font.new(
+				"rbxasset://fonts/families/GothamSSm.json",
+				Enum.FontWeight.SemiBold,
+				Enum.FontStyle.Normal
+			),
+			Text = "Dialog",
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 22,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			Size = UDim2.new(1, 0, 0, 22),
+			Position = UDim2.fromOffset(20, 25),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		NewDialog.Scale = New("UIScale", {
+			Scale = 1,
+		})
+
+		local ScaleMotor, Scale = Creator.SpringMotor(1.1, NewDialog.Scale, "Scale")
+
+		NewDialog.Root = New("CanvasGroup", {
+			Size = UDim2.fromOffset(300, 165),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.fromScale(0.5, 0.5),
+			GroupTransparency = 1,
+			Parent = NewDialog.TintFrame,
+			ThemeTag = {
+				BackgroundColor3 = "Dialog",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 8),
+			}),
+			New("UIStroke", {
+				Transparency = 0.5,
+				ThemeTag = {
+					Color = "DialogBorder",
+				},
+			}),
+			NewDialog.Scale,
+			NewDialog.Title,
+			NewDialog.ButtonHolderFrame,
+		})
+
+		local RootMotor, RootTransparency = Creator.SpringMotor(1, NewDialog.Root, "GroupTransparency")
+
+		function NewDialog:Open()
+			Library.DialogOpen = true
+			NewDialog.Scale.Scale = 1.1
+			TintTransparency(0.75)
+			RootTransparency(0)
+			Scale(1)
+		end
+
+		function NewDialog:Close()
+			Library.DialogOpen = false
+			TintTransparency(1)
+			RootTransparency(1)
+			Scale(1.1)
+			NewDialog.Root.UIStroke:Destroy()
+			task.wait(0.15)
+			NewDialog.TintFrame:Destroy()
+		end
+
+		function NewDialog:Button(Title, Callback)
+			NewDialog.Buttons = NewDialog.Buttons + 1
+			Title = Title or "Button"
+			Callback = Callback or function() end
+
+			local Button = Components.Button("", NewDialog.ButtonHolder, true)
+			Button.Title.Text = Title
+
+			for _, Btn in next, NewDialog.ButtonHolder:GetChildren() do
+				if Btn:IsA("TextButton") then
+					Btn.Size =
+						UDim2.new(1 / NewDialog.Buttons, -(((NewDialog.Buttons - 1) * 10) / NewDialog.Buttons), 0, 32)
+				end
+			end
+
+			Creator.AddSignal(Button.Frame.MouseButton1Click, function()
+				Library:SafeCallback(Callback)
+				pcall(function()
+					NewDialog:Close()
+				end)
+			end)
+
+			return Button
+		end
+
+		return NewDialog
+	end
+
+	return Dialog
+end)()
+Components.Notification = (function()
+	local Spring = Flipper.Spring.new
+	local Instant = Flipper.Instant.new
+	local New = Creator.New
+
+	local Notification = {}
+
+	function Notification:Init(GUI)
+		Library.ActiveNotifications = Library.ActiveNotifications or {}
+
+		Notification.Holder = New("Frame", {
+			Position = UDim2.new(1, -30, 1, -30),
+			Size = UDim2.new(0, 310, 1, -30),
+			AnchorPoint = Vector2.new(1, 1),
+			BackgroundTransparency = 1,
+			Parent = GUI,
+		}, {
+			New("UIListLayout", {
+				HorizontalAlignment = Enum.HorizontalAlignment.Center,
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				VerticalAlignment = Enum.VerticalAlignment.Bottom,
+				Padding = UDim.new(0, 20),
+			}),
+		})
+	end
+
+	function Notification:New(Config)
+		Config.Title = Config.Title or "Title"
+		Config.Content = Config.Content or "Content"
+		Config.SubContent = Config.SubContent or ""
+		Config.Duration = Config.Duration or nil
+		Config.Buttons = Config.Buttons or {}
+		local NewNotification = {
+			Closed = false,
+		}
+
+		NewNotification.AcrylicPaint = Acrylic.AcrylicPaint()
+
+		NewNotification.Title = New("TextLabel", {
+			Position = UDim2.new(0, 14, 0, 17),
+			Text = Config.Title,
+			RichText = true,
+			TextColor3 = Color3.fromRGB(255, 255, 255),
+			TextTransparency = 0,
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			TextSize = 13,
+			TextXAlignment = "Left",
+			TextYAlignment = "Center",
+			Size = UDim2.new(1, -12, 0, 12),
+			TextWrapped = true,
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		NewNotification.ContentLabel = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			Text = Config.Content,
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 14,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Size = UDim2.new(1, 0, 0, 14),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			TextWrapped = true,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		NewNotification.SubContentLabel = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			Text = Config.SubContent,
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 14,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Size = UDim2.new(1, 0, 0, 14),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			TextWrapped = true,
+			ThemeTag = {
+				TextColor3 = "SubText",
+			},
+		})
+
+		NewNotification.LabelHolder = New("Frame", {
+			AutomaticSize = Enum.AutomaticSize.Y,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			Position = UDim2.fromOffset(14, 40),
+			Size = UDim2.new(1, -28, 0, 0),
+		}, {
+			New("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				VerticalAlignment = Enum.VerticalAlignment.Center,
+				Padding = UDim.new(0, 3),
+			}),
+			NewNotification.ContentLabel,
+			NewNotification.SubContentLabel,
+		})
+
+		NewNotification.CloseButton = New("TextButton", {
+			Text = "",
+			Position = UDim2.new(1, -14, 0, 13),
+			Size = UDim2.fromOffset(20, 20),
+			AnchorPoint = Vector2.new(1, 0),
+			BackgroundTransparency = 1,
+		}, {
+			New("ImageLabel", {
+				Image = Components.Close,
+				Size = UDim2.fromOffset(16, 16),
+				Position = UDim2.fromScale(0.5, 0.5),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					ImageColor3 = "Text",
+				},
+			}),
+		})
+
+		NewNotification.Root = New("Frame", {
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 1, 0),
+			Position = UDim2.fromScale(1, 0),
+		}, {
+			NewNotification.AcrylicPaint.Frame,
+			NewNotification.Title,
+			NewNotification.CloseButton,
+			NewNotification.LabelHolder,
+		})
+
+		if Config.Content == "" then
+			NewNotification.ContentLabel.Visible = false
+		end
+
+		if Config.SubContent == "" then
+			NewNotification.SubContentLabel.Visible = false
+		end
+
+		NewNotification.Holder = New("Frame", {
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 0, 200),
+			Parent = Notification.Holder,
+		}, {
+			NewNotification.Root,
+		})
+
+		local RootMotor = Flipper.GroupMotor.new({
+			Scale = 1,
+			Offset = 60,
+		})
+
+		RootMotor:onStep(function(Values)
+			NewNotification.Root.Position = UDim2.new(Values.Scale, Values.Offset, 0, 0)
+		end)
+
+		Creator.AddSignal(NewNotification.CloseButton.MouseButton1Click, function()
+			NewNotification:Close()
+		end)
+
+		function NewNotification:ApplyTransparency()
+			if Library.Theme == "Glass" and Library.UseAcrylic then
+				local Value = Library.NotificationTransparency or 1
+
+				local notifTransparency = 0.85 + (Value * 0.08)
+				if Value > 1 then
+					notifTransparency = 0.93 + ((Value - 1) * 0.04)
+				end
+
+				local notifBackgroundTransparency = 0.8 + (Value * 0.1)
+				if Value > 1 then
+					notifBackgroundTransparency = 0.9 + ((Value - 1) * 0.05)
+				end
+
+				if NewNotification.AcrylicPaint and NewNotification.AcrylicPaint.Model then
+					NewNotification.AcrylicPaint.Model.Transparency = math.min(notifTransparency, 0.97)
+				end
+				if NewNotification.AcrylicPaint and NewNotification.AcrylicPaint.Frame and NewNotification.AcrylicPaint.Frame.Background then
+					NewNotification.AcrylicPaint.Frame.Background.BackgroundTransparency = math.min(notifBackgroundTransparency, 0.95)
+				end
+			end
+		end
+
+		function NewNotification:Open()
+			local ContentSize = NewNotification.LabelHolder.AbsoluteSize.Y
+			NewNotification.Holder.Size = UDim2.new(1, 0, 0, 58 + ContentSize)
+
+			RootMotor:setGoal({
+				Scale = Spring(0, { frequency = 5 }),
+				Offset = Spring(0, { frequency = 5 }),
+			})
+
+			task.defer(function()
+				task.wait(0.1)
+				NewNotification:ApplyTransparency()
+			end)
+		end
+
+		function NewNotification:Close()
+			if not NewNotification.Closed then
+				NewNotification.Closed = true
+
+				for i, notif in pairs(Library.ActiveNotifications or {}) do
+					if notif == NewNotification then
+						table.remove(Library.ActiveNotifications, i)
+						break
+					end
+				end
+
+				task.spawn(function()
+					RootMotor:setGoal({
+						Scale = Spring(1, { frequency = 5 }),
+						Offset = Spring(60, { frequency = 5 }),
+					})
+					task.wait(0.4)
+					if Library.UseAcrylic then
+						NewNotification.AcrylicPaint.Model:Destroy()
+					end
+					NewNotification.Holder:Destroy()
+				end)
+			end
+		end
+
+		table.insert(Library.ActiveNotifications, NewNotification)
+
+		NewNotification:Open()
+		if Config.Duration then
+			task.delay(Config.Duration, function()
+				NewNotification:Close()
+			end)
+		end
+		return NewNotification
+	end
+
+	return Notification
+end)()
+Components.Textbox = (function()
+	local New = Creator.New
+
+	return function(Parent, Acrylic)
+		Acrylic = Acrylic or false
+		local Textbox = {}
+
+		Textbox.Input = New("TextBox", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			TextColor3 = Color3.fromRGB(200, 200, 200),
+			TextSize = 14,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			TextYAlignment = Enum.TextYAlignment.Center,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			BackgroundTransparency = 1,
+			Size = UDim2.fromScale(1, 1),
+			Position = UDim2.fromOffset(10, 0),
+			ThemeTag = {
+				TextColor3 = "Text",
+				PlaceholderColor3 = "SubText",
+			},
+		})
+
+		Textbox.Container = New("Frame", {
+			BackgroundTransparency = 1,
+			ClipsDescendants = true,
+			Position = UDim2.new(0, 6, 0, 0),
+			Size = UDim2.new(1, -12, 1, 0),
+		}, {
+			Textbox.Input,
+		})
+
+		Textbox.Indicator = New("Frame", {
+			Size = UDim2.new(1, -4, 0, 1),
+			Position = UDim2.new(0, 2, 1, 0),
+			AnchorPoint = Vector2.new(0, 1),
+			BackgroundTransparency = Acrylic and 0.5 or 0,
+			ThemeTag = {
+				BackgroundColor3 = Acrylic and "InputIndicator" or "DialogInputLine",
+			},
+		})
+
+		Textbox.Frame = New("Frame", {
+			Size = UDim2.new(0, 0, 0, 30),
+			BackgroundTransparency = Acrylic and 0.9 or 0,
+			Parent = Parent,
+			ThemeTag = {
+				BackgroundColor3 = Acrylic and "Input" or "DialogInput",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+			New("UIStroke", {
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				Transparency = Acrylic and 0.5 or 0.65,
+				ThemeTag = {
+					Color = Acrylic and "InElementBorder" or "DialogButtonBorder",
+				},
+			}),
+			Textbox.Indicator,
+			Textbox.Container,
+		})
+
+		local function Update()
+			local PADDING = 2
+			local Reveal = Textbox.Container.AbsoluteSize.X
+
+			if not Textbox.Input:IsFocused() or Textbox.Input.TextBounds.X <= Reveal - 2 * PADDING then
+				Textbox.Input.Position = UDim2.new(0, PADDING, 0, 0)
+			else
+				local Cursor = Textbox.Input.CursorPosition
+				if Cursor ~= -1 then
+					local subtext = string.sub(Textbox.Input.Text, 1, Cursor - 1)
+					local width = TextService:GetTextSize(
+						subtext,
+						Textbox.Input.TextSize,
+						Textbox.Input.Font,
+						Vector2.new(math.huge, math.huge)
+					).X
+
+					local CurrentCursorPos = Textbox.Input.Position.X.Offset + width
+					if CurrentCursorPos < PADDING then
+						Textbox.Input.Position = UDim2.fromOffset(PADDING - width, 0)
+					elseif CurrentCursorPos > Reveal - PADDING - 1 then
+						Textbox.Input.Position = UDim2.fromOffset(Reveal - width - PADDING - 1, 0)
+					end
+				end
+			end
+		end
+
+		task.spawn(Update)
+
+		Creator.AddSignal(Textbox.Input:GetPropertyChangedSignal("Text"), Update)
+		Creator.AddSignal(Textbox.Input:GetPropertyChangedSignal("CursorPosition"), Update)
+
+		Creator.AddSignal(Textbox.Input.Focused, function()
+			Update()
+			Textbox.Indicator.Size = UDim2.new(1, -2, 0, 2)
+			Textbox.Indicator.Position = UDim2.new(0, 1, 1, 0)
+			Textbox.Indicator.BackgroundTransparency = 0
+			Creator.OverrideTag(Textbox.Frame, { BackgroundColor3 = Acrylic and "InputFocused" or "DialogHolder" })
+			Creator.OverrideTag(Textbox.Indicator, { BackgroundColor3 = "InputIndicatorFocus" })
+		end)
+
+		Creator.AddSignal(Textbox.Input.FocusLost, function()
+			Update()
+			Textbox.Indicator.Size = UDim2.new(1, -4, 0, 1)
+			Textbox.Indicator.Position = UDim2.new(0, 2, 1, 0)
+			Textbox.Indicator.BackgroundTransparency = 0.5
+			Creator.OverrideTag(Textbox.Frame, { BackgroundColor3 = Acrylic and "Input" or "DialogInput" })
+			Creator.OverrideTag(Textbox.Indicator, { BackgroundColor3 = Acrylic and "InputIndicator" or "DialogInputLine" })
+		end)
+
+		return Textbox
+	end
+end)()
+Components.TitleBar = (function()
+	local New = Creator.New
+	local AddSignal = Creator.AddSignal
+
+	return function(Config)
+		local TitleBar = {}
+
+		local function BarButton(Icon, Pos, Parent, Callback)
+			local Button = {
+				Callback = Callback or function() end,
+			}
+
+			Button.Frame = New("TextButton", {
+				Size = UDim2.new(0, 34, 1, -8),
+				AnchorPoint = Vector2.new(1, 0),
+				BackgroundTransparency = 1,
+				Parent = Parent,
+				Position = Pos,
+				Text = "",
+				ThemeTag = {
+					BackgroundColor3 = "Text",
+				},
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 7),
+				}),
+				New("ImageLabel", {
+					Image = Icon,
+					Size = UDim2.fromOffset(16, 16),
+					Position = UDim2.fromScale(0.5, 0.5),
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Name = "Icon",
+					ThemeTag = {
+						ImageColor3 = "Text",
+					},
+				}),
+			})
+
+			local Motor, SetTransparency = Creator.SpringMotor(1, Button.Frame, "BackgroundTransparency")
+
+			AddSignal(Button.Frame.MouseEnter, function()
+				SetTransparency(0.94)
+			end)
+			AddSignal(Button.Frame.MouseLeave, function()
+				SetTransparency(1, true)
+			end)
+			AddSignal(Button.Frame.MouseButton1Down, function()
+				SetTransparency(0.96)
+			end)
+			AddSignal(Button.Frame.MouseButton1Up, function()
+				SetTransparency(0.94)
+			end)
+			AddSignal(Button.Frame.MouseButton1Click, Button.Callback)
+
+			Button.SetCallback = function(Func)
+				Button.Callback = Func
+			end
+
+			return Button
+		end
+
+		TitleBar.Frame = New("Frame", {
+			Size = UDim2.new(1, 0, 0, 42),
+			BackgroundTransparency = 1,
+			Parent = Config.Parent,
+		}, {
+			New("Frame", {
+				Size = UDim2.new(1, -16, 1, 0),
+				Position = UDim2.new(0, 16, 0, 0),
+				BackgroundTransparency = 1,
+			}, {
+				New("UIListLayout", {
+					Padding = UDim.new(0, 2),
+					FillDirection = Enum.FillDirection.Horizontal,
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Center,
+				}),
+
+				New("TextLabel", {
+					RichText = true,
+					Text = Config.Title,
+					FontFace = Font.new(
+						"rbxasset://fonts/families/GothamSSm.json",
+						Enum.FontWeight.Regular,
+						Enum.FontStyle.Normal
+					),
+					TextSize = 12,
+					TextXAlignment = "Left",
+					TextYAlignment = "Center",
+					Size = UDim2.fromScale(0, 1),
+					AutomaticSize = Enum.AutomaticSize.X,
+					BackgroundTransparency = 1,
+					LayoutOrder = 1,
+					ThemeTag = {
+						TextColor3 = "Text",
+					},
+				}),
+				Config.SubTitle and New("TextLabel", {
+					RichText = true,
+					Text = Config.SubTitle,
+					TextTransparency = 0.4,
+					FontFace = Font.new(
+						"rbxasset://fonts/families/GothamSSm.json",
+						Enum.FontWeight.Regular,
+						Enum.FontStyle.Normal
+					),
+					TextSize = 12,
+					TextXAlignment = "Left",
+					TextYAlignment = "Center",
+					Size = UDim2.fromScale(0, 1),
+					AutomaticSize = Enum.AutomaticSize.X,
+					BackgroundTransparency = 1,
+					LayoutOrder = 2,
+					ThemeTag = {
+						TextColor3 = "Text",
+					},
+				}) or nil,
+			}),
+			New("Frame", {
+				BackgroundTransparency = 0.5,
+				Size = UDim2.new(1, 0, 0, 1),
+				Position = UDim2.new(0, 0, 1, 0),
+				ThemeTag = {
+					BackgroundColor3 = "TitleBarLine",
+				},
+			}),
+		})
+
+		TitleBar.CloseButton = BarButton(Components.Assets.Close, UDim2.new(1, -4, 0, 4), TitleBar.Frame, function()
+			Library.Window:Dialog({
+				Title = "Close",
+				Content = "Are you sure you want to unload the interface?",
+				Buttons = {
+					{
+						Title = "Yes",
+						Callback = function()
+							Library:Destroy()
+						end,
+					},
+					{
+						Title = "No",
+					},
+				},
+			})
+		end)
+		TitleBar.MaxButton = BarButton(Components.Assets.Max, UDim2.new(1, -40, 0, 4), TitleBar.Frame, function()
+			Config.Window.Maximize(not Config.Window.Maximized)
+		end)
+		TitleBar.MinButton = BarButton(Components.Assets.Min, UDim2.new(1, -80, 0, 4), TitleBar.Frame, function()
+			Library.Window:Minimize()
+		end)
+
+		return TitleBar
+	end
+end)()
+Components.Window = (function()
+	local Spring = Flipper.Spring.new
+	local Instant = Flipper.Instant.new
+	local New = Creator.New
+
+	return function(Config)
+		local Window = {
+			Minimized = false,
+			Maximized = false,
+			Size = Config.Size,
+			CurrentPos = 0,
+			TabWidth = 0,
+			Position = UDim2.fromOffset(
+				Camera.ViewportSize.X / 2 - Config.Size.X.Offset / 2,
+				Camera.ViewportSize.Y / 2 - Config.Size.Y.Offset / 2
+			),
+		}
+
+		local Dragging, DragInput, MousePos, StartPos = false
+		local Resizing, ResizePos = false
+		local MinimizeNotif = false
+
+		Window.AcrylicPaint = Acrylic.AcrylicPaint()
+		Window.TabWidth = Config.TabWidth
+
+		local Selector = New("Frame", {
+			Size = UDim2.fromOffset(4, 0),
+			BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+			Position = UDim2.fromOffset(0, 17 + 45),
+			AnchorPoint = Vector2.new(0, 0.5),
+			ThemeTag = {
+				BackgroundColor3 = "Accent",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 2),
+			}),
+		})
+
+		local ResizeStartFrame = New("Frame", {
+			Size = UDim2.fromOffset(20, 20),
+			BackgroundTransparency = 1,
+			Position = UDim2.new(1, -20, 1, -20),
+		})
+
+		Window.TabHolder = New("ScrollingFrame", {
+			Size = UDim2.new(1, 0, 1, -45),
+			Position = UDim2.new(0, 0, 0, 45),
+			BackgroundTransparency = 1,
+			ScrollBarImageTransparency = 1,
+			ScrollBarThickness = 0,
+			BorderSizePixel = 0,
+			CanvasSize = UDim2.fromScale(0, 0),
+			ScrollingDirection = Enum.ScrollingDirection.Y,
+		}, {
+			New("UIListLayout", {
+				Padding = UDim.new(0, 4),
+			}),
+		})
+
+
+		local SearchElements = {}
+		local AllElements = {}
+
+		local function UpdateElementVisibility(searchTerm)
+			searchTerm = string.lower(searchTerm or "")
+
+			for element, data in pairs(AllElements) do
+				if element and element.Parent then
+					local shouldShow = searchTerm == "" or 
+						string.find(string.lower(data.title), searchTerm, 1, true) or
+						(data.description and string.find(string.lower(data.description), searchTerm, 1, true))
+					element.Visible = shouldShow
+				end
+			end
+
+			task.spawn(function()
+				task.wait(0.01)
+				if Window and Window.TabHolder then
+					for _, child in pairs(Window.TabHolder:GetChildren()) do
+						if child:IsA("ScrollingFrame") then
+							local layout = child:FindFirstChild("UIListLayout")
+							if layout then
+								child.CanvasSize = UDim2.new(0, 0, 0, layout.AbsoluteContentSize.Y + 2)
+							end
+						end
+					end
+				end
+			end)
+		end
+
+		local function RegisterElement(elementFrame, title, elementType, description)
+			if elementFrame and title then
+				AllElements[elementFrame] = {
+					title = title,
+					type = elementType or "Element",
+					description = description or ""
+				}
+			end
+		end
+
+
+		local SearchFrame = New("Frame", {
+			Size = UDim2.new(1, 0, 0, 35),
+			Position = UDim2.new(0, 0, 0, 0),
+			BackgroundTransparency = 0.9,
+			ZIndex = 10,
+			ThemeTag = {
+				BackgroundColor3 = "Element",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 6),
+			}),
+			New("UIStroke", {
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				Transparency = 0.8,
+				Thickness = 1,
+				ThemeTag = {
+					Color = "ElementBorder",
+				},
+			}),
+		})
+
+		local SearchTextbox = Components.Textbox(SearchFrame, true)
+		SearchTextbox.Frame.Size = UDim2.new(1, -50, 1, -8)
+		SearchTextbox.Frame.Position = UDim2.new(0, 8, 0, 4)
+		SearchTextbox.Input.PlaceholderText = "Search..."
+		SearchTextbox.Input.Text = ""
+
+
+
+
+
+
+
+
+		local SearchIcon = New("ImageLabel", {
+			Size = UDim2.fromOffset(18, 18),
+			Position = UDim2.new(1, -25, 0.5, 0),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			BackgroundTransparency = 1,
+			Image = "rbxassetid://10734943674",
+			Parent = SearchFrame,
+			ThemeTag = {
+				ImageColor3 = "SubText",
+			},
+		})
+
+
+		Creator.AddSignal(SearchTextbox.Input:GetPropertyChangedSignal("Text"), function()
+			local searchText = SearchTextbox.Input.Text
+			UpdateElementVisibility(searchText)
+		end)
+
+
+		Creator.AddSignal(SearchTextbox.Input.FocusLost, function(enterPressed)
+		end)
+
+		Creator.AddSignal(UserInputService.InputBegan, function(input, gameProcessed)
+			if gameProcessed then return end
+
+			if input.KeyCode == Enum.KeyCode.Escape and SearchTextbox.Input:IsFocused() then
+				SearchTextbox.Input.Text = ""
+				SearchTextbox.Input:ReleaseFocus()
+			end
+		end)
+
+
+		Window.SearchElements = SearchElements
+		Window.AllElements = AllElements
+		Window.RegisterElement = RegisterElement
+		Window.UpdateElementVisibility = UpdateElementVisibility
+
+		local TabFrame = New("Frame", {
+			Size = UDim2.new(0, Window.TabWidth, 1, -66),
+			Position = UDim2.new(0, 12, 0, 54),
+			BackgroundTransparency = 1,
+			ClipsDescendants = true,
+		}, {
+			Window.TabHolder,
+			Selector,
+			SearchFrame,
+		})
+
+		Window.TabDisplay = New("TextLabel", {
+			RichText = true,
+			Text = "Tab",
+			TextTransparency = 0,
+			FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+			TextSize = 28,
+			TextXAlignment = "Left",
+			TextYAlignment = "Center",
+			Size = UDim2.new(1, -16, 0, 28),
+			Position = UDim2.fromOffset(Window.TabWidth + 26, 56),
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		Window.ContainerHolder = New("Frame", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundTransparency = 1,
+		})
+
+		Window.ContainerAnim = New("CanvasGroup", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundTransparency = 1,
+		})
+
+		Window.ContainerCanvas = New("Frame", {
+			Size = UDim2.new(1, -Window.TabWidth - 32, 1, -102),
+			Position = UDim2.fromOffset(Window.TabWidth + 26, 90),
+			BackgroundTransparency = 1,
+		}, {
+			Window.ContainerAnim,
+			Window.ContainerHolder
+		})
+
+		Window.Root = New("Frame", {
+			BackgroundTransparency = 1,
+			Size = Window.Size,
+			Position = Window.Position,
+			Parent = Config.Parent,
+		}, {
+			Window.AcrylicPaint.Frame,
+			Window.TabDisplay,
+			Window.ContainerCanvas,
+			TabFrame,
+			ResizeStartFrame,
+		})
+
+		Window.TitleBar = Components.TitleBar({
+			Title = Config.Title,
+			SubTitle = Config.SubTitle,
+			Parent = Window.Root,
+			Window = Window,
+		})
+
+		if Library.UseAcrylic then
+			Window.AcrylicPaint.AddParent(Window.Root)
+		end
+
+		local SizeMotor = Flipper.GroupMotor.new({
+			X = Window.Size.X.Offset,
+			Y = Window.Size.Y.Offset,
+		})
+
+		local PosMotor = Flipper.GroupMotor.new({
+			X = Window.Position.X.Offset,
+			Y = Window.Position.Y.Offset,
+		})
+
+		_G.CDDrag = 0
+		Window.SelectorPosMotor = Flipper.SingleMotor.new(17)
+		Window.SelectorSizeMotor = Flipper.SingleMotor.new(0)
+		Window.ContainerBackMotor = Flipper.SingleMotor.new(0)
+		Window.ContainerPosMotor = Flipper.SingleMotor.new(94)
+
+		SizeMotor:onStep(function(values)
+			task.wait(_G.CDDrag / 10)
+			Window.Root.Size = UDim2.new(0, values.X, 0, values.Y)
+		end)
+
+		PosMotor:onStep(function(values)
+			task.wait(_G.CDDrag / 10)
+			Window.Root.Position = UDim2.new(0, values.X, 0, values.Y)
+		end)
+
+		local LastValue = 0
+		local LastTime = 0
+		Window.SelectorPosMotor:onStep(function(Value)
+			Selector.Position = UDim2.new(0, 0, 0, Value + 17 + 45)
+			local Now = tick()
+			local DeltaTime = Now - LastTime
+
+			if LastValue ~= nil then
+				Window.SelectorSizeMotor:setGoal(Spring((math.abs(Value - LastValue) / (DeltaTime * 60)) + 16))
+				LastValue = Value
+			end
+			LastTime = Now
+		end)
+
+		Window.SelectorSizeMotor:onStep(function(Value)
+			Selector.Size = UDim2.new(0, 4, 0, Value)
+		end)
+
+		Window.ContainerBackMotor:onStep(function(Value)
+			Window.ContainerAnim.GroupTransparency = Value
+		end)
+
+		Window.ContainerPosMotor:onStep(function(Value)
+			Window.ContainerAnim.Position = UDim2.fromOffset(0, Value)
+		end)
+
+		local OldSizeX
+		local OldSizeY
+		Window.Maximize = function(Value, NoPos, Instant)
+			Window.Maximized = Value
+			Window.TitleBar.MaxButton.Frame.Icon.Image = Value and Components.Assets.Restore or Components.Assets.Max
+
+			if Value then
+				OldSizeX = Window.Size.X.Offset
+				OldSizeY = Window.Size.Y.Offset
+			end
+			local SizeX = Value and Camera.ViewportSize.X or OldSizeX
+			local SizeY = Value and Camera.ViewportSize.Y or OldSizeY
+			SizeMotor:setGoal({
+				X = Flipper[Instant and "Instant" or "Spring"].new(SizeX, { frequency = 6 }),
+				Y = Flipper[Instant and "Instant" or "Spring"].new(SizeY, { frequency = 6 }),
+			})
+			Window.Size = UDim2.fromOffset(SizeX, SizeY)
+
+			if not NoPos then
+				PosMotor:setGoal({
+					X = Spring(Value and 0 or Window.Position.X.Offset, { frequency = 6 }),
+					Y = Spring(Value and 0 or Window.Position.Y.Offset, { frequency = 6 }),
+				})
+			end
+		end
+
+		Creator.AddSignal(Window.TitleBar.Frame.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Dragging = true
+				MousePos = Input.Position
+				StartPos = Window.Root.Position
+
+				if Window.Maximized then
+					StartPos = UDim2.fromOffset(
+						Mouse.X - (Mouse.X * ((OldSizeX - 100) / Window.Root.AbsoluteSize.X)),
+						Mouse.Y - (Mouse.Y * (OldSizeY / Window.Root.AbsoluteSize.Y))
+					)
+				end
+
+				Input.Changed:Connect(function()
+					if Input.UserInputState == Enum.UserInputState.End then
+						Dragging = false
+					end
+				end)
+			end
+		end)
+
+		Creator.AddSignal(Window.TitleBar.Frame.InputChanged, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseMovement
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				DragInput = Input
+			end
+		end)
+
+		Creator.AddSignal(ResizeStartFrame.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Resizing = true
+				ResizePos = Input.Position
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputChanged, function(Input)
+			if Input == DragInput and Dragging then
+				local Delta = Input.Position - MousePos
+				Window.Position = UDim2.fromOffset(StartPos.X.Offset + Delta.X, StartPos.Y.Offset + Delta.Y)
+				PosMotor:setGoal({
+					X = Instant(Window.Position.X.Offset),
+					Y = Instant(Window.Position.Y.Offset),
+				})
+
+				if Window.Maximized then
+					Window.Maximize(false, true, true)
+				end
+			end
+
+			if
+				(Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch)
+				and Resizing
+			then
+				local Delta = Input.Position - ResizePos
+				local StartSize = Window.Size
+
+				local TargetSize = Vector3.new(StartSize.X.Offset, StartSize.Y.Offset, 0) + Vector3.new(1, 1, 0) * Delta
+				local TargetSizeClamped =
+					Vector2.new(math.clamp(TargetSize.X, 470, 2048), math.clamp(TargetSize.Y, 380, 2048))
+
+				SizeMotor:setGoal({
+					X = Flipper.Instant.new(TargetSizeClamped.X),
+					Y = Flipper.Instant.new(TargetSizeClamped.Y),
+				})
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputEnded, function(Input)
+			if Resizing == true or Input.UserInputType == Enum.UserInputType.Touch then
+				Resizing = false
+				Window.Size = UDim2.fromOffset(SizeMotor:getValue().X, SizeMotor:getValue().Y)
+			end
+		end)
+
+		Creator.AddSignal(Window.TabHolder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Window.TabHolder.CanvasSize = UDim2.new(0, 0, 0, Window.TabHolder.UIListLayout.AbsoluteContentSize.Y)
+		end)
+
+		Creator.AddSignal(UserInputService.InputBegan, function(Input)
+			if
+				type(Library.MinimizeKeybind) == "table"
+				and Library.MinimizeKeybind.Type == "Keybind"
+				and not UserInputService:GetFocusedTextBox()
+			then
+				if Input.KeyCode.Name == Library.MinimizeKeybind.Value then
+					Window:Minimize()
+				end
+			elseif Input.KeyCode == Library.MinimizeKey and not UserInputService:GetFocusedTextBox() then
+				Window:Minimize()
+			end
+		end)
+
+		function Window:Minimize()
+			Window.Minimized = not Window.Minimized
+			Window.Root.Visible = not Window.Minimized
+			if not MinimizeNotif then
+				MinimizeNotif = true
+				local Key = Library.MinimizeKeybind and Library.MinimizeKeybind.Value or Library.MinimizeKey.Name
+				if not Mobile then Library:Notify({
+					Title = "Interface",
+					Content = "Press " .. Key .. " to toggle the interface.",
+					Duration = 6
+					})
+				else 
+					Library:Notify({
+						Title = "Interface",
+						Content = "Tap to the button to toggle the interface.",
+						Duration = 6
+					})
+				end
+			end
+			if not RunService:IsStudio() and Mobile and Minimizer then
+				pcall(function()
+					local minimizeButton = Minimizer:FindFirstChild("Frame"):FindFirstChild("TextButton")
+					if minimizeButton then
+						local imageLabel = minimizeButton:FindFirstChild("ImageLabel")
+						if imageLabel then
+							imageLabel.Image = Window.Minimized and "rbxassetid://10734896384" or "rbxassetid://10734897102"
+						end
+					end
+				end)
+			end
+		end
+
+		function Window:Destroy()
+			if Library.UseAcrylic then
+				Window.AcrylicPaint.Model:Destroy()
+			end
+			Window.Root:Destroy()
+		end
+
+		local DialogModule = Components.Dialog:Init(Window)
+		function Window:Dialog(Config)
+			local Dialog = DialogModule:Create()
+			Dialog.Title.Text = Config.Title
+
+			local Content = New("TextLabel", {
+				FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+				Text = Config.Content,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				TextYAlignment = Enum.TextYAlignment.Top,
+				Size = UDim2.new(1, -40, 1, 0),
+				Position = UDim2.fromOffset(20, 60),
+				BackgroundTransparency = 1,
+				Parent = Dialog.Root,
+				ClipsDescendants = false,
+				ThemeTag = {
+					TextColor3 = "Text",
+				},
+			})
+
+			New("UISizeConstraint", {
+				MinSize = Vector2.new(300, 165),
+				MaxSize = Vector2.new(620, math.huge),
+				Parent = Dialog.Root,
+			})
+
+			Dialog.Root.Size = UDim2.fromOffset(Content.TextBounds.X + 40, 165)
+			if Content.TextBounds.X + 40 > Window.Size.X.Offset - 120 then
+				Dialog.Root.Size = UDim2.fromOffset(Window.Size.X.Offset - 120, 165)
+				Content.TextWrapped = true
+				Dialog.Root.Size = UDim2.fromOffset(Window.Size.X.Offset - 120, Content.TextBounds.Y + 150)
+			end
+
+			for _, Button in next, Config.Buttons do
+				Dialog:Button(Button.Title, Button.Callback)
+			end
+
+			Dialog:Open()
+		end
+
+		local TabModule = Components.Tab:Init(Window)
+		function Window:AddTab(TabConfig)
+			return TabModule:New(TabConfig.Title, TabConfig.Icon, Window.TabHolder)
+		end
+
+		function Window:SelectTab(Tab)
+			TabModule:SelectTab(Tab)
+		end
+
+		Creator.AddSignal(Window.TabHolder:GetPropertyChangedSignal("CanvasPosition"), function()
+			LastValue = TabModule:GetCurrentTabPos() + 16
+			LastTime = 0
+			Window.SelectorPosMotor:setGoal(Instant(TabModule:GetCurrentTabPos()))
+		end)
+
+		return Window
+	end
+end)()
+
+local ElementsTable = {}
+local AddSignal = Creator.AddSignal
+
+ElementsTable.Button = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Button"
+
+	function Element:New(Config)
+		assert(Config.Title, "Button - Missing Title")
+		Config.Callback = Config.Callback or function() end
+
+		local ButtonFrame = Components.Element(Config.Title, Config.Description, self.Container, true, Config)
+
+		local ButtonIco = New("ImageLabel", {
+			Image = "rbxassetid://10709791437",
+			Size = UDim2.fromOffset(16, 16),
+			AnchorPoint = Vector2.new(1, 0.5),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			BackgroundTransparency = 1,
+			Parent = ButtonFrame.Frame,
+			ThemeTag = {
+				ImageColor3 = "Text",
+			},
+		})
+
+		Creator.AddSignal(ButtonFrame.Frame.MouseButton1Click, function()
+			Library:SafeCallback(Config.Callback)
+		end)
+
+		return ButtonFrame
+	end
+
+	return Element
+end)()
+ElementsTable.Toggle = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Toggle"
+
+	function Element:New(Idx, Config)
+		assert(Config.Title, "Toggle - Missing Title")
+
+		local Toggle = {
+			Value = Config.Default or false,
+			Callback = Config.Callback or function(Value) end,
+			Type = "Toggle",
+		}
+
+		local ToggleFrame = Components.Element(Config.Title, Config.Description, self.Container, true, Config)
+		ToggleFrame.DescLabel.Size = UDim2.new(1, -54, 0, 14)
+
+		Toggle.SetTitle = ToggleFrame.SetTitle
+		Toggle.SetDesc = ToggleFrame.SetDesc
+		Toggle.Visible = ToggleFrame.Visible
+		Toggle.Elements = ToggleFrame
+
+		local ToggleCircle = New("ImageLabel", {
+			AnchorPoint = Vector2.new(0, 0.5),
+			Size = UDim2.fromOffset(14, 14),
+			Position = UDim2.new(0, 2, 0.5, 0),
+			Image = "http://www.roblox.com/asset/?id=12266946128",
+			ImageTransparency = 0.5,
+			ThemeTag = {
+				ImageColor3 = "ToggleSlider",
+			},
+		})
+
+		local ToggleBorder = New("UIStroke", {
+			Transparency = 0.5,
+			ThemeTag = {
+				Color = "ToggleSlider",
+			},
+		})
+
+		local ToggleSlider = New("Frame", {
+			Size = UDim2.fromOffset(36, 18),
+			AnchorPoint = Vector2.new(1, 0.5),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			Parent = ToggleFrame.Frame,
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				BackgroundColor3 = "Accent",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 9),
+			}),
+			ToggleBorder,
+			ToggleCircle,
+		})
+
+		function Toggle:OnChanged(Func)
+			Toggle.Changed = Func
+			Func(Toggle.Value)
+		end
+
+		function Toggle:SetValue(Value)
+			Value = not not Value
+			Toggle.Value = Value
+
+			Creator.OverrideTag(ToggleBorder, { Color = Toggle.Value and "Accent" or "ToggleSlider" })
+			Creator.OverrideTag(ToggleCircle, { ImageColor3 = Toggle.Value and "ToggleToggled" or "ToggleSlider" })
+			TweenService:Create(
+				ToggleCircle,
+				TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+				{ Position = UDim2.new(0, Toggle.Value and 19 or 2, 0.5, 0) }
+			):Play()
+			TweenService:Create(
+				ToggleSlider,
+				TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+				{ BackgroundTransparency = Toggle.Value and 0.45 or 1 }
+			):Play()
+			ToggleCircle.ImageTransparency = Toggle.Value and 0 or 0.5
+
+			Library:SafeCallback(Toggle.Callback, Toggle.Value)
+			Library:SafeCallback(Toggle.Changed, Toggle.Value)
+		end
+
+		function Toggle:Destroy()
+			ToggleFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Creator.AddSignal(ToggleFrame.Frame.MouseButton1Click, function()
+			Toggle:SetValue(not Toggle.Value)
+		end)
+
+		Toggle:SetValue(Toggle.Value)
+
+		Library.Options[Idx] = Toggle
+		return Toggle
+	end
+
+	return Element
+end)()
+ElementsTable.Dropdown = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Dropdown"
+
+	function Element:New(Idx, Config)
+
+		local Dropdown = {
+			Values = Config.Values,
+			Value = Config.Default,
+			Multi = Config.Multi,
+			Buttons = {},
+			Opened = false,
+			Type = "Dropdown",
+			Callback = Config.Callback or function() end,
+			Searchable = Config.Searchable or false
+		}
+
+		if Dropdown.Multi and Config.AllowNull then
+			Dropdown.Value = {}
+		end
+
+		local DropdownFrame = Components.Element(Config.Title, Config.Description, self.Container, false, Config)
+		DropdownFrame.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+
+		Dropdown.SetTitle = DropdownFrame.SetTitle
+		Dropdown.SetDesc = DropdownFrame.SetDesc
+		Dropdown.Visible = DropdownFrame.Visible
+		Dropdown.Elements = DropdownFrame
+
+		local DropdownDisplay = New("TextBox", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+			Text = "",
+			PlaceholderText = "Value",
+			PlaceholderColor3 = Color3.fromRGB(240, 240, 240),
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 14,
+			AutomaticSize = Enum.AutomaticSize.Y,
+			TextYAlignment = Enum.TextYAlignment.Center,
+			TextXAlignment = Enum.TextXAlignment.Left,
+			Size = UDim2.new(1, -40, 0.5, 0),
+			Position = UDim2.new(0, 8, 0.5, 0),
+			AnchorPoint = Vector2.new(0, 0.5),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			TextTruncate = Enum.TextTruncate.AtEnd,
+			Interactable = Dropdown.Searchable,
+			ThemeTag = {
+				TextColor3 = "Text",
+				PlaceholderColor3 = "Text"
+			},
+		})
+
+		local DropdownIco = New("ImageLabel", {
+			Image = "rbxassetid://10709790948",
+			Size = UDim2.fromOffset(16, 16),
+			AnchorPoint = Vector2.new(1, 0.5),
+			Position = UDim2.new(1, -8, 0.5, 0),
+			BackgroundTransparency = 1,
+			Rotation = 180,
+			ThemeTag = {
+				ImageColor3 = "SubText",
+			},
+		})
+
+		local DropdownInner = New("TextButton", {
+			Size = UDim2.fromOffset(160, 30),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			AnchorPoint = Vector2.new(1, 0.5),
+			BackgroundTransparency = 0.9,
+			Parent = DropdownFrame.Frame,
+			ThemeTag = {
+				BackgroundColor3 = "DropdownFrame",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 5),
+			}),
+			New("UIStroke", {
+				Transparency = 0.5,
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				ThemeTag = {
+					Color = "InElementBorder",
+				},
+			}),
+			DropdownIco,
+			DropdownDisplay,
+		})
+
+		local DropdownListLayout = New("UIListLayout", {
+			Padding = UDim.new(0, 3),
+		})
+
+		local DropdownScrollFrame = New("ScrollingFrame", {
+			Size = UDim2.new(1, -5, 1, -10),
+			Position = UDim2.fromOffset(5, 5),
+			BackgroundTransparency = 1,
+			BottomImage = "rbxassetid://6889812791",
+			MidImage = "rbxassetid://6889812721",
+			TopImage = "rbxassetid://6276641225",
+			ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+			ScrollBarImageTransparency = 0.75,
+			ScrollBarThickness = 5,
+			BorderSizePixel = 0,
+			CanvasSize = UDim2.fromScale(0, 0),
+			ScrollingDirection = Enum.ScrollingDirection.Y,
+		}, {
+			DropdownListLayout,
+		})
+
+		local DropdownHolderFrame = New("Frame", {
+			Size = UDim2.fromScale(1, 0.6),
+			ThemeTag = {
+				BackgroundColor3 = "DropdownHolder",
+			},
+		}, {
+			DropdownScrollFrame,
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 7),
+			}),
+			New("UIStroke", {
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				ThemeTag = {
+					Color = "DropdownBorder",
+				},
+			}),
+			New("ImageLabel", {
+				BackgroundTransparency = 1,
+				Image = "http://www.roblox.com/asset/?id=5554236805",
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(23, 23, 277, 277),
+				Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(30, 30),
+				Position = UDim2.fromOffset(-15, -15),
+				ImageColor3 = Color3.fromRGB(0, 0, 0),
+				ImageTransparency = 0.1,
+			}),
+		})
+
+		local DropdownHolderCanvas = New("Frame", {
+			BackgroundTransparency = 1,
+			Size = UDim2.fromOffset(170, 300),
+			Parent = Library.GUI,
+			Visible = false,
+		}, {
+			DropdownHolderFrame,
+			New("UISizeConstraint", {
+				MinSize = Vector2.new(170, 0),
+			}),
+		})
+		table.insert(Library.OpenFrames, DropdownHolderCanvas)
+
+		local function RecalculateListPosition()
+			local Add = -40
+			if Camera.ViewportSize.Y - DropdownInner.AbsolutePosition.Y < DropdownHolderCanvas.AbsoluteSize.Y - 5 then
+				Add = DropdownHolderCanvas.AbsoluteSize.Y
+				- 5
+				- (Camera.ViewportSize.Y - DropdownInner.AbsolutePosition.Y)
+					+ 40
+			end
+			DropdownHolderCanvas.Position =
+				UDim2.fromOffset(DropdownInner.AbsolutePosition.X - 1, DropdownInner.AbsolutePosition.Y - 5 - Add)
+		end
+
+		local ListSizeX = 0
+		local function RecalculateListSize()
+			if #Dropdown.Values > 10 then
+				DropdownHolderCanvas.Size = UDim2.fromOffset(ListSizeX, 392)
+			else
+				DropdownHolderCanvas.Size = UDim2.fromOffset(ListSizeX, DropdownListLayout.AbsoluteContentSize.Y + 10)
+			end
+		end
+
+		local function RecalculateCanvasSize()
+			DropdownScrollFrame.CanvasSize = UDim2.fromOffset(0, DropdownListLayout.AbsoluteContentSize.Y)
+		end
+
+		RecalculateListPosition()
+		RecalculateListSize()
+
+		Creator.AddSignal(DropdownInner:GetPropertyChangedSignal("AbsolutePosition"), RecalculateListPosition)
+
+		Creator.AddSignal(DropdownInner.MouseButton1Click, function()
+			if Dropdown.Opened then
+				Dropdown:Close()
+				return
+			end
+			Dropdown:Open()
+		end)
+
+		Creator.AddSignal(DropdownInner.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.Touch then
+				if Dropdown.Opened then
+					Dropdown:Close()
+					return
+				end
+				Dropdown:Open()
+			end
+		end)
+
+		Creator.AddSignal(DropdownDisplay:GetPropertyChangedSignal("Text"), function()
+			local Text = DropdownDisplay.Text
+			if #Text == 0 then
+				for _, Element in next, DropdownScrollFrame:GetChildren() do
+					if not Element:IsA("UIListLayout") then
+						local Value = Element.ButtonLabel.Text
+						local Similar = Value:lower():match(Text:lower()) or Value:lower() == Text:lower()
+						Element.Visible = true
+					end
+				end
+			end
+			for _, Element in next, DropdownScrollFrame:GetChildren() do
+				if not Element:IsA("UIListLayout") then
+					local Value = Element.ButtonLabel.Text
+					local Similar = Value:lower():match(Text:lower()) or Value:lower() == Text:lower()
+					Element.Visible = Similar and true or false
+				end
+			end
+
+
+			RecalculateListPosition()
+			RecalculateListSize()
+		end)
+
+		Creator.AddSignal(DropdownDisplay.Focused, function()
+			DropdownDisplay.Text = ""
+		end)
+
+		Creator.AddSignal(DropdownDisplay.FocusLost, function(Enter, Input)
+			if #DropdownDisplay.Text > 0 then
+				local Tick = tick()
+				repeat wait() until tick() - Tick > 5 or DropdownDisplay:IsFocused()
+				if not DropdownDisplay:IsFocused() then
+					DropdownDisplay.Text = ""
+					Dropdown:Display()
+				end
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				local AbsPos, AbsSize = DropdownHolderFrame.AbsolutePosition, DropdownHolderFrame.AbsoluteSize
+				if
+					Mouse.X < AbsPos.X
+					or Mouse.X > AbsPos.X + AbsSize.X
+					or Mouse.Y < (AbsPos.Y - 20 - 1)
+					or Mouse.Y > AbsPos.Y + AbsSize.Y
+				then
+					Dropdown:Close()
+				end
+			end
+		end)
+
+		local ScrollFrame = self.ScrollFrame
+		function Dropdown:Open()
+			Dropdown.Opened = true
+			DropdownDisplay.Interactable = Dropdown.Searchable and true or false
+			ScrollFrame.ScrollingEnabled = false
+			DropdownHolderCanvas.Visible = true
+			TweenService:Create(
+				DropdownHolderFrame,
+				TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.Out),
+				{ Size = UDim2.fromScale(1, 1) }
+			):Play()
+			TweenService:Create(
+				DropdownIco,
+				TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.Out),
+				{ Rotation = 0 }
+			):Play()
+			if Dropdown.Searchable then
+				DropdownDisplay:CaptureFocus()
+			end
+		end
+
+		function Dropdown:Close()
+			Dropdown.Opened = false
+			ScrollFrame.ScrollingEnabled = true
+			DropdownDisplay.Interactable = false
+			DropdownHolderFrame.Size = UDim2.fromScale(1, 0.6)
+			DropdownHolderCanvas.Visible = false
+			TweenService:Create(
+				DropdownIco,
+				TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.Out),
+				{ Rotation = 180 }
+			):Play()
+			DropdownDisplay:ReleaseFocus(false)
+			Dropdown:Display()
+		end
+
+		function Dropdown:Display()
+			local Values = Dropdown.Values
+			local Str = ""
+
+			if Config.Multi then
+				for Idx, Value in next, Values do
+					if Dropdown.Value[Value] then
+						Str = Str .. Value .. ", "
+					end
+				end
+				Str = Str:sub(1, #Str - 2)
+			else
+				Str = Dropdown.Value or ""
+			end
+
+			DropdownDisplay.PlaceholderText = (Str == "" and "--" or Str)
+		end
+
+		function Dropdown:GetActiveValues()
+			if Config.Multi then
+				local T = {}
+
+				for Value, Bool in next, Dropdown.Value do
+					table.insert(T, Value)
+				end
+
+				return T
+			else
+				return Dropdown.Value and 1 or 0
+			end
+		end
+
+		function Dropdown:SetActiveValues(Value)
+			Dropdown.Value = Value
+
+			Library:SafeCallback(Dropdown.Callback, Dropdown.Value)
+			Library:SafeCallback(Dropdown.Changed, Dropdown.Value)
+
+			Dropdown:BuildDropdownList()
+		end
+
+		function Dropdown:BuildDropdownList()
+			local Values = Dropdown.Values
+			local Buttons = {}
+
+			for _, Element in next, DropdownScrollFrame:GetChildren() do
+				if not Element:IsA("UIListLayout") then
+					Element:Destroy()
+				end
+			end
+
+			local Count = 0
+
+			for Idx, Value in next, Values do
+				local Table = {}
+
+				Count = Count + 1
+
+				local ButtonSelector = New("Frame", {
+					Size = UDim2.fromOffset(4, 14),
+					BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+					Position = UDim2.fromOffset(-1, 16),
+					AnchorPoint = Vector2.new(0, 0.5),
+					ThemeTag = {
+						BackgroundColor3 = "Accent",
+					},
+				}, {
+					New("UICorner", {
+						CornerRadius = UDim.new(0, 2),
+					}),
+				})
+
+				local ButtonLabel = New("TextLabel", {
+					FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+					Text = Value,
+					TextColor3 = Color3.fromRGB(200, 200, 200),
+					TextSize = 13,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+					AutomaticSize = Enum.AutomaticSize.Y,
+					BackgroundTransparency = 1,
+					Size = UDim2.fromScale(1, 1),
+					Position = UDim2.fromOffset(10, 0),
+					Name = "ButtonLabel",
+					ThemeTag = {
+						TextColor3 = "Text",
+					},
+				})
+
+				local Button = New("TextButton", {
+					Size = UDim2.new(1, -5, 0, 32),
+					BackgroundTransparency = 1,
+					ZIndex = 23,
+					Text = "",
+					Parent = DropdownScrollFrame,
+					ThemeTag = {
+						BackgroundColor3 = "DropdownOption",
+					},
+				}, {
+					ButtonSelector,
+					ButtonLabel,
+					New("UICorner", {
+						CornerRadius = UDim.new(0, 6),
+					}),
+				})
+
+				local Selected
+
+				if Config.Multi then
+					Selected = Dropdown.Value[Value]
+				else
+					Selected = Dropdown.Value == Value
+				end
+
+				local BackMotor, SetBackTransparency = Creator.SpringMotor(1, Button, "BackgroundTransparency")
+				local SelMotor, SetSelTransparency = Creator.SpringMotor(1, ButtonSelector, "BackgroundTransparency")
+				local SelectorSizeMotor = Flipper.SingleMotor.new(6)
+
+				SelectorSizeMotor:onStep(function(value)
+					ButtonSelector.Size = UDim2.new(0, 4, 0, value)
+				end)
+
+				Creator.AddSignal(Button.MouseEnter, function()
+					SetBackTransparency(Selected and 0.85 or 0.89)
+				end)
+				Creator.AddSignal(Button.MouseLeave, function()
+					SetBackTransparency(Selected and 0.89 or 1)
+				end)
+				Creator.AddSignal(Button.MouseButton1Down, function()
+					SetBackTransparency(0.92)
+				end)
+				Creator.AddSignal(Button.MouseButton1Up, function()
+					SetBackTransparency(Selected and 0.85 or 0.89)
+				end)
+
+				function Table:UpdateButton()
+					if Config.Multi then
+						Selected = Dropdown.Value[Value]
+						if Selected then
+							SetBackTransparency(0.89)
+						end
+					else
+						Selected = Dropdown.Value == Value
+						SetBackTransparency(Selected and 0.89 or 1)
+					end
+
+					SelectorSizeMotor:setGoal(Flipper.Spring.new(Selected and 14 or 6, { frequency = 6 }))
+					SetSelTransparency(Selected and 0 or 1)
+				end
+
+				AddSignal(Button.Activated, function()
+					local Try = not Selected
+
+					if Dropdown:GetActiveValues() == 1 and not Try and not Config.AllowNull then
+					else
+						if Config.Multi then
+							Selected = Try
+							Dropdown.Value[Value] = Selected and true or nil
+						else
+							Selected = Try
+							Dropdown.Value = Selected and Value or nil
+
+							for _, OtherButton in next, Buttons do
+								OtherButton:UpdateButton()
+							end
+						end
+
+						Table:UpdateButton()
+
+						if Dropdown.Searchable and #DropdownDisplay.Text > 0 then
+
+						else
+							Dropdown:Display()
+						end
+
+						Library:SafeCallback(Dropdown.Callback, Dropdown.Value)
+						Library:SafeCallback(Dropdown.Changed, Dropdown.Value)
+					end
+				end)
+
+				Table:UpdateButton()
+				Dropdown:Display()
+
+				Buttons[Button] = Table
+			end
+
+			ListSizeX = 0
+			for Button, Table in next, Buttons do
+				if Button.ButtonLabel then
+					if Button.ButtonLabel.TextBounds.X > ListSizeX then
+						ListSizeX = Button.ButtonLabel.TextBounds.X
+					end
+				end
+			end
+			ListSizeX = ListSizeX + 30
+
+			RecalculateCanvasSize()
+			RecalculateListSize()
+		end
+
+		function Dropdown:SetValues(NewValues)
+			if NewValues then
+				Dropdown.Values = NewValues
+			end
+
+			Dropdown:BuildDropdownList()
+		end
+
+		function Dropdown:OnChanged(Func)
+			Dropdown.Changed = Func
+			Func(Dropdown.Value)
+		end
+
+		function Dropdown:SetValue(Val)
+			if Dropdown.Multi then
+				local nTable = {}
+
+				for Value, Bool in next, Val do
+					if table.find(Dropdown.Values, Value) then
+						nTable[Value] = true
+					end
+				end
+
+				Dropdown.Value = nTable
+			else
+				if not Val then
+					Dropdown.Value = nil
+				elseif table.find(Dropdown.Values, Val) then
+					Dropdown.Value = Val
+				end
+			end
+
+			Dropdown:BuildDropdownList()
+
+			Library:SafeCallback(Dropdown.Callback, Dropdown.Value)
+			Library:SafeCallback(Dropdown.Changed, Dropdown.Value)
+		end
+
+		function Dropdown:Destroy()
+			DropdownFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Dropdown:BuildDropdownList()
+		Dropdown:Display()
+
+		local Defaults = {}
+
+		if type(Config.Default) == "string" then
+			local Idx = table.find(Dropdown.Values, Config.Default)
+			if Idx then
+				table.insert(Defaults, Idx)
+			end
+		elseif type(Config.Default) == "table" then
+			for _, Value in next, Config.Default do
+				local Idx = table.find(Dropdown.Values, Value)
+				if Idx then
+					table.insert(Defaults, Idx)
+				end
+			end
+		elseif type(Config.Default) == "number" and Dropdown.Values[Config.Default] ~= nil then
+			table.insert(Defaults, Config.Default)
+		end
+
+		if next(Defaults) then
+			for i = 1, #Defaults do
+				local Index = Defaults[i]
+				if Config.Multi then
+					Dropdown.Value[Dropdown.Values[Index]] = true
+				else
+					Dropdown.Value = Dropdown.Values[Index]
+				end
+
+				if not Config.Multi then
+					break
+				end
+			end
+
+			Dropdown:BuildDropdownList()
+			Dropdown:Display()
+		end
+
+		Library.Options[Idx] = Dropdown
+		return Dropdown
+	end
+
+	return Element
+end)()
+ElementsTable.Paragraph = (function()
+	local Paragraph = {}
+	Paragraph.__index = Paragraph
+	Paragraph.__type = "Paragraph"
+
+	function Paragraph:New(Config)
+		assert(Config.Title, "Paragraph - Missing Title")
+		Config.Content = Config.Content or ""
+
+		local Paragraph = Components.Element(Config.Title, Config.Content, Paragraph.Container, false, Config)
+		Paragraph.Frame.BackgroundTransparency = 0.92
+		Paragraph.Border.Transparency = 0.6
+
+		Paragraph.SetTitle = Paragraph.SetTitle
+		Paragraph.SetDesc = Paragraph.SetDesc
+		Paragraph.Visible = Paragraph.Visible
+		Paragraph.Elements = Paragraph
+
+		return Paragraph
+	end
+
+	return Paragraph
+end)()
+ElementsTable.Slider = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Slider"
+
+	function Element:New(Idx, Config)
+		assert(Config.Title, "Slider - Missing Title.")
+		assert(Config.Default, "Slider - Missing default value.")
+		assert(Config.Min, "Slider - Missing minimum value.")
+		assert(Config.Max, "Slider - Missing maximum value.")
+		assert(Config.Rounding, "Slider - Missing rounding value.")
+
+		local Slider = {
+			Value = nil,
+			Min = Config.Min,
+			Max = Config.Max,
+			Rounding = Config.Rounding,
+			Callback = Config.Callback or function(Value) end,
+			Type = "Slider",
+		}
+
+		local Dragging = false
+
+		local SliderFrame = Components.Element(Config.Title, Config.Description, self.Container, false, Config)
+		SliderFrame.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+
+		Slider.Elements = SliderFrame
+		Slider.SetTitle = SliderFrame.SetTitle
+		Slider.SetDesc = SliderFrame.SetDesc
+		Slider.Visible = SliderFrame.Visible
+
+		local SliderDot = New("ImageLabel", {
+			AnchorPoint = Vector2.new(0, 0.5),
+			Position = UDim2.new(0, -7, 0.5, 0),
+			Size = UDim2.fromOffset(14, 14),
+			Image = "http://www.roblox.com/asset/?id=12266946128",
+			ThemeTag = {
+				ImageColor3 = "Accent",
+			},
+		})
+
+		local SliderRail = New("Frame", {
+			BackgroundTransparency = 1,
+			Position = UDim2.fromOffset(7, 0),
+			Size = UDim2.new(1, -14, 1, 0),
+		}, {
+			SliderDot,
+		})
+
+		local SliderFill = New("Frame", {
+			Size = UDim2.new(0, 0, 1, 0),
+			ThemeTag = {
+				BackgroundColor3 = "Accent",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(1, 0),
+			}),
+		})
+
+		local SliderDisplay = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
+			Text = "Value",
+			TextSize = 12,
+			TextWrapped = true,
+			TextXAlignment = Enum.TextXAlignment.Right,
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundTransparency = 1,
+			Size = UDim2.new(0, 100, 0, 14),
+			Position = UDim2.new(0, -4, 0.5, 0),
+			AnchorPoint = Vector2.new(1, 0.5),
+			ThemeTag = {
+				TextColor3 = "SubText",
+			},
+		})
+
+		local SliderInner = New("Frame", {
+			Size = UDim2.new(1, 0, 0, 4),
+			AnchorPoint = Vector2.new(1, 0.5),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			BackgroundTransparency = 0.4,
+			Parent = SliderFrame.Frame,
+			ThemeTag = {
+				BackgroundColor3 = "SliderRail",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(1, 0),
+			}),
+			New("UISizeConstraint", {
+				MaxSize = Vector2.new(150, math.huge),
+			}),
+			SliderDisplay,
+			SliderFill,
+			SliderRail,
+		})
+
+		Creator.AddSignal(SliderDot.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Dragging = true
+			end
+		end)
+
+		Creator.AddSignal(SliderDot.InputEnded, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Dragging = false
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputChanged, function(Input)
+			if Dragging then
+				local position = nil
+				if Input.UserInputType == Enum.UserInputType.MouseMovement then
+					position = Input.Position
+				elseif Input.UserInputType == Enum.UserInputType.Touch then
+					position = Input.Position
+				end
+
+				if position then
+					local SizeScale = math.clamp((position.X - SliderRail.AbsolutePosition.X) / SliderRail.AbsoluteSize.X, 0, 1)
+					Slider:SetValue(Slider.Min + ((Slider.Max - Slider.Min) * SizeScale))
+				end
+			end
+		end)
+
+		Creator.AddSignal(SliderRail.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.Touch then
+				Dragging = true
+				local SizeScale = math.clamp((Input.Position.X - SliderRail.AbsolutePosition.X) / SliderRail.AbsoluteSize.X, 0, 1)
+				Slider:SetValue(Slider.Min + ((Slider.Max - Slider.Min) * SizeScale))
+			end
+		end)
+
+		Creator.AddSignal(SliderRail.InputEnded, function(Input)
+			if Input.UserInputType == Enum.UserInputType.Touch then
+				Dragging = false
+			end
+		end)
+
+		function Slider:OnChanged(Func)
+			Slider.Changed = Func
+			Func(Slider.Value)
+		end
+
+		function Slider:SetValue(Value)
+			self.Value = Library:Round(math.clamp(Value, Slider.Min, Slider.Max), Slider.Rounding)
+			SliderDot.Position = UDim2.new((self.Value - Slider.Min) / (Slider.Max - Slider.Min), -7, 0.5, 0)
+			SliderFill.Size = UDim2.fromScale((self.Value - Slider.Min) / (Slider.Max - Slider.Min), 1)
+			SliderDisplay.Text = tostring(self.Value)
+
+			Library:SafeCallback(Slider.Callback, self.Value)
+			Library:SafeCallback(Slider.Changed, self.Value)
+		end
+
+		function Slider:Destroy()
+			SliderFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Slider:SetValue(Config.Default)
+
+		Library.Options[Idx] = Slider
+		return Slider
+	end
+
+	return Element
+end)()
+ElementsTable.Keybind = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Keybind"
+
+	function Element:New(Idx, Config)
+		assert(Config.Title, "KeyBind - Missing Title")
+		assert(Config.Default, "KeyBind - Missing default value.")
+
+		local Keybind = {
+			Value = Config.Default,
+			Toggled = false,
+			Mode = Config.Mode or "Toggle",
+			Type = "Keybind",
+			Callback = Config.Callback or function(Value) end,
+			ChangedCallback = Config.ChangedCallback or function(New) end,
+		}
+
+		local Picking = false
+
+		local KeybindFrame = Components.Element(Config.Title, Config.Description, self.Container, true)
+
+		Keybind.SetTitle = KeybindFrame.SetTitle
+		Keybind.SetDesc = KeybindFrame.SetDesc
+		Keybind.Visible = KeybindFrame.Visible
+		Keybind.Elements = KeybindFrame
+
+		local KeybindDisplayLabel = New("TextLabel", {
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+			Text = Config.Default,
+			TextColor3 = Color3.fromRGB(240, 240, 240),
+			TextSize = 13,
+			TextXAlignment = Enum.TextXAlignment.Center,
+			Size = UDim2.new(0, 0, 0, 14),
+			Position = UDim2.new(0, 0, 0.5, 0),
+			AnchorPoint = Vector2.new(0, 0.5),
+			BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+			AutomaticSize = Enum.AutomaticSize.X,
+			BackgroundTransparency = 1,
+			ThemeTag = {
+				TextColor3 = "Text",
+			},
+		})
+
+		local KeybindDisplayFrame = New("TextButton", {
+			Size = UDim2.fromOffset(0, 30),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			AnchorPoint = Vector2.new(1, 0.5),
+			BackgroundTransparency = 0.9,
+			Parent = KeybindFrame.Frame,
+			AutomaticSize = Enum.AutomaticSize.X,
+			ThemeTag = {
+				BackgroundColor3 = "Keybind",
+			},
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 5),
+			}),
+			New("UIPadding", {
+				PaddingLeft = UDim.new(0, 8),
+				PaddingRight = UDim.new(0, 8),
+			}),
+			New("UIStroke", {
+				Transparency = 0.5,
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				ThemeTag = {
+					Color = "InElementBorder",
+				},
+			}),
+			KeybindDisplayLabel,
+		})
+
+		function Keybind:GetState()
+			if UserInputService:GetFocusedTextBox() and Keybind.Mode ~= "Always" then
+				return false
+			end
+
+			if Keybind.Mode == "Always" then
+				return true
+			elseif Keybind.Mode == "Hold" then
+				if Keybind.Value == "None" then
+					return false
+				end
+
+				local Key = Keybind.Value
+
+				if Key == "MouseLeft" or Key == "MouseRight" then
+					return Key == "MouseLeft" and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+						or Key == "MouseRight"
+						and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+				else
+					return UserInputService:IsKeyDown(Enum.KeyCode[Keybind.Value])
+				end
+			else
+				return Keybind.Toggled
+			end
+		end
+
+		function Keybind:SetValue(Key, Mode)
+			Key = Key or Keybind.Key
+			Mode = Mode or Keybind.Mode
+
+			KeybindDisplayLabel.Text = Key
+			Keybind.Value = Key
+			Keybind.Mode = Mode
+		end
+
+		function Keybind:OnClick(Callback)
+			Keybind.Clicked = Callback
+		end
+
+		function Keybind:OnChanged(Callback)
+			Keybind.Changed = Callback
+			Callback(Keybind.Value)
+		end
+
+		function Keybind:DoClick()
+			Library:SafeCallback(Keybind.Callback, Keybind.Toggled)
+			Library:SafeCallback(Keybind.Clicked, Keybind.Toggled)
+		end
+
+		function Keybind:Destroy()
+			KeybindFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Creator.AddSignal(KeybindDisplayFrame.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Picking = true
+				KeybindDisplayLabel.Text = "..."
+
+				wait(0.2)
+
+				local Event
+				Event = UserInputService.InputBegan:Connect(function(Input)
+					local Key
+
+					if Input.UserInputType == Enum.UserInputType.Keyboard then
+						Key = Input.KeyCode.Name
+					elseif Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						Key = "MouseLeft"
+					elseif Input.UserInputType == Enum.UserInputType.MouseButton2 then
+						Key = "MouseRight"
+					end
+
+					local EndedEvent
+					EndedEvent = UserInputService.InputEnded:Connect(function(Input)
+						if
+							Input.KeyCode.Name == Key
+							or Key == "MouseLeft" and Input.UserInputType == Enum.UserInputType.MouseButton1
+							or Key == "MouseRight" and Input.UserInputType == Enum.UserInputType.MouseButton2
+						then
+							Picking = false
+
+							KeybindDisplayLabel.Text = Key
+							Keybind.Value = Key
+
+							Library:SafeCallback(Keybind.ChangedCallback, Input.KeyCode or Input.UserInputType)
+							Library:SafeCallback(Keybind.Changed, Input.KeyCode or Input.UserInputType)
+
+							Event:Disconnect()
+							EndedEvent:Disconnect()
+						end
+					end)
+				end)
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputBegan, function(Input)
+			if not Picking and not UserInputService:GetFocusedTextBox() then
+				if Keybind.Mode == "Toggle" then
+					local Key = Keybind.Value
+
+					if Key == "MouseLeft" or Key == "MouseRight" then
+						if
+							Key == "MouseLeft" and Input.UserInputType == Enum.UserInputType.MouseButton1
+							or Key == "MouseRight" and Input.UserInputType == Enum.UserInputType.MouseButton2
+						then
+							Keybind.Toggled = not Keybind.Toggled
+							Keybind:DoClick()
+						end
+					elseif Input.UserInputType == Enum.UserInputType.Keyboard then
+						if Input.KeyCode.Name == Key then
+							Keybind.Toggled = not Keybind.Toggled
+							Keybind:DoClick()
+						end
+					end
+				end
+			end
+		end)
+
+		Library.Options[Idx] = Keybind
+		return Keybind
+	end
+
+	return Element
+end)()
+ElementsTable.Colorpicker = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Colorpicker"
+
+	function Element:New(Idx, Config)
+		assert(Config.Title, "Colorpicker - Missing Title")
+		assert(Config.Default, "AddColorPicker: Missing default value.")
+
+		local Colorpicker = {
+			Value = Config.Default,
+			Transparency = Config.Transparency or 0,
+			Type = "Colorpicker",
+			Title = type(Config.Title) == "string" and Config.Title or "Colorpicker",
+			Callback = Config.Callback or function(Color) end,
+		}
+
+		function Colorpicker:SetHSVFromRGB(Color)
+			local H, S, V = Color3.toHSV(Color)
+			Colorpicker.Hue = H
+			Colorpicker.Sat = S
+			Colorpicker.Vib = V
+		end
+
+		Colorpicker:SetHSVFromRGB(Colorpicker.Value)
+
+		local ColorpickerFrame = Components.Element(Config.Title, Config.Description, self.Container, true)
+
+		Colorpicker.SetTitle = ColorpickerFrame.SetTitle
+		Colorpicker.SetDesc = ColorpickerFrame.SetDesc
+		Colorpicker.Visible = ColorpickerFrame.Visible
+		Colorpicker.Elements = ColorpickerFrame
+
+		local DisplayFrameColor = New("Frame", {
+			Size = UDim2.fromScale(1, 1),
+			BackgroundColor3 = Colorpicker.Value,
+			Parent = ColorpickerFrame.Frame,
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+		})
+
+		local DisplayFrame = New("ImageLabel", {
+			Size = UDim2.fromOffset(26, 26),
+			Position = UDim2.new(1, -10, 0.5, 0),
+			AnchorPoint = Vector2.new(1, 0.5),
+			Parent = ColorpickerFrame.Frame,
+			Image = "http://www.roblox.com/asset/?id=14204231522",
+			ImageTransparency = 0.45,
+			ScaleType = Enum.ScaleType.Tile,
+			TileSize = UDim2.fromOffset(40, 40),
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0, 4),
+			}),
+			DisplayFrameColor,
+		})
+
+		local function CreateColorDialog()
+			local Dialog = Components.Dialog:Create()
+			Dialog.Title.Text = Colorpicker.Title
+			Dialog.Root.Size = UDim2.fromOffset(430, 330)
+
+			local Hue, Sat, Vib = Colorpicker.Hue, Colorpicker.Sat, Colorpicker.Vib
+			local Transparency = Colorpicker.Transparency
+
+			local function CreateInput()
+				local Box = Components.Textbox()
+				Box.Frame.Parent = Dialog.Root
+				Box.Frame.Size = UDim2.new(0, 90, 0, 32)
+
+				return Box
+			end
+
+			local function CreateInputLabel(Text, Pos)
+				return New("TextLabel", {
+					FontFace = Font.new(
+						"rbxasset://fonts/families/GothamSSm.json",
+						Enum.FontWeight.Medium,
+						Enum.FontStyle.Normal
+					),
+					Text = Text,
+					TextColor3 = Color3.fromRGB(240, 240, 240),
+					TextSize = 13,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					Size = UDim2.new(1, 0, 0, 32),
+					Position = Pos,
+					BackgroundTransparency = 1,
+					Parent = Dialog.Root,
+					ThemeTag = {
+						TextColor3 = "Text",
+					},
+				})
+			end
+
+			local function GetRGB()
+				local Value = Color3.fromHSV(Hue, Sat, Vib)
+				return { R = math.floor(Value.r * 255), G = math.floor(Value.g * 255), B = math.floor(Value.b * 255) }
+			end
+
+			local SatCursor = New("ImageLabel", {
+				Size = UDim2.new(0, 18, 0, 18),
+				ScaleType = Enum.ScaleType.Fit,
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				BackgroundTransparency = 1,
+				Image = "http://www.roblox.com/asset/?id=4805639000",
+			})
+
+			local SatVibMap = New("ImageLabel", {
+				Size = UDim2.fromOffset(180, 160),
+				Position = UDim2.fromOffset(20, 55),
+				Image = "rbxassetid://4155801252",
+				BackgroundColor3 = Colorpicker.Value,
+				BackgroundTransparency = 0,
+				Parent = Dialog.Root,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 4),
+				}),
+				SatCursor,
+			})
+
+			local OldColorFrame = New("Frame", {
+				BackgroundColor3 = Colorpicker.Value,
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = Colorpicker.Transparency,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 4),
+				}),
+			})
+
+			local OldColorFrameChecker = New("ImageLabel", {
+				Image = "http://www.roblox.com/asset/?id=14204231522",
+				ImageTransparency = 0.45,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.fromOffset(40, 40),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(112, 220),
+				Size = UDim2.fromOffset(88, 24),
+				Parent = Dialog.Root,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 4),
+				}),
+				New("UIStroke", {
+					Thickness = 2,
+					Transparency = 0.75,
+				}),
+				OldColorFrame,
+			})
+
+			local DialogDisplayFrame = New("Frame", {
+				BackgroundColor3 = Colorpicker.Value,
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 0,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 4),
+				}),
+			})
+
+			local DialogDisplayFrameChecker = New("ImageLabel", {
+				Image = "http://www.roblox.com/asset/?id=14204231522",
+				ImageTransparency = 0.45,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.fromOffset(40, 40),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(20, 220),
+				Size = UDim2.fromOffset(88, 24),
+				Parent = Dialog.Root,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(0, 4),
+				}),
+				New("UIStroke", {
+					Thickness = 2,
+					Transparency = 0.75,
+				}),
+				DialogDisplayFrame,
+			})
+
+			local SequenceTable = {}
+
+			for Color = 0, 1, 0.1 do
+				table.insert(SequenceTable, ColorSequenceKeypoint.new(Color, Color3.fromHSV(Color, 1, 1)))
+			end
+
+			local HueSliderGradient = New("UIGradient", {
+				Color = ColorSequence.new(SequenceTable),
+				Rotation = 90,
+			})
+
+			local HueDragHolder = New("Frame", {
+				Size = UDim2.new(1, 0, 1, -10),
+				Position = UDim2.fromOffset(0, 5),
+				BackgroundTransparency = 1,
+			})
+
+			local HueDrag = New("ImageLabel", {
+				Size = UDim2.fromOffset(14, 14),
+				Image = "http://www.roblox.com/asset/?id=12266946128",
+				Parent = HueDragHolder,
+				ThemeTag = {
+					ImageColor3 = "DialogInput",
+				},
+			})
+
+			local HueSlider = New("Frame", {
+				Size = UDim2.fromOffset(12, 190),
+				Position = UDim2.fromOffset(210, 55),
+				Parent = Dialog.Root,
+			}, {
+				New("UICorner", {
+					CornerRadius = UDim.new(1, 0),
+				}),
+				HueSliderGradient,
+				HueDragHolder,
+			})
+
+			local HexInput = CreateInput()
+			HexInput.Frame.Position = UDim2.fromOffset(Config.Transparency and 260 or 240, 55)
+			CreateInputLabel("Hex", UDim2.fromOffset(Config.Transparency and 360 or 340, 55))
+
+			local RedInput = CreateInput()
+			RedInput.Frame.Position = UDim2.fromOffset(Config.Transparency and 260 or 240, 95)
+			CreateInputLabel("Red", UDim2.fromOffset(Config.Transparency and 360 or 340, 95))
+
+			local GreenInput = CreateInput()
+			GreenInput.Frame.Position = UDim2.fromOffset(Config.Transparency and 260 or 240, 135)
+			CreateInputLabel("Green", UDim2.fromOffset(Config.Transparency and 360 or 340, 135))
+
+			local BlueInput = CreateInput()
+			BlueInput.Frame.Position = UDim2.fromOffset(Config.Transparency and 260 or 240, 175)
+			CreateInputLabel("Blue", UDim2.fromOffset(Config.Transparency and 360 or 340, 175))
+
+			local AlphaInput
+			if Config.Transparency then
+				AlphaInput = CreateInput()
+				AlphaInput.Frame.Position = UDim2.fromOffset(260, 215)
+				CreateInputLabel("Alpha", UDim2.fromOffset(360, 215))
+			end
+
+			local TransparencySlider, TransparencyDrag, TransparencyColor
+			if Config.Transparency then
+				local TransparencyDragHolder = New("Frame", {
+					Size = UDim2.new(1, 0, 1, -10),
+					Position = UDim2.fromOffset(0, 5),
+					BackgroundTransparency = 1,
+				})
+
+				TransparencyDrag = New("ImageLabel", {
+					Size = UDim2.fromOffset(14, 14),
+					Image = "http://www.roblox.com/asset/?id=12266946128",
+					Parent = TransparencyDragHolder,
+					ThemeTag = {
+						ImageColor3 = "DialogInput",
+					},
+				})
+
+				TransparencyColor = New("Frame", {
+					Size = UDim2.fromScale(1, 1),
+				}, {
+					New("UIGradient", {
+						Transparency = NumberSequence.new({
+							NumberSequenceKeypoint.new(0, 0),
+							NumberSequenceKeypoint.new(1, 1),
+						}),
+						Rotation = 270,
+					}),
+					New("UICorner", {
+						CornerRadius = UDim.new(1, 0),
+					}),
+				})
+
+				TransparencySlider = New("Frame", {
+					Size = UDim2.fromOffset(12, 190),
+					Position = UDim2.fromOffset(230, 55),
+					Parent = Dialog.Root,
+					BackgroundTransparency = 1,
+				}, {
+					New("UICorner", {
+						CornerRadius = UDim.new(1, 0),
+					}),
+					New("ImageLabel", {
+						Image = "http://www.roblox.com/asset/?id=14204231522",
+						ImageTransparency = 0.45,
+						ScaleType = Enum.ScaleType.Tile,
+						TileSize = UDim2.fromOffset(40, 40),
+						BackgroundTransparency = 1,
+						Size = UDim2.fromScale(1, 1),
+						Parent = Dialog.Root,
+					}, {
+						New("UICorner", {
+							CornerRadius = UDim.new(1, 0),
+						}),
+					}),
+					TransparencyColor,
+					TransparencyDragHolder,
+				})
+			end
+
+			local function Display()
+				SatVibMap.BackgroundColor3 = Color3.fromHSV(Hue, 1, 1)
+				HueDrag.Position = UDim2.new(0, -1, Hue, -6)
+				SatCursor.Position = UDim2.new(Sat, 0, 1 - Vib, 0)
+				DialogDisplayFrame.BackgroundColor3 = Color3.fromHSV(Hue, Sat, Vib)
+
+				HexInput.Input.Text = "#" .. Color3.fromHSV(Hue, Sat, Vib):ToHex()
+				RedInput.Input.Text = GetRGB()["R"]
+				GreenInput.Input.Text = GetRGB()["G"]
+				BlueInput.Input.Text = GetRGB()["B"]
+
+				if Config.Transparency then
+					TransparencyColor.BackgroundColor3 = Color3.fromHSV(Hue, Sat, Vib)
+					DialogDisplayFrame.BackgroundTransparency = Transparency
+					TransparencyDrag.Position = UDim2.new(0, -1, 1 - Transparency, -6)
+					AlphaInput.Input.Text = Library:Round((1 - Transparency) * 100, 0) .. "%"
+				end
+			end
+
+			Creator.AddSignal(HexInput.Input.FocusLost, function(Enter)
+				if Enter then
+					local Success, Result = pcall(Color3.fromHex, HexInput.Input.Text)
+					if Success and typeof(Result) == "Color3" then
+						Hue, Sat, Vib = Color3.toHSV(Result)
+					end
+				end
+				Display()
+			end)
+
+			Creator.AddSignal(RedInput.Input.FocusLost, function(Enter)
+				if Enter then
+					local CurrentColor = GetRGB()
+					local Success, Result = pcall(Color3.fromRGB, RedInput.Input.Text, CurrentColor["G"], CurrentColor["B"])
+					if Success and typeof(Result) == "Color3" then
+						if tonumber(RedInput.Input.Text) <= 255 then
+							Hue, Sat, Vib = Color3.toHSV(Result)
+						end
+					end
+				end
+				Display()
+			end)
+
+			Creator.AddSignal(GreenInput.Input.FocusLost, function(Enter)
+				if Enter then
+					local CurrentColor = GetRGB()
+					local Success, Result =
+						pcall(Color3.fromRGB, CurrentColor["R"], GreenInput.Input.Text, CurrentColor["B"])
+					if Success and typeof(Result) == "Color3" then
+						if tonumber(GreenInput.Input.Text) <= 255 then
+							Hue, Sat, Vib = Color3.toHSV(Result)
+						end
+					end
+				end
+				Display()
+			end)
+
+			Creator.AddSignal(BlueInput.Input.FocusLost, function(Enter)
+				if Enter then
+					local CurrentColor = GetRGB()
+					local Success, Result =
+						pcall(Color3.fromRGB, CurrentColor["R"], CurrentColor["G"], BlueInput.Input.Text)
+					if Success and typeof(Result) == "Color3" then
+						if tonumber(BlueInput.Input.Text) <= 255 then
+							Hue, Sat, Vib = Color3.toHSV(Result)
+						end
+					end
+				end
+				Display()
+			end)
+
+			if Config.Transparency then
+				Creator.AddSignal(AlphaInput.Input.FocusLost, function(Enter)
+					if Enter then
+						pcall(function()
+							local Value = tonumber(AlphaInput.Input.Text)
+							if Value >= 0 and Value <= 100 then
+								Transparency = 1 - Value * 0.01
+							end
+						end)
+					end
+					Display()
+				end)
+			end
+
+			Creator.AddSignal(SatVibMap.InputBegan, function(Input)
+				if
+					Input.UserInputType == Enum.UserInputType.MouseButton1
+					or Input.UserInputType == Enum.UserInputType.Touch
+				then
+					while UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+						local MinX = SatVibMap.AbsolutePosition.X
+						local MaxX = MinX + SatVibMap.AbsoluteSize.X
+						local MouseX = math.clamp(Mouse.X, MinX, MaxX)
+
+						local MinY = SatVibMap.AbsolutePosition.Y
+						local MaxY = MinY + SatVibMap.AbsoluteSize.Y
+						local MouseY = math.clamp(Mouse.Y, MinY, MaxY)
+
+						Sat = (MouseX - MinX) / (MaxX - MinX)
+						Vib = 1 - ((MouseY - MinY) / (MaxY - MinY))
+						Display()
+
+						RenderStepped:Wait()
+					end
+				end
+			end)
+
+			Creator.AddSignal(HueSlider.InputBegan, function(Input)
+				if
+					Input.UserInputType == Enum.UserInputType.MouseButton1
+					or Input.UserInputType == Enum.UserInputType.Touch
+				then
+					while UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+						local MinY = HueSlider.AbsolutePosition.Y
+						local MaxY = MinY + HueSlider.AbsoluteSize.Y
+						local MouseY = math.clamp(Mouse.Y, MinY, MaxY)
+
+						Hue = ((MouseY - MinY) / (MaxY - MinY))
+						Display()
+
+						RenderStepped:Wait()
+					end
+				end
+			end)
+
+			if Config.Transparency then
+				Creator.AddSignal(TransparencySlider.InputBegan, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						while UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+							local MinY = TransparencySlider.AbsolutePosition.Y
+							local MaxY = MinY + TransparencySlider.AbsoluteSize.Y
+							local MouseY = math.clamp(Mouse.Y, MinY, MaxY)
+
+							Transparency = 1 - ((MouseY - MinY) / (MaxY - MinY))
+							Display()
+
+							RenderStepped:Wait()
+						end
+					end
+				end)
+			end
+
+			Display()
+
+			Dialog:Button("Done", function()
+				Colorpicker:SetValue({ Hue, Sat, Vib }, Transparency)
+			end)
+			Dialog:Button("Cancel")
+			Dialog:Open()
+		end
+
+		function Colorpicker:Display()
+			Colorpicker.Value = Color3.fromHSV(Colorpicker.Hue, Colorpicker.Sat, Colorpicker.Vib)
+
+			DisplayFrameColor.BackgroundColor3 = Colorpicker.Value
+			DisplayFrameColor.BackgroundTransparency = Colorpicker.Transparency
+
+			Element.Library:SafeCallback(Colorpicker.Callback, Colorpicker.Value)
+			Element.Library:SafeCallback(Colorpicker.Changed, Colorpicker.Value)
+		end
+
+		function Colorpicker:SetValue(HSV, Transparency)
+			local Color = Color3.fromHSV(HSV[1], HSV[2], HSV[3])
+
+			Colorpicker.Transparency = Transparency or 0
+			Colorpicker:SetHSVFromRGB(Color)
+			Colorpicker:Display()
+		end
+
+		function Colorpicker:SetValueRGB(Color, Transparency)
+			Colorpicker.Transparency = Transparency or 0
+			Colorpicker:SetHSVFromRGB(Color)
+			Colorpicker:Display()
+		end
+
+		function Colorpicker:OnChanged(Func)
+			Colorpicker.Changed = Func
+			Func(Colorpicker.Value)
+		end
+
+		function Colorpicker:Destroy()
+			ColorpickerFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Creator.AddSignal(ColorpickerFrame.Frame.MouseButton1Click, function()
+			CreateColorDialog()
+		end)
+
+		Creator.AddSignal(ColorpickerFrame.Frame.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.Touch then
+				CreateColorDialog()
+			end
+		end)
+
+		Colorpicker:Display()
+
+		Library.Options[Idx] = Colorpicker
+		return Colorpicker
+	end
+
+	return Element
+end)()
+ElementsTable.Input = (function()
+	local Element = {}
+	Element.__index = Element
+	Element.__type = "Input"
+
+	function Element:New(Idx, Config)
+		assert(Config.Title, "Input - Missing Title")
+		Config.Callback = Config.Callback or function() end
+
+		local Input = {
+			Value = Config.Default or "",
+			Numeric = Config.Numeric or false,
+			Finished = Config.Finished or false,
+			Callback = Config.Callback or function(Value) end,
+			Type = "Input",
+		}
+
+		local InputFrame = Components.Element(Config.Title, Config.Description, self.Container, false)
+
+		Input.SetTitle = InputFrame.SetTitle
+		Input.SetDesc = InputFrame.SetDesc
+		Input.Visible = InputFrame.Visible
+		Input.Elements = InputFrame
+
+		local Textbox = Components.Textbox(InputFrame.Frame, true)
+		Textbox.Frame.Position = UDim2.new(1, -10, 0.5, 0)
+		Textbox.Frame.AnchorPoint = Vector2.new(1, 0.5)
+		Textbox.Frame.Size = UDim2.fromOffset(160, 30)
+		Textbox.Input.Text = Config.Default or ""
+		Textbox.Input.PlaceholderText = Config.Placeholder or ""
+
+		local Box = Textbox.Input
+
+		function Input:SetValue(Text)
+			if Config.MaxLength and #Text > Config.MaxLength then
+				Text = Text:sub(1, Config.MaxLength)
+			end
+
+			if Input.Numeric then
+				if (not tonumber(Text)) and Text:len() > 0 then
+					Text = Input.Value
+				end
+			end
+
+			Input.Value = Text
+			Box.Text = Text
+
+			Library:SafeCallback(Input.Callback, Input.Value)
+			Library:SafeCallback(Input.Changed, Input.Value)
+		end
+
+		if Input.Finished then
+			AddSignal(Box.FocusLost, function(enter)
+				if not enter then
+					return
+				end
+				Input:SetValue(Box.Text)
+			end)
+		else
+			AddSignal(Box:GetPropertyChangedSignal("Text"), function()
+				Input:SetValue(Box.Text)
+			end)
+		end
+
+		function Input:OnChanged(Func)
+			Input.Changed = Func
+			Func(Input.Value)
+		end
+
+		function Input:Destroy()
+			InputFrame:Destroy()
+			Library.Options[Idx] = nil
+		end
+
+		Library.Options[Idx] = Input
+		return Input
+	end
+
+	return Element
+end)()
+
+local NotificationModule = Components.Notification
+NotificationModule:Init(GUI)
+
+local New = Creator.New
+
+local Icons = {
+	["lucide-accessibility"] = "rbxassetid://10709751939",
+	["lucide-activity"] = "rbxassetid://10709752035",
+	["lucide-air-vent"] = "rbxassetid://10709752131",
+	["lucide-airplay"] = "rbxassetid://10709752254",
+	["lucide-alarm-check"] = "rbxassetid://10709752405",
+	["lucide-alarm-clock"] = "rbxassetid://10709752630",
+	["lucide-alarm-clock-off"] = "rbxassetid://10709752508",
+	["lucide-alarm-minus"] = "rbxassetid://10709752732",
+	["lucide-alarm-plus"] = "rbxassetid://10709752825",
+	["lucide-album"] = "rbxassetid://10709752906",
+	["lucide-alert-circle"] = "rbxassetid://10709752996",
+	["lucide-alert-octagon"] = "rbxassetid://10709753064",
+	["lucide-alert-triangle"] = "rbxassetid://10709753149",
+	["lucide-align-center"] = "rbxassetid://10709753570",
+	["lucide-align-center-horizontal"] = "rbxassetid://10709753272",
+	["lucide-align-center-vertical"] = "rbxassetid://10709753421",
+	["lucide-align-end-horizontal"] = "rbxassetid://10709753692",
+	["lucide-align-end-vertical"] = "rbxassetid://10709753808",
+	["lucide-align-horizontal-distribute-center"] = "rbxassetid://10747779791",
+	["lucide-align-horizontal-distribute-end"] = "rbxassetid://10747784534",
+	["lucide-align-horizontal-distribute-start"] = "rbxassetid://10709754118",
+	["lucide-align-horizontal-justify-center"] = "rbxassetid://10709754204",
+	["lucide-align-horizontal-justify-end"] = "rbxassetid://10709754317",
+	["lucide-align-horizontal-justify-start"] = "rbxassetid://10709754436",
+	["lucide-align-horizontal-space-around"] = "rbxassetid://10709754590",
+	["lucide-align-horizontal-space-between"] = "rbxassetid://10709754749",
+	["lucide-align-justify"] = "rbxassetid://10709759610",
+	["lucide-align-left"] = "rbxassetid://10709759764",
+	["lucide-align-right"] = "rbxassetid://10709759895",
+	["lucide-align-start-horizontal"] = "rbxassetid://10709760051",
+	["lucide-align-start-vertical"] = "rbxassetid://10709760244",
+	["lucide-align-vertical-distribute-center"] = "rbxassetid://10709760351",
+	["lucide-align-vertical-distribute-end"] = "rbxassetid://10709760434",
+	["lucide-align-vertical-distribute-start"] = "rbxassetid://10709760612",
+	["lucide-align-vertical-justify-center"] = "rbxassetid://10709760814",
+	["lucide-align-vertical-justify-end"] = "rbxassetid://10709761003",
+	["lucide-align-vertical-justify-start"] = "rbxassetid://10709761176",
+	["lucide-align-vertical-space-around"] = "rbxassetid://10709761324",
+	["lucide-align-vertical-space-between"] = "rbxassetid://10709761434",
+	["lucide-anchor"] = "rbxassetid://10709761530",
+	["lucide-angry"] = "rbxassetid://10709761629",
+	["lucide-annoyed"] = "rbxassetid://10709761722",
+	["lucide-aperture"] = "rbxassetid://10709761813",
+	["lucide-apple"] = "rbxassetid://10709761889",
+	["lucide-archive"] = "rbxassetid://10709762233",
+	["lucide-archive-restore"] = "rbxassetid://10709762058",
+	["lucide-armchair"] = "rbxassetid://10709762327",
+	["lucide-anvil"] = "rbxassetid://77943964625400",
+	["lucide-arrow-big-down"] = "rbxassetid://10747796644",
+	["lucide-arrow-big-left"] = "rbxassetid://10709762574",
+	["lucide-arrow-big-right"] = "rbxassetid://10709762727",
+	["lucide-arrow-big-up"] = "rbxassetid://10709762879",
+	["lucide-arrow-down"] = "rbxassetid://10709767827",
+	["lucide-arrow-down-circle"] = "rbxassetid://10709763034",
+	["lucide-arrow-down-left"] = "rbxassetid://10709767656",
+	["lucide-arrow-down-right"] = "rbxassetid://10709767750",
+	["lucide-arrow-left"] = "rbxassetid://10709768114",
+	["lucide-arrow-left-circle"] = "rbxassetid://10709767936",
+	["lucide-arrow-left-right"] = "rbxassetid://10709768019",
+	["lucide-arrow-right"] = "rbxassetid://10709768347",
+	["lucide-arrow-right-circle"] = "rbxassetid://10709768226",
+	["lucide-arrow-up"] = "rbxassetid://10709768939",
+	["lucide-arrow-up-circle"] = "rbxassetid://10709768432",
+	["lucide-arrow-up-down"] = "rbxassetid://10709768538",
+	["lucide-arrow-up-left"] = "rbxassetid://10709768661",
+	["lucide-arrow-up-right"] = "rbxassetid://10709768787",
+	["lucide-asterisk"] = "rbxassetid://10709769095",
+	["lucide-at-sign"] = "rbxassetid://10709769286",
+	["lucide-award"] = "rbxassetid://10709769406",
+	["lucide-axe"] = "rbxassetid://10709769508",
+	["lucide-axis-3d"] = "rbxassetid://10709769598",
+	["lucide-baby"] = "rbxassetid://10709769732",
+	["lucide-backpack"] = "rbxassetid://10709769841",
+	["lucide-baggage-claim"] = "rbxassetid://10709769935",
+	["lucide-banana"] = "rbxassetid://10709770005",
+	["lucide-banknote"] = "rbxassetid://10709770178",
+	["lucide-bar-chart"] = "rbxassetid://10709773755",
+	["lucide-bar-chart-2"] = "rbxassetid://10709770317",
+	["lucide-bar-chart-3"] = "rbxassetid://10709770431",
+	["lucide-bar-chart-4"] = "rbxassetid://10709770560",
+	["lucide-bar-chart-horizontal"] = "rbxassetid://10709773669",
+	["lucide-barcode"] = "rbxassetid://10747360675",
+	["lucide-baseline"] = "rbxassetid://10709773863",
+	["lucide-bath"] = "rbxassetid://10709773963",
+	["lucide-battery"] = "rbxassetid://10709774640",
+	["lucide-battery-charging"] = "rbxassetid://10709774068",
+	["lucide-battery-full"] = "rbxassetid://10709774206",
+	["lucide-battery-low"] = "rbxassetid://10709774370",
+	["lucide-battery-medium"] = "rbxassetid://10709774513",
+	["lucide-beaker"] = "rbxassetid://10709774756",
+	["lucide-bed"] = "rbxassetid://10709775036",
+	["lucide-bed-double"] = "rbxassetid://10709774864",
+	["lucide-bed-single"] = "rbxassetid://10709774968",
+	["lucide-beer"] = "rbxassetid://10709775167",
+	["lucide-bell"] = "rbxassetid://10709775704",
+	["lucide-bell-minus"] = "rbxassetid://10709775241",
+	["lucide-bell-off"] = "rbxassetid://10709775320",
+	["lucide-bell-plus"] = "rbxassetid://10709775448",
+	["lucide-bell-ring"] = "rbxassetid://10709775560",
+	["lucide-bike"] = "rbxassetid://10709775894",
+	["lucide-binary"] = "rbxassetid://10709776050",
+	["lucide-bitcoin"] = "rbxassetid://10709776126",
+	["lucide-bluetooth"] = "rbxassetid://10709776655",
+	["lucide-bluetooth-connected"] = "rbxassetid://10709776240",
+	["lucide-bluetooth-off"] = "rbxassetid://10709776344",
+	["lucide-bluetooth-searching"] = "rbxassetid://10709776501",
+	["lucide-bold"] = "rbxassetid://10747813908",
+	["lucide-bomb"] = "rbxassetid://10709781460",
+	["lucide-bone"] = "rbxassetid://10709781605",
+	["lucide-book"] = "rbxassetid://10709781824",
+	["lucide-book-open"] = "rbxassetid://10709781717",
+	["lucide-bookmark"] = "rbxassetid://10709782154",
+	["lucide-bookmark-minus"] = "rbxassetid://10709781919",
+	["lucide-bookmark-plus"] = "rbxassetid://10709782044",
+	["lucide-bot"] = "rbxassetid://10709782230",
+	["lucide-box"] = "rbxassetid://10709782497",
+	["lucide-box-select"] = "rbxassetid://10709782342",
+	["lucide-boxes"] = "rbxassetid://10709782582",
+	["lucide-briefcase"] = "rbxassetid://10709782662",
+	["lucide-brush"] = "rbxassetid://10709782758",
+	["lucide-bug"] = "rbxassetid://10709782845",
+	["lucide-building"] = "rbxassetid://10709783051",
+	["lucide-building-2"] = "rbxassetid://10709782939",
+	["lucide-bus"] = "rbxassetid://10709783137",
+	["lucide-cake"] = "rbxassetid://10709783217",
+	["lucide-calculator"] = "rbxassetid://10709783311",
+	["lucide-calendar"] = "rbxassetid://10709789505",
+	["lucide-calendar-check"] = "rbxassetid://10709783474",
+	["lucide-calendar-check-2"] = "rbxassetid://10709783392",
+	["lucide-calendar-clock"] = "rbxassetid://10709783577",
+	["lucide-calendar-days"] = "rbxassetid://10709783673",
+	["lucide-calendar-heart"] = "rbxassetid://10709783835",
+	["lucide-calendar-minus"] = "rbxassetid://10709783959",
+	["lucide-calendar-off"] = "rbxassetid://10709788784",
+	["lucide-calendar-plus"] = "rbxassetid://10709788937",
+	["lucide-calendar-range"] = "rbxassetid://10709789053",
+	["lucide-calendar-search"] = "rbxassetid://10709789200",
+	["lucide-calendar-x"] = "rbxassetid://10709789407",
+	["lucide-calendar-x-2"] = "rbxassetid://10709789329",
+	["lucide-camera"] = "rbxassetid://10709789686",
+	["lucide-camera-off"] = "rbxassetid://10747822677",
+	["lucide-car"] = "rbxassetid://10709789810",
+	["lucide-carrot"] = "rbxassetid://10709789960",
+	["lucide-cast"] = "rbxassetid://10709790097",
+	["lucide-charge"] = "rbxassetid://10709790202",
+	["lucide-check"] = "rbxassetid://10709790644",
+	["lucide-check-circle"] = "rbxassetid://10709790387",
+	["lucide-check-circle-2"] = "rbxassetid://10709790298",
+	["lucide-check-square"] = "rbxassetid://10709790537",
+	["lucide-chef-hat"] = "rbxassetid://10709790757",
+	["lucide-cherry"] = "rbxassetid://10709790875",
+	["lucide-chevron-down"] = "rbxassetid://10709790948",
+	["lucide-chevron-first"] = "rbxassetid://10709791015",
+	["lucide-chevron-last"] = "rbxassetid://10709791130",
+	["lucide-chevron-left"] = "rbxassetid://10709791281",
+	["lucide-chevron-right"] = "rbxassetid://10709791437",
+	["lucide-chevron-up"] = "rbxassetid://10709791523",
+	["lucide-chevrons-down"] = "rbxassetid://10709796864",
+	["lucide-chevrons-down-up"] = "rbxassetid://10709791632",
+	["lucide-chevrons-left"] = "rbxassetid://10709797151",
+	["lucide-chevrons-left-right"] = "rbxassetid://10709797006",
+	["lucide-chevrons-right"] = "rbxassetid://10709797382",
+	["lucide-chevrons-right-left"] = "rbxassetid://10709797274",
+	["lucide-chevrons-up"] = "rbxassetid://10709797622",
+	["lucide-chevrons-up-down"] = "rbxassetid://10709797508",
+	["lucide-chrome"] = "rbxassetid://10709797725",
+	["lucide-circle"] = "rbxassetid://10709798174",
+	["lucide-circle-dot"] = "rbxassetid://10709797837",
+	["lucide-circle-ellipsis"] = "rbxassetid://10709797985",
+	["lucide-circle-slashed"] = "rbxassetid://10709798100",
+	["lucide-citrus"] = "rbxassetid://10709798276",
+	["lucide-clapperboard"] = "rbxassetid://10709798350",
+	["lucide-clipboard"] = "rbxassetid://10709799288",
+	["lucide-clipboard-check"] = "rbxassetid://10709798443",
+	["lucide-clipboard-copy"] = "rbxassetid://10709798574",
+	["lucide-clipboard-edit"] = "rbxassetid://10709798682",
+	["lucide-clipboard-list"] = "rbxassetid://10709798792",
+	["lucide-clipboard-signature"] = "rbxassetid://10709798890",
+	["lucide-clipboard-type"] = "rbxassetid://10709798999",
+	["lucide-clipboard-x"] = "rbxassetid://10709799124",
+	["lucide-clock"] = "rbxassetid://10709805144",
+	["lucide-clock-1"] = "rbxassetid://10709799535",
+	["lucide-clock-10"] = "rbxassetid://10709799718",
+	["lucide-clock-11"] = "rbxassetid://10709799818",
+	["lucide-clock-12"] = "rbxassetid://10709799962",
+	["lucide-clock-2"] = "rbxassetid://10709803876",
+	["lucide-clock-3"] = "rbxassetid://10709803989",
+	["lucide-clock-4"] = "rbxassetid://10709804164",
+	["lucide-clock-5"] = "rbxassetid://10709804291",
+	["lucide-clock-6"] = "rbxassetid://10709804435",
+	["lucide-clock-7"] = "rbxassetid://10709804599",
+	["lucide-clock-8"] = "rbxassetid://10709804784",
+	["lucide-clock-9"] = "rbxassetid://10709804996",
+	["lucide-cloud"] = "rbxassetid://10709806740",
+	["lucide-cloud-cog"] = "rbxassetid://10709805262",
+	["lucide-cloud-drizzle"] = "rbxassetid://10709805371",
+	["lucide-cloud-fog"] = "rbxassetid://10709805477",
+	["lucide-cloud-hail"] = "rbxassetid://10709805596",
+	["lucide-cloud-lightning"] = "rbxassetid://10709805727",
+	["lucide-cloud-moon"] = "rbxassetid://10709805942",
+	["lucide-cloud-moon-rain"] = "rbxassetid://10709805838",
+	["lucide-cloud-off"] = "rbxassetid://10709806060",
+	["lucide-cloud-rain"] = "rbxassetid://10709806277",
+	["lucide-cloud-rain-wind"] = "rbxassetid://10709806166",
+	["lucide-cloud-snow"] = "rbxassetid://10709806374",
+	["lucide-cloud-sun"] = "rbxassetid://10709806631",
+	["lucide-cloud-sun-rain"] = "rbxassetid://10709806475",
+	["lucide-cloudy"] = "rbxassetid://10709806859",
+	["lucide-clover"] = "rbxassetid://10709806995",
+	["lucide-code"] = "rbxassetid://10709810463",
+	["lucide-code-2"] = "rbxassetid://10709807111",
+	["lucide-codepen"] = "rbxassetid://10709810534",
+	["lucide-codesandbox"] = "rbxassetid://10709810676",
+	["lucide-coffee"] = "rbxassetid://10709810814",
+	["lucide-cog"] = "rbxassetid://10709810948",
+	["lucide-coins"] = "rbxassetid://10709811110",
+	["lucide-columns"] = "rbxassetid://10709811261",
+	["lucide-command"] = "rbxassetid://10709811365",
+	["lucide-compass"] = "rbxassetid://10709811445",
+	["lucide-component"] = "rbxassetid://10709811595",
+	["lucide-concierge-bell"] = "rbxassetid://10709811706",
+	["lucide-connection"] = "rbxassetid://10747361219",
+	["lucide-contact"] = "rbxassetid://10709811834",
+	["lucide-contrast"] = "rbxassetid://10709811939",
+	["lucide-cookie"] = "rbxassetid://10709812067",
+	["lucide-copy"] = "rbxassetid://10709812159",
+	["lucide-copyleft"] = "rbxassetid://10709812251",
+	["lucide-copyright"] = "rbxassetid://10709812311",
+	["lucide-corner-down-left"] = "rbxassetid://10709812396",
+	["lucide-corner-down-right"] = "rbxassetid://10709812485",
+	["lucide-corner-left-down"] = "rbxassetid://10709812632",
+	["lucide-corner-left-up"] = "rbxassetid://10709812784",
+	["lucide-corner-right-down"] = "rbxassetid://10709812939",
+	["lucide-corner-right-up"] = "rbxassetid://10709813094",
+	["lucide-corner-up-left"] = "rbxassetid://10709813185",
+	["lucide-corner-up-right"] = "rbxassetid://10709813281",
+	["lucide-cpu"] = "rbxassetid://10709813383",
+	["lucide-croissant"] = "rbxassetid://10709818125",
+	["lucide-crop"] = "rbxassetid://10709818245",
+	["lucide-cross"] = "rbxassetid://10709818399",
+	["lucide-crosshair"] = "rbxassetid://10709818534",
+	["lucide-crown"] = "rbxassetid://10709818626",
+	["lucide-cup-soda"] = "rbxassetid://10709818763",
+	["lucide-curly-braces"] = "rbxassetid://10709818847",
+	["lucide-currency"] = "rbxassetid://10709818931",
+	["lucide-container"] = "rbxassetid://17466205552",
+	["lucide-database"] = "rbxassetid://10709818996",
+	["lucide-delete"] = "rbxassetid://10709819059",
+	["lucide-diamond"] = "rbxassetid://10709819149",
+	["lucide-dice-1"] = "rbxassetid://10709819266",
+	["lucide-dice-2"] = "rbxassetid://10709819361",
+	["lucide-dice-3"] = "rbxassetid://10709819508",
+	["lucide-dice-4"] = "rbxassetid://10709819670",
+	["lucide-dice-5"] = "rbxassetid://10709819801",
+	["lucide-dice-6"] = "rbxassetid://10709819896",
+	["lucide-dices"] = "rbxassetid://10723343321",
+	["lucide-diff"] = "rbxassetid://10723343416",
+	["lucide-disc"] = "rbxassetid://10723343537",
+	["lucide-divide"] = "rbxassetid://10723343805",
+	["lucide-divide-circle"] = "rbxassetid://10723343636",
+	["lucide-divide-square"] = "rbxassetid://10723343737",
+	["lucide-dollar-sign"] = "rbxassetid://10723343958",
+	["lucide-download"] = "rbxassetid://10723344270",
+	["lucide-download-cloud"] = "rbxassetid://10723344088",
+	["lucide-door-open"] = "rbxassetid://124179241653522",
+	["lucide-droplet"] = "rbxassetid://10723344432",
+	["lucide-droplets"] = "rbxassetid://10734883356",
+	["lucide-drumstick"] = "rbxassetid://10723344737",
+	["lucide-edit"] = "rbxassetid://10734883598",
+	["lucide-edit-2"] = "rbxassetid://10723344885",
+	["lucide-edit-3"] = "rbxassetid://10723345088",
+	["lucide-egg"] = "rbxassetid://10723345518",
+	["lucide-egg-fried"] = "rbxassetid://10723345347",
+	["lucide-electricity"] = "rbxassetid://10723345749",
+	["lucide-electricity-off"] = "rbxassetid://10723345643",
+	["lucide-equal"] = "rbxassetid://10723345990",
+	["lucide-equal-not"] = "rbxassetid://10723345866",
+	["lucide-eraser"] = "rbxassetid://10723346158",
+	["lucide-euro"] = "rbxassetid://10723346372",
+	["lucide-expand"] = "rbxassetid://10723346553",
+	["lucide-external-link"] = "rbxassetid://10723346684",
+	["lucide-eye"] = "rbxassetid://10723346959",
+	["lucide-eye-off"] = "rbxassetid://10723346871",
+	["lucide-factory"] = "rbxassetid://10723347051",
+	["lucide-fan"] = "rbxassetid://10723354359",
+	["lucide-fast-forward"] = "rbxassetid://10723354521",
+	["lucide-feather"] = "rbxassetid://10723354671",
+	["lucide-figma"] = "rbxassetid://10723354801",
+	["lucide-file"] = "rbxassetid://10723374641",
+	["lucide-file-archive"] = "rbxassetid://10723354921",
+	["lucide-file-audio"] = "rbxassetid://10723355148",
+	["lucide-file-audio-2"] = "rbxassetid://10723355026",
+	["lucide-file-axis-3d"] = "rbxassetid://10723355272",
+	["lucide-file-badge"] = "rbxassetid://10723355622",
+	["lucide-file-badge-2"] = "rbxassetid://10723355451",
+	["lucide-file-bar-chart"] = "rbxassetid://10723355887",
+	["lucide-file-bar-chart-2"] = "rbxassetid://10723355746",
+	["lucide-file-box"] = "rbxassetid://10723355989",
+	["lucide-file-check"] = "rbxassetid://10723356210",
+	["lucide-file-check-2"] = "rbxassetid://10723356100",
+	["lucide-file-clock"] = "rbxassetid://10723356329",
+	["lucide-file-code"] = "rbxassetid://10723356507",
+	["lucide-file-cog"] = "rbxassetid://10723356830",
+	["lucide-file-cog-2"] = "rbxassetid://10723356676",
+	["lucide-file-diff"] = "rbxassetid://10723357039",
+	["lucide-file-digit"] = "rbxassetid://10723357151",
+	["lucide-file-down"] = "rbxassetid://10723357322",
+	["lucide-file-edit"] = "rbxassetid://10723357495",
+	["lucide-file-heart"] = "rbxassetid://10723357637",
+	["lucide-file-image"] = "rbxassetid://10723357790",
+	["lucide-file-input"] = "rbxassetid://10723357933",
+	["lucide-file-json"] = "rbxassetid://10723364435",
+	["lucide-file-json-2"] = "rbxassetid://10723364361",
+	["lucide-file-key"] = "rbxassetid://10723364605",
+	["lucide-file-key-2"] = "rbxassetid://10723364515",
+	["lucide-file-line-chart"] = "rbxassetid://10723364725",
+	["lucide-file-lock"] = "rbxassetid://10723364957",
+	["lucide-file-lock-2"] = "rbxassetid://10723364861",
+	["lucide-file-minus"] = "rbxassetid://10723365254",
+	["lucide-file-minus-2"] = "rbxassetid://10723365086",
+	["lucide-file-output"] = "rbxassetid://10723365457",
+	["lucide-file-pie-chart"] = "rbxassetid://10723365598",
+	["lucide-file-plus"] = "rbxassetid://10723365877",
+	["lucide-file-plus-2"] = "rbxassetid://10723365766",
+	["lucide-file-question"] = "rbxassetid://10723365987",
+	["lucide-file-scan"] = "rbxassetid://10723366167",
+	["lucide-file-search"] = "rbxassetid://10723366550",
+	["lucide-file-search-2"] = "rbxassetid://10723366340",
+	["lucide-file-signature"] = "rbxassetid://10723366741",
+	["lucide-file-spreadsheet"] = "rbxassetid://10723366962",
+	["lucide-file-symlink"] = "rbxassetid://10723367098",
+	["lucide-file-terminal"] = "rbxassetid://10723367244",
+	["lucide-file-text"] = "rbxassetid://10723367380",
+	["lucide-file-type"] = "rbxassetid://10723367606",
+	["lucide-file-type-2"] = "rbxassetid://10723367509",
+	["lucide-file-up"] = "rbxassetid://10723367734",
+	["lucide-file-video"] = "rbxassetid://10723373884",
+	["lucide-file-video-2"] = "rbxassetid://10723367834",
+	["lucide-file-volume"] = "rbxassetid://10723374172",
+	["lucide-file-volume-2"] = "rbxassetid://10723374030",
+	["lucide-file-warning"] = "rbxassetid://10723374276",
+	["lucide-file-x"] = "rbxassetid://10723374544",
+	["lucide-file-x-2"] = "rbxassetid://10723374378",
+	["lucide-files"] = "rbxassetid://10723374759",
+	["lucide-film"] = "rbxassetid://10723374981",
+	["lucide-filter"] = "rbxassetid://10723375128",
+	["lucide-fingerprint"] = "rbxassetid://10723375250",
+	["lucide-flag"] = "rbxassetid://10723375890",
+	["lucide-flag-off"] = "rbxassetid://10723375443",
+	["lucide-flag-triangle-left"] = "rbxassetid://10723375608",
+	["lucide-flag-triangle-right"] = "rbxassetid://10723375727",
+	["lucide-flame"] = "rbxassetid://10723376114",
+	["lucide-flashlight"] = "rbxassetid://10723376471",
+	["lucide-flashlight-off"] = "rbxassetid://10723376365",
+	["lucide-flask-conical"] = "rbxassetid://10734883986",
+	["lucide-flask-round"] = "rbxassetid://10723376614",
+	["lucide-flip-horizontal"] = "rbxassetid://10723376884",
+	["lucide-flip-horizontal-2"] = "rbxassetid://10723376745",
+	["lucide-flip-vertical"] = "rbxassetid://10723377138",
+	["lucide-flip-vertical-2"] = "rbxassetid://10723377026",
+	["lucide-flower"] = "rbxassetid://10747830374",
+	["lucide-flower-2"] = "rbxassetid://10723377305",
+	["lucide-focus"] = "rbxassetid://10723377537",
+	["lucide-folder"] = "rbxassetid://10723387563",
+	["lucide-folder-archive"] = "rbxassetid://10723384478",
+	["lucide-folder-check"] = "rbxassetid://10723384605",
+	["lucide-folder-clock"] = "rbxassetid://10723384731",
+	["lucide-folder-closed"] = "rbxassetid://10723384893",
+	["lucide-folder-cog"] = "rbxassetid://10723385213",
+	["lucide-folder-cog-2"] = "rbxassetid://10723385036",
+	["lucide-folder-down"] = "rbxassetid://10723385338",
+	["lucide-folder-edit"] = "rbxassetid://10723385445",
+	["lucide-folder-heart"] = "rbxassetid://10723385545",
+	["lucide-folder-input"] = "rbxassetid://10723385721",
+	["lucide-folder-key"] = "rbxassetid://10723385848",
+	["lucide-folder-lock"] = "rbxassetid://10723386005",
+	["lucide-folder-minus"] = "rbxassetid://10723386127",
+	["lucide-folder-open"] = "rbxassetid://10723386277",
+	["lucide-folder-output"] = "rbxassetid://10723386386",
+	["lucide-folder-plus"] = "rbxassetid://10723386531",
+	["lucide-folder-search"] = "rbxassetid://10723386787",
+	["lucide-folder-search-2"] = "rbxassetid://10723386674",
+	["lucide-folder-symlink"] = "rbxassetid://10723386930",
+	["lucide-folder-tree"] = "rbxassetid://10723387085",
+	["lucide-folder-up"] = "rbxassetid://10723387265",
+	["lucide-folder-x"] = "rbxassetid://10723387448",
+	["lucide-folders"] = "rbxassetid://10723387721",
+	["lucide-form-input"] = "rbxassetid://10723387841",
+	["lucide-forward"] = "rbxassetid://10723388016",
+	["lucide-frame"] = "rbxassetid://10723394389",
+	["lucide-framer"] = "rbxassetid://10723394565",
+	["lucide-frown"] = "rbxassetid://10723394681",
+	["lucide-fuel"] = "rbxassetid://10723394846",
+	["lucide-function-square"] = "rbxassetid://10723395041",
+	["lucide-gamepad"] = "rbxassetid://10723395457",
+	["lucide-gamepad-2"] = "rbxassetid://10723395215",
+	["lucide-gauge"] = "rbxassetid://10723395708",
+	["lucide-gavel"] = "rbxassetid://10723395896",
+	["lucide-gem"] = "rbxassetid://10723396000",
+	["lucide-ghost"] = "rbxassetid://10723396107",
+	["lucide-gift"] = "rbxassetid://10723396402",
+	["lucide-gift-card"] = "rbxassetid://10723396225",
+	["lucide-git-branch"] = "rbxassetid://10723396676",
+	["lucide-git-branch-plus"] = "rbxassetid://10723396542",
+	["lucide-git-commit"] = "rbxassetid://10723396812",
+	["lucide-git-compare"] = "rbxassetid://10723396954",
+	["lucide-git-fork"] = "rbxassetid://10723397049",
+	["lucide-git-merge"] = "rbxassetid://10723397165",
+	["lucide-git-pull-request"] = "rbxassetid://10723397431",
+	["lucide-git-pull-request-closed"] = "rbxassetid://10723397268",
+	["lucide-git-pull-request-draft"] = "rbxassetid://10734884302",
+	["lucide-glass"] = "rbxassetid://10723397788",
+	["lucide-glass-2"] = "rbxassetid://10723397529",
+	["lucide-glass-water"] = "rbxassetid://10723397678",
+	["lucide-glasses"] = "rbxassetid://10723397895",
+	["lucide-globe"] = "rbxassetid://10723404337",
+	["lucide-globe-2"] = "rbxassetid://10723398002",
+	["lucide-grab"] = "rbxassetid://10723404472",
+	["lucide-graduation-cap"] = "rbxassetid://10723404691",
+	["lucide-grape"] = "rbxassetid://10723404822",
+	["lucide-grid"] = "rbxassetid://10723404936",
+	["lucide-grip-horizontal"] = "rbxassetid://10723405089",
+	["lucide-grip-vertical"] = "rbxassetid://10723405236",
+	["lucide-hammer"] = "rbxassetid://10723405360",
+	["lucide-hand"] = "rbxassetid://10723405649",
+	["lucide-hand-metal"] = "rbxassetid://10723405508",
+	["lucide-hard-drive"] = "rbxassetid://10723405749",
+	["lucide-hard-hat"] = "rbxassetid://10723405859",
+	["lucide-hash"] = "rbxassetid://10723405975",
+	["lucide-haze"] = "rbxassetid://10723406078",
+	["lucide-headphones"] = "rbxassetid://10723406165",
+	["lucide-heart"] = "rbxassetid://10723406885",
+	["lucide-heart-crack"] = "rbxassetid://10723406299",
+	["lucide-heart-handshake"] = "rbxassetid://10723406480",
+	["lucide-heart-off"] = "rbxassetid://10723406662",
+	["lucide-heart-pulse"] = "rbxassetid://10723406795",
+	["lucide-help-circle"] = "rbxassetid://10723406988",
+	["lucide-hexagon"] = "rbxassetid://10723407092",
+	["lucide-highlighter"] = "rbxassetid://10723407192",
+	["lucide-history"] = "rbxassetid://10723407335",
+	["lucide-home"] = "rbxassetid://10723407389",
+	["lucide-hourglass"] = "rbxassetid://10723407498",
+	["lucide-ice-cream"] = "rbxassetid://10723414308",
+	["lucide-image"] = "rbxassetid://10723415040",
+	["lucide-image-minus"] = "rbxassetid://10723414487",
+	["lucide-image-off"] = "rbxassetid://10723414677",
+	["lucide-image-plus"] = "rbxassetid://10723414827",
+	["lucide-import"] = "rbxassetid://10723415205",
+	["lucide-inbox"] = "rbxassetid://10723415335",
+	["lucide-indent"] = "rbxassetid://10723415494",
+	["lucide-indian-rupee"] = "rbxassetid://10723415642",
+	["lucide-infinity"] = "rbxassetid://10723415766",
+	["lucide-info"] = "rbxassetid://10723415903",
+	["lucide-inspect"] = "rbxassetid://10723416057",
+	["lucide-italic"] = "rbxassetid://10723416195",
+	["lucide-japanese-yen"] = "rbxassetid://10723416363",
+	["lucide-joystick"] = "rbxassetid://10723416527",
+	["lucide-key"] = "rbxassetid://10723416652",
+	["lucide-keyboard"] = "rbxassetid://10723416765",
+	["lucide-lamp"] = "rbxassetid://10723417513",
+	["lucide-lamp-ceiling"] = "rbxassetid://10723416922",
+	["lucide-lamp-desk"] = "rbxassetid://10723417016",
+	["lucide-lamp-floor"] = "rbxassetid://10723417131",
+	["lucide-lamp-wall-down"] = "rbxassetid://10723417240",
+	["lucide-lamp-wall-up"] = "rbxassetid://10723417356",
+	["lucide-landmark"] = "rbxassetid://10723417608",
+	["lucide-languages"] = "rbxassetid://10723417703",
+	["lucide-laptop"] = "rbxassetid://10723423881",
+	["lucide-laptop-2"] = "rbxassetid://10723417797",
+	["lucide-lasso"] = "rbxassetid://10723424235",
+	["lucide-lasso-select"] = "rbxassetid://10723424058",
+	["lucide-laugh"] = "rbxassetid://10723424372",
+	["lucide-layers"] = "rbxassetid://10723424505",
+	["lucide-layout"] = "rbxassetid://10723425376",
+	["lucide-layout-dashboard"] = "rbxassetid://10723424646",
+	["lucide-layout-grid"] = "rbxassetid://10723424838",
+	["lucide-layout-list"] = "rbxassetid://10723424963",
+	["lucide-layout-template"] = "rbxassetid://10723425187",
+	["lucide-leaf"] = "rbxassetid://10723425539",
+	["lucide-library"] = "rbxassetid://10723425615",
+	["lucide-life-buoy"] = "rbxassetid://10723425685",
+	["lucide-lightbulb"] = "rbxassetid://10723425852",
+	["lucide-lightbulb-off"] = "rbxassetid://10723425762",
+	["lucide-line-chart"] = "rbxassetid://10723426393",
+	["lucide-link"] = "rbxassetid://10723426722",
+	["lucide-link-2"] = "rbxassetid://10723426595",
+	["lucide-link-2-off"] = "rbxassetid://10723426513",
+	["lucide-list"] = "rbxassetid://10723433811",
+	["lucide-list-checks"] = "rbxassetid://10734884548",
+	["lucide-list-end"] = "rbxassetid://10723426886",
+	["lucide-list-minus"] = "rbxassetid://10723426986",
+	["lucide-list-music"] = "rbxassetid://10723427081",
+	["lucide-list-ordered"] = "rbxassetid://10723427199",
+	["lucide-list-plus"] = "rbxassetid://10723427334",
+	["lucide-list-start"] = "rbxassetid://10723427494",
+	["lucide-list-video"] = "rbxassetid://10723427619",
+	["lucide-list-todo"] = "rbxassetid://17376008003",
+	["lucide-list-x"] = "rbxassetid://10723433655",
+	["lucide-loader"] = "rbxassetid://10723434070",
+	["lucide-loader-2"] = "rbxassetid://10723433935",
+	["lucide-locate"] = "rbxassetid://10723434557",
+	["lucide-locate-fixed"] = "rbxassetid://10723434236",
+	["lucide-locate-off"] = "rbxassetid://10723434379",
+	["lucide-lock"] = "rbxassetid://10723434711",
+	["lucide-log-in"] = "rbxassetid://10723434830",
+	["lucide-log-out"] = "rbxassetid://10723434906",
+	["lucide-luggage"] = "rbxassetid://10723434993",
+	["lucide-magnet"] = "rbxassetid://10723435069",
+	["lucide-mail"] = "rbxassetid://10734885430",
+	["lucide-mail-check"] = "rbxassetid://10723435182",
+	["lucide-mail-minus"] = "rbxassetid://10723435261",
+	["lucide-mail-open"] = "rbxassetid://10723435342",
+	["lucide-mail-plus"] = "rbxassetid://10723435443",
+	["lucide-mail-question"] = "rbxassetid://10723435515",
+	["lucide-mail-search"] = "rbxassetid://10734884739",
+	["lucide-mail-warning"] = "rbxassetid://10734885015",
+	["lucide-mail-x"] = "rbxassetid://10734885247",
+	["lucide-mails"] = "rbxassetid://10734885614",
+	["lucide-map"] = "rbxassetid://10734886202",
+	["lucide-map-pin"] = "rbxassetid://10734886004",
+	["lucide-map-pin-off"] = "rbxassetid://10734885803",
+	["lucide-maximize"] = "rbxassetid://10734886735",
+	["lucide-maximize-2"] = "rbxassetid://10734886496",
+	["lucide-medal"] = "rbxassetid://10734887072",
+	["lucide-megaphone"] = "rbxassetid://10734887454",
+	["lucide-megaphone-off"] = "rbxassetid://10734887311",
+	["lucide-meh"] = "rbxassetid://10734887603",
+	["lucide-menu"] = "rbxassetid://10734887784",
+	["lucide-message-circle"] = "rbxassetid://10734888000",
+	["lucide-message-square"] = "rbxassetid://10734888228",
+	["lucide-mic"] = "rbxassetid://10734888864",
+	["lucide-mic-2"] = "rbxassetid://10734888430",
+	["lucide-mic-off"] = "rbxassetid://10734888646",
+	["lucide-microscope"] = "rbxassetid://10734889106",
+	["lucide-microwave"] = "rbxassetid://10734895076",
+	["lucide-milestone"] = "rbxassetid://10734895310",
+	["lucide-minimize"] = "rbxassetid://10734895698",
+	["lucide-minimize-2"] = "rbxassetid://10734895530",
+	["lucide-minus"] = "rbxassetid://10734896206",
+	["lucide-minus-circle"] = "rbxassetid://10734895856",
+	["lucide-minus-square"] = "rbxassetid://10734896029",
+	["lucide-monitor"] = "rbxassetid://10734896881",
+	["lucide-monitor-off"] = "rbxassetid://10734896360",
+	["lucide-monitor-speaker"] = "rbxassetid://10734896512",
+	["lucide-moon"] = "rbxassetid://10734897102",
+	["lucide-more-horizontal"] = "rbxassetid://10734897250",
+	["lucide-more-vertical"] = "rbxassetid://10734897387",
+	["lucide-mountain"] = "rbxassetid://10734897956",
+	["lucide-mountain-snow"] = "rbxassetid://10734897665",
+	["lucide-mouse"] = "rbxassetid://10734898592",
+	["lucide-mouse-pointer"] = "rbxassetid://10734898476",
+	["lucide-mouse-pointer-2"] = "rbxassetid://10734898194",
+	["lucide-mouse-pointer-click"] = "rbxassetid://10734898355",
+	["lucide-move"] = "rbxassetid://10734900011",
+	["lucide-move-3d"] = "rbxassetid://10734898756",
+	["lucide-move-diagonal"] = "rbxassetid://10734899164",
+	["lucide-move-diagonal-2"] = "rbxassetid://10734898934",
+	["lucide-move-horizontal"] = "rbxassetid://10734899414",
+	["lucide-move-vertical"] = "rbxassetid://10734899821",
+	["lucide-music"] = "rbxassetid://10734905958",
+	["lucide-music-2"] = "rbxassetid://10734900215",
+	["lucide-music-3"] = "rbxassetid://10734905665",
+	["lucide-music-4"] = "rbxassetid://10734905823",
+	["lucide-navigation"] = "rbxassetid://10734906744",
+	["lucide-navigation-2"] = "rbxassetid://10734906332",
+	["lucide-navigation-2-off"] = "rbxassetid://10734906144",
+	["lucide-navigation-off"] = "rbxassetid://10734906580",
+	["lucide-network"] = "rbxassetid://10734906975",
+	["lucide-newspaper"] = "rbxassetid://10734907168",
+	["lucide-octagon"] = "rbxassetid://10734907361",
+	["lucide-option"] = "rbxassetid://10734907649",
+	["lucide-outdent"] = "rbxassetid://10734907933",
+	["lucide-package"] = "rbxassetid://10734909540",
+	["lucide-package-2"] = "rbxassetid://10734908151",
+	["lucide-package-check"] = "rbxassetid://10734908384",
+	["lucide-package-minus"] = "rbxassetid://10734908626",
+	["lucide-package-open"] = "rbxassetid://10734908793",
+	["lucide-package-plus"] = "rbxassetid://10734909016",
+	["lucide-package-search"] = "rbxassetid://10734909196",
+	["lucide-package-x"] = "rbxassetid://10734909375",
+	["lucide-paint-bucket"] = "rbxassetid://10734909847",
+	["lucide-paintbrush"] = "rbxassetid://10734910187",
+	["lucide-paintbrush-2"] = "rbxassetid://10734910030",
+	["lucide-palette"] = "rbxassetid://10734910430",
+	["lucide-palmtree"] = "rbxassetid://10734910680",
+	["lucide-paperclip"] = "rbxassetid://10734910927",
+	["lucide-party-popper"] = "rbxassetid://10734918735",
+	["lucide-pause"] = "rbxassetid://10734919336",
+	["lucide-pause-circle"] = "rbxassetid://10735024209",
+	["lucide-pause-octagon"] = "rbxassetid://10734919143",
+	["lucide-pen-tool"] = "rbxassetid://10734919503",
+	["lucide-pencil"] = "rbxassetid://10734919691",
+	["lucide-percent"] = "rbxassetid://10734919919",
+	["lucide-person-standing"] = "rbxassetid://10734920149",
+	["lucide-phone"] = "rbxassetid://10734921524",
+	["lucide-phone-call"] = "rbxassetid://10734920305",
+	["lucide-phone-forwarded"] = "rbxassetid://10734920508",
+	["lucide-phone-incoming"] = "rbxassetid://10734920694",
+	["lucide-phone-missed"] = "rbxassetid://10734920845",
+	["lucide-phone-off"] = "rbxassetid://10734921077",
+	["lucide-phone-outgoing"] = "rbxassetid://10734921288",
+	["lucide-pie-chart"] = "rbxassetid://10734921727",
+	["lucide-piggy-bank"] = "rbxassetid://10734921935",
+	["lucide-pin"] = "rbxassetid://10734922324",
+	["lucide-pin-off"] = "rbxassetid://10734922180",
+	["lucide-pipette"] = "rbxassetid://10734922497",
+	["lucide-pizza"] = "rbxassetid://10734922774",
+	["lucide-plane"] = "rbxassetid://10734922971",
+	["lucide-plane-landing"] = "rbxassetid://17376029914",
+	["lucide-play"] = "rbxassetid://10734923549",
+	["lucide-play-circle"] = "rbxassetid://10734923214",
+	["lucide-plus"] = "rbxassetid://10734924532",
+	["lucide-plus-circle"] = "rbxassetid://10734923868",
+	["lucide-plus-square"] = "rbxassetid://10734924219",
+	["lucide-podcast"] = "rbxassetid://10734929553",
+	["lucide-pointer"] = "rbxassetid://10734929723",
+	["lucide-pound-sterling"] = "rbxassetid://10734929981",
+	["lucide-power"] = "rbxassetid://10734930466",
+	["lucide-power-off"] = "rbxassetid://10734930257",
+	["lucide-printer"] = "rbxassetid://10734930632",
+	["lucide-puzzle"] = "rbxassetid://10734930886",
+	["lucide-quote"] = "rbxassetid://10734931234",
+	["lucide-radio"] = "rbxassetid://10734931596",
+	["lucide-radio-receiver"] = "rbxassetid://10734931402",
+	["lucide-rectangle-horizontal"] = "rbxassetid://10734931777",
+	["lucide-rectangle-vertical"] = "rbxassetid://10734932081",
+	["lucide-recycle"] = "rbxassetid://10734932295",
+	["lucide-redo"] = "rbxassetid://10734932822",
+	["lucide-redo-2"] = "rbxassetid://10734932586",
+	["lucide-refresh-ccw"] = "rbxassetid://10734933056",
+	["lucide-refresh-cw"] = "rbxassetid://10734933222",
+	["lucide-refrigerator"] = "rbxassetid://10734933465",
+	["lucide-regex"] = "rbxassetid://10734933655",
+	["lucide-repeat"] = "rbxassetid://10734933966",
+	["lucide-repeat-1"] = "rbxassetid://10734933826",
+	["lucide-reply"] = "rbxassetid://10734934252",
+	["lucide-reply-all"] = "rbxassetid://10734934132",
+	["lucide-rewind"] = "rbxassetid://10734934347",
+	["lucide-rocket"] = "rbxassetid://10734934585",
+	["lucide-rocking-chair"] = "rbxassetid://10734939942",
+	["lucide-rotate-3d"] = "rbxassetid://10734940107",
+	["lucide-rotate-ccw"] = "rbxassetid://10734940376",
+	["lucide-rotate-cw"] = "rbxassetid://10734940654",
+	["lucide-rss"] = "rbxassetid://10734940825",
+	["lucide-ruler"] = "rbxassetid://10734941018",
+	["lucide-russian-ruble"] = "rbxassetid://10734941199",
+	["lucide-sailboat"] = "rbxassetid://10734941354",
+	["lucide-save"] = "rbxassetid://10734941499",
+	["lucide-scale"] = "rbxassetid://10734941912",
+	["lucide-scale-3d"] = "rbxassetid://10734941739",
+	["lucide-scaling"] = "rbxassetid://10734942072",
+	["lucide-scan"] = "rbxassetid://10734942565",
+	["lucide-scan-face"] = "rbxassetid://10734942198",
+	["lucide-scan-line"] = "rbxassetid://10734942351",
+	["lucide-scissors"] = "rbxassetid://10734942778",
+	["lucide-screen-share"] = "rbxassetid://10734943193",
+	["lucide-screen-share-off"] = "rbxassetid://10734942967",
+	["lucide-scroll"] = "rbxassetid://10734943448",
+	["lucide-search"] = "rbxassetid://10734943674",
+	["lucide-send"] = "rbxassetid://10734943902",
+	["lucide-separator-horizontal"] = "rbxassetid://10734944115",
+	["lucide-separator-vertical"] = "rbxassetid://10734944326",
+	["lucide-server"] = "rbxassetid://10734949856",
+	["lucide-server-cog"] = "rbxassetid://10734944444",
+	["lucide-server-crash"] = "rbxassetid://10734944554",
+	["lucide-server-off"] = "rbxassetid://10734944668",
+	["lucide-settings"] = "rbxassetid://10734950309",
+	["lucide-settings-2"] = "rbxassetid://10734950020",
+	["lucide-share"] = "rbxassetid://10734950813",
+	["lucide-share-2"] = "rbxassetid://10734950553",
+	["lucide-sheet"] = "rbxassetid://10734951038",
+	["lucide-shield"] = "rbxassetid://10734951847",
+	["lucide-shield-alert"] = "rbxassetid://10734951173",
+	["lucide-shield-check"] = "rbxassetid://10734951367",
+	["lucide-shield-close"] = "rbxassetid://10734951535",
+	["lucide-shield-off"] = "rbxassetid://10734951684",
+	["lucide-shirt"] = "rbxassetid://10734952036",
+	["lucide-shopping-bag"] = "rbxassetid://10734952273",
+	["lucide-shopping-cart"] = "rbxassetid://10734952479",
+	["lucide-shovel"] = "rbxassetid://10734952773",
+	["lucide-shower-head"] = "rbxassetid://10734952942",
+	["lucide-shrink"] = "rbxassetid://10734953073",
+	["lucide-shrub"] = "rbxassetid://10734953241",
+	["lucide-shuffle"] = "rbxassetid://10734953451",
+	["lucide-sidebar"] = "rbxassetid://10734954301",
+	["lucide-sidebar-close"] = "rbxassetid://10734953715",
+	["lucide-sidebar-open"] = "rbxassetid://10734954000",
+	["lucide-sigma"] = "rbxassetid://10734954538",
+	["lucide-signal"] = "rbxassetid://10734961133",
+	["lucide-signal-high"] = "rbxassetid://10734954807",
+	["lucide-signal-low"] = "rbxassetid://10734955080",
+	["lucide-signal-medium"] = "rbxassetid://10734955336",
+	["lucide-signal-zero"] = "rbxassetid://10734960878",
+	["lucide-siren"] = "rbxassetid://10734961284",
+	["lucide-skip-back"] = "rbxassetid://10734961526",
+	["lucide-skip-forward"] = "rbxassetid://10734961809",
+	["lucide-skull"] = "rbxassetid://10734962068",
+	["lucide-slack"] = "rbxassetid://10734962339",
+	["lucide-slash"] = "rbxassetid://10734962600",
+	["lucide-slice"] = "rbxassetid://10734963024",
+	["lucide-sliders"] = "rbxassetid://10734963400",
+	["lucide-sliders-horizontal"] = "rbxassetid://10734963191",
+	["lucide-smartphone"] = "rbxassetid://10734963940",
+	["lucide-smartphone-charging"] = "rbxassetid://10734963671",
+	["lucide-smile"] = "rbxassetid://10734964441",
+	["lucide-smile-plus"] = "rbxassetid://10734964188",
+	["lucide-snowflake"] = "rbxassetid://10734964600",
+	["lucide-sofa"] = "rbxassetid://10734964852",
+	["lucide-sort-asc"] = "rbxassetid://10734965115",
+	["lucide-sort-desc"] = "rbxassetid://10734965287",
+	["lucide-speaker"] = "rbxassetid://10734965419",
+	["lucide-sprout"] = "rbxassetid://10734965572",
+	["lucide-square"] = "rbxassetid://10734965702",
+	["lucide-star"] = "rbxassetid://10734966248",
+	["lucide-star-half"] = "rbxassetid://10734965897",
+	["lucide-star-off"] = "rbxassetid://10734966097",
+	["lucide-stethoscope"] = "rbxassetid://10734966384",
+	["lucide-sticker"] = "rbxassetid://10734972234",
+	["lucide-sticky-note"] = "rbxassetid://10734972463",
+	["lucide-stop-circle"] = "rbxassetid://10734972621",
+	["lucide-stretch-horizontal"] = "rbxassetid://10734972862",
+	["lucide-stretch-vertical"] = "rbxassetid://10734973130",
+	["lucide-strikethrough"] = "rbxassetid://10734973290",
+	["lucide-subscript"] = "rbxassetid://10734973457",
+	["lucide-sun"] = "rbxassetid://10734974297",
+	["lucide-sun-dim"] = "rbxassetid://10734973645",
+	["lucide-sun-medium"] = "rbxassetid://10734973778",
+	["lucide-sun-moon"] = "rbxassetid://10734973999",
+	["lucide-sun-snow"] = "rbxassetid://10734974130",
+	["lucide-sunrise"] = "rbxassetid://10734974522",
+	["lucide-sunset"] = "rbxassetid://10734974689",
+	["lucide-superscript"] = "rbxassetid://10734974850",
+	["lucide-swiss-franc"] = "rbxassetid://10734975024",
+	["lucide-switch-camera"] = "rbxassetid://10734975214",
+	["lucide-sword"] = "rbxassetid://10734975486",
+	["lucide-swords"] = "rbxassetid://10734975692",
+	["lucide-syringe"] = "rbxassetid://10734975932",
+	["lucide-table"] = "rbxassetid://10734976230",
+	["lucide-table-2"] = "rbxassetid://10734976097",
+	["lucide-tablet"] = "rbxassetid://10734976394",
+	["lucide-tag"] = "rbxassetid://10734976528",
+	["lucide-tags"] = "rbxassetid://10734976739",
+	["lucide-target"] = "rbxassetid://10734977012",
+	["lucide-tent"] = "rbxassetid://10734981750",
+	["lucide-terminal"] = "rbxassetid://10734982144",
+	["lucide-terminal-square"] = "rbxassetid://10734981995",
+	["lucide-text-cursor"] = "rbxassetid://10734982395",
+	["lucide-text-cursor-input"] = "rbxassetid://10734982297",
+	["lucide-thermometer"] = "rbxassetid://10734983134",
+	["lucide-thermometer-snowflake"] = "rbxassetid://10734982571",
+	["lucide-thermometer-sun"] = "rbxassetid://10734982771",
+	["lucide-thumbs-down"] = "rbxassetid://10734983359",
+	["lucide-thumbs-up"] = "rbxassetid://10734983629",
+	["lucide-ticket"] = "rbxassetid://10734983868",
+	["lucide-timer"] = "rbxassetid://10734984606",
+	["lucide-timer-off"] = "rbxassetid://10734984138",
+	["lucide-timer-reset"] = "rbxassetid://10734984355",
+	["lucide-toggle-left"] = "rbxassetid://10734984834",
+	["lucide-toggle-right"] = "rbxassetid://10734985040",
+	["lucide-tornado"] = "rbxassetid://10734985247",
+	["lucide-toy-brick"] = "rbxassetid://10747361919",
+	["lucide-train"] = "rbxassetid://10747362105",
+	["lucide-trash"] = "rbxassetid://10747362393",
+	["lucide-trash-2"] = "rbxassetid://10747362241",
+	["lucide-tree-deciduous"] = "rbxassetid://10747362534",
+	["lucide-tree-pine"] = "rbxassetid://10747362748",
+	["lucide-trees"] = "rbxassetid://10747363016",
+	["lucide-trending-down"] = "rbxassetid://10747363205",
+	["lucide-trending-up"] = "rbxassetid://10747363465",
+	["lucide-triangle"] = "rbxassetid://10747363621",
+	["lucide-trophy"] = "rbxassetid://10747363809",
+	["lucide-truck"] = "rbxassetid://10747364031",
+	["lucide-tv"] = "rbxassetid://10747364593",
+	["lucide-tv-2"] = "rbxassetid://10747364302",
+	["lucide-type"] = "rbxassetid://10747364761",
+	["lucide-umbrella"] = "rbxassetid://10747364971",
+	["lucide-underline"] = "rbxassetid://10747365191",
+	["lucide-undo"] = "rbxassetid://10747365484",
+	["lucide-undo-2"] = "rbxassetid://10747365359",
+	["lucide-unlink"] = "rbxassetid://10747365771",
+	["lucide-unlink-2"] = "rbxassetid://10747397871",
+	["lucide-unlock"] = "rbxassetid://10747366027",
+	["lucide-upload"] = "rbxassetid://10747366434",
+	["lucide-upload-cloud"] = "rbxassetid://10747366266",
+	["lucide-usb"] = "rbxassetid://10747366606",
+	["lucide-user"] = "rbxassetid://10747373176",
+	["lucide-user-check"] = "rbxassetid://10747371901",
+	["lucide-user-cog"] = "rbxassetid://10747372167",
+	["lucide-user-minus"] = "rbxassetid://10747372346",
+	["lucide-user-plus"] = "rbxassetid://10747372702",
+	["lucide-user-x"] = "rbxassetid://10747372992",
+	["lucide-users"] = "rbxassetid://10747373426",
+	["lucide-utensils"] = "rbxassetid://10747373821",
+	["lucide-utensils-crossed"] = "rbxassetid://10747373629",
+	["lucide-venetian-mask"] = "rbxassetid://10747374003",
+	["lucide-verified"] = "rbxassetid://10747374131",
+	["lucide-vibrate"] = "rbxassetid://10747374489",
+	["lucide-vibrate-off"] = "rbxassetid://10747374269",
+	["lucide-video"] = "rbxassetid://10747374938",
+	["lucide-video-off"] = "rbxassetid://10747374721",
+	["lucide-view"] = "rbxassetid://10747375132",
+	["lucide-voicemail"] = "rbxassetid://10747375281",
+	["lucide-volume"] = "rbxassetid://10747376008",
+	["lucide-volume-1"] = "rbxassetid://10747375450",
+	["lucide-volume-2"] = "rbxassetid://10747375679",
+	["lucide-volume-x"] = "rbxassetid://10747375880",
+	["lucide-wheat"] = "rbxassetid://80877624162595",
+	["lucide-wallet"] = "rbxassetid://10747376205",
+	["lucide-wand"] = "rbxassetid://10747376565",
+	["lucide-wand-2"] = "rbxassetid://10747376349",
+	["lucide-watch"] = "rbxassetid://10747376722",
+	["lucide-waves"] = "rbxassetid://10747376931",
+	["lucide-webcam"] = "rbxassetid://10747381992",
+	["lucide-wifi"] = "rbxassetid://10747382504",
+	["lucide-wifi-off"] = "rbxassetid://10747382268",
+	["lucide-wind"] = "rbxassetid://10747382750",
+	["lucide-wrap-text"] = "rbxassetid://10747383065",
+	["lucide-wrench"] = "rbxassetid://10747383470",
+	["lucide-x"] = "rbxassetid://10747384394",
+	["lucide-x-circle"] = "rbxassetid://10747383819",
+	["lucide-x-octagon"] = "rbxassetid://10747384037",
+	["lucide-x-square"] = "rbxassetid://10747384217",
+	["lucide-zoom-in"] = "rbxassetid://10747384552",
+	["lucide-zoom-out"] = "rbxassetid://10747384679",
+	["lucide-cat"] = "rbxassetid://16935650691",
+	["lucide-message-circle-question"] = "rbxassetid://16970049192",
+	["lucide-webhook"] = "rbxassetid://17320556264",
+	["lucide-dumbbell"] = "rbxassetid://18273453053"
+}
+function Library:GetIcon(Name)
+	if Name ~= nil and Icons["lucide-" .. Name] then
+		return Icons["lucide-" .. Name]
+	end
+	return nil
+end
+
+local Elements = {}
+Elements.__index = Elements
+Elements.__namecall = function(Table, Key, ...)
+	return Elements[Key](...)
+end
+
+for _, ElementComponent in pairs(ElementsTable) do
+	Elements["Add" .. ElementComponent.__type] = function(self, Idx, Config)
+		ElementComponent.Container = self.Container
+		ElementComponent.Type = self.Type
+		ElementComponent.ScrollFrame = self.ScrollFrame
+		ElementComponent.Library = Library
+
+		return ElementComponent:New(Idx, Config)
+	end
+end
+
+Library.Elements = Elements
+
+if RunService:IsStudio() then
+	makefolder = function(...) return ... end;
+	makefile = function(...) return ... end;
+	isfile = function(...) return ... end;
+	isfolder = function(...) return ... end;
+	readfile = function(...) return ... end;
+	writefile = function(...) return ... end;
+	listfiles = function (...) return {...} end;
+end
+
+local SaveManager = {} do
+	SaveManager.Folder = "FluentSettings"
+	SaveManager.Ignore = {}
+	SaveManager.Parser = {
+		Toggle = {
+			Save = function(idx, object) 
+				return { type = "Toggle", idx = idx, value = object.Value } 
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] then 
+					SaveManager.Options[idx]:SetValue(data.value)
+				end
+			end,
+		},
+		Slider = {
+			Save = function(idx, object)
+				return { type = "Slider", idx = idx, value = tostring(object.Value) }
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] then 
+					SaveManager.Options[idx]:SetValue(data.value)
+				end
+			end,
+		},
+		Dropdown = {
+			Save = function(idx, object)
+				return { type = "Dropdown", idx = idx, value = object.Value, mutli = object.Multi }
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] then 
+					SaveManager.Options[idx]:SetValue(data.value)
+				end
+			end,
+		},
+		Colorpicker = {
+			Save = function(idx, object)
+				return { type = "Colorpicker", idx = idx, value = object.Value:ToHex(), transparency = object.Transparency }
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] then 
+					SaveManager.Options[idx]:SetValueRGB(Color3.fromHex(data.value), data.transparency)
+				end
+			end,
+		},
+		Keybind = {
+			Save = function(idx, object)
+				return { type = "Keybind", idx = idx, mode = object.Mode, key = object.Value }
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] then 
+					SaveManager.Options[idx]:SetValue(data.key, data.mode)
+				end
+			end,
+		},
+
+		Input = {
+			Save = function(idx, object)
+				return { type = "Input", idx = idx, text = object.Value }
+			end,
+			Load = function(idx, data)
+				if SaveManager.Options[idx] and type(data.text) == "string" then
+					SaveManager.Options[idx]:SetValue(data.text)
+				end
+			end,
+		},
+	}
+
+	function SaveManager:SetIgnoreIndexes(list)
+		for _, key in next, list do
+			self.Ignore[key] = true
+		end
+	end
+
+	function SaveManager:SetFolder(folder)
+		self.Folder = folder;
+		self:BuildFolderTree()
+	end
+
+	function SaveManager:Save(name)
+		if (not name) then
+			return false, "no config file is selected"
+		end
+
+		local fullPath = self.Folder .. "/" .. name .. ".json"
+
+		local data = {
+			objects = {}
+		}
+
+
+		for idx, option in next, SaveManager.Options do
+			if self.Parser[option.Type] and not self.Ignore[idx] then
+				table.insert(data.objects, self.Parser[option.Type].Save(idx, option))
+			end
+		end	
+
+		local success, encoded = pcall(httpService.JSONEncode, httpService, data)
+		if not success then
+			return false, "failed to encode data"
+		end
+
+		writefile(fullPath, encoded)
+		return true
+	end
+
+	if not RunService:IsStudio() then
+		function SaveManager:Load(name)
+			if (not name) then
+				return false, "no config file is selected"
+			end
+
+			local file = self.Folder .. "/" .. name .. ".json"
+			if not isfile(file) then return false, "Create Config Save File" end
+
+			local success, decoded = pcall(httpService.JSONDecode, httpService, readfile(file))
+			if not success then return false, "decode error" end
+
+			for _, option in next, decoded.objects do
+				if self.Parser[option.type] and not self.Ignore[option.idx] then
+					task.spawn(function() self.Parser[option.type].Load(option.idx, option) end)
+				end
+			end
+
+			Fluent.SettingLoaded = true
+
+			return true, decoded
+		end
+	end
+
+	function SaveManager:IgnoreThemeSettings()
+		self:SetIgnoreIndexes({ 
+			"InterfaceTheme", "AcrylicToggle", "TransparentToggle", "MenuKeybind"
+		})
+	end
+
+	function SaveManager:BuildFolderTree()
+		local paths = {
+			self.Folder,
+			self.Folder .. "/"
+		}
+
+		for i = 1, #paths do
+			local str = paths[i]
+			if not isfolder(str) then
+				makefolder(str)
+			end
+		end
+	end
+
+	function SaveManager:RefreshConfigList()
+		local list = listfiles(self.Folder .. "/")
+
+		local out = {}
+		for i = 1, #list do
+			local file = list[i]
+			if file:sub(-5) == ".json" then
+				local pos = file:find(".json", 1, true)
+				local start = pos
+
+				local char = file:sub(pos, pos)
+				while char ~= "/" and char ~= "\\" and char ~= "" do
+					pos = pos - 1
+					char = file:sub(pos, pos)
+				end
+
+				if char == "/" or char == "\\" then
+					local name = file:sub(pos + 1, start - 1)
+					if name ~= "options" then
+						table.insert(out, name)
+					end
+				end
+			end
+		end
+
+		return out
+	end
+
+	function SaveManager:SetLibrary(library)
+		self.Library = library
+		self.Options = library.Options
+	end
+
+	if not RunService:IsStudio() then
+		function SaveManager:LoadAutoloadConfig()
+			if isfile(self.Folder .. "/autoload.txt") then
+				local name = readfile(self.Folder .. "/autoload.txt")
+
+				local success, err = self:Load(name)
+				if not success then
+					return self.Library:Notify({
+						Title = "Interface",
+						Content = "Config loader",
+						SubContent = "Failed to load autoload config: " .. err,
+						Duration = 7
+					})
+				end
+
+				self.Library:Notify({
+					Title = "Interface",
+					Content = "Config loader",
+					SubContent = string.format("Auto loaded config %q", name),
+					Duration = 7
+				})
+			end
+		end
+	end
+
+	function SaveManager:BuildConfigSection(tab)
+		assert(self.Library, "Must set SaveManager.Library")
+
+		local section = tab:AddSection("Configuration", "settings")
+
+		section:AddInput("SaveManager_ConfigName",    { Title = "Config name" })
+		section:AddDropdown("SaveManager_ConfigList", { Title = "Config list", Values = self:RefreshConfigList(), AllowNull = true })
+
+		section:AddButton({
+			Title = "Create config",
+			Callback = function()
+				local name = SaveManager.Options.SaveManager_ConfigName.Value
+
+				if name:gsub(" ", "") == "" then 
+					return self.Library:Notify({
+						Title = "Interface",
+						Content = "Config loader",
+						SubContent = "Invalid config name (empty)",
+						Duration = 7
+					})
+				end
+
+				local success, err = self:Save(name)
+				if not success then
+					return self.Library:Notify({
+						Title = "Interface",
+						Content = "Config loader",
+						SubContent = "Failed to save config: " .. err,
+						Duration = 7
+					})
+				end
+
+				self.Library:Notify({
+					Title = "Interface",
+					Content = "Config loader",
+					SubContent = string.format("Created config %q", name),
+					Duration = 7
+				})
+
+				SaveManager.Options.SaveManager_ConfigList:SetValues(self:RefreshConfigList())
+				SaveManager.Options.SaveManager_ConfigList:SetValue(nil)
+			end
+		})
+
+		section:AddButton({Title = "Load config", Callback = function()
+			local name = SaveManager.Options.SaveManager_ConfigList.Value
+
+			local success, err = self:Load(name)
+			if not success then
+				return self.Library:Notify({
+					Title = "Interface",
+					Content = "Config loader",
+					SubContent = "Failed to load config: " .. err,
+					Duration = 7
+				})
+			end
+
+			self.Library:Notify({
+				Title = "Interface",
+				Content = "Config loader",
+				SubContent = string.format("Loaded config %q", name),
+				Duration = 7
+			})
+		end})
+
+		section:AddButton({Title = "Save config", Callback = function()
+			local name = SaveManager.Options.SaveManager_ConfigList.Value
+
+			local success, err = self:Save(name)
+			if not success then
+				return self.Library:Notify({
+					Title = "Interface",
+					Content = "Config loader",
+					SubContent = "Failed to overwrite config: " .. err,
+					Duration = 7
+				})
+			end
+
+			self.Library:Notify({
+				Title = "Interface",
+				Content = "Config loader",
+				SubContent = string.format("Overwrote config %q", name),
+				Duration = 7
+			})
+		end})
+
+		section:AddButton({Title = "Refresh list", Callback = function()
+			SaveManager.Options.SaveManager_ConfigList:SetValues(self:RefreshConfigList())
+			SaveManager.Options.SaveManager_ConfigList:SetValue(nil)
+		end})
+
+		local AutoloadButton
+		AutoloadButton = section:AddButton({Title = "Set as autoload", Description = "Current autoload config: none", Callback = function()
+			local name = SaveManager.Options.SaveManager_ConfigList.Value
+			writefile(self.Folder .. "/autoload.txt", name)
+			AutoloadButton:SetDesc("Current autoload config: " .. name)
+			self.Library:Notify({
+				Title = "Interface",
+				Content = "Config loader",
+				SubContent = string.format("Set %q to auto load", name),
+				Duration = 7
+			})
+		end})
+
+		if isfile(self.Folder .. "/autoload.txt") then
+			local name = readfile(self.Folder .. "/autoload.txt")
+			AutoloadButton:SetDesc("Current autoload config: " .. name)
+		end
+
+		SaveManager:SetIgnoreIndexes({ "SaveManager_ConfigList", "SaveManager_ConfigName" })
+	end
+
+	if not RunService:IsStudio() then
+		SaveManager:BuildFolderTree()
+	end
+end
+
+local InterfaceManager = {} do
+	InterfaceManager.Folder = "FluentSettings"
+	InterfaceManager.Settings = {
+		Acrylic = true,
+		Transparency = true,
+		MenuKeybind = "M"
+	}
+
+	function InterfaceManager:SetTheme(name)
+		InterfaceManager.Settings.Theme = name
+	end
+
+	function InterfaceManager:SetFolder(folder)
+		self.Folder = folder;
+		self:BuildFolderTree()
+	end
+
+	function InterfaceManager:SetLibrary(library)
+		self.Library = library
+	end
+
+	function InterfaceManager:BuildFolderTree()
+		local paths = {}
+
+		local parts = self.Folder:split("/")
+		for idx = 1, #parts do
+			paths[#paths + 1] = table.concat(parts, "/", 1, idx)
+		end
+
+		table.insert(paths, self.Folder)
+		table.insert(paths, self.Folder .. "/")
+
+		for i = 1, #paths do
+			local str = paths[i]
+			if not isfolder(str) then
+				makefolder(str)
+			end
+		end
+	end
+
+	function InterfaceManager:SaveSettings()
+		writefile(self.Folder .. "/options.json", httpService:JSONEncode(InterfaceManager.Settings))
+	end
+
+	function InterfaceManager:LoadSettings()
+		local path = self.Folder .. "/options.json"
+		if isfile(path) then
+			local data = readfile(path)
+
+			if not RunService:IsStudio() then local success, decoded = pcall(httpService.JSONDecode, httpService, data) end
+
+			if success then
+				for i, v in next, decoded do
+					InterfaceManager.Settings[i] = v
+				end
+			end
+		end
+	end
+
+	function InterfaceManager:BuildInterfaceSection(tab)
+		assert(self.Library, "Must set InterfaceManager.Library")
+		local Library = self.Library
+		local Settings = InterfaceManager.Settings
+
+		InterfaceManager:LoadSettings()
+
+		local section = tab:AddSection("Interface", "monitor")
+		local InterfaceTheme = section:AddDropdown("InterfaceTheme", {
+			Title = "Theme",
+			Description = "Changes the interface theme.",
+			Values = Library.Themes,
+			Default = self.Library.Theme,
+			Callback = function(Value)
+				Library:SetTheme(Value)
+				Settings.Theme = Value
+				InterfaceManager:SaveSettings()
+			end
+		})
+
+		InterfaceTheme:SetValue(Settings.Theme)
+
+		if Library.UseAcrylic and not Mobile then
+			section:AddToggle("AcrylicToggle", {
+				Title = "Acrylic",
+				Description = "The blurred background requires graphic quality 8+",
+				Default = Settings.Acrylic,
+				Callback = function(Value)
+					Library:ToggleAcrylic(Value)
+					Settings.Acrylic = Value
+					InterfaceManager:SaveSettings()
+				end
+			})
+		elseif Mobile then
+			Settings.Acrylic = false
+		end
+
+		section:AddSlider("WindowTransparency", {
+			Title = "Window Transparency",
+			Description = "Adjusts the window transparency.",
+			Default = 1,
+			Min = 0,
+			Max = 3,
+			Rounding = 1,
+			Callback = function(Value)
+				Library:SetWindowTransparency(Value)
+			end
+		})
+
+
+		local MenuKeybind = section:AddKeybind("MenuKeybind", { Title = "Minimize Bind", Default = Library.MinimizeKey.Name or Settings.MenuKeybind })
+		MenuKeybind:OnChanged(function()
+			Settings.MenuKeybind = MenuKeybind.Value
+			InterfaceManager:SaveSettings()
+		end)
+		Library.MinimizeKeybind = MenuKeybind
+	end
+end
+
+function Library:CreateWindow(Config)
+	assert(Config.Title, "Window - Missing Title")
+
+	if Library.Window then
+		print("You cannot create more than one window.")
+		return
+	end
+
+	Library.MinimizeKey = Config.MinimizeKey or Enum.KeyCode.LeftControl
+	Library.UseAcrylic = Config.Acrylic or false
+	Library.Acrylic = Config.Acrylic or false
+	Library.Theme = Config.Theme or "Dark"
+	if Config.Acrylic then
+		Acrylic.init()
+	end
+
+	local Icon = Config.Icon
+	if not fischbypass then 
+		if Library:GetIcon(Icon) then
+			Icon = Library:GetIcon(Icon)
+		end
+
+		if Icon == "" or Icon == nil then
+			Icon = nil
+		end
+	end
+
+	local Window = Components.Window({
+		Parent = GUI,
+		Size = Config.Size,
+		Title = Config.Title,
+		Icon = Icon,
+		SubTitle = Config.SubTitle,
+		TabWidth = Config.TabWidth,
+	})
+
+	Library.Window = Window
+	table.insert(Library.Windows, Window)
+	InterfaceManager:SetTheme(Config.Theme)
+	Library:SetTheme(Config.Theme)
+
+	return Window
+end
+
+function Library:SetTheme(Value)
+	if Library.Window and table.find(Library.Themes, Value) then
+		Library.Theme = Value
+		Creator.UpdateTheme()
+
+		if Value == "Glass" then
+			Library:SetWindowTransparency(0.9)
+		end
+	end
+end
+
+function Library:Destroy()
+	if Library.Window then
+		Library.Unloaded = true
+		if Library.UseAcrylic then
+			Library.Window.AcrylicPaint.Model:Destroy()
+		end
+		Creator.Disconnect()
+		Library.GUI:Destroy()
+	end
+end
+
+function Library:ToggleAcrylic(Value)
+	if Library.Window then
+		if Library.UseAcrylic then
+			Library.Acrylic = Value
+			Library.Window.AcrylicPaint.Model.Transparency = Value and 0.98 or 1
+			if Value then
+				Acrylic.Enable()
+			else
+				Acrylic.Disable()
+			end
+		end
+	end
+end
+
+function Library:ToggleTransparency(Value)
+	if Library.Window then
+		Library.Window.AcrylicPaint.Frame.Background.BackgroundTransparency = Value and 0.35 or 0
+	end
+end
+
+function Library:SetWindowTransparency(Value)
+	if Library.Window and Library.UseAcrylic then
+		Value = math.clamp(Value, 0, 3)
+
+		if Library.Theme == "Glass" then
+			local glassTransparency = 0.8 + (Value * 0.05)
+			if Value > 1 then
+				glassTransparency = 0.85 + ((Value - 1) * 0.04)
+			end
+			if Value > 2 then
+				glassTransparency = 0.93 + ((Value - 2) * 0.04)
+			end
+			Library.Window.AcrylicPaint.Model.Transparency = math.min(glassTransparency, 0.99)
+
+			local backgroundTransparency = 0.7 + (Value * 0.08)
+			if Value > 1 then
+				backgroundTransparency = 0.78 + ((Value - 1) * 0.07)
+			end
+			if Value > 2 then
+				backgroundTransparency = 0.85 + ((Value - 2) * 0.1)
+			end
+			Library.Window.AcrylicPaint.Frame.Background.BackgroundTransparency = math.min(backgroundTransparency, 0.99)
+
+			Library.NotificationTransparency = Value
+
+			for _, notification in pairs(Library.ActiveNotifications or {}) do
+				if notification and notification.ApplyTransparency then
+					notification:ApplyTransparency()
+				end
+			end
+		else
+			Library.Window.AcrylicPaint.Model.Transparency = 0.98
+			Library.Window.AcrylicPaint.Frame.Background.BackgroundTransparency = Value * 0.3
+		end
+	end
+end
+
+function Library:Notify(Config)
+	return NotificationModule:New(Config)
+end
+
+if getgenv then
+	getgenv().Fluent = Library
+else
+	Fluent = Library
+end
+
+local MinimizeButton = New("TextButton", {
+	BackgroundTransparency = 1,
+	Size = UDim2.new(1, 0, 1, 0),
+	BorderSizePixel = 0
+}, {
+	New("UIPadding", {
+		PaddingBottom = UDim.new(0, 2),
+		PaddingLeft = UDim.new(0, 2),
+		PaddingRight = UDim.new(0, 2),
+		PaddingTop = UDim.new(0, 2),
+	}),
+	New("ImageLabel", {
+		Image = Mobile and (Button_Icon ~= "" and Button_Icon or "rbxassetid://10734897102") or "rbxassetid://10734897102",
+		Size = UDim2.new(1, 0, 1, 0),
+		BackgroundTransparency = 1,
+	}, {
+		New("UIAspectRatioConstraint", {
+			AspectRatio = 1,
+			AspectType = Enum.AspectType.FitWithinMaxSize,
+		})
+	})
+})
+
+local Minimizer
+
+if Mobile then
+	Minimizer = New("Frame", {
+		Parent = GUI,
+		Size = UDim2.new(0.08, 1, 0.1642, 1),
+		Position = UDim2.new(0.45, 0, 0.025, 0),
+		BackgroundTransparency = 1,
+		ZIndex = 999999999,
+	},
+	{
+		New("Frame", {
+			BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+			Size = UDim2.new(1, 0, 1, 0),
+			BackgroundTransparency = 0.5,
+			BorderSizePixel = 0
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0.25, 0),
+			}),
+			MinimizeButton
+		})
+	})
+else
+	Minimizer = New("Frame", {
+		Parent = GUI,
+		Size = UDim2.new(0, 0, 0, 0),
+		Position = UDim2.new(0.45, 0, 0.025, 0),
+		BackgroundTransparency = 1,
+		ZIndex = 999999999,
+		Visible = false
+	},
+	{
+		New("Frame", {
+			BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+			Size = UDim2.new(0, 0, 0, 0),
+			BackgroundTransparency = 0,
+			BorderSizePixel = 0
+		}, {
+			New("UICorner", {
+				CornerRadius = UDim.new(0.25, 0),
+			}),
+			MinimizeButton
+		})
+	})
+end
+
+Creator.AddSignal(Minimizer.InputBegan, function(Input)
+	if
+		Input.UserInputType == Enum.UserInputType.MouseButton1
+		or Input.UserInputType == Enum.UserInputType.Touch
+	then
+		Dragging = true
+		MousePos = Input.Position
+		StartPos = Minimizer.Position
+
+		Input.Changed:Connect(function()
+			if Input.UserInputState == Enum.UserInputState.End then
+				Dragging = false
+			end
+		end)
+	end
+end)
+
+
+
+Creator.AddSignal(MinimizeButton.InputChanged, function(Input)
+	if
+		Input.UserInputType == Enum.UserInputType.MouseMovement
+		or Input.UserInputType == Enum.UserInputType.Touch
+	then
+		DragInput = Input
+	end
+end)
+Creator.AddSignal(Minimizer.InputChanged, function(Input)
+	if
+		Input.UserInputType == Enum.UserInputType.MouseMovement
+		or Input.UserInputType == Enum.UserInputType.Touch
+	then
+		DragInput = Input
+	end
+end)
+
+Creator.AddSignal(UserInputService.InputChanged, function(Input)
+	if Input == DragInput and Dragging then
+		local GuiInset = game:GetService("GuiService"):GetGuiInset()
+		local Delta = Input.Position - MousePos
+		local ViewportSize = workspace.Camera.ViewportSize
+		local CurrentX = StartPos.X.Scale + (Delta.X/ViewportSize.X)
+		local CurrentY = StartPos.Y.Scale + (Delta.Y/ViewportSize.Y)
+
+		if CurrentX<0 or CurrentX > (ViewportSize.X - Minimizer.AbsoluteSize.X)/ViewportSize.X then
+			if CurrentX < 0 then
+				CurrentX = 0
+			else
+				CurrentX = (ViewportSize.X - Minimizer.AbsoluteSize.X)/ViewportSize.X
+			end
+		end
+
+		if CurrentY < 0 or CurrentY > ((ViewportSize.Y + GuiInset.Y) - Minimizer.AbsoluteSize.Y)/(ViewportSize.Y + GuiInset.Y) then
+			if CurrentY < 0 then
+				CurrentY = 0
+			else
+				CurrentY = ((ViewportSize.Y + GuiInset.Y) - Minimizer.AbsoluteSize.Y)/(ViewportSize.Y + GuiInset.Y)
+			end
+		end
+
+		Minimizer.Position = UDim2.fromScale(CurrentX, CurrentY)
+	end
+end)
+
+AddSignal(MinimizeButton.MouseButton1Click, function()
+	Library.Window:Minimize()
+end)
+
+task.wait(0.01)
+
+return Library, SaveManager, InterfaceManager, Mobile
