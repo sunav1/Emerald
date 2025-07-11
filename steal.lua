@@ -1,64 +1,18 @@
--- Emerald Hub GUI - Otimizado para Executores
+-- Emerald Hub GUI - Compatível com Delta Executor
 -- By: sunav7
 
--- Proteção e verificações de segurança
-local success, Players = pcall(function()
-    return game:GetService("Players")
-end)
+-- Serviços básicos
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
 
-if not success or not Players then
-    warn("Erro ao obter Players service")
-    return
-end
+-- Player
+local player = Players.LocalPlayer or Players:GetPropertyChangedSignal("LocalPlayer"):Wait() and Players.LocalPlayer
 
-local success2, UserInputService = pcall(function()
-    return game:GetService("UserInputService")
-end)
-
-if not success2 or not UserInputService then
-    warn("Erro ao obter UserInputService")
-    return
-end
-
-local success3, RunService = pcall(function()
-    return game:GetService("RunService")
-end)
-
-if not success3 or not RunService then
-    warn("Erro ao obter RunService")
-    return
-end
-
--- Aguardar o player carregar
-local player = Players.LocalPlayer
-if not player then
-    player = Players:GetPropertyChangedSignal("LocalPlayer"):Wait()
-    player = Players.LocalPlayer
-end
-
-if not player then
-    warn("Erro: LocalPlayer não encontrado")
-    return
-end
-
--- Variáveis
-local espEnabled = false
-local espPlayers = {}
-
--- ScreenGui com proteção
-local success4, main = pcall(function()
-    local gui = Instance.new("ScreenGui")
-    gui.Name = "EmeraldHub"
-    gui.Parent = player:WaitForChild("PlayerGui", 10)
-    gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-    gui.ResetOnSpawn = false
-    return gui
-end)
-
-if not success4 or not main then
-    warn("Erro ao criar ScreenGui")
-    return
-end
+-- ScreenGui
+local main = Instance.new("ScreenGui")
+main.Name = "EmeraldHub"
+main.Parent = player.PlayerGui
+main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 -- Fundo principal
 local Fundo = Instance.new("Frame")
@@ -68,14 +22,13 @@ Fundo.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
 Fundo.BorderSizePixel = 0
 Fundo.Position = UDim2.new(0.2937, 0, 0.3035, 0)
 Fundo.Size = UDim2.new(0, 370, 0, 205)
-Fundo.ZIndex = 1
 
--- UI Corner nas bordas do hub
+-- UI Corner
 local FundoUICorner = Instance.new("UICorner")
 FundoUICorner.CornerRadius = UDim.new(0, 16)
 FundoUICorner.Parent = Fundo
 
--- Sombra com UICorner e mesmo tamanho da GUI
+-- Sombra
 local FrameShadow = Instance.new("Frame")
 FrameShadow.Name = "FrameShadow"
 FrameShadow.Parent = Fundo
@@ -91,7 +44,7 @@ local ShadowUICorner = Instance.new("UICorner")
 ShadowUICorner.CornerRadius = UDim.new(0, 16)
 ShadowUICorner.Parent = FrameShadow
 
--- Bar (área interativa/draggable)
+-- Bar
 local bar = Instance.new("Frame")
 bar.Name = "bar"
 bar.Parent = Fundo
@@ -101,35 +54,21 @@ bar.Position = UDim2.new(0, 0, 0, 0)
 bar.Size = UDim2.new(1, 0, 1, 0)
 bar.Active = true
 bar.Selectable = true
-bar.ZIndex = 2
 
 local BarUICorner = Instance.new("UICorner")
 BarUICorner.CornerRadius = UDim.new(0, 16)
 BarUICorner.Parent = bar
 
--- Sistema de Drag otimizado
+-- Drag
 local dragging = false
 local dragStart = nil
 local startPos = nil
-
-local function updateDrag(input)
-    if dragging and dragStart and startPos and Fundo then
-        local delta = input.Position - dragStart
-        Fundo.Position = UDim2.new(
-            startPos.X.Scale,
-            startPos.X.Offset + delta.X,
-            startPos.Y.Scale,
-            startPos.Y.Offset + delta.Y
-        )
-    end
-end
 
 bar.InputBegan:Connect(function(input)
     if input.UserInputType == Enum.UserInputType.MouseButton1 then
         dragging = true
         dragStart = input.Position
         startPos = Fundo.Position
-        
         input.Changed:Connect(function()
             if input.UserInputState == Enum.UserInputState.End then
                 dragging = false
@@ -139,19 +78,24 @@ bar.InputBegan:Connect(function(input)
 end)
 
 UserInputService.InputChanged:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseMovement then
-        updateDrag(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement and dragging then
+        local delta = input.Position - dragStart
+        Fundo.Position = UDim2.new(
+            startPos.X.Scale,
+            startPos.X.Offset + delta.X,
+            startPos.Y.Scale,
+            startPos.Y.Offset + delta.Y
+        )
     end
 end)
 
--- Título (Centralizado com imagem e texto lado a lado)
+-- Título
 local TitleFrame = Instance.new("Frame")
 TitleFrame.Name = "TitleFrame"
 TitleFrame.Parent = bar
 TitleFrame.BackgroundTransparency = 1
 TitleFrame.Size = UDim2.new(1, 0, 0, 28)
 TitleFrame.Position = UDim2.new(0, 0, 0.025, 0)
-TitleFrame.ZIndex = 3
 
 local TitleLayout = Instance.new("UIListLayout")
 TitleLayout.Parent = TitleFrame
@@ -166,7 +110,6 @@ ImageLabel.Parent = TitleFrame
 ImageLabel.BackgroundTransparency = 1
 ImageLabel.Size = UDim2.new(0, 23, 0, 23)
 ImageLabel.Image = "rbxassetid://117483443949036"
-ImageLabel.ZIndex = 4
 
 local TextLabel = Instance.new("TextLabel")
 TextLabel.Parent = TitleFrame
@@ -177,9 +120,8 @@ TextLabel.Text = "Emerald Hub"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextWrapped = true
-TextLabel.ZIndex = 4
 
--- Botão de minimizar (imagem customizada)
+-- Botão minimizar
 local MinBtn = Instance.new("ImageButton")
 MinBtn.Name = "MinBtn"
 MinBtn.Parent = bar
@@ -187,10 +129,9 @@ MinBtn.Size = UDim2.new(0, 22, 0, 22)
 MinBtn.Position = UDim2.new(1, -30, 0, 6)
 MinBtn.BackgroundTransparency = 1
 MinBtn.Image = "rbxassetid://10734895698"
-MinBtn.ZIndex = 5
 MinBtn.AutoButtonColor = true
 
--- Botão flutuante para reabrir o hub
+-- Botão flutuante
 local OpenBtn = Instance.new("ImageButton")
 OpenBtn.Name = "OpenBtn"
 OpenBtn.Parent = main
@@ -198,24 +139,25 @@ OpenBtn.Size = UDim2.new(0, 36, 0, 36)
 OpenBtn.Position = UDim2.new(0, 16, 1, -52)
 OpenBtn.BackgroundTransparency = 1
 OpenBtn.Image = "rbxassetid://117483443949036"
-OpenBtn.ZIndex = 10
 OpenBtn.Visible = false
 OpenBtn.AutoButtonColor = true
 
--- Funções de minimizar/maximizar
 MinBtn.MouseButton1Click:Connect(function()
-    if Fundo then Fundo.Visible = false end
-    if OpenBtn then OpenBtn.Visible = true end
+    Fundo.Visible = false
+    OpenBtn.Visible = true
 end)
 
 OpenBtn.MouseButton1Click:Connect(function()
-    if Fundo then Fundo.Visible = true end
-    if OpenBtn then OpenBtn.Visible = false end
+    Fundo.Visible = true
+    OpenBtn.Visible = false
 end)
 
--- ESP Player com Highlight e Chams
+-- ESP
+local espEnabled = false
+local espPlayers = {}
+
 local function createESP(plr)
-    if not plr or espPlayers[plr] then return end
+    if espPlayers[plr] then return end
     
     local highlight = Instance.new("Highlight")
     highlight.Name = "PlayerESP"
@@ -240,44 +182,35 @@ local function removeESP(plr)
 end
 
 -- Botão ESP
-local function createButton(name, text, posY)
-    local btn = Instance.new("TextButton")
-    btn.Name = name
-    btn.Parent = bar
-    btn.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
-    btn.BorderSizePixel = 0
-    btn.Position = UDim2.new(0.2027, 0, posY, 0)
-    btn.Size = UDim2.new(0, 230, 0, 39)
-    btn.Font = Enum.Font.Arial
-    btn.Text = text
-    btn.TextColor3 = Color3.fromRGB(0, 0, 0)
-    btn.TextSize = 18
-    btn.TextWrapped = true
-    btn.ZIndex = 3
-    
-    local btnUICorner = Instance.new("UICorner")
-    btnUICorner.CornerRadius = UDim.new(0, 12)
-    btnUICorner.Parent = btn
-    
-    local grad = Instance.new("UIGradient")
-    grad.Color = ColorSequence.new{
-        ColorSequenceKeypoint.new(0, Color3.fromRGB(142, 158, 171)),
-        ColorSequenceKeypoint.new(1, Color3.fromRGB(238, 242, 243))
-    }
-    grad.Rotation = -90
-    grad.Parent = btn
-    
-    return btn
-end
+local espButton = Instance.new("TextButton")
+espButton.Name = "ESPButton"
+espButton.Parent = bar
+espButton.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+espButton.BorderSizePixel = 0
+espButton.Position = UDim2.new(0.2027, 0, 0.1854, 0)
+espButton.Size = UDim2.new(0, 230, 0, 39)
+espButton.Font = Enum.Font.Arial
+espButton.Text = "ESP PLAYER"
+espButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+espButton.TextSize = 18
+espButton.TextWrapped = true
 
-local espButton = createButton("ESPButton", "ESP PLAYER", 0.1854)
+local btnUICorner = Instance.new("UICorner")
+btnUICorner.CornerRadius = UDim.new(0, 12)
+btnUICorner.Parent = espButton
 
--- Função do ESP otimizada
+local grad = Instance.new("UIGradient")
+grad.Color = ColorSequence.new{
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(142, 158, 171)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(238, 242, 243))
+}
+grad.Rotation = -90
+grad.Parent = espButton
+
 espButton.MouseButton1Click:Connect(function()
     espEnabled = not espEnabled
     
     if espEnabled then
-        -- Ativar ESP para todos os jogadores
         for _, plr in pairs(Players:GetPlayers()) do
             if plr ~= player then
                 createESP(plr)
@@ -286,7 +219,6 @@ espButton.MouseButton1Click:Connect(function()
         espButton.Text = "ESP PLAYER (ON)"
         espButton.BackgroundColor3 = Color3.fromRGB(255, 100, 100)
     else
-        -- Desativar ESP para todos os jogadores
         for _, plr in pairs(Players:GetPlayers()) do
             removeESP(plr)
         end
@@ -295,31 +227,26 @@ espButton.MouseButton1Click:Connect(function()
     end
 end)
 
--- Sistema de ESP otimizado
-local function setupESP()
-    -- Conectar ESP para novos jogadores
-    Players.PlayerAdded:Connect(function(plr)
-        if espEnabled then
-            plr.CharacterAdded:Connect(function(char)
-                createESP(plr)
-            end)
-        end
-    end)
-    
-    -- Conectar ESP para jogadores existentes
-    for _, plr in pairs(Players:GetPlayers()) do
-        if plr ~= player and espEnabled then
-            plr.CharacterAdded:Connect(function(char)
-                createESP(plr)
-            end)
-        end
+-- ESP Connections
+Players.PlayerAdded:Connect(function(plr)
+    if espEnabled then
+        plr.CharacterAdded:Connect(function(char)
+            createESP(plr)
+        end)
     end
-    
-    -- Limpar ESP quando jogador sai
-    Players.PlayerRemoving:Connect(function(plr)
-        removeESP(plr)
-    end)
+end)
+
+for _, plr in pairs(Players:GetPlayers()) do
+    if plr ~= player and espEnabled then
+        plr.CharacterAdded:Connect(function(char)
+            createESP(plr)
+        end)
+    end
 end
+
+Players.PlayerRemoving:Connect(function(plr)
+    removeESP(plr)
+end)
 
 -- Créditos
 local TextLabel_2 = Instance.new("TextLabel")
@@ -333,21 +260,5 @@ TextLabel_2.Text = "By: sunav7"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 14
 TextLabel_2.TextWrapped = true
-TextLabel_2.ZIndex = 3
 
--- Inicialização
-setupESP()
-
--- Notificação de carregamento
-print("Emerald Hub carregado com sucesso!")
-print("Use o botão X para minimizar a interface")
-print("ESP Player está funcionando!")
-
--- Proteção contra erros
-local success, err = pcall(function()
-    -- Código adicional aqui se necessário
-end)
-
-if not success then
-    warn("Erro no Emerald Hub:", err)
-end
+print("Emerald Hub carregado!")
