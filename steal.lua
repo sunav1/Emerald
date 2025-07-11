@@ -1,15 +1,19 @@
--- Emerald Hub GUI - Fluent UI com Design Customizado
+-- Emerald Hub GUI - Otimizado para Executores
+-- By: sunav7
 
-local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
-local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
-
+-- Serviços
 local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+
+-- Variáveis
 local player = Players.LocalPlayer
+local espEnabled = false
+local espPlayers = {}
 
 -- ScreenGui
 local main = Instance.new("ScreenGui")
-main.Name = "main"
+main.Name = "EmeraldHub"
 main.Parent = player:WaitForChild("PlayerGui")
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 main.ResetOnSpawn = false
@@ -61,24 +65,13 @@ local BarUICorner = Instance.new("UICorner")
 BarUICorner.CornerRadius = UDim.new(0, 16)
 BarUICorner.Parent = bar
 
--- Draggable
-local UIS = game:GetService("UserInputService")
-local dragging, dragInput, dragStart, startPos
-bar.InputBegan:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseButton1 then
-        dragging = true
-        dragStart = input.Position
-        startPos = Fundo.Position
-        input.Changed:Connect(function()
-            if input.UserInputState == Enum.UserInputState.End then dragging = false end
-        end)
-    end
-end)
-bar.InputChanged:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseMovement then dragInput = input end
-end)
-UIS.InputChanged:Connect(function(input)
-    if input == dragInput and dragging then
+-- Sistema de Drag otimizado
+local dragging = false
+local dragStart = nil
+local startPos = nil
+
+local function updateDrag(input)
+    if dragging and dragStart and startPos then
         local delta = input.Position - dragStart
         Fundo.Position = UDim2.new(
             startPos.X.Scale,
@@ -86,6 +79,26 @@ UIS.InputChanged:Connect(function(input)
             startPos.Y.Scale,
             startPos.Y.Offset + delta.Y
         )
+    end
+end
+
+bar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = Fundo.Position
+        
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement then
+        updateDrag(input)
     end
 end)
 
@@ -147,19 +160,18 @@ OpenBtn.ZIndex = 10
 OpenBtn.Visible = false
 OpenBtn.AutoButtonColor = true
 
+-- Funções de minimizar/maximizar
 MinBtn.MouseButton1Click:Connect(function()
     Fundo.Visible = false
     OpenBtn.Visible = true
 end)
+
 OpenBtn.MouseButton1Click:Connect(function()
     Fundo.Visible = true
     OpenBtn.Visible = false
 end)
 
 -- ESP Player com Highlight e Chams
-local espEnabled = false
-local espPlayers = {}
-
 local function createESP(plr)
     if espPlayers[plr] then return end
     
@@ -200,9 +212,11 @@ local function createButton(name, text, posY)
     btn.TextSize = 18
     btn.TextWrapped = true
     btn.ZIndex = 3
+    
     local btnUICorner = Instance.new("UICorner")
     btnUICorner.CornerRadius = UDim.new(0, 12)
     btnUICorner.Parent = btn
+    
     local grad = Instance.new("UIGradient")
     grad.Color = ColorSequence.new{
         ColorSequenceKeypoint.new(0, Color3.fromRGB(142, 158, 171)),
@@ -210,12 +224,13 @@ local function createButton(name, text, posY)
     }
     grad.Rotation = -90
     grad.Parent = btn
+    
     return btn
 end
 
 local espButton = createButton("ESPButton", "ESP PLAYER", 0.1854)
 
--- Função do ESP
+-- Função do ESP otimizada
 espButton.MouseButton1Click:Connect(function()
     espEnabled = not espEnabled
     
@@ -238,28 +253,31 @@ espButton.MouseButton1Click:Connect(function()
     end
 end)
 
--- Conectar ESP para novos jogadores
-Players.PlayerAdded:Connect(function(plr)
-    if espEnabled then
-        plr.CharacterAdded:Connect(function(char)
-            createESP(plr)
-        end)
+-- Sistema de ESP otimizado
+local function setupESP()
+    -- Conectar ESP para novos jogadores
+    Players.PlayerAdded:Connect(function(plr)
+        if espEnabled then
+            plr.CharacterAdded:Connect(function(char)
+                createESP(plr)
+            end)
+        end
+    end)
+    
+    -- Conectar ESP para jogadores existentes
+    for _, plr in pairs(Players:GetPlayers()) do
+        if plr ~= player and espEnabled then
+            plr.CharacterAdded:Connect(function(char)
+                createESP(plr)
+            end)
+        end
     end
-end)
-
--- Conectar ESP para jogadores existentes
-for _, plr in pairs(Players:GetPlayers()) do
-    if plr ~= player and espEnabled then
-        plr.CharacterAdded:Connect(function(char)
-            createESP(plr)
-        end)
-    end
+    
+    -- Limpar ESP quando jogador sai
+    Players.PlayerRemoving:Connect(function(plr)
+        removeESP(plr)
+    end)
 end
-
--- Limpar ESP quando jogador sai
-Players.PlayerRemoving:Connect(function(plr)
-    removeESP(plr)
-end)
 
 -- Créditos
 local TextLabel_2 = Instance.new("TextLabel")
@@ -275,42 +293,19 @@ TextLabel_2.TextSize = 14
 TextLabel_2.TextWrapped = true
 TextLabel_2.ZIndex = 3
 
--- Configurações do Fluent (ocultas mas funcionais)
-local Window = Fluent:CreateWindow({
-    Title = "Emerald Hub",
-    SubTitle = "by sunav7",
-    TabWidth = 160,
-    Size = UDim2.fromOffset(600, 500),
-    Acrylic = false,
-    Theme = "Emerald",
-    MinimizeKey = Enum.KeyCode.RightControl,
-    HideKeybind = Enum.KeyCode.RightShift
-})
-
--- Gerenciadores
-SaveManager:SetLibrary(Fluent)
-InterfaceManager:SetLibrary(Fluent)
-SaveManager:IgnoreThemeSettings()
-SaveManager:SetIgnoreIndexes({})
-InterfaceManager:SetFolder("EmeraldHub")
-SaveManager:BuildConfigSection(Window)
-
--- Criação das abas (ocultas mas funcionais)
-local Tabs = {
-    Main = Window:AddTab({ Title = "Principal", Icon = "home" }),
-    Player = Window:AddTab({ Title = "Jogador", Icon = "user" }),
-    Visual = Window:AddTab({ Title = "Visual", Icon = "eye" }),
-    Misc = Window:AddTab({ Title = "Diversos", Icon = "settings" })
-}
-
--- Esconder a janela do Fluent (mantém funcionalidades)
-Window:SetEnabled(false)
+-- Inicialização
+setupESP()
 
 -- Notificação de carregamento
-Fluent:Notify({
-    Title = "Emerald Hub",
-    Content = "Interface carregada com sucesso!",
-    Duration = 3
-})
+print("Emerald Hub carregado com sucesso!")
+print("Use o botão X para minimizar a interface")
+print("ESP Player está funcionando!")
 
-print("Emerald Hub carregado - Design customizado com Fluent UI!")
+-- Proteção contra erros
+local success, err = pcall(function()
+    -- Código adicional aqui se necessário
+end)
+
+if not success then
+    warn("Erro no Emerald Hub:", err)
+end
