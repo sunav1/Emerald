@@ -1,17 +1,17 @@
--- Emerald Hub GUI - Compatível com Delta Executor
+-- Emerald Hub GUI - Ultra Compatível
 -- By: sunav7
 
--- Serviços básicos
+-- Serviços
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 
 -- Player
-local player = Players.LocalPlayer or Players:GetPropertyChangedSignal("LocalPlayer"):Wait() and Players.LocalPlayer
+local player = Players.LocalPlayer
 
 -- ScreenGui
 local main = Instance.new("ScreenGui")
 main.Name = "EmeraldHub"
-main.Parent = player.PlayerGui
+main.Parent = player:WaitForChild("PlayerGui")
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 -- Fundo principal
@@ -261,4 +261,3 @@ TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 14
 TextLabel_2.TextWrapped = true
 
-print("Emerald Hub carregado!")
