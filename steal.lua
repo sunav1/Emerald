@@ -1,263 +1,164 @@
--- Emerald Hub GUI - Ultra Compatível
--- By: sunav7
-
--- Serviços
+-- Emerald Hub (Mobile + ESP + Steal + Ragdoll fix) – por sunav7
 local Players = game:GetService("Players")
-local UserInputService = game:GetService("UserInputService")
+local UIS     = game:GetService("UserInputService")
+local player  = Players.LocalPlayer
 
--- Player
-local player = Players.LocalPlayer
-
--- ScreenGui
+-------------------------------------------------- GUI -------
 local main = Instance.new("ScreenGui")
-main.Name = "EmeraldHub"
-main.Parent = player:WaitForChild("PlayerGui")
+main.Name, main.Parent, main.ResetOnSpawn = "main", player:WaitForChild("PlayerGui"), false
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
--- Fundo principal
 local Fundo = Instance.new("Frame")
-Fundo.Name = "Fundo"
-Fundo.Parent = main
-Fundo.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
-Fundo.BorderSizePixel = 0
-Fundo.Position = UDim2.new(0.2937, 0, 0.3035, 0)
-Fundo.Size = UDim2.new(0, 370, 0, 205)
+Fundo.Name, Fundo.Parent, Fundo.ZIndex = "Fundo", main, 1
+Fundo.BackgroundColor3 = Color3.fromRGB(52,52,52)
+Fundo.BorderSizePixel  = 0
+Fundo.Position         = UDim2.fromScale(.2937,.3035)
+Fundo.Size             = UDim2.new(0,370,0,205)
+Instance.new("UICorner",Fundo).CornerRadius = UDim.new(0,16)
 
--- UI Corner
-local FundoUICorner = Instance.new("UICorner")
-FundoUICorner.CornerRadius = UDim.new(0, 16)
-FundoUICorner.Parent = Fundo
+local Shadow = Instance.new("Frame")
+Shadow.Name, Shadow.Parent = "Shadow", Fundo
+Shadow.AnchorPoint = Vector2.new(.5,.5)
+Shadow.Position    = UDim2.fromScale(.5,.5)
+Shadow.Size        = UDim2.new(1,8,1,8)
+Shadow.BackgroundColor3      = Color3.new()
+Shadow.BackgroundTransparency = .7
+Shadow.BorderSizePixel        = 0
+Shadow.ZIndex                = 0
+Instance.new("UICorner",Shadow).CornerRadius = UDim.new(0,16)
 
--- Sombra
-local FrameShadow = Instance.new("Frame")
-FrameShadow.Name = "FrameShadow"
-FrameShadow.Parent = Fundo
-FrameShadow.AnchorPoint = Vector2.new(0.5, 0.5)
-FrameShadow.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-FrameShadow.BackgroundTransparency = 0.7
-FrameShadow.BorderSizePixel = 0
-FrameShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
-FrameShadow.Size = UDim2.new(1, 8, 1, 8)
-FrameShadow.ZIndex = -1
-
-local ShadowUICorner = Instance.new("UICorner")
-ShadowUICorner.CornerRadius = UDim.new(0, 16)
-ShadowUICorner.Parent = FrameShadow
-
--- Bar
+-------------------------------------------------- Drag ------
 local bar = Instance.new("Frame")
-bar.Name = "bar"
-bar.Parent = Fundo
-bar.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
-bar.BorderSizePixel = 0
-bar.Position = UDim2.new(0, 0, 0, 0)
-bar.Size = UDim2.new(1, 0, 1, 0)
-bar.Active = true
-bar.Selectable = true
+bar.Name, bar.Parent, bar.ZIndex = "bar", Fundo, 2
+bar.BackgroundTransparency, bar.Size = 1, UDim2.fromScale(1,1)
+bar.Active, bar.Selectable = true, true
 
-local BarUICorner = Instance.new("UICorner")
-BarUICorner.CornerRadius = UDim.new(0, 16)
-BarUICorner.Parent = bar
-
--- Drag
-local dragging = false
-local dragStart = nil
-local startPos = nil
-
+local dragging, dragStart, startPos
+local function beginDrag(input)
+    dragging, dragStart, startPos = true, input.Position, Fundo.Position
+    input.Changed:Connect(function()
+        if input.UserInputState == Enum.UserInputState.End then dragging = false end
+    end)
+end
 bar.InputBegan:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseButton1 then
-        dragging = true
-        dragStart = input.Position
-        startPos = Fundo.Position
-        input.Changed:Connect(function()
-            if input.UserInputState == Enum.UserInputState.End then
-                dragging = false
-            end
-        end)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        beginDrag(input)
     end
 end)
-
-UserInputService.InputChanged:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseMovement and dragging then
+UIS.InputChanged:Connect(function(input)
+    if dragging and (input.UserInputType==Enum.UserInputType.MouseMovement or input.UserInputType==Enum.UserInputType.Touch) then
         local delta = input.Position - dragStart
         Fundo.Position = UDim2.new(
-            startPos.X.Scale,
-            startPos.X.Offset + delta.X,
-            startPos.Y.Scale,
-            startPos.Y.Offset + delta.Y
+            startPos.X.Scale, startPos.X.Offset + delta.X,
+            startPos.Y.Scale, startPos.Y.Offset + delta.Y
         )
     end
 end)
 
--- Título
-local TitleFrame = Instance.new("Frame")
-TitleFrame.Name = "TitleFrame"
-TitleFrame.Parent = bar
-TitleFrame.BackgroundTransparency = 1
-TitleFrame.Size = UDim2.new(1, 0, 0, 28)
-TitleFrame.Position = UDim2.new(0, 0, 0.025, 0)
+-------------------------------------------------- Título ----
+local TitleFrame = Instance.new("Frame",bar)
+TitleFrame.BackgroundTransparency, TitleFrame.Size = 1, UDim2.new(1,0,0,28)
+TitleFrame.Position, TitleFrame.ZIndex = UDim2.fromScale(0,.025), 3
+local UIL = Instance.new("UIListLayout",TitleFrame)
+UIL.FillDirection = Enum.FillDirection.Horizontal
+UIL.HorizontalAlignment, UIL.VerticalAlignment = Enum.HorizontalAlignment.Center, Enum.VerticalAlignment.Center
+UIL.Padding = UDim.new(0,6)
 
-local TitleLayout = Instance.new("UIListLayout")
-TitleLayout.Parent = TitleFrame
-TitleLayout.FillDirection = Enum.FillDirection.Horizontal
-TitleLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
-TitleLayout.VerticalAlignment = Enum.VerticalAlignment.Center
-TitleLayout.SortOrder = Enum.SortOrder.LayoutOrder
-TitleLayout.Padding = UDim.new(0, 6)
+local img = Instance.new("ImageLabel",TitleFrame)
+img.BackgroundTransparency, img.Size, img.Image, img.ZIndex = 1, UDim2.fromOffset(23,23),
+    "rbxassetid://117483443949036",4
 
-local ImageLabel = Instance.new("ImageLabel")
-ImageLabel.Parent = TitleFrame
-ImageLabel.BackgroundTransparency = 1
-ImageLabel.Size = UDim2.new(0, 23, 0, 23)
-ImageLabel.Image = "rbxassetid://117483443949036"
+local txt = Instance.new("TextLabel",TitleFrame)
+txt.BackgroundTransparency, txt.Size = 1, UDim2.fromOffset(140,23)
+txt.Font, txt.Text = Enum.Font.ArialBold, "Emerald Hub"
+txt.TextColor3, txt.TextScaled, txt.TextWrapped, txt.ZIndex = Color3.new(1,1,1), true, true, 4
 
-local TextLabel = Instance.new("TextLabel")
-TextLabel.Parent = TitleFrame
-TextLabel.BackgroundTransparency = 1
-TextLabel.Size = UDim2.new(0, 140, 0, 23)
-TextLabel.Font = Enum.Font.ArialBold
-TextLabel.Text = "Emerald Hub"
-TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel.TextScaled = true
-TextLabel.TextWrapped = true
+-------------------------------------------------- Minimizar -
+local function imgBtn(parent,name,pos,id,z)
+    local b = Instance.new("ImageButton",parent)
+    b.Name, b.Size, b.Position = name, UDim2.fromOffset(22,22), pos
+    b.BackgroundTransparency, b.Image, b.ZIndex = 1, "rbxassetid://"..id, z
+    return b
+end
+local MinBtn  = imgBtn(bar, "MinBtn",  UDim2.new(1,-30,0,6), 10734895698,5)
+local OpenBtn = imgBtn(main,"OpenBtn", UDim2.new(0,16,1,-52),117483443949036,10)
+OpenBtn.Size, OpenBtn.Visible = UDim2.fromOffset(36,36), false
 
--- Botão minimizar
-local MinBtn = Instance.new("ImageButton")
-MinBtn.Name = "MinBtn"
-MinBtn.Parent = bar
-MinBtn.Size = UDim2.new(0, 22, 0, 22)
-MinBtn.Position = UDim2.new(1, -30, 0, 6)
-MinBtn.BackgroundTransparency = 1
-MinBtn.Image = "rbxassetid://10734895698"
-MinBtn.AutoButtonColor = true
+MinBtn.MouseButton1Click:Connect(function() Fundo.Visible,OpenBtn.Visible=false,true end)
+OpenBtn.MouseButton1Click:Connect(function() Fundo.Visible,OpenBtn.Visible=true,false end)
 
--- Botão flutuante
-local OpenBtn = Instance.new("ImageButton")
-OpenBtn.Name = "OpenBtn"
-OpenBtn.Parent = main
-OpenBtn.Size = UDim2.new(0, 36, 0, 36)
-OpenBtn.Position = UDim2.new(0, 16, 1, -52)
-OpenBtn.BackgroundTransparency = 1
-OpenBtn.Image = "rbxassetid://117483443949036"
-OpenBtn.Visible = false
-OpenBtn.AutoButtonColor = true
-
-MinBtn.MouseButton1Click:Connect(function()
-    Fundo.Visible = false
-    OpenBtn.Visible = true
-end)
-
-OpenBtn.MouseButton1Click:Connect(function()
-    Fundo.Visible = true
-    OpenBtn.Visible = false
-end)
-
--- ESP
-local espEnabled = false
-local espPlayers = {}
-
-local function createESP(plr)
-    if espPlayers[plr] then return end
-    
-    local highlight = Instance.new("Highlight")
-    highlight.Name = "PlayerESP"
-    highlight.FillColor = Color3.fromRGB(85, 255, 0)
-    highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
-    highlight.FillTransparency = 0.3
-    highlight.OutlineTransparency = 0
-    highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
-    
-    if plr.Character then
-        highlight.Parent = plr.Character
-    end
-    
-    espPlayers[plr] = highlight
+-------------------------------------------------- Função Btn -
+local function mkBtn(text, yPos)
+    local b = Instance.new("TextButton", bar)
+    b.Size = UDim2.new(0,230,0,39)
+    b.Position = UDim2.new(.2027,0,yPos,0)
+    b.BackgroundColor3 = Color3.fromRGB(85,255,0)
+    b.BorderSizePixel, b.Font = 0, Enum.Font.Arial
+    b.Text, b.TextColor3, b.TextSize, b.TextWrapped, b.ZIndex = text, Color3.new(), 18, true, 3
+    Instance.new("UICorner",b).CornerRadius = UDim.new(0,12)
+    local g = Instance.new("UIGradient", b)
+    g.Color = ColorSequence.new(Color3.fromRGB(142,158,171), Color3.fromRGB(238,242,243))
+    g.Rotation = -90
+    return b
 end
 
-local function removeESP(plr)
-    if espPlayers[plr] then
-        espPlayers[plr]:Destroy()
-        espPlayers[plr] = nil
-    end
+-------------------------------------------------- ESP --------
+local espEnabled=false
+local espRefs={}
+local function attach(plr)
+    if espRefs[plr] or not plr.Character then return end
+    local h=Instance.new("Highlight")
+    h.Name="ESP";h.FillColor=Color3.fromRGB(85,255,0);h.OutlineColor=Color3.new(1,1,1)
+    h.FillTransparency=.3;h.OutlineTransparency=0;h.DepthMode=Enum.HighlightDepthMode.AlwaysOnTop
+    h.Parent=plr.Character;espRefs[plr]=h
+end
+local function detach(plr) if espRefs[plr] then espRefs[plr]:Destroy();espRefs[plr]=nil end end
+local function toggleESP()
+    espEnabled=not espEnabled
+    for _,p in ipairs(Players:GetPlayers()) do if p~=player then
+        if espEnabled then attach(p) else detach(p) end end end
 end
 
--- Botão ESP
-local espButton = Instance.new("TextButton")
-espButton.Name = "ESPButton"
-espButton.Parent = bar
-espButton.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
-espButton.BorderSizePixel = 0
-espButton.Position = UDim2.new(0.2027, 0, 0.1854, 0)
-espButton.Size = UDim2.new(0, 230, 0, 39)
-espButton.Font = Enum.Font.Arial
-espButton.Text = "ESP PLAYER"
-espButton.TextColor3 = Color3.fromRGB(0, 0, 0)
-espButton.TextSize = 18
-espButton.TextWrapped = true
+local espBtn=mkBtn("ESP PLAYER",.18)
+espBtn.MouseButton1Click:Connect(function()
+    toggleESP()
+    espBtn.Text = espEnabled and "ESP PLAYER (ON)" or "ESP PLAYER"
+    espBtn.BackgroundColor3 = espEnabled and Color3.fromRGB(255,100,100) or Color3.fromRGB(85,255,0)
+end)
 
-local btnUICorner = Instance.new("UICorner")
-btnUICorner.CornerRadius = UDim.new(0, 12)
-btnUICorner.Parent = espButton
+Players.PlayerAdded:Connect(function(p) p.CharacterAdded:Connect(function()
+    if espEnabled and p~=player then wait(.1);attach(p) end end) end)
+for _,p in ipairs(Players:GetPlayers()) do p.CharacterAdded:Connect(function()
+    if espEnabled and p~=player then wait(.1);attach(p) end end) end
+Players.PlayerRemoving:Connect(detach)
 
-local grad = Instance.new("UIGradient")
-grad.Color = ColorSequence.new{
-    ColorSequenceKeypoint.new(0, Color3.fromRGB(142, 158, 171)),
-    ColorSequenceKeypoint.new(1, Color3.fromRGB(238, 242, 243))
-}
-grad.Rotation = -90
-grad.Parent = espButton
-
-espButton.MouseButton1Click:Connect(function()
-    espEnabled = not espEnabled
-    
-    if espEnabled then
-        for _, plr in pairs(Players:GetPlayers()) do
-            if plr ~= player then
-                createESP(plr)
-            end
-        end
-        espButton.Text = "ESP PLAYER (ON)"
-        espButton.BackgroundColor3 = Color3.fromRGB(255, 100, 100)
-    else
-        for _, plr in pairs(Players:GetPlayers()) do
-            removeESP(plr)
-        end
-        espButton.Text = "ESP PLAYER"
-        espButton.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+-------------------------------------------------- Ragdoll ----
+local ragBtn = mkBtn("REMOVER MEU RAGDOLL", .4)
+ragBtn.MouseButton1Click:Connect(function()
+    local char=workspace:FindFirstChild(player.Name)
+    if char then
+        local rag=char:FindFirstChild("RagdollClient")
+        local hum=char:FindFirstChildWhichIsA("Humanoid")
+        if rag then rag:Destroy() end
+        if hum then hum.PlatformStand=false;hum:ChangeState(Enum.HumanoidStateType.GettingUp) end
+        ragBtn.Text="RAGDOLL REMOVIDO";ragBtn.BackgroundColor3=Color3.fromRGB(255,100,100)
     end
 end)
 
--- ESP Connections
-Players.PlayerAdded:Connect(function(plr)
-    if espEnabled then
-        plr.CharacterAdded:Connect(function(char)
-            createESP(plr)
-        end)
+-------------------------------------------------- STEAL ------
+local stealBtn = mkBtn("STEAL", .61)
+local savedCFrame=nil
+stealBtn.MouseButton1Click:Connect(function()
+    local char=player.Character
+    if char and char:FindFirstChild("HumanoidRootPart") then
+        local hrp=char.HumanoidRootPart
+        savedCFrame=hrp.CFrame
+        hrp.CFrame=hrp.CFrame+Vector3.new(0,200,0)
+        delay(2,function() if savedCFrame then hrp.CFrame=savedCFrame end end)
     end
 end)
 
-for _, plr in pairs(Players:GetPlayers()) do
-    if plr ~= player and espEnabled then
-        plr.CharacterAdded:Connect(function(char)
-            createESP(plr)
-        end)
-    end
-end
-
-Players.PlayerRemoving:Connect(function(plr)
-    removeESP(plr)
-end)
-
--- Créditos
-local TextLabel_2 = Instance.new("TextLabel")
-TextLabel_2.Parent = bar
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
-TextLabel_2.BorderSizePixel = 0
-TextLabel_2.Position = UDim2.new(0.4189, 0, 0.8976, 0)
-TextLabel_2.Size = UDim2.new(0, 65, 0, 12)
-TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "By: sunav7"
-TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel_2.TextSize = 14
-TextLabel_2.TextWrapped = true
-
+-------------------------------------------------- Créditos ---
+local cred=Instance.new("TextLabel",bar)
+cred.BackgroundTransparency=1;cred.Position=UDim2.new(.42,0,.8976,0);cred.Size=UDim2.fromOffset(65,12)
+cred.Font=Enum.Font.SourceSansBold;cred.Text="By: sunav7";cred.TextSize=14;cred.TextColor3=Color3.new();cred.ZIndex=3
